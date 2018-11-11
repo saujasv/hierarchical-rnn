@@ -1,0 +1,18 @@
+S -> IND_1 Det N RC_1 VP
+S -> IND_2 Det N RC_2 VP
+S -> IND_3 Det N RC_3 VP
+NP -> Det N
+VP -> Aux V_trans NP
+VP -> Aux V_intrans
+RC_1 -> Rel Aux V_intrans
+RC_2 -> Rel Det N Aux V_intrans 
+RC_3 -> Rel Aux V_trans Det N
+Rel -> 'who' | 'that'
+Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
+N -> 'cat' | 'cats' | 'dog' | 'dogs' | 'bird' | 'birds' | 'yak' | 'yaks' | 'unicorn' | 'unicorns'
+V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
+V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
+Aux -> 'can' | 'will' | 'could' | 'would'
+IND_1 -> '5'
+IND_2 -> '7'
+IND_3 -> '7'
