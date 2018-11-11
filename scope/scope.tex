@@ -1,0 +1,49 @@
+\documentclass[11pt]{article}
+\usepackage{cite}
+\usepackage[a4paper,height=10in,width=6in]{geometry}
+
+\title{Hierarchical Generalisation in Recurrent Neural Networks}
+\author{Saujas Srinivasa Vaduguru, Ujwal Narayan}
+\date{Computational Linguistics 1 Project}
+
+\newcommand{\etal}{\textit{et al.}}
+
+\begin{document}
+\maketitle
+For the course project, we plan to replicate parts of the study performed by McCoy \etal ~\cite{McCoy} about how recurrent neural networks perform on tasks that require hierarchical generalisation.
+
+To evaluate this, the authors choose a simple task -- forming questions from declarative sentences in English. The process for forming a question from an Enlgish declarative sentence is moving the main verb's auxiliary to the front of the sentence. For simple sentences like
+\begin{center}
+  The bird \textit{can} fly.
+\end{center}
+the question can be formed by simply moving the first auxiliary to the front to give
+\begin{center}
+  \textit{Can} the bird fly?
+\end{center}
+But, for more complex sentences, the first auxiliary may not be the one that is to be moved. Consider
+\begin{center}
+  The bird that \textit{will} eat \textit{\textbf{can}} fly.
+\end{center}
+Here, moving the first auxiliary will result in the incorrect question
+\begin{center}
+  \textbf{*} \textit{Will} the bird that eat \textit{\textbf{can}} fly?
+\end{center}
+Instead, it is the hierarchical rule of moving the main verb's auxiliary that produces the correct question:
+\begin{center}
+  \textit{\textbf{Can}} the bird that \textit{will} eat fly?
+\end{center}
+
+We plan to use such examples to train sequence-to-sequence (seq2seq) neural network models ~\cite{SutskeverVL14} to transform the declarative sentence to the question. The details of the experiments follow.
+
+To evaluate how the NN models perform on this task, we will evaluate their performance on two variants of the task. One variant is with auxiliaries that do not exhibit agreement, like \textit{can}, \textit{could}, \textit{will}, and ones that do agree in number, like \textit{do}, and \textit{don't}. This will also allow us to see how syntactic features affect the performance of the NN model.
+
+These sentences will be generated using a basic, limited context free grammar, and divided into sets based on the position of the relative clause (none, subject, object), and whether the task is to generate the same sentence again, or the question. One of these sets will be held out during training to see how the NN model generalises.
+
+While McCoy \etal ~\cite{McCoy} train multiple architectures and compare their performance, we will only be studying the performance of one of the architectures -- LSTM with attention ~\cite{BahdanauCB14} ~\cite{Hochreiter}. McCoy \etal ~\cite{McCoy} find that the initialisation of parameters affects performance, so we will be training multiple networks with different random initialisations.
+
+Finally, if time permits, we will analyse the representations of the sentence learnt by the NN models to see what features they learn. This analysis will be performed using linear classifiers that predict certain specific words that capture information that would indicate that the network is acquiring some hierarchical information (main auxiliary, fourth word, subject noun).
+
+This project relates to a deep question in linguistics about the acquisition of language. Chomsky's famous argument -- the argument from the poverty of the stimulus -- states that there must be some hierarchical bias innately present in the mind. This is because children rarely encounter complex sentences with relative clauses, but manage to learn the correct rule for tasks like question formation anyway. The authors claim that is a sequence based model can learn hierarchical features, then there need not be an innate hierarchical bias in children. To lend more substance to this argument, the authors compare the errors made by the neural network to those made by children who are acquiring language. The authors do refrain from making a hasty generalisation, indicating that much more elaborate experimentation would be required to draw that conclusion.
+\bibliography{scope_bib}{}
+\bibliographystyle{plain}
+\end{document}

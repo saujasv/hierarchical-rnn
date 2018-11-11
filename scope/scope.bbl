@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{BahdanauCB14}
+Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em CoRR}, abs/1409.0473, 2014.
+
+\bibitem{Hochreiter}
+Sepp Hochreiter and J\"{u}rgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Comput.}, 9(8):1735--1780, November 1997.
+
+\bibitem{McCoy}
+R.~Thomas McCoy, Robert Frank, and Tal Linzen.
+\newblock Revisiting the poverty of the stimulus: hierarchical generalization
+  without a hierarchical bias in recurrent neural networks.
+\newblock {\em CoRR}, abs/1802.09091, 2018.
+
+\bibitem{SutskeverVL14}
+Ilya Sutskever, Oriol Vinyals, and Quoc~V. Le.
+\newblock Sequence to sequence learning with neural networks.
+\newblock {\em CoRR}, abs/1409.3215, 2014.
+
+\end{thebibliography}
