@@ -123,7 +123,7 @@ class AgreementLanguage(Language):
 
     def __init__(self):
         super().__init__()
-        self.grammar_folder = 'agreement_grammars_test/'
+        self.grammar_folder = 'agreement_grammars/'
 
 if __name__ == '__main__':
 <<<<<<< HEAD
