@@ -72,9 +72,9 @@ class NoAgreementLanguage:
         return generate_pairs(grammar_file.read(), n=n)
 
 if __name__ == '__main__':
-    # no_agreement = NoAgreementLanguage()
-    # i = 0
-    # for pair in no_agreement.rc_on_object(1000):
-    #     if i % 50 == 0:
-    #         print(pair)
-    #     i += 1
+    no_agreement = NoAgreementLanguage()
+    i = 0
+    for pair in no_agreement.rc_on_object(1000):
+        if i % 50 == 0:
+            print(pair)
+        i += 1
