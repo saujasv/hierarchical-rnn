@@ -1,0 +1,32 @@
+S -> IND_1 NP_SG RC_1_SG VP_SG
+S -> IND_1 NP_PL RC_1_PL VP_PL
+S -> IND_2 NP_SG RC_2 VP_SG
+S -> IND_2 NP_PL RC_2 VP_PL
+S -> IND_3 NP_SG RC_3_SG VP_SG
+S -> IND_3 NP_PL RC_3_PL VP_PL
+NP_SG -> Det N_SG
+NP_PL -> Det N_PL
+NP -> NP_PL
+NP -> NP_SG
+VP_SG -> Aux_SG V_trans NP_O
+VP_PL -> Aux_PL V_trans NP_O
+NP_O -> NP PP
+PP -> P Det NP
+RC_1_SG -> Rel Aux_SG V_intrans
+RC_1_PL -> Rel Aux_PL V_intrans
+RC_2 -> Rel Det N_SG Aux_SG V_intrans
+RC_2 -> Rel Det N_PL Aux_PL V_intrans  
+RC_3_SG -> Rel Aux_SG V_trans NP
+RC_3_PL -> Rel Aux_PL V_trans NP
+Rel -> 'who' | 'that'
+Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
+N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
+N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
+V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
+V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
+Aux_SG -> 'does' | 'doesnt'
+Aux_PL -> 'do' | 'dont'
+P -> 'around' | 'near' | 'with' | 'upon' | 'by' | 'behind' | 'above' | 'below'
+IND_1 -> '5'
+IND_2 -> '7'
+IND_3 -> '7'

@@ -1,0 +1,11 @@
+S -> IND NP VP
+NP -> Det N
+PP -> P Det N
+VP -> Aux V_trans NP_O
+NP_O -> Det N PP
+Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
+N -> 'cat' | 'cats' | 'dog' | 'dogs' | 'bird' | 'birds' | 'yak' | 'yaks' | 'unicorn' | 'unicorns'
+V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
+Aux -> 'can' | 'will' | 'could' | 'would'
+P -> 'around' | 'near' | 'with' | 'upon' | 'by' | 'behind' | 'above' | 'below'
+IND -> '2'

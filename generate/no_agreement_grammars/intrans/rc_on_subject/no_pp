@@ -2,7 +2,6 @@ S -> IND_1 Det N RC_1 VP
 S -> IND_2 Det N RC_2 VP
 S -> IND_3 Det N RC_3 VP
 NP -> Det N
-VP -> Aux V_trans NP
 VP -> Aux V_intrans
 RC_1 -> Rel Aux V_intrans
 RC_2 -> Rel Det N Aux V_intrans 

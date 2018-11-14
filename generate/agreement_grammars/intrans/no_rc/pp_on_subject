@@ -1,0 +1,16 @@
+S -> IND NP_SG VP_SG
+S -> IND NP_PL VP_PL
+NP_SG -> Det N_SG PP
+NP_PL -> Det N_PL PP
+PP -> P Det N_SG
+PP -> P Det N_PL
+VP_SG -> Aux_SG V_intrans
+VP_PL -> Aux_PL V_intrans
+Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
+N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
+N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
+V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
+Aux_SG -> 'does' | 'doesnt'
+Aux_PL -> 'do' | 'dont'
+P -> 'around' | 'near' | 'with' | 'upon' | 'by' | 'behind' | 'above' | 'below'
+IND -> '5'

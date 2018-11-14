@@ -1,0 +1,15 @@
+S -> IND NP_SG VP_SG
+S -> IND NP_PL VP_PL
+NP_SG -> Det N_SG
+NP_PL -> Det N_PL
+NP -> NP_PL
+NP -> NP_SG
+VP_SG -> Aux_SG V_trans NP
+VP_PL -> Aux_PL V_trans NP
+Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
+N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
+N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
+V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
+Aux_SG -> 'does' | 'doesnt'
+Aux_PL -> 'do' | 'dont'
+IND -> '2'
