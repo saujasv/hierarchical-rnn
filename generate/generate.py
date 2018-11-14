@@ -126,14 +126,6 @@ class AgreementLanguage(Language):
         self.grammar_folder = 'agreement_grammars/'
 
 if __name__ == '__main__':
-<<<<<<< HEAD
-    no_agreement = NoAgreementLanguage()
-    i = 0
-    for pair in no_agreement.rc_on_object(1000):
-        if i % 50 == 0:
-            print(pair)
-        i += 1
-=======
     no_agreement = AgreementLanguage()
     i = 0
     for triple in no_agreement.generate(n=1000, verb='transitive', rc='object', pp='subject'):
@@ -141,4 +133,3 @@ if __name__ == '__main__':
             print(triple)
         i += 1
         # print(triple)
->>>>>>> 0fe6930300da50875c448811377501f34f1c4cf2
