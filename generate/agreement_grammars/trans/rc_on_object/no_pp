@@ -1,0 +1,27 @@
+S -> IND NP_SG VP_SG
+S -> IND NP_PL VP_PL
+VP_SG -> Aux_SG V_trans NPRC
+VP_PL -> Aux_PL V_trans NPRC
+NPRC -> NP_SG RC_SG
+NPRC -> NP_PL RC_PL
+NPRC -> NP_SG RC
+NPRC -> NP_PL RC
+NP_SG -> Det N_SG
+NP_PL -> Det N_PL
+NP -> NP_PL
+NP -> NP_SG
+RC_SG -> Rel Aux_SG V_intrans
+RC_SG -> Rel Aux_SG V_trans NP
+RC_PL -> Rel Aux_PL V_intrans
+RC_PL -> Rel Aux_PL V_trans NP
+RC -> Rel NP_SG Aux_SG V_intrans
+RC -> Rel NP_PL Aux_PL V_intrans
+Rel -> 'who' | 'that'
+Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
+N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
+N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
+V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
+V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
+Aux_SG -> 'does' | 'doesnt'
+Aux_PL -> 'do' | 'dont'
+IND -> '2'

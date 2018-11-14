@@ -115,10 +115,21 @@ class NoAgreementLanguage(Language):
         super().__init__()
         self.grammar_folder = 'no_agreement_grammars/'
 
+class AgreementLanguage(Language):
+    """
+        Class of methods to generate sentence-question pairs in the 
+        agreement language.
+    """
+
+    def __init__(self):
+        super().__init__()
+        self.grammar_folder = 'agreement_grammars_test/'
+
 if __name__ == '__main__':
-    no_agreement = NoAgreementLanguage()
+    no_agreement = AgreementLanguage()
     i = 0
-    for triple in no_agreement.generate(n=100000, verb='transitive', rc='object', pp='subject'):
-        if i % 20000 == 0:
+    for triple in no_agreement.generate(n=1000, verb='transitive', rc='object', pp='subject'):
+        if i % 30 == 0:
             print(triple)
         i += 1
+        # print(triple)
