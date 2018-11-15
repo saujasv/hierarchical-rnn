@@ -359,18 +359,8 @@ def generate_data(agreement=False):
         print(prefix, v[features[0]], 'rc =', rc[features[1]], 'pp =', pp[features[2]], 'done')
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     # Generate sentences for no-agreement language
     generate_data(agreement=False)
 
     # Generate sentences for agreement language
     generate_data(agreement=True)
-=======
-    no_agreement = AgreementLanguage()
-    i = 0
-    for triple in no_agreement.generate(n=1000, verb='transitive', rc='object', pp='subject'):
-        if i % 30 == 0:
-            print(triple)
-        i += 1
-        # print(triple)
->>>>>>> ba4fff5d42963e75534cb9d21c174e4c85c5b407
