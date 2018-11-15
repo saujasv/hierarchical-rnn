@@ -1,0 +1,13 @@
+S -> IND_1 Det N RC_1 VP
+S -> IND_2 Det N RC_2 VP
+S -> IND_3 Det N RC_3 VP
+NP -> Det N
+VP -> Aux V_trans NP RC_1
+VP -> Aux V_trans NP RC_2
+VP -> Aux V_trans NP RC_3
+RC_1 -> Rel Aux V_intrans
+RC_2 -> Rel Det N Aux V_intrans 
+RC_3 -> Rel Aux V_trans Det N
+IND_1 -> '5'
+IND_2 -> '7'
+IND_3 -> '7'

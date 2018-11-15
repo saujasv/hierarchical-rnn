@@ -1,0 +1,7 @@
+S -> IND NP_S VP
+NP_S -> Det N PP
+NP -> Det N
+PP -> P Det N
+VP -> Aux V_trans NP_O
+NP_O -> Det N PP
+IND -> '5'

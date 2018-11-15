@@ -18,15 +18,6 @@ RC_2 -> Rel Det N_SG Aux_SG V_intrans
 RC_2 -> Rel Det N_PL Aux_PL V_intrans  
 RC_3_SG -> Rel Aux_SG V_trans NP
 RC_3_PL -> Rel Aux_PL V_trans NP
-Rel -> 'who' | 'that'
-Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
-N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
-N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
-V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
-V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
-Aux_SG -> 'does' | 'doesnt'
-Aux_PL -> 'do' | 'dont'
-P -> 'around' | 'near' | 'with' | 'upon' | 'by' | 'behind' | 'above' | 'below'
 IND_1 -> '5'
 IND_2 -> '7'
 IND_3 -> '7'

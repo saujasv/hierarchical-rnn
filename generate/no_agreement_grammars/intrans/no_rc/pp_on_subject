@@ -2,9 +2,4 @@ S -> IND NP VP
 NP -> Det N PP
 PP -> P Det N
 VP -> Aux V_intrans
-Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
-N -> 'cat' | 'cats' | 'dog' | 'dogs' | 'bird' | 'birds' | 'yak' | 'yaks' | 'unicorn' | 'unicorns'
-V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
-Aux -> 'can' | 'will' | 'could' | 'would'
-P -> 'around' | 'near' | 'with' | 'upon' | 'by' | 'behind' | 'above' | 'below'
 IND -> '5'

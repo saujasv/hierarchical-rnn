@@ -8,11 +8,4 @@ PP -> P NP
 VP_SG -> Aux_SG V_trans NP_O
 VP_PL -> Aux_PL V_trans NP_O
 NP_O -> NP PP
-Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
-N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
-N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
-V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
-Aux_SG -> 'does' | 'doesnt'
-Aux_PL -> 'do' | 'dont'
-P -> 'around' | 'near' | 'with' | 'upon' | 'by' | 'behind' | 'above' | 'below'
 IND -> '2'

@@ -16,12 +16,4 @@ RC_PL -> Rel Aux_PL V_intrans
 RC_PL -> Rel Aux_PL V_trans NP
 RC -> Rel NP_SG Aux_SG V_intrans
 RC -> Rel NP_PL Aux_PL V_intrans
-Rel -> 'who' | 'that'
-Det -> 'the' | 'some' | 'my' | 'your' | 'our' | 'her'
-N_SG -> 'cat' | 'dog' | 'bird' | 'yak' | 'unicorn'
-N_PL -> 'cats' | 'dogs' | 'birds' | 'yaks' | 'unicorns'
-V_intrans -> 'laugh' | 'smile' | 'giggle' | 'sleep' | 'live' | 'read'
-V_trans -> 'admire' | 'entertain' | 'impress' | 'irritate' | 'call'
-Aux_SG -> 'does' | 'doesnt'
-Aux_PL -> 'do' | 'dont'
 IND -> '2'
