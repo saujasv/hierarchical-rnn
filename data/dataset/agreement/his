@@ -1,0 +1,5235 @@
+    1  clear
+    2  sudo apt install -y expect
+    3  cat <<EOF | expect\nset timeout -1\nspawn sudo apt install -y ubuntu-gnome-desktop\nexpect "Default display manager: "\nsend "gdm3\n"\nexpect eof\n: 1539159215:0;cat <<EOF | expect\nset timeout -1\nspawn sudo apt install -y ubuntu-gnome-desktop\nexpect "Default display manager: "\nsend "gdm3\n"\nexpect eof\nEOF;
+    4  bash
+    5  ls
+    6  sudo add-apt-repository ppa:docky-core/stable
+    7  sudo apt-get update
+    8  sudo apt-get install plank
+    9  sudo apt-get install pip
+   10  sudo apt-get install python-setuptools
+   11  python --version
+   12  python3 --version
+   13  sudo apt upgrade
+   14  sudo apt update
+   15  sudo apt-get upgrade
+   16  sudo apt autoremove
+   17  sudo apt-get install python-pip
+   18  pip install virtualenvwrapper
+   19  pip3 install virtualenvwrapper
+   20  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   21  make install
+   22  make
+   23  ls
+   24  make install
+   25  sudo make install
+   26  cd
+   27  vim .zshrc
+   28  emacs .zshrc
+   29  gedit .zshrc
+   30  source .zshrc
+   31  cd ..
+   32  cd 
+   33  cd D
+   34  z D
+   35  exit
+   36  z Documents
+   37  cd Documents
+   38  cd ..
+   39  z /home/badwolf/Documents
+   40  clear
+   41  exit
+   42  git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+   43  gedit .zshrc
+   44  source .zshrc
+   45  gedit .zshrc
+   46  git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+   47  source .zshrc
+   48  clear
+   49  exit
+   50  chrome
+   51  google-chrome
+   52  exit
+   53  c;ear
+   54  exit
+   55  reboot
+   56  sudo chown -R $USER ~/.gconf/apps/\nsudo chown -R $USER ~/.config/dconf\nchmod -R u+w ~/.gconf/apps/\nchmod -R u+w ~/.config/dconf
+   57  sudo apt install dconf-gsettings-backend
+   58  clear 
+   59  ls
+   60  clear
+   61  ls
+   62  clear
+   63  ls
+   64  clear
+   65  gedit .zshrc
+   66  source .zshrc
+   67  ls
+   68  clear
+   69  pip install virtualenvwrapper
+   70  sudo apt-get install python3-pip 
+   71  clear
+   72  pip3 install virtualenvwrapper
+   73  gedit .zshrc
+   74  source .zshrc
+   75  $ pip install virtualenvwrapper
+   76  source .zshrc
+   77  cd /usr/local/bin
+   78  ls
+   79  sudo apt-get install python3-setuptools
+   80  sudo easy_install3 pip
+   81  pip3 install virtualenvwrapper
+   82  source .zshrc
+   83  gedit .zshrc
+   84  clear
+   85  source .zshrc
+   86  sudo pip3 install virtualenvwrapper
+   87  sudo -H pip3 install virtualenvwrapper
+   88  ls
+   89  sudo apt-get install code
+   90  cd
+   91  gedit .zshrc
+   92  source .zshrc
+   93  c;ear
+   94  clear
+   95  mkvirtualenv ssad
+   96  clear
+   97  pip3 install superset
+   98  pip3 install virtualenvwrapper
+   99  sudo pip3 install virtualenvwrapper
+  100  sudo -H [ip3 install virtualenvwrapper
+  101  sudo -H pip3 install virtualenvwrapper
+  102  pip install --upgrade pip
+  103  ls
+  104  clear
+  105  pip3 install virtualenvwrapper
+  106  pip3 install superset
+  107  pip3 install flask
+  108  deactivate
+  109  mkvirtualenv SSAD
+  110  pip3 install superset
+  111  pip3 install ssal
+  112  pip install sasl
+  113  sudo apt install build-essentials gcc\n: 1539165022:0;apt install build-essentials gcc\n: 1539165027:0;sudo apt install build-essentials gcc\n: 1539165042:0;sudo apt-get install python-dev
+  114  cler
+  115  clear
+  116  sudo pip uninstall virtualenvwrapper
+  117  deactivate
+  118  sudo pip3 uninstall virtualenvwrapper
+  119  pip3 uninstall virtualenvwrapper
+  120  pip install --upgrade pip
+  121  pip --v
+  122  pip --version
+  123  pip3 install --upgrade pip
+  124  sudo pip3 install --upgrade pip
+  125  pip --version
+  126  pip3 --version
+  127  sudo pip3 install --upgrade pip
+  128  pip uninstall pip
+  129  sudo pip uninstall pip
+  130  pip install --upgrade --force-reinstall <package>
+  131  apt-get remove --purge python-pip
+  132  sudo apt-get remove --purge python-pip
+  133  sudo apt-get remove --purge python3-pip
+  134  sudo apt-get remove --purge python-pip
+  135  sudo apt-get remove --purge pip
+  136  curl https://bootstrap.pypa.io/get-pip.py | sudo python
+  137  pip --version
+  138  pip3 install virtualenvwrapper
+  139  python -m pip install --user virtualenvwrapper
+  140  python3 -m pip install --user virtualenvwrapper
+  141  pip uninstall virtualenvwrapper
+  142  mkvirtualenv SSAD
+  143  pip3 install virtualenvwrapper
+  144  python3 -m pip install --user virtualenvwrapper
+  145  mkvirtualenv SSAD
+  146  python -m pip install --user virtualenvwrapper
+  147  mkvirtualenv SSAD
+  148  pip3 install superset
+  149  pip list --outdated
+  150  pip install --upgrade wheel
+  151  pip install --upgrade setuptools
+  152  pip3 install --upgrade wheel
+  153  pip3 install superset
+  154  pip install superset
+  155  sudo apt update
+  156  sudo apt install python3.3-dev
+  157  sudo apt install python3.5-dev
+  158  pip install superset
+  159  sudo apt install python3.6-dev
+  160  sudo apt-get install build-essential
+  161  sudo apt-get install build-essential python3.5
+  162  python3 --version
+  163  sudo apt-get install build-essential python3.5.2
+  164  sudo apt-get install build-essential python3.5
+  165  sudo apt-get install python3-dev
+  166  sudo apt-get install libevent-dev
+  167  pip3 install superset
+  168  sudo apt-get install python3.5-dev
+  169  deactivate
+  170  pip3 uninstall virtualenvwrapper
+  171  mkvirtualenv SSAD
+  172  source .zshrc
+  173  sudo pip3 uninstall virtualenvwrapper
+  174  python
+  175  mkvirtualenv SSAD
+  176  pip3 install virtualenvwrapper
+  177  sudo -H pip3 install virtualenvwrapper
+  178  source .zshrc
+  179  workon ssad
+  180  exit
+  181  rmvirtualenv ssad SSAD
+  182  workon ssad
+  183  mkvirtualenv ssad
+  184  pip3 install virtualenvwrapper
+  185  pip3 install superset
+  186  sudo  apt-get install libsas12-dev
+  187  sudo  apt-get install libsasl2-dev
+  188  pip3 install superset
+  189  pip3 install flask-appbuilder
+  190  clear
+  191  pip3 install flask-oauthlib
+  192  clear
+  193  ls
+  194  bash Telegram
+  195  ps -ef | kill
+  196  ps -ef | kill -9 
+  197  ps -ef | grep "badwolf"
+  198  ps -ef | grep "badwolf" 
+  199  clear
+  200  reboot
+  201  z Windows
+  202  cd /media
+  203  ls
+  204  cd badwolf
+  205  cd Windows
+  206  clear
+  207  ls
+  208  cd Users
+  209  cd Urja\ Nadibail
+  210  cd a
+  211  cd acads
+  212  cd sem3
+  213  ls
+  214  mkdir algo
+  215  cd algo
+  216  mkdir mid2
+  217  cd mid2
+  218  clear
+  219  gedit LongestCommonSubsequence,c
+  220  gedit LongestCommonSubsequence.c
+  221  sudo apt-get vim
+  222  vi
+  223  sudo apt update
+  224  sudo apt install -y vim
+  225  z mid2
+  226  vim lcs.c
+  227  code lcs.c
+  228  clear
+  229  gcc lcs.c
+  230  ./a.out
+  231  gcc lcs.c
+  232  ./a.out
+  233  gcc lcs.c
+  234  ./a.out
+  235  clear
+  236  gcc lcs.c
+  237  ./a.out
+  238  a
+  239  clear
+  240  ./a.out
+  241  gcc lcs.c
+  242  ./a.out
+  243  g++ lcs.c
+  244  ./a.out
+  245  gcc lcs.c
+  246  ./a.out
+  247  gcc lcs.c
+  248  ./a.out
+  249  gcc lcs.c
+  250  ./a.out
+  251  clear
+  252  ./a.out
+  253  clear
+  254  gcc lcs.c
+  255  ./a.out
+  256  gcc lcs.c
+  257  ./a.out
+  258  gcc lcs.c
+  259  ./a.out
+  260  gcc lcs.c
+  261  g++ lcs.c
+  262  ./a.out
+  263  gcc lcs.c
+  264  ./a.out
+  265  gcc lcs.c
+  266  ./a.out
+  267  gcc lcs.c
+  268  ./a.out
+  269  gcc lcs.c
+  270  ./a.out
+  271  gcc lcs.c
+  272  ./a.out
+  273  gcc lcs.c
+  274  ./a.out
+  275  gcc lcs.c
+  276  ./a.out
+  277  gcc lcs.c
+  278  ./a.out
+  279  gcc lcs.c
+  280  ./a.out
+  281  gcc lcs.c
+  282  ./a.out
+  283  gcc lcs.c
+  284  ./a.out
+  285  gcc lcs.c
+  286  ./a.out
+  287  clear
+  288  ls
+  289  clear
+  290  code .zshtc
+  291  code .zshrc
+  292  source .zshrc
+  293  clear
+  294  z Windows
+  295  ;s
+  296  ls
+  297  z acads
+  298  ls
+  299  git status
+  300  z SSAD12
+  301  z sem3
+  302  cd ssad
+  303  cd project
+  304  cd SSAD12
+  305  ls
+  306  clear
+  307  git status
+  308  cd
+  309  code .zshrc
+  310  source .zshrc
+  311  z SSAD12
+  312  ls
+  313  clear
+  314  ls
+  315  clear
+  316  ls
+  317  \tclear
+  318  ls
+  319  s
+  320  as
+  321  man as
+  322  cow
+  323  clear
+  324  ls
+  325  clear
+  326  cd ..
+  327  git add .
+  328  git commit -m "BAckup"
+  329  git config --global user.email "ujwalnarayann@gmail.com"
+  330  git config --global user.name "Ujwal Narayan"
+  331  git commit -m "BAckup"
+  332  git push origin master
+  333  z ass2
+  334  z ssad
+  335  cd ass2
+  336  ls
+  337  cd go
+  338  ls
+  339  cd ..
+  340  ls
+  341  pwd
+  342  ls
+  343  ls -l
+  344  ls
+  345  cd ..
+  346  ls 
+  347  cd ass2/2
+  348  cd ass2/
+  349  git commit -m "BAckup"
+  350  git push origin master
+  351  grep "linux" ./*
+  352  grep -r "linux" ./*
+  353  grep -r "go1.1" ./*
+  354  git push origin master
+  355  grep -r "go1.11.linux-amd64.tar.gz" ./*
+  356  grep -r  ./*.tar.gz
+  357  grep -r  ./*.c
+  358  grep -r  ./*.go
+  359  grep -r "go1.11.linux-amd64.tar.gz" ./
+  360  git status
+  361  gti stash
+  362  git stash
+  363  git add .
+  364  git commit -m "Backup"
+  365  git push origin master
+  366  git filter-branch -f --index-filter 'git rm --cached --ignore--unmatc sem3/ssad/ass2/go1.11.linux-amd64.tar.gz'
+  367  z acads
+  368  git filter-branch -f --index-filter 'git rm --cached --ignore--unmatc sem3/ssad/ass2/go1.11.linux-amd64.tar.gz'
+  369  git filter-branch -f --index-filter 'git rm --cached --ignore--unmatch sem3/ssad/ass2/go1.11.linux-amd64.tar.gz'
+  370  git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch sem3/ssad/ass2/go1.11.linux-amd64.tar.gz'
+  371  git filter-branch -f --index-filter 'git rm --cached --ignore-unmatch sem3/ssad/ass2/go1.9.3.linux-amd64.tar.gz'
+  372  git push origin master
+  373  git pull origin master
+  374  git status
+  375  cd sem3/os/Shell
+  376  ls
+  377  git status
+  378  git add .
+  379  git status
+  380  cd ..
+  381  git status
+  382  git add Shell
+  383  git status
+  384  git add ../ssad/project/SSAD12
+  385  git status
+  386  git add .
+  387  cd ..
+  388  git add .
+  389  git status
+  390  git add *
+  391  git status
+  392  git commit -m "bakup"
+  393  git push origin master
+  394  cd ..
+  395  git push origin master
+  396  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/Shell
+  397  ls
+  398  ./s
+  399  ./shell
+  400  cd Shellv1.0
+  401  cd Shellv2.0
+  402  ./shell
+  403  clear
+  404  code ssad_notes
+  405  cd Do
+  406  cd Downloads
+  407  ls
+  408  libreoffice W5_RequirementsModeling.ppt
+  409  ping googlelc.com
+  410  cat <<EOF | expect\nset timeout -1\nspawn sudo apt install -y ubuntu-gnome-desktop\nexpect "Default display manager: "\nsend "gdm3\n"\nexpect eof\n: 1539276218:0;sudo
+  411  sudo -h
+  412  sudo -l
+  413  cat <<EOF | expect\nset timeout -1\nspawn sudo apt install -y ubuntu-gnome-desktop\nexpect "Default display manager: "\nsend "gdm3\n"\nexpect eof\n: 1539276270:0;clear
+  414  sudo apt install -y ubuntu-gnome-desktop
+  415  unity --reset
+  416  gconftool-2 --recursive-unset /apps/compiz-1\nunity --reset
+  417  clear
+  418  dconf reset -f /
+  419  clear
+  420  ls
+  421  clear
+  422  echo "ji"
+  423  cd -
+  424  cd D
+  425  cd Downloads
+  426  ls
+  427  clear
+  428  libreoffice W5_RequirementsModeling.ppt &
+  429  clear
+  430  code ssad_notes
+  431  ls
+  432  libreoffice W6-agile-dev-process.pptx
+  433  ls
+  434  cd -\t
+  435  cd Downloads
+  436  ls
+  437  libreoffice W5_RequirementsModeling.ppt &
+  438  code .zshrc
+  439  z acads
+  440  clear
+  441  quit
+  442  exit
+  443  clear
+  444  ls
+  445  libreoffice W6_W7_Testing.ppt
+  446  z /home/badwolf/Downloads
+  447  evince Operating\ System\ Concepts\ -\ 9th\ Edition.pdf
+  448  cd D
+  449  cd Downloads
+  450  ls
+  451  libreoffice W8_w9_Design_Intro.ppt
+  452  clear
+  453  libreoffice  W5_RequirementsModeling.ppt &
+  454  libreoffice
+  455  ls
+  456  cd D
+  457  cd Downloads
+  458  ls
+  459  ps -ef
+  460  kill 6105
+  461  exit
+  462  pip install nltk
+  463  sudo -H pip install nltk
+  464  python
+  465  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads
+  466  ls
+  467  cd sem
+  468  cd sem4
+  469  cd sem3
+  470  ls
+  471  cd algo
+  472  ls
+  473  cd mid2
+  474  l
+  475  sls
+  476  ls
+  477  clear
+  478  code polygon_triangulation.c
+  479  gcc polygon_triangulation.c
+  480  g++ polygon_triangulation.c
+  481  gcc polygon_triangulation.c
+  482  clea
+  483  gcc polygon_triangulation.c
+  484  clear
+  485  gcc polygon_triangulation.c
+  486  clear
+  487  gcc polygon_triangulation.c
+  488  ls
+  489  clear
+  490  gcc polygon_triangulation.c
+  491  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  492  ./polygon_triangulation
+  493  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  494  ./polygon_triangulation
+  495  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  496  ./polygon_triangulation
+  497  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  498  ./polygon_triangulation
+  499  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  500  ./polygon_triangulation
+  501  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  502  ./polygon_triangulation
+  503  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  504  ./polygon_triangulation
+  505  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  506  ./polygon_triangulation
+  507  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  508  ./polygon_triangulation
+  509  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  510  ./polygon_triangulation
+  511  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  512  ./polygon_triangulation
+  513  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  514  ./polygon_triangulation
+  515  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  516  ./polygon_triangulation
+  517  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  518  ./polygon_triangulation
+  519  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  520  ./polygon_triangulation
+  521  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  522  ./polygon_triangulation
+  523  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  524  ./polygon_triangulation
+  525  gcc polygon_triangulation.c  -o polygon_triangulation -lm
+  526  ./polygon_triangulation
+  527  clear
+  528  code rod_cutting.c
+  529  gcc rod_cutting.c -o rod_cutting
+  530  ./rod_cutting
+  531  gcc rod_cutting.c -o rod_cutting
+  532  ./rod_cutting
+  533  1
+  534  ./rod_cutting
+  535  1
+  536  gcc rod_cutting.c -o rod_cutting
+  537  ls
+  538  cd mid2
+  539  gcc rod_cutting.c -o rod_cutting
+  540  ./rod_cutting
+  541  gcc rod_cutting.c -o rod_cutting
+  542  ./rod_cutting
+  543  gcc rod_cutting.c -o rod_cutting
+  544  ./rod_cutting
+  545  gcc rod_cutting.c -o rod_cutting
+  546  ./rod_cutting
+  547  clear
+  548  ls
+  549  clear
+  550  \tls
+  551  clear
+  552  z ssad
+  553  cd ass2
+  554  ls
+  555  cd Quiz-App
+  556  ls
+  557  rm 01-login
+  558  rm -r 01-login
+  559  rm go go_v0.1
+  560  rm quiz
+  561  rm -r quiz
+  562  rm -r go go_v0.1
+  563  ls
+  564  rm main.go
+  565  ls
+  566  git add .
+  567  git commit -m "Dir Clean Up"
+  568  git push origin master 
+  569  ls
+  570  cd go
+  571  ls
+  572  ./main
+  573  cd ..
+  574  cd react-app
+  575  ls
+  576  sudo apt-get install yarn
+  577  yarn start
+  578  curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+  579  sudo apt-get update && sudo apt-get install yarn
+  580  echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  581  sudo apt-get update && sudo apt-get install yarn
+  582  yarn start
+  583  ls
+  584  yarn 
+  585  yarn start
+  586  node --version
+  587  sudo apt-get install node
+  588  sudo apt-get install build-essential curl git m4 ruby texinfo libbz2-dev libcurl4-openssl-dev libexpat-dev libncurses-dev zlib1g-dev
+  589  uby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+  590  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/linuxbrew/go/install)"
+  591  wget -qO- https://deb.nodesource.com/setup_8.x | sudo -E bash -
+  592  sudo apt-get install -y nodejs
+  593  yarn 
+  594  yarn start
+  595  z go
+  596  ./main
+  597  ls
+  598  cd //
+  599  cd =
+  600  cd -
+  601  cd ..
+  602  code README.md
+  603  git add .
+  604  git commit -m "Added the readme"
+  605  git push origin master
+  606  cd go
+  607  ls
+  608  ./main
+  609  cd ..
+  610  cd react-app
+  611  yarn start
+  612  ls
+  613  cd src/components
+  614  ls
+  615  code App.js
+  616  cd ..
+  617  git add .
+  618  git commit -m "Updated the db , fixed minor typos"
+  619  cd ..
+  620  code README.md
+  621  git commit -m "Added the admin credentials"
+  622  git add .
+  623  git commit -m "Added the admin credentials"
+  624  git push origin master
+  625  sudo apt-get install linuxdcplusplus
+  626  sudo apt-get install linuxdcpp
+  627  z acads
+  628  ls
+  629  mkdir Journal
+  630  cd Journal
+  631  git init
+  632  clear
+  633  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/Journal
+  634  clear
+  635  
+  636  [200~npm install -g expo-cli
+  637  npm install -g expo-cli
+  638  mkvirtualenv journal
+  639  npm install -g expo-cli
+  640  sudo npm install -g expo-cli
+  641  expo init Journal
+  642  cd Journal
+  643  expo start
+  644  z Journal
+  645  ls
+  646  cd Joural
+  647  cd ..
+  648  ls
+  649  mv Journal journal
+  650  cd journal
+  651  ls
+  652  cd Journal
+  653  ls
+  654  cd ..
+  655  ls
+  656  rm Journal
+  657  rm -r Journal
+  658  clear
+  659  ls
+  660  expo init Journal
+  661  cd Journal
+  662  expo screens
+  663  expo start
+  664  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/Journal
+  665  ls
+  666  cd Journal
+  667  ls
+  668  cd screens
+  669  code HomeScreen.js
+  670  ssh ujwal.narayan@researchweb.iiit.ac.in
+  671  clear
+  672  scp -r ujwal.narayan@researchweb.iiit.ac.in:~/public_html ~/
+  673  clear
+  674  ls
+  675  z acads
+  676  ls
+  677  cd sem2
+  678  ls
+  679  cd itws2
+  680  ls
+  681  cd ..
+  682  ls
+  683  cd ..
+  684  ls
+  685  mkdir sem1
+  686  ls
+  687  cd sem1
+  688  ls
+  689  mv ~/public_html ./Website
+  690  ls
+  691  cd Website
+  692  ls
+  693  git add .
+  694  git commit -m "Website"
+  695  gti push origin master
+  696  git push origin master
+  697  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem1/Website
+  698  z Windows
+  699  ls
+  700  cd Documents\ and\ Settings
+  701  cd ..
+  702  cd Users/Urja\ Nadibail
+  703  cd Do
+  704  cd Down
+  705  cd Downloads
+  706  ls
+  707  clear
+  708  evince Assignment4
+  709  ls Assignment
+  710  ls Assignment*
+  711  ls Assignment\ 4.pdf
+  712  evince  Assignment\ 4.pdf
+  713  z os
+  714  cd 20171170_assgn4
+  715  ls
+  716  code p1.c
+  717  gcc p1.c
+  718  z os
+  719  ls
+  720  cd 20171170_assgn4
+  721  ls
+  722  code q1.c
+  723  gcc q1.c 
+  724  gcc q1.c -lgthreaf
+  725  gcc q1.c -lgthread
+  726  cc -pthread q1.c
+  727  ./a.out
+  728  cc -pthread q1.c
+  729  ./a.out
+  730  cc -pthread q1.c
+  731  ./a.out
+  732  cc -pthread q1.c
+  733  ./a.out
+  734  cc -pthread q1.c
+  735  ./a.out
+  736  cc -pthread q1.c
+  737  ./a.out
+  738  cc -pthread q1.c
+  739  ./a.out
+  740  cc -pthread q1.c
+  741  ./a.out
+  742  z /media/badwolf/Windows/Users/Urja\ Nadibail
+  743  cd Downloads
+  744  evince Assignment4.pdf
+  745  ls
+  746  ls Assignment
+  747  ls Assignment*
+  748  ls Assignment\ 4.pdf
+  749  google-chrome Assignment\ 4.pdf
+  750  cc -pthread q1.c
+  751  ./a.out
+  752  cc -pthread q1.c
+  753  ./a.out
+  754  cc -pthread q1.c
+  755  ./a.out
+  756  cc -pthread q1.c
+  757  ./a.out
+  758  cc -pthread q1.c
+  759  ./a.out
+  760  cc -pthread q1.c
+  761  ./a.out
+  762  cc -pthread q1.c
+  763  ./a.out
+  764  cc -pthread q1.c
+  765  ./a.out
+  766  cc -pthread q1.c
+  767  ./a.out
+  768  cc -pthread q1.c
+  769  ./a.out
+  770  cc -pthread q1.c
+  771  ./a.out
+  772  cc -pthread q1.c
+  773  ./a.out
+  774  cc -pthread q1.c
+  775  ./a.out
+  776  cc -pthread q1.c
+  777  ./a.out
+  778  cc -pthread q1.c
+  779  ./a.out
+  780  cc -pthread q1.c
+  781  ./a.out
+  782  cc -pthread q1.c
+  783  ./a.out
+  784  cc -pthread q1.c
+  785  ./a.out
+  786  cc -pthread q1.c
+  787  ./a.out
+  788  cc -pthread q1.c
+  789  ./a.out
+  790  cc -pthread q1.c
+  791  ./a.out
+  792  cc -pthread q1.c
+  793  ./a.out
+  794  cc -pthread q1.c
+  795  ./a.out
+  796  cc -pthread q1.c
+  797  ./a.out
+  798  cc -pthread q1.c
+  799  ./a.out
+  800  cc -pthread q1.c
+  801  ./a.out
+  802  cc -pthread q1.c
+  803  ./a.out
+  804  cc -pthread q1.c
+  805  ./a.out
+  806  cc -pthread q1.c
+  807  ./a.out
+  808  cc -pthread q1.c
+  809  ./a.out
+  810  cc -pthread q1.c
+  811  ./a.out
+  812  cc -pthread q1.c
+  813  ./a.out
+  814  cc -pthread q1.c
+  815  ./a.out
+  816  cd
+  817  code q2.c
+  818  gcc q2.c -lpthread
+  819  ./a.out
+  820  mkdir scam
+  821  cd scam
+  822  code a
+  823  code a.c
+  824  code b.c
+  825  z acads
+  826  z usefulcode
+  827  z acads
+  828  cd sem3
+  829  cd ..
+  830  cd sem2/ds/usefulcode
+  831  ./moss.pl ~/scam/*.c
+  832  code u.c
+  833  z /media/badwolf/Windows/Users/Urja\ Nadibail
+  834  cd Do
+  835  cd Downloads
+  836  evince Assignment\ 4.pdf
+  837  cd scam
+  838  gcc u
+  839  gcc u.c
+  840  ls
+  841  pwd
+  842  ls u.c
+  843  mv u.c ~/scam
+  844  gcc u.c
+  845  code u.c
+  846  gcc u.c
+  847  ./a.out
+  848  gcc u.c
+  849  ./a.out
+  850  gcc u.c
+  851  ./a.out
+  852  gcc u.c
+  853  ./a.out
+  854  gcc u.c
+  855  ./a.out
+  856  ./moss.pl ~/scam/*.c
+  857  ls
+  858  code q2.c
+  859  cd scam
+  860  code u.c
+  861  cat u.c
+  862  gcc u.c
+  863  ./a.out
+  864  gcc u.c
+  865  ./a.out
+  866  gcc u.c
+  867  ./a.out
+  868  gcc u.c
+  869  ./a.out
+  870  gcc u.c
+  871  ./a.out
+  872  gcc u.c
+  873  ./a.out
+  874  gcc u.c
+  875  ./a.out
+  876  gcc u.c
+  877  ./a.out
+  878  gcc a.c
+  879  gcc b.c
+  880  ./a.out
+  881  code a.c
+  882  gcc b.c
+  883  code a.c
+  884  ./a.out
+  885  gcc b.c
+  886  ./a.out
+  887  code ll.c
+  888  gcc ll.c
+  889  ./a.out
+  890  ./a.ou
+  891  ./a.out
+  892  ls
+  893  ./a.out
+  894  ./a.out ll.c
+  895  gcc ll.c
+  896  ./a.out
+  897  gcc ll.c
+  898  ./a.out
+  899  gcc ll.c
+  900  cp ll.c u.c
+  901  gcc u.c
+  902  gcc ll.c
+  903  gcc u.c
+  904  ./a.out
+  905  ./moss.pl ~/scam/*.c
+  906  gcc ll.c 
+  907  ./a.out
+  908  ./moss.pl ~/scam/*.c
+  909  code u
+  910  code u.c
+  911  gcc u.c
+  912  ./a.out
+  913  ./moss.pl ~/scam/*.c
+  914  gcc u.c
+  915  ./moss.pl ~/scam/*.c
+  916  ./a.out
+  917  ./moss.pl ~/scam/*.c
+  918  gcc u.c
+  919  ./moss.pl ~/scam/*.c
+  920  ./a.out
+  921  ./moss.pl ~/scam/*.c
+  922  ./moss.pl ~/scam/*.c\n: 1540293980:0;./moss.pl ~/scam/*.c
+  923  gcc u.c
+  924  ./a.out
+  925  gcc u.c
+  926  ./a.out
+  927  ./moss.pl ~/scam/*.c
+  928  gcc ll.c 
+  929  gcc u.c
+  930  ./a.out
+  931  ./moss.pl ~/scam/*.c
+  932  gcc u.c
+  933  ./moss.pl ~/scam/*.c
+  934  ./a.out
+  935  ./moss.pl ~/scam/*.c
+  936  gcc u.c
+  937  ./a.out
+  938  ./moss.pl ~/scam/*.c
+  939  gcc u.c
+  940  ./a.out
+  941  gcc u.c
+  942  ./a.out
+  943  gcc u.c
+  944  ./a.out
+  945  gcc u.c
+  946  ./a.out
+  947  gcc u.c
+  948  ./a.out
+  949  gcc u.c
+  950  ./a.out
+  951  gcc u.c
+  952  ./a.out
+  953  ./moss.pl ~/scam/*.c
+  954  gcc u.c
+  955  ./moss.pl ~/scam/*.c
+  956  ./a.out
+  957  ./moss.pl ~/scam/*.c
+  958  gcc u.c
+  959  ./a.out
+  960  gcc u.c
+  961  ./a.out
+  962  gcc u.c
+  963  ./a.out
+  964  gcc u.c
+  965  ./a.out
+  966  ./moss.pl ~/scam/*.c
+  967  gcc u.c
+  968  ./moss.pl ~/scam/*.c
+  969  ./a.out
+  970  gcc u.c
+  971  ./a.out
+  972  ./moss.pl ~/scam/*.c
+  973  ./a.out
+  974  gcc u.c
+  975  ./a.out
+  976  gcc u.c
+  977  ./a.out
+  978  gcc u.c
+  979  ./a.out
+  980  gcc u.c
+  981  ./a.out
+  982  gcc u.c
+  983  ./a.out
+  984  gcc u.c
+  985  ./a.out
+  986  ./moss.pl ~/scam/*.c
+  987  gcc u.c
+  988  ./moss.pl ~/scam/*.c
+  989  ./a.out
+  990  ./moss.pl ~/scam/*.c
+  991  ./a.out
+  992  ./moss.pl ~/scam/*.c
+  993  gcc u.c
+  994  ./moss.pl ~/scam/*.c
+  995  ./a.out
+  996  ./moss.pl ~/scam/*.c
+  997  gcc u.c
+  998  ./a.out
+  999  gcc u.c
+ 1000  ./a.out
+ 1001  ./moss.pl ~/scam/*.c
+ 1002  code u.c
+ 1003  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/20171170_assgn4
+ 1004  ls
+ 1005  code q1.c
+ 1006  rm a.out out p1.1.c p1.c
+ 1007  gcc q1.c
+ 1008  cc q1.c
+ 1009  history
+ 1010  cc -pthread q1.c
+ 1011  ./a.out
+ 1012  code q3.c
+ 1013  z scam
+ 1014  ls
+ 1015  rm *.c
+ 1016  code ll.c
+ 1017  gcc ll.c
+ 1018  cc -pthread ll.c
+ 1019  ./a.out
+ 1020  ls
+ 1021  mv ~/q2.c ./
+ 1022  ls
+ 1023  cd Concurrent-Voting-At-Polling-Booths-master
+ 1024  ls
+ 1025  cd code
+ 1026  make
+ 1027  ls
+ 1028  ./election
+ 1029  ls
+ 1030  code main.c
+ 1031  make
+ 1032  ./election
+ 1033  3
+ 1034  cd -
+ 1035  ls
+ 1036  ./election
+ 1037  z /home/badwolf/scam
+ 1038  gcc q2.c
+ 1039  cc q2.c -pthread
+ 1040  ./a.out
+ 1041  code q2.c
+ 1042  ./election
+ 1043  code u.c
+ 1044  gcc u.c
+ 1045  cc -pthread u.c
+ 1046  gcc u.c
+ 1047  cc -pthread u.c
+ 1048  ./a.out
+ 1049  cc -pthread u.c
+ 1050  ./a.out
+ 1051  z usefulcode
+ 1052  ./moss.pl ~/scam/*.c
+ 1053  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/20171170_assgn4
+ 1054  code q3.c
+ 1055  cc -pthread u.c
+ 1056  ./a.out
+ 1057  cc -pthread u.c
+ 1058  ./a.out
+ 1059  ./moss.pl ~/scam/*.c
+ 1060  cc -pthread u.c
+ 1061  ./moss.pl ~/scam/*.c
+ 1062  ./a.out
+ 1063  cc -pthread u.c
+ 1064  ./a.out
+ 1065  cc -pthread u.c
+ 1066  ./a.out
+ 1067  cc -pthread u.c
+ 1068  ./a.out
+ 1069  cc -pthread u.c
+ 1070  ./a.out
+ 1071  cc -pthread u.c
+ 1072  ./a.out
+ 1073  cc -pthread u.c
+ 1074  ./a.out
+ 1075  cc -pthread u.c
+ 1076  ./a.out
+ 1077  cc -pthread u.c
+ 1078  ./a.out
+ 1079  cc -pthread u.c
+ 1080  ./a.out
+ 1081  cc -pthread u.c
+ 1082  ./a.out
+ 1083  cc -pthread u.c
+ 1084  ./a.out
+ 1085  cc -pthread u.c
+ 1086  ./a.out
+ 1087  cc -pthread u.c
+ 1088  ./a.out
+ 1089  cc -pthread u.c
+ 1090  ./a.out
+ 1091  cc -pthread u.c
+ 1092  ./a.out
+ 1093  cc -pthread u.c
+ 1094  ./a.out
+ 1095  cc -pthread u.c
+ 1096  ./a.out
+ 1097  55
+ 1098  7
+ 1099  4
+ 1100  ./a.out
+ 1101  34
+ 1102  23
+ 1103  gcc q3.c
+ 1104  23
+ 1105  ./a.out
+ 1106  gcc q3.c
+ 1107  ./a.out
+ 1108  cd -
+ 1109  gcc u.c
+ 1110  cc -pthread u.c
+ 1111  ./a.out
+ 1112  cc -pthread u.c
+ 1113  ./a.out
+ 1114  cc -pthread u.c
+ 1115  ./a.out
+ 1116  cd -
+ 1117  code q3bonus.c
+ 1118  ./moss.pl ~/scam/*.c
+ 1119  ls
+ 1120  cd scam
+ 1121  ls
+ 1122  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/20171170_assgn4
+ 1123  ls
+ 1124  ls t
+ 1125  cat t
+ 1126  rm t
+ 1127  ls
+ 1128  cc q3bonus.c
+ 1129  cc q3bonus.c -pthread
+ 1130  ./a.out
+ 1131  gcc q3.c
+ 1132  ./a.out
+ 1133  rm ll.c u.c
+ 1134  ls
+ 1135  code q2.c
+ 1136  code u.c
+ 1137  cc q2.c -pthread
+ 1138  cc u.c -pthread
+ 1139  ./a.out
+ 1140  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem2/ds/usefulcode
+ 1141  ~./mo
+ 1142  ./moss.pl ~/scam/*.c
+ 1143  code d.c
+ 1144  ./moss.pl ~/scam/*.c
+ 1145  cc u.c -pthread
+ 1146  ./moss.pl ~/scam/*.c
+ 1147  ./a.out
+ 1148  ./moss.pl ~/scam/*.c
+ 1149  cc u.c -pthread
+ 1150  ./moss.pl ~/scam/*.c
+ 1151  ./a.out
+ 1152  ./moss.pl ~/scam/*.c
+ 1153  cc u.c -pthread
+ 1154  ./a.out
+ 1155  ./moss.pl ~/scam/*.c
+ 1156  cc u.c -pthread
+ 1157  ./a.out
+ 1158  cc u.c -pthread
+ 1159  ./a.out
+ 1160  cc u.c -pthread
+ 1161  ./a.out
+ 1162  ./moss.pl ~/scam/*.c
+ 1163  cat q2.c
+ 1164  cat d.c
+ 1165  ./moss.pl ~/scam/*.c
+ 1166  cc u.c -pthread
+ 1167  ./a.out
+ 1168  ./moss.pl ~/scam/*.c
+ 1169  cc u.c -pthread
+ 1170  ./moss.pl ~/scam/*.c
+ 1171  ./a.out
+ 1172  cc u.c -pthread
+ 1173  ./a.out
+ 1174  ./moss.pl ~/scam/*.c
+ 1175  cc u.c -pthread
+ 1176  ./moss.pl ~/scam/*.c
+ 1177  ./a.out
+ 1178  ./moss.pl ~/scam/*.c
+ 1179  z /media/badwolf/Windows/Users/Urja\ Nadibail
+ 1180  cd Downloads
+ 1181  evince Assignment\ 4.pdf
+ 1182  ./moss.pl ~/scam/*.c
+ 1183  ./a.out
+ 1184  ./moss.pl ~/scam/*.c
+ 1185  cc u.c -pthread
+ 1186  ./a.out
+ 1187  ./moss.pl ~/scam/*.c
+ 1188  cc u.c -pthread
+ 1189  ./a.out
+ 1190  ./moss.pl ~/scam/*.c
+ 1191  cc u.c -pthread
+ 1192  ./a.out
+ 1193  cc u.c -pthread
+ 1194  ./a.out
+ 1195  cc u.c -pthread
+ 1196  ./a.out
+ 1197  ./moss.pl ~/scam/*.c
+ 1198  cc u.c -pthread
+ 1199  ./moss.pl ~/scam/*.c
+ 1200  ./a.out
+ 1201  cc u.c -pthread
+ 1202  ./moss.pl ~/scam/*.c
+ 1203  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/20171170_assgn4
+ 1204  code README.md
+ 1205  code input.txt
+ 1206  gcc q3.c < input.txt
+ 1207  ./a.out < input.txt
+ 1208  code q3.c
+ 1209  gcc q3.c 
+ 1210  ./a.out < input.txt
+ 1211  gcc q3.c
+ 1212  ./a.out < input.txt
+ 1213  man fork
+ 1214  gcc q3.c
+ 1215  ./a.out < input.txt
+ 1216  cc -pthread q3bonus.c 
+ 1217  ./a.out < input.txt
+ 1218  code q3bonus.c
+ 1219  cc -pthread q3bonus.c 
+ 1220  ./a.out < input.txt
+ 1221  ./a.out 
+ 1222  gcc -pthread q3bonus.c
+ 1223  ./a.out < input.txt
+ 1224  gcc -pthread q3bonus.c
+ 1225  ./a.out < input.txt
+ 1226  gcc -pthread q3bonus.c
+ 1227  ./a.out < input.txt
+ 1228  1
+ 1229  cd -
+ 1230  code input.txt
+ 1231  ls
+ 1232  code q3bonus.c
+ 1233  ls
+ 1234  ./a.out < input.txt
+ 1235  gcc q3bonus.c
+ 1236  gcc q3bonus.c -pthread
+ 1237  ./a.out < input.txt
+ 1238  gcc q3bonus.c -pthread
+ 1239  ./a.out < input.txt
+ 1240  gcc q3bonus.c -pthread
+ 1241  ./a.out < input.txt
+ 1242  gcc q3bonus.c -pthread
+ 1243  ./a.out < input.txt
+ 1244  gcc q3bonus.c -pthread
+ 1245  ./a.out < input.txt
+ 1246  code q3.c
+ 1247  gcc q3.c
+ 1248  ./a.out < input.txt
+ 1249  gcc q3.c
+ 1250  ./a.out < input.txt
+ 1251  ls
+ 1252  gcc q3.c
+ 1253  ./a.out < input.txt
+ 1254  ls
+ 1255  rm input.txt
+ 1256  ls
+ 1257  rm a.out
+ 1258  ls
+ 1259  code idea_for_q2
+ 1260  code idea_for_q2.md
+ 1261  code q2.c
+ 1262  z SSAD
+ 1263  ls
+ 1264  cd documents
+ 1265  ls
+ 1266  touch desdoc.md
+ 1267  code desdoc.md
+ 1268  git pull origin development
+ 1269  git add .
+ 1270  git commit -m "Ignore this commit plis ,thank"
+ 1271  git push origin development
+ 1272  workon ssad
+ 1273  z .vitualenvs
+ 1274  ls
+ 1275  cd ..
+ 1276  ls
+ 1277  cd bin
+ 1278  ls
+ 1279  cd
+ 1280  ls
+ 1281  ls .virtualenvs
+ 1282  cd .virtualenvs
+ 1283  ls
+ 1284  cd ssad
+ 1285  ls
+ 1286  cd bin
+ 1287  cd si
+ 1288  ls
+ 1289  cd python3.5
+ 1290  cd python3
+ 1291  cd python
+ 1292  cd cd ..
+ 1293  cd lib
+ 1294  ls
+ 1295  cd ..
+ 1296  cd lib
+ 1297  ls
+ 1298  cd python3.5
+ 1299  ls
+ 1300  cd site-packages
+ 1301  cd superset
+ 1302  code config.py
+ 1303  z ssad
+ 1304  cd p
+ 1305  ls
+ 1306  cd ..
+ 1307  z SSAD12
+ 1308  ls
+ 1309  cd src
+ 1310  ls
+ 1311  cd superset
+ 1312  ls
+ 1313  cd ..
+ 1314  ls
+ 1315  cd dummy_flask_app
+ 1316  ls
+ 1317  cd config
+ 1318  code config.py
+ 1319  cd ..
+ 1320  cd
+ 1321  superset runserver -d 
+ 1322  superset init
+ 1323  pip install flask==0.12.1 
+ 1324  superset init
+ 1325  pip uninstall flask
+ 1326  pip install flask==0.12.1 
+ 1327  pip uninstall markdown
+ 1328  pip install markdown==2.6.11
+ 1329  superset init
+ 1330  z SSAD12
+ 1331  ls
+ 1332  cd src
+ 1333  cd superset
+ 1334  superset runserver -d
+ 1335  z SSAD12
+ 1336  cd src
+ 1337  cd dummy_flask_app
+ 1338  ls
+ 1339  python3 run.py
+ 1340  workon ssad
+ 1341  python3 run.py
+ 1342  workon ssad
+ 1343  python3
+ 1344  ls
+ 1345  workon ssad
+ 1346  superset runserver -d
+ 1347  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/ssad/project/SSAD12/src/dummy_flask_app
+ 1348  ls
+ 1349  python3 run.py
+ 1350  workon ssad
+ 1351  python3 run.py
+ 1352  code
+ 1353  superset runserver -d
+ 1354  ls
+ 1355  z superset
+ 1356  ls
+ 1357  cd ..
+ 1358  ls
+ 1359  fabmanager create-admin --app superset
+ 1360  superset runserver -d
+ 1361  ls
+ 1362  code
+ 1363  z SSAD12
+ 1364  cd src
+ 1365  cd dummy_flask_app
+ 1366  ls
+ 1367  cd app
+ 1368  ls
+ 1369  cd templates
+ 1370  ls
+ 1371  code my_index.html
+ 1372  cd Downloads
+ 1373  ls
+ 1374  sqlserver
+ 1375  sudo -E apt-get install mysql-server\n: 1540402293:0;mysql server -d
+ 1376  mysql -u root -p
+ 1377  cd Downloads
+ 1378  cat COm
+ 1379  z /home/badwolf/Downloads ls
+ 1380  z /home/badwolf/Downloads 
+ 1381  ls
+ 1382  z /media/badwolf/Windows/Users/Urja\ Nadibail
+ 1383  cd Downloads
+ 1384  evince Assignment3.pdf
+ 1385  z cp
+ 1386  z acads
+ 1387  cd cp
+ 1388  mkdir temp1
+ 1389  cd temp1
+ 1390  code a.cpp
+ 1391  g++ a.cpp
+ 1392  .a/
+ 1393  ./a.out
+ 1394  code
+ 1395  ./a.out
+ 1396  g++ a.cpp
+ 1397  ./a.out
+ 1398  g++ a.cpp
+ 1399  ./a.out
+ 1400  g++ a.cpp
+ 1401  ./a.out
+ 1402  g++ a.cpp
+ 1403  ./a.out
+ 1404  g++ a.cpp
+ 1405  ./a.out
+ 1406  g++ a.cpp
+ 1407  ./a.out
+ 1408  g++ a.cpp
+ 1409  ./a.out
+ 1410  g++ a.cpp
+ 1411  ./a.out
+ 1412  g++ a.cpp
+ 1413  ./a.out
+ 1414  g++ a.cpp
+ 1415  ./a.out
+ 1416  g++ a.cpp
+ 1417  ./a.out
+ 1418  g++ a.cpp
+ 1419  ./a.out
+ 1420  g++ a.cpp
+ 1421  ./a.out
+ 1422  g++ a.cpp
+ 1423  ./a.out
+ 1424  g++ a.cpp
+ 1425  ./a.out
+ 1426  g++ a.cpp
+ 1427  ./a.out
+ 1428  g++ a.cpp
+ 1429  ./a.out
+ 1430  g++ a.cpp
+ 1431  ./a.out
+ 1432  g++ a.cpp
+ 1433  ./a.out
+ 1434  g++ a.cpp
+ 1435  ./a.out
+ 1436  code b.cpp
+ 1437  g++ a.cpp
+ 1438  g++ b.cpp
+ 1439  ./a.out
+ 1440  g++ b.cpp
+ 1441  ./a.out
+ 1442  g++ b.cpp
+ 1443  ./a.out
+ 1444  g++ b.cpp
+ 1445  ./a.out
+ 1446  g++ b.cpp
+ 1447  ./a.out
+ 1448  g++ b.cpp
+ 1449  ./a.out
+ 1450  z acads
+ 1451  cd sem4
+ 1452  cd sem3
+ 1453  ls
+ 1454  cd ssad
+ 1455  ls
+ 1456  cd S
+ 1457  cd Super_Mario
+ 1458  mkvirtualenv supermario
+ 1459  ls
+ 1460  pip3 install numpy
+ 1461  pip install colorama
+ 1462  ls
+ 1463  cd Super_Mario
+ 1464  ls
+ 1465  cd ..
+ 1466  python3 main.py
+ 1467  python main.py
+ 1468  python3 main.py
+ 1469  ls
+ 1470  cd Super_Mario
+ 1471  ls
+ 1472  ccd ..
+ 1473  cd ..
+ 1474  cd v1
+ 1475  ls
+ 1476  cd ..
+ 1477  git status
+ 1478  ls
+ 1479  cd Super_Mario
+ 1480  ls
+ 1481  cd 20171170_Assign1
+ 1482  ls
+ 1483  cd 20171170_Assign1
+ 1484  ls
+ 1485  code main.py
+ 1486  python3 main.py
+ 1487  sudo apt-get install ghci
+ 1488  $ sudo apt-get install haskell-platform
+ 1489  ghci
+ 1490  sudo apt update
+ 1491  sudo apt upgrade
+ 1492  z acads
+ 1493  ls
+ 1494  cd haskell
+ 1495  mkdir web
+ 1496  cd web
+ 1497  code a.hs
+ 1498  runhaskell a.hs
+ 1499  stack new my-project yesod-sqlite && cd my-project
+ 1500  stack install yesod-bin --install-ghc
+ 1501  sudo apt autoremove
+ 1502  pwd
+ 1503  cd ..
+ 1504  cd haskell
+ 1505  cd web
+ 1506  ls
+ 1507  cd my-project
+ 1508  ls
+ 1509  cd ..
+ 1510  runhaskell a.hs
+ 1511  cd //
+ 1512  cd -
+ 1513  cd ..
+ 1514  ls
+ 1515  runhaskell a.hs
+ 1516  mv a.hs ./my-project
+ 1517  cd my-project
+ 1518  mv a.hs ./my-project
+ 1519  runhaskell a.hs
+ 1520  ls
+ 1521  cd templates
+ 1522  cd ..
+ 1523  cd templates
+ 1524  cd ..
+ 1525  ls
+ 1526  cd s
+ 1527  cd src
+ 1528  ls
+ 1529  code a.hs
+ 1530  runhaskell a.hs
+ 1531  cd ..
+ 1532  ls
+ 1533  runhaskell ./src/a.hs
+ 1534  runhaskell -v ./src/a.hs
+ 1535  ghci
+ 1536  stack build
+ 1537  runhaskell -v ./src/a.hs
+ 1538  runhaskell ./src/a.hs
+ 1539  cd ..
+ 1540  stack build
+ 1541  stack exec -- yesod devel
+ 1542  cd src
+ 1543  ls
+ 1544  code Application.hs
+ 1545  ls
+ 1546  cd Import
+ 1547  ls
+ 1548  cd ..
+ 1549  ls
+ 1550  cd ..
+ 1551  ls
+ 1552  code README.md
+ 1553  mysql -u root -p 
+ 1554  echo "Fourth  one  , Reduce teh salary by 10% of those employees whose supervisor works on a more total number of hours across all his projects than the average pf a total number of hours an employee in the company works across all his projects \n create view EMP_AVG as select avg(total) as avg from (select Essn, sum(Hours) as total from WORKS_ON where Hours is not NULL group by Essn) as A;\ncreate view TOTAL_HOURS as select Essn, sum(Hours) as total_hours from WORKS_ON where Hours is not NULL group by Essn;\ncreate view OVERACHIEVER as select * from TOTAL_HOURS where total_hours > (select avg from EMP_AVG);\nupdate EMPLOYEE set salary = 0.9 * salary where Ssn in (select Ssn from (select Ssn from EMPLOYEE as EMP where Super_ssn in (select Essn as Super_ssn from OVERACHIEVER as OV) ) as OK);"
+ 1555  echo "Thrid Name all the Managers and their start date who has at least half of employees female reporting to them . \n SELECT Fname, Mgr_start_date FROM EMPLOYEE AS E, DEPARTMENT WHERE  Ssn IN (SELECT Mgr_ssn FROM DEPARTMENT WHERE (SELECT COUNT(*) FROM EMPLOYEE AS A WHERE Dno = Dnumber AND SEX = 'F' AND E.Ssn != A.Ssn HAVING COunt(*)>0) >= (SELECT COUNT(*) FROM EMPLOYEE AS A WHERE Dno = Dnumber AND SEX='M' AND E.Ssn != A.Ssn)) AND Mgr_ssn = E.Ssn;"
+ 1556  echo "Fourth  one  , Reduce teh salary by 10% of those employees whose supervisor works on a more total number of hours across all his projects than the average pf a total number of hours an employee in the company works across all his projects \n create view EMP_AVG as select avg(total) as avg from (select Essn, sum(Hours) as total from WORKS_ON where Hours is not NULL group by Essn) as A;\ncreate view TOTAL_HOURS as select Essn, sum(Hours) as total_hours from WORKS_ON where Hours is not NULL group by Essn;\ncreate view OVERACHIEVER as select * from TOTAL_HOURS where total_hours > (select avg from EMP_AVG);\nupdate EMPLOYEE set salary = 0.9 * salary where Ssn in (select Ssn from (select Ssn from EMPLOYEE as EMP where Super_ssn in (select Essn as Super_ssn from OVERACHIEVER as OV) ) as OK);"
+ 1557  echo "Secong name all the Managers under whom at least two employees have a salary more than the average salary of the company \n SELECT Fname,Lname From EMPLOYEE WHERE Ssn IN (SELECT Mgr_ssn FROM DEPARTMENT WHERE (SELECT COUNT(*) FROM EMPLOYEE AS C WHERE Dno=Dnumber AND Salary > (SELECT AVG(Salary) FROM EMPLOYEE))>=2 AND Ssn != Mgr_ssn);"
+ 1558  echo "First Name the managers who work on at least one proect from each of the departments \n SELECT Fname FROM EMPLOYEE WHERE Ssn IN (SELECT Essn FROM DEPARTMENT, PROJECT, WORKS_ON WHERE Mgr_ssn = Essn AND Pno = Pnumber GROUP BY Essn HAVING COUNT(DISTINCT Dnum) = (SELECT COUNT(DISTINCT Dnum) FROM PROJECT)) ;:
+ 1559  echo "First Name the managers who work on at least one proect from each of the departments \n SELECT Fname FROM EMPLOYEE WHERE Ssn IN (SELECT Essn FROM DEPARTMENT, PROJECT, WORKS_ON WHERE Mgr_ssn = Essn AND Pno = Pnumber GROUP BY Essn HAVING COUNT(DISTINCT Dnum) = (SELECT COUNT(DISTINCT Dnum) FROM PROJECT)) ;"
+ 1560  mysql -u root -p 
+ 1561  echo "Modi \n [9:37 AM, 10/27/2018] Priyank Modi: Update EMPLOYEE as X set Salary=Salary*0.9 where X.Fname IN (select E.Fname, E.Ssn FROM EMPLOYEE E,EMPLOYEE S WHERE (select sum(Hours) from WORKS_ON where Essn=E.Super_ssn) >= ((select sum(Hours) from WORKS_ON where Essn=E.Ssn and E.Super_ssn=S.Ssn)/(select COUNT(distinct E.Ssn) from EMPLOYEE where E.Super_ssn = S.Ssn)));\n[9:37 AM, 10/27/2018] Priyank Modi: I guess this should work\n[9:37 AM, 10/27/2018] Priyank Modi: I'm not gonna update the table now\n[9:37 AM, 10/27/2018] Priyank Modi: Remove E.Ssn also from inner query"
+ 1562  codeDB.txt 
+ 1563  code DB.txt 
+ 1564  time
+ 1565  ls DB.txt
+ 1566  ls -l DB.txt
+ 1567  sudo apt-get install pylint
+ 1568  z 20171170
+ 1569  z acads
+ 1570  ls
+ 1571  cd sem3
+ 1572  cd ssad
+ 1573  ls
+ 1574  cd S
+ 1575  ls
+ 1576  cd S
+ 1577  cd Super_Mario/
+ 1578  ls
+ 1579  cd Super_Mario
+ 1580  ls
+ 1581  cd 20171170_Assign1
+ 1582  ls
+ 1583  cd 20171170_Assign1
+ 1584  ls
+ 1585  pylint *.py
+ 1586  ls
+ 1587  pylint board.py
+ 1588  ls
+ 1589  pylint charec.py
+ 1590  ls
+ 1591  code *.py
+ 1592  grep "\"\n: 1540642312:0;grep "|" ./
+ 1593  pylint board.py
+ 1594  clear
+ 1595  pylint board.py
+ 1596  sudo apt-get install python3-pip\nsudo pip-3.3 install pylint
+ 1597  pylint -v
+ 1598  pylint --help
+ 1599  pylint --version
+ 1600  python3 -pylint 
+ 1601  sudo apt-get purge pylint
+ 1602  sudo apt install pylint3
+ 1603  pylint3 board.py
+ 1604  sudo apt-get install autopep8
+ 1605  pip install --upgrade autopep8
+ 1606  pip3 install --upgrade autopep8
+ 1607  pylint3 board.py
+ 1608  python3 main.py
+ 1609  workon supermario
+ 1610  python3 main.py
+ 1611  pylint3 board.py
+ 1612  grep "c1" ./*.py
+ 1613  pylint3 board.py
+ 1614  python3 main.py
+ 1615  code main.py
+ 1616  python3 main.py
+ 1617  pylint3 board.py
+ 1618  python3 main.py
+ 1619  pylint3 board.py
+ 1620  python3 main.py
+ 1621  ls
+ 1622  pylint3 board.py
+ 1623  grep "_mario1" ./*.py
+ 1624  pylint3 board.py
+ 1625  grep "levels" ./*.py
+ 1626  pylint3 board.py
+ 1627  grep "level0" ./*.py
+ 1628  pylint3 board.py
+ 1629  python3 main.py
+ 1630  pylint3 board.py
+ 1631  ls
+ 1632  touch __init__.py
+ 1633  pylint3 board.py
+ 1634  rm __init__.py
+ 1635  pylint3 board.py
+ 1636  grep "_cx" ./*.py
+ 1637  pylint3 board.py
+ 1638  grep "_cx" ./*.py
+ 1639  pylint3 board.py
+ 1640  python3 board.py
+ 1641  pylint3 board.py
+ 1642  python3 board.py
+ 1643  python3 main.py
+ 1644  ls
+ 1645  grep "q" ./*.py
+ 1646  python3 main.py
+ 1647  pylint3 board.py
+ 1648  python3 main.py
+ 1649  pylint3 board.py
+ 1650  grep +_x" ./*.py
+ 1651  grep "_x" ./*.py
+ 1652  git add .
+ 1653  git commit -m "changing _x using sed"
+ 1654  git push origin master
+ 1655  git pull origin master 
+ 1656  ls
+ 1657  code board.py
+ 1658  python3 main.py
+ 1659  sed -i -e 's/_x/x/g' *.py
+ 1660  python3 main.py
+ 1661  ls
+ 1662  pylint3 board.py
+ 1663  sed -i -e 's/_endx/endx/g' *.py
+ 1664  sed -i -e 's/_endy/endy/g' *.py
+ 1665  sed -i -e 's/_y/y/g' *.py
+ 1666  pylint3 board.py
+ 1667  python3 main.py
+ 1668  pylint3 charec.py
+ 1669  python3 main.py
+ 1670  pylint3 charec.py
+ 1671  python3 main.py
+ 1672  pylint3 charec.py
+ 1673  python3 main.py
+ 1674  pylint3 charec.py
+ 1675  pylint3 *.py
+ 1676  z SUper
+ 1677  ls
+ 1678  cd Super_Mario
+ 1679  ls
+ 1680  cd 2
+ 1681  cd 20171170_Assign1
+ 1682  ls
+ 1683  cd 20171170_Assign1
+ 1684  ls
+ 1685  pylint3 *.py
+ 1686  z /media/badwolf/Windows/Users/Urja\ Nadibail
+ 1687  cd Downloads
+ 1688  ls
+ 1689  evince Assignment3.pdf
+ 1690  code README.md
+ 1691  pylint3 board.py
+ 1692  code charec.py
+ 1693  pylint3 charec.py
+ 1694  python -m pip install -U "pylint<2.0.0" --user
+ 1695  grep "ox" ./*.py
+ 1696  python -m pip install -U "pylint<2.0.0" --user
+ 1697  pylint3 charec.py
+ 1698  workon supermario
+ 1699  python3 main.py
+ 1700  grep "killedByEnms" ./*
+ 1701  code collision.py
+ 1702  python3 main.py
+ 1703  grep "cx" ./*
+ 1704  pylint3 charec.py
+ 1705  grep "a" ./*
+ 1706  grep "a" ./*.py
+ 1707  grep "a" ./*
+ 1708  code *.py
+ 1709  pylint3 charec.py
+ 1710  grep "jumpCounter" ./*.py
+ 1711  sed -i -e 's/jumpCounter/jump_counter/g' *.py
+ 1712  grep "jumpCounter" ./*.py
+ 1713  pylint3 charec.py
+ 1714  grep "jumpUp" ./*.py
+ 1715  grep "_pipes" ./*
+ 1716  grep "pipes" ./*
+ 1717  sed -i -e 's/_pipes/pipes/g' *.py
+ 1718  sed -i -e 's/_bigpipes/bigpipes/g' *.py
+ 1719  pylint3 charec.py
+ 1720  grep "_turtle" ./8
+ 1721  grep "_turtle" ./*
+ 1722  sed -i -e 's/_turtle/turtle/g' *.py
+ 1723  sed -i -e 's/_darthvader/darthvader/g' *.py
+ 1724  pylint3 charec.py
+ 1725  grep "_coins" ./*.py
+ 1726  sed -i -e 's/_coins/coins/g' *.py
+ 1727  pylint3 charec.py
+ 1728  python3 main.py
+ 1729  git add .
+ 1730  git commit -m "board.py pylint > 9" 
+ 1731  ls
+ 1732  pylint3 input.py
+ 1733  grep "_allowedinputs" ./*
+ 1734  grep "_allowedinputs" ./*.py
+ 1735  grep "_allowed_inputs" ./*.py
+ 1736  pylint3 input.py
+ 1737  python3 main.py
+ 1738  cd ..
+ 1739  ls
+ 1740  cd ..
+ 1741  ls
+ 1742  python3 main.py
+ 1743  cd -
+ 1744  cd 20171170_Assign1
+ 1745  ls
+ 1746  pylint3 *.py
+ 1747  pylint3 input.py
+ 1748  python3 main.py
+ 1749  pylint3 input.py
+ 1750  python3 main.py
+ 1751  pylint3 input.py
+ 1752  pylint3 *.py
+ 1753  pylint3 input.py
+ 1754  pylint3 board.py
+ 1755  pylint3 input.py
+ 1756  pylint3 charec.py
+ 1757  code requirements.txt
+ 1758  pylint3 input.py
+ 1759  python3
+ 1760  pip3 installmsvcrt
+ 1761  pip3 install msvcrt
+ 1762  pylint3 charec.py
+ 1763  grep "cx" ./*
+ 1764  sed -i -e 's/cx/current_x/g' *.py
+ 1765  grep "cy" ./*
+ 1766  sed -i -e 's/cy/current_y/g' *.py
+ 1767  pylint3 charec.py
+ 1768  grep "self.x" ./*
+ 1769  pylint3 charec.py
+ 1770  python3 main.py
+ 1771  pylint3 input.py
+ 1772  code README.md
+ 1773  sed -i -e 's/_goingdownpipe/goingdownpipe/g' *.py
+ 1774  sed -i -e 's/_brickwalls/brickwalls/g' *.py
+ 1775  sed -i -e 's/_zigzagwall/zigzagwall/g' *.py
+ 1776  sed -i -e 's/_flagpost/flagpost/g' *.py
+ 1777  sed -i -e 's/_castle/castle/g' *.py
+ 1778  sed -i -e 's/_pits/pits/g' *.py
+ 1779  sed -i -e 's/_powerup1/powerup1/g' *.py
+ 1780  code config.py
+ 1781  sed -i -e 's/_mushroom/mushroom/g' *.py
+ 1782  code co
+ 1783  code config.py
+ 1784  pylint3 charec.py
+ 1785  sed -i -e 's/_bufferboard/bufferboard/g' *.py
+ 1786  pylint3 charec.py
+ 1787  python3 main.py
+ 1788  pylint3 charec.py
+ 1789  grep 'timeSinceLastJump" ./*
+ 1790  grep "timeSinceLastJump" ./*
+ 1791  sed -i -e 's/timeSinceLastJump/time_since_last_jump/g' *.py
+ 1792  pylint3 charec.py
+ 1793  grep "_mario" ./*
+ 1794  sed -i -e 's/_mario/mario/g' *.py
+ 1795  pylint3 charec.py
+ 1796  grep "lives" ./*
+ 1797  pylint3 charec.py
+ 1798  grep "jumpUp" ./*
+ 1799  pylint3 charec.py
+ 1800  grep "jumpUps" ./*
+ 1801  pylint3 charec.py
+ 1802  grep "moveDOwn" ./*
+ 1803  grep "moveDown" ./*
+ 1804  grep "moveDOwn" ./*
+ 1805  pylint3 charec.py
+ 1806  pylint3 *
+ 1807  ls
+ 1808  pylint3 board.py
+ 1809  pylint3 charec.py
+ 1810  ls
+ 1811  rm co
+ 1812  pylint3 collision.py
+ 1813  ls
+ 1814  pylint3 color.py
+ 1815  ls
+ 1816  pylint3 config.py
+ 1817  ls
+ 1818  pylint3 input.py
+ 1819  ls
+ 1820  pylint3 main.py
+ 1821  ls
+ 1822  code charec.py
+ 1823  pylint3 charec.py
+ 1824  grep "self.x" ./
+ 1825  grep "self.x" ./*
+ 1826  python3 main.py
+ 1827  git add .
+ 1828  git comimit -m "input pylint done"
+ 1829  git commit -m "input pylint done"
+ 1830  ls
+ 1831  cd .git
+ 1832  ls
+ 1833  rm /media/badwolf/Windows/Users/Urja Nadibail/acads/sem3/ssad/Super_Mario/Super_Mario/.git/index.lock
+ 1834  rm /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/ssad/Super_Mario/Super_Mario/.git/index.lock
+ 1835  git add .
+ 1836  git commit -m "input pylint done"
+ 1837  ls
+ 1838  sed -i -e 's/self.x/self.x_pos/g' *.py
+ 1839  sed -i -e 's/self.y/self.y_pos/g' *.py
+ 1840  pylint3 charec.py
+ 1841  python3 main.py
+ 1842  code charec.py
+ 1843  python3 main.py
+ 1844  grep "Charecters"
+ 1845  grep "Charecters" ./*
+ 1846  grep "Charaters" ./*
+ 1847  grep "Characters" ./*
+ 1848  python3 main.py
+ 1849  grep "i.x" ./*
+ 1850  sed -i -e 's/i.x/i.x_pos/g' *.py
+ 1851  sed -i -e 's/i.y/i.y_pos/g' *.py
+ 1852  python3 main.py
+ 1853  sed -i -e 's/mario.x/mario.x_pos/g' *.py
+ 1854  sed -i -e 's/mario.y/mario.y_pos/g' *.py
+ 1855  grep "*.x" ./*
+ 1856  grep ".x" ./*
+ 1857  grep "\.x" ./*
+ 1858  python3 main.py
+ 1859  grep "\.y" ./*
+ 1860  sed -i -e 's/board.player.y/board.player.y_pos/g' *.py
+ 1861  python3 main.py
+ 1862  pylint3 charec.py
+ 1863  ls
+ 1864  pylint3 board.py
+ 1865  ls
+ 1866  pylint3 collision.py
+ 1867  python3 main.py
+ 1868  pylint3 collision.py
+ 1869  python
+ 1870  pylint3 collision.py
+ 1871  ls
+ 1872  pylint3 *
+ 1873  ls
+ 1874  pylint3 config.py
+ 1875  git add .
+ 1876  git commit -m 'Character pylint done "
+ 1877  git commit -m "Character pylint done "
+ 1878  grep "character"
+ 1879  grep "character" ./*
+ 1880  grep "charecter" ./*
+ 1881  sed -i -e 's/charecter/character/g' *.py
+ 1882  ls
+ 1883  python3 main.py
+ 1884  ls
+ 1885  grep "chareter" *
+ 1886  grep "chareter"./ *
+ 1887  grep "chareter" ./ *
+ 1888  grep "chareter" ./*
+ 1889  grep "chareter" ./*.py
+ 1890  grep "character" ./*.py
+ 1891  python3 main.py
+ 1892  git log
+ 1893  git checkout commit 28050ac566b87b15a191f8db36d667e8132e286e
+ 1894  git checkout 28050ac566b87b15a191f8db36d667e8132e286e
+ 1895  git add .
+ 1896  git commit =m "The game stopped working :("
+ 1897  git commit-m "The game stopped working :("
+ 1898  git commit -m "The game stopped working :("
+ 1899  git checkout commit 28050ac566b87b15a191f8db36d667e8132e286e
+ 1900  git checkout 28050ac566b87b15a191f8db36d667e8132e286e
+ 1901  python3 main.py
+ 1902  pylint3 charec.py
+ 1903  sed -i -e 's/.x/.x_pos/g' *.py
+ 1904  sed -i -e 's/.y/.y_pos/g' *.py
+ 1905  pylint3 charec.py
+ 1906  code charec.py
+ 1907  git checkout28050ac566b87b15a191f8db36d667e8132e286e
+ 1908  git checkout 28050ac566b87b15a191f8db36d667e8132e286e
+ 1909  pylint3 charec.py
+ 1910  git stash
+ 1911  git checkout 28050ac566b87b15a191f8db36d667e8132e286e
+ 1912  git log
+ 1913  git checkout 236542a7564297d907560de7ca10489f115bb192
+ 1914  ls
+ 1915  code input.py
+ 1916  ls
+ 1917  python3 main.py
+ 1918  git log
+ 1919  cd ..
+ 1920  cd -
+ 1921  git push origin master
+ 1922  git pull origin master
+ 1923  git checkout master
+ 1924  ls
+ 1925  python3 main.py
+ 1926  ls
+ 1927  cd 20171170_Assign1
+ 1928  ls
+ 1929  cd 20171170_Assign1
+ 1930  ls
+ 1931  python3 main.py
+ 1932  clear
+ 1933  update-java-alternatives --list
+ 1934  sudo add-apt-repository ppa:webupd8team/java~
+ 1935  sudo add-apt-repository ppa:webupd8team/java
+ 1936  sudo apt-get update
+ 1937  sudo apt-get install oracle-java8-installer
+ 1938  update-java-alternatives --list
+ 1939  sudo apt-get install neo4j=1:3.4.9
+ 1940  wget -O - https://debian.neo4j.org/neotechnology.gpg.key | sudo apt-key add -
+ 1941  echo 'deb https://debian.neo4j.org/repo stable/' | sudo tee -a /etc/apt/sources.list.d/neo4j.list
+ 1942  sudo apt-get update
+ 1943  sudo apt-get install neo4j=1:3.4.9
+ 1944  sudo service neo4j start
+ 1945  neo4j-admin set-initial-password <password>
+ 1946  neo4j-admin set-initial-password admin
+ 1947  cd /var/lib/neo4j/data/dbms
+ 1948  ls
+ 1949  cat auth
+ 1950  rm auth
+ 1951  ls
+ 1952  rm auth
+ 1953  rm - rf auth
+ 1954  sudo rm auth
+ 1955  ls
+ 1956  cd ~
+ 1957  neo4j-admin set-initial-password admin
+ 1958  sudo neo4j-admin set-initial-password admin
+ 1959  neo4j -u neo4j -p admin
+ 1960  sudo service neo4j start -u neo4j -p admin
+ 1961  java -version
+ 1962  cd Downloads
+ 1963  cd solr-7.1.0
+ 1964  ls
+ 1965  bin/solr start
+ 1966  sudo pip install simplejson
+ 1967  cd ~
+ 1968  sudo pip install simplejson
+ 1969  sudo pip3 install simplejson
+ 1970  sudo pip install simplejson
+ 1971  z acads
+ 1972  cd sem3
+ 1973  ls
+ 1974  mkdir itdb
+ 1975  cd itdb
+ 1976  pwd
+ 1977  mkdir lucene
+ 1978  cd ~
+ 1979  sudo apt install basex
+ 1980  ls
+ 1981  python3 main.py
+ 1982  ls
+ 1983  cd Downloads
+ 1984  solr/bin start
+ 1985  cd solr-7.1.0
+ 1986  solr/bin start
+ 1987  ls
+ 1988  bin/solr start
+ 1989  bin/solr start -p 8080
+ 1990  bin/solr stop-all
+ 1991  bin/solr stop
+ 1992  bin/solr stop -all
+ 1993  bin/solr start
+ 1994  neo4j
+ 1995  service neo4j start
+ 1996  cd Wi
+ 1997  z /media/badwolf/Windows
+ 1998  ls
+ 1999  evince neo4j_slides.pdf
+ 2000  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/ssad/Super_Mario/Super_Mario/20171170_Assign1/20171170_Assign1
+ 2001  ls
+ 2002  code board.py
+ 2003  code charec.py
+ 2004  git checkout bdb31c29d4a1c493833d8ea11cd7cc49aeb625c0
+ 2005  git stash
+ 2006  git checkout bdb31c29d4a1c493833d8ea11cd7cc49aeb625c0
+ 2007  workn su
+ 2008  workon supermario
+ 2009  python3 main.py
+ 2010  git checkout 28050ac566b87b15a191f8db36d667e8132e286e
+ 2011  git stash
+ 2012  git 28050ac566b87b15a191f8db36d667e8132e286e
+ 2013  git commit 28050ac566b87b15a191f8db36d667e8132e286e
+ 2014  git checkout 28050ac566b87b15a191f8db36d667e8132e286e
+ 2015  python3 main.py
+ 2016  ls
+ 2017  pylint3 charec.py
+ 2018  code charec.py
+ 2019  pylint3 charec.py
+ 2020  ls
+ 2021  pylint3 charec.py
+ 2022  python3 main.py
+ 2023  ls
+ 2024  clear
+ 2025  ls
+ 2026  clear
+ 2027  ls
+ 2028  pylint3 charec.py
+ 2029  ls
+ 2030  grep "\.x" ./*
+ 2031  git add .
+ 2032  git commit -m "Gonna sed .x now "
+ 2033  ls
+ 2034  sed -i -e 's/\.x/\.x_pos/g' *.py
+ 2035  sed -i -e 's/\.y/\.y_pos/g' *.py
+ 2036  python3 main.py
+ 2037  code config.py
+ 2038  python3 main.py
+ 2039  pylint3 charec.py
+ 2040  ls
+ 2041  git add .iu
+ 2042  git add .
+ 2043  git commit -m "Charec pylint done :)"
+ 2044  ls
+ 2045  pylint3 collision.py
+ 2046  pip3 install autopep8
+ 2047  autopep8 collision.py
+ 2048  autopep8 -i collision.py
+ 2049  pylint3 collision.py
+ 2050  code collision.py
+ 2051  pylint3 collision.py
+ 2052  python3 main.py
+ 2053  pylint3 collision.py
+ 2054  l
+ 2055  ls
+ 2056  git add .
+ 2057  git commit -m "Collison done " 
+ 2058  ls
+ 2059  pylint3 board.py
+ 2060  code board.py
+ 2061  pylint3 board.py
+ 2062  ls
+ 2063  pylint3 charec.py
+ 2064  ls
+ 2065  pylint3 collision.py
+ 2066  ls
+ 2067  pylint3 color.py
+ 2068  ls
+ 2069  code color.py
+ 2070  pylint3 color.py
+ 2071  ls
+ 2072  pylint3 config.py
+ 2073  pylint3 input.py
+ 2074  ls
+ 2075  pylint3 main.py
+ 2076  ls
+ 2077  code config.py
+ 2078  grep "config.x_pos"
+ 2079  grep "config.x_pos" ./*
+ 2080  pylint3 config.py
+ 2081  grep "_ground" ./*
+ 2082  sed -i -e 's/\_ground/GROUND/g' *.py
+ 2083  LS
+ 2084  sed -i -e 's/\_ground/GROUND/g' *.py
+ 2085  pylint3 config.py
+ 2086  python3 main.py
+ 2087  pylint3 config.py
+ 2088  sed -i -e 's/\_sky/SKY/g' *.py
+ 2089  pylint3 config.py
+ 2090  sed -i -e 's/\_bricks/BRICKS/g' *.py
+ 2091  pylint3 config.py
+ 2092  grep "mario" ./*
+ 2093  grep "\bmario\b" ./*
+ 2094  sed -i -e 's/\bmario\b/MARIO/g' *.py
+ 2095  python3 main.py
+ 2096  ls
+ 2097  pylint3 main.py
+ 2098  pylint3 config.py
+ 2099  grep "\_e1" ./*
+ 2100  grep "\_empty" ./*
+ 2101  pylint3 config.py
+ 2102  grep "types"
+ 2103  grep "types" ./*
+ 2104  pylint3 config.py
+ 2105  grep "scores"
+ 2106  grep "scores" ./*
+ 2107  pylint3 config.py
+ 2108  grep "ground_coodsx" ./*
+ 2109  pylint3 config.py
+ 2110  python3 main.py
+ 2111  pylint3 config.py
+ 2112  grep "level" ./*
+ 2113  sed -i -e 's/level/LEVEL/g' config.py
+ 2114  sed -i -e 's/config.level/config.LEVEL/g' main.py
+ 2115  pylint3 config.py
+ 2116  grep "_pipes" ./*
+ 2117  grep "_pipes" ./*.py
+ 2118  grep "pipes" ./*.py
+ 2119  code main.py
+ 2120  pylint3 config.py
+ 2121  grep "mushromm_speed" ./*
+ 2122  grep "mushromm_speed" ./*.p
+ 2123  grep "mushromm_speed" ./*.py
+ 2124  grep "mushroom_speed" ./*.py
+ 2125  grep "speed" ./*.py
+ 2126  grep "POWEUP_speed" ./*.py
+ 2127  grep "power_speed" ./*.py
+ 2128  grep "powerup_speed" ./*.py
+ 2129  pylint3 config.py
+ 2130  python3 main.py
+ 2131  pylint3 config.py
+ 2132  python3 main.py
+ 2133  ls
+ 2134  pylint3 config.py
+ 2135  grep "reset" ./*py
+ 2136  pylint3 config.py
+ 2137  grep "jump" ./*py
+ 2138  pylint3 config.py
+ 2139  ls
+ 2140  code input.py
+ 2141  pylint3 input.py
+ 2142  pylint3 collision.py
+ 2143  pylint3 config.py
+ 2144  grep "powerup1" ./*py
+ 2145  grep "config.mushroom" ./*.py
+ 2146  pylint3 config.py
+ 2147  LS
+ 2148  ls
+ 2149  python3 main.py
+ 2150  git add .
+ 2151  git commit -m "Config done "
+ 2152  ls
+ 2153  pylint3 main.py
+ 2154  grep "timer" ./*
+ 2155  pylint3 main.py
+ 2156  python3 main.py
+ 2157  code *.py
+ 2158  pylint3 board.py
+ 2159  pylint3 *.py
+ 2160  code collision.py
+ 2161  pylint3 *.py
+ 2162  code main.py
+ 2163  python3 main.py
+ 2164  git add .
+ 2165  git commit -m "Pylint > 9 for all "
+ 2166  ls
+ 2167  pylint3 bp
+ 2168  pylint3 board.py
+ 2169  ls
+ 2170  code README.md
+ 2171  pylint-gui3 charec.py
+ 2172  pylint3 charec.py
+ 2173  code charec.py
+ 2174  pylint3 charec.py
+ 2175  ls
+ 2176  pylint3 collision.py
+ 2177  ls
+ 2178  pylint3 color.py
+ 2179  ls
+ 2180  pylint3 config.py
+ 2181  ls
+ 2182  pylint3 input.py
+ 2183  ls
+ 2184  pylint3 main.py
+ 2185  git add .
+ 2186  git commit -m "Updated Readme"
+ 2187  python3 main.py
+ 2188  pylint3 board.py
+ 2189  z /media/badwolf/Windows/Users/Urja\ Nadibail
+ 2190  cd Downloads
+ 2191  evince Assignment3.pdf
+ 2192  pylint3 *.py
+ 2193  ls
+ 2194  code .pylintrc
+ 2195  z supermario
+ 2196  cd 
+ 2197  cd .virtualenvs
+ 2198  cd s
+ 2199  cd supermario
+ 2200  ls
+ 2201  cd lib
+ 2202  ls
+ 2203  cd python3.5
+ 2204  ls
+ 2205  cd site-packages
+ 2206  pwd
+ 2207  pylint3 *.py
+ 2208  pylint3 board.py
+ 2209  pylint3 charec.py
+ 2210  pylint3 collision.py
+ 2211  pylint3 config.py
+ 2212  pylint3 input.py
+ 2213  code input.py
+ 2214  pylint3 input.py
+ 2215  pylint3 charec.py
+ 2216  pylint3 input.py
+ 2217  pylint3 main.py 
+ 2218  pylint3 *.py
+ 2219  code collision.py
+ 2220  ls
+ 2221  code main.py
+ 2222  code charec.py
+ 2223  python3 main.py
+ 2224  pip install - U pytest 
+ 2225  pip3 install pytest
+ 2226  pip3 install tox
+ 2227  pip3 install pytest
+ 2228  ls
+ 2229  pylint3 collision.py
+ 2230  ls
+ 2231  code tox.ini
+ 2232  tox-quickstart
+ 2233  code tox.ini
+ 2234  tox
+ 2235  code setup.py
+ 2236  tox
+ 2237  ls
+ 2238  code setup.py
+ 2239  tox
+ 2240  \tls
+ 2241  cear
+ 2242  python3 main.py
+ 2243  code test_movement.py
+ 2244  tox
+ 2245  ls
+ 2246  tox
+ 2247  cd tests
+ 2248  mkdir tests
+ 2249  mv test_movement.py ./tests
+ 2250  tix
+ 2251  tox
+ 2252  cd tests
+ 2253  ls
+ 2254  cd ..
+ 2255  code tox.ini
+ 2256  tox
+ 2257  tox-quickstart
+ 2258  rm tox.ini
+ 2259  tox-quickstart
+ 2260  python3 setup.py test
+ 2261  python3 setup.py tests
+ 2262  python3 setup.py tests/test_movement.py
+ 2263  tox
+ 2264  cd tests
+ 2265  code test_movement.py
+ 2266  ls
+ 2267  cd ..
+ 2268  tox
+ 2269  ls
+ 2270  sudo apt-get install tree
+ 2271  tree
+ 2272  rm tox.ini
+ 2273  tox-quickstart
+ 2274  tox
+ 2275  sudo apt-get upgrade python3
+ 2276  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/ssad/Super_Mario/Super_Mario/20171170_Assign1/20171170_Assign1
+ 2277  tox
+ 2278  workon supermario
+ 2279  tox
+ 2280  mv tests/test_movement.py ./
+ 2281  pytest
+ 2282  code test_movement.py
+ 2283  pytest
+ 2284  tox
+ 2285  cp test_movement.py ./test/test_movement.py
+ 2286  cp test_movement.py ./tests
+ 2287  tox
+ 2288  pytest
+ 2289  rm -r tests
+ 2290  pytest
+ 2291  ls
+ 2292  pytest
+ 2293  tox
+ 2294  mkdir tests
+ 2295  mv test_movement.py ./tests/
+ 2296  tox
+ 2297  mv tests test
+ 2298  tox
+ 2299  rm tox.ini
+ 2300  tox-quickstart
+ 2301  tox
+ 2302  ls
+ 2303  code tox.ini
+ 2304  tox
+ 2305  mv test/tests
+ 2306  ls
+ 2307  cd test
+ 2308  ls
+ 2309  cd ..
+ 2310  mkdir tests
+ 2311  mv test/test_movement.py tests/
+ 2312  rm -r test
+ 2313  tox
+ 2314  touch tests/__init__.py
+ 2315  tox
+ 2316  cd tests
+ 2317  code test_movement.py
+ 2318  cd ..
+ 2319  tox
+ 2320  pytest
+ 2321  cd tests
+ 2322  python3 test_movement.py
+ 2323  cd ..
+ 2324  code a.py
+ 2325  python3 a.py
+ 2326  grep "WAK" ./*
+ 2327  grep "WAK" ./*.py
+ 2328  ls
+ 2329  grep "WAKING" ./*.py
+ 2330  grep "WAAKING" ./*.py
+ 2331  code board.py
+ 2332  python3 a.py
+ 2333  pytest
+ 2334  cd tests/
+ 2335  l;s
+ 2336  ls
+ 2337  mv test_movement.py test_move_beyond_left_edge.py
+ 2338  code test_left_movement.py
+ 2339  tox
+ 2340  rm a.py
+ 2341  code test_right_movement.py
+ 2342  code test_jump.py
+ 2343  tox
+ 2344  ls
+ 2345  code test_gravity.py
+ 2346  tox
+ 2347  ls
+ 2348  cd ..
+ 2349  ks
+ 2350  ls
+ 2351  code charec.py
+ 2352  ls
+ 2353  cd tests
+ 2354  code test_getcoods.py
+ 2355  ls
+ 2356  cd ..
+ 2357  history
+ 2358  ls
+ 2359  tox
+ 2360  ls
+ 2361  cd tests
+ 2362  ls
+ 2363  code test_speed.py
+ 2364  python3 ma
+ 2365  python3 main.py
+ 2366  tox
+ 2367  code README.md
+ 2368  code test_falling_in_pits.py
+ 2369  tox
+ 2370  code config.py
+ 2371  code board.py
+ 2372  tox
+ 2373  grep "DEAD" ./*.py
+ 2374  code collision.py
+ 2375  code config.py
+ 2376  tox
+ 2377  code test_exit.py
+ 2378  code ma
+ 2379  tox
+ 2380  code main.py
+ 2381  cd tests
+ 2382  code test_gravity.py
+ 2383  code test_gravity_cant.py
+ 2384  cd ..
+ 2385  ls
+ 2386  tox
+ 2387  ls
+ 2388  code test_score.py
+ 2389  ls
+ 2390  code test_falling_in_pits.py
+ 2391  code test_obstacle_block.py
+ 2392  code board.py
+ 2393  cd ..
+ 2394  cd -
+ 2395  tox
+ 2396  code collision.py
+ 2397  cd tests
+ 2398  ls
+ 2399  cd ..
+ 2400  tox
+ 2401  ls
+ 2402  cd ..
+ 2403  ls
+ 2404  cp -r 20171170_Assign1 final
+ 2405  cd final
+ 2406  code collision.py
+ 2407  ls
+ 2408  cd ..
+ 2409  cd 20171170_Assign1
+ 2410  ls
+ 2411  python3 main.py
+ 2412  ls
+ 2413  code main.py
+ 2414  python3 main.py
+ 2415  tox
+ 2416  code col
+ 2417  git push origin master
+ 2418  ls
+ 2419  git add .
+ 2420  code collision.py
+ 2421  git add .
+ 2422  git commit -m "Bug fixed"
+ 2423  git push origin master
+ 2424  git stash
+ 2425  git add .
+ 2426  git commit -m "Bug foxed"
+ 2427  git branch final
+ 2428  git push origin final
+ 2429  code collision.py
+ 2430  python3 main.py
+ 2431  tox
+ 2432  code collision.py
+ 2433  cd ..
+ 2434  ls
+ 2435  cd final
+ 2436  tox
+ 2437  cd ..
+ 2438  cd 20171170_Assign1
+ 2439  ls
+ 2440  code collision.py
+ 2441  grep "current_x" ./*.py
+ 2442  tox
+ 2443  cd tests
+ 2444  ls
+ 2445  cd ..
+ 2446  ls
+ 2447  cd ..
+ 2448  ls
+ 2449  cd final
+ 2450  ls
+ 2451  cd tests
+ 2452  code test_kill.py
+ 2453  code test_score.py
+ 2454  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/ssad/Super_Mario/Super_Mario/20171170_Assign1/20171170_Assign1
+ 2455  tox
+ 2456  codecd -
+ 2457  cd -
+ 2458  cd ..
+ 2459  code board.py
+ 2460  tox
+ 2461  cd tests
+ 2462  rm test_kill.py
+ 2463  cd ..
+ 2464  tox
+ 2465  cd ..
+ 2466  cd 20171170_Assign1
+ 2467  tox
+ 2468  ls
+ 2469  cd ..
+ 2470  ls
+ 2471  cp 20171170_Assign1 refactored
+ 2472  cp -r 20171170_Assign1 refactored
+ 2473  ls
+ 2474  mkdir part1
+ 2475  mv refactored/ ./part1/
+ 2476  ls
+ 2477  tox
+ 2478  workon supermario
+ 2479  tox
+ 2480  ls
+ 2481  rm -r Mario.egg-info
+ 2482  rm .tox
+ 2483  rm -r .tox
+ 2484  rm -r __pycache__
+ 2485  tox
+ 2486  ls
+ 2487  cd tests
+ 2488  ls
+ 2489  rm -rf __pycache__
+ 2490  cd ..
+ 2491  tox
+ 2492  cd ..
+ 2493  ls
+ 2494  cd refactored
+ 2495  tox
+ 2496  ls
+ 2497  rm -rf __pycache__
+ 2498  tox
+ 2499  cd tests
+ 2500  ls
+ 2501  rm -rf __pycache__
+ 2502  cd ..
+ 2503  tox
+ 2504  cd ..
+ 2505  ls
+ 2506  cd 20171170_part
+ 2507  cd 20171170_part1
+ 2508  ls
+ 2509  cd refactored
+ 2510  pylint3 *.py
+ 2511  python3 main.py
+ 2512  workon supermario
+ 2513  python3 main.py
+ 2514  ls
+ 2515  cd ..
+ 2516  ls
+ 2517  cd ..
+ 2518  ls
+ 2519  cd 20171170_part2
+ 2520  cd final
+ 2521  tox
+ 2522  history
+ 2523  z haskell
+ 2524  ls
+ 2525  cd
+ 2526  z cads
+ 2527  cd haskell
+ 2528  mkdir adventofcode
+ 2529  cd adventofcode
+ 2530  code 1.hs
+ 2531  ghci
+ 2532  ghc 1.hs
+ 2533  ./1
+ 2534  ghc 1.hs
+ 2535  ./1
+ 2536  ghci
+ 2537  ghc -o 1.hs
+ 2538  ghc --help
+ 2539  ghc 1.hs
+ 2540  ./1
+ 2541  git inti
+ 2542  git init
+ 2543  git add .
+ 2544  git commit -m "Q1 done"
+ 2545  code 2.hs
+ 2546  code 1.hs
+ 2547  cd ..
+ 2548  ls
+ 2549  mkdir cp
+ 2550  cd cp
+ 2551  code 1.lhs
+ 2552  ghc 1.lhs
+ 2553  mv 1.lhs 1.hs
+ 2554  ghc 1.hs
+ 2555  ls
+ 2556  code 1.hs
+ 2557  ls
+ 2558  rm 1.lhs
+ 2559  ghc 1.hs
+ 2560  ./1
+ 2561  ghc 1.hs
+ 2562  ./1
+ 2563  ghc 1.hs
+ 2564  ./1
+ 2565  ghc 1.hs
+ 2566  ./1
+ 2567  ghc 1.hs
+ 2568  ./1
+ 2569  ghc 1.hs
+ 2570  ./1
+ 2571  ghc 1.hs
+ 2572  ./1
+ 2573  ghc 1.hs
+ 2574  .1/
+ 2575  ./1
+ 2576  ghc 1.hs
+ 2577  ./1
+ 2578  ghc 1.hs
+ 2579  ./1
+ 2580  ghc 1.hs
+ 2581  ./1
+ 2582  ghc 1.hs
+ 2583  ./1
+ 2584  ghc 1.hs
+ 2585  ./1
+ 2586  ghc 1.hs
+ 2587  ./1
+ 2588  ghc 1.hs
+ 2589  ./1.hs
+ 2590  ./1
+ 2591  ghc 1.hs
+ 2592  ./1
+ 2593  ghc 1.hs
+ 2594  ./1
+ 2595  ghc 1.hs
+ 2596  ./1
+ 2597  ls
+ 2598  rm *.hi *.o
+ 2599  ./1
+ 2600  ls
+ 2601  code 2.hs
+ 2602  \tghc 2.hs
+ 2603  ./2
+ 2604  wget "https://www.w3.org/TR/2014/REC-xquery-30-20140408/"
+ 2605  wget "https://www.w3.org/TR/2014/REC-xquery-30-20140408/*"
+ 2606  wget \\n     --recursive \\n     --no-clobber \\n     --page-requisites \\n     --html-extension \\n     --convert-links \\n     --restrict-file-names=windows \\n     --domains www.w3.org \\n     --no-parent \\n         https://www.w3.org/TR/2014/REC-xquery-30-20140408/
+ 2607  ls
+ 2608  cd www.w3.org
+ 2609  ls
+ 2610  cat robots.txt
+ 2611  ls
+ 2612  cd www.w3.org
+ 2613  ls
+ 2614  cd TR
+ 2615  ls
+ 2616  cd 2
+ 2617  cd 2014
+ 2618  ls
+ 2619  cd REC-xquery-30-20140408
+ 2620  ls
+ 2621  cd
+ 2622  bin/solr start
+ 2623  cd ..
+ 2624  ls
+ 2625  cd ujwal
+ 2626  ls
+ 2627  cd ..
+ 2628  ls
+ 2629  cd bin
+ 2630  ls
+ 2631  bin
+ 2632  solr
+ 2633  cd ..
+ 2634  bin/solr start
+ 2635  z /home/badwolf/Downloads
+ 2636  cd solr-7.1.0
+ 2637  bin/solr start
+ 2638  z itdb
+ 2639  ls
+ 2640  cd Lucene
+ 2641  ls
+ 2642  libreoffice Lucene.odp
+ 2643  ls
+ 2644  cd schemaMode
+ 2645  ls
+ 2646  cd ..
+ 2647  ls
+ 2648  neo4j
+ 2649  neo4j start
+ 2650  z /home/badwolf/Downloads/solr-7.1.0
+ 2651  bin/solr create -c films
+ 2652  curl http://localhost:8983/solr/films/schema -X POST -H 'Content-type:application/json' --data-binary '{\n    "add-field" : {\n        "name":"name",\n        "type":"text_general",\n        "multiValued":false,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"initial_release_date",\n        "type":"pdate",\n        "stored":true\n    },\n    "add-field" : {\n        "name":"directed_by",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"genre",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    }\n: 1540955848:0;bin/post -c films example/films/films.json
+ 2653  z itdb
+ 2654  ls
+ 2655  cd databases/
+ 2656  ls
+ 2657  cp films.json ~/Downloads/solr-7.1.0
+ 2658  z /home/badwolf/Downloads/solr-7.1.0
+ 2659  bin/post -c films example/films/films.json
+ 2660  code sc.sh
+ 2661  bash sc.sh
+ 2662  z /home/badwolf/Downloads/solr-7.1.0
+ 2663  bin/solr stop
+ 2664  bash sc.sh
+ 2665  code sc.sh
+ 2666  bash sc.sh
+ 2667  bin/solr start
+ 2668  z itdb
+ 2669  ls
+ 2670  cd Lucene
+ 2671  ls
+ 2672  code schemaLessMode
+ 2673  cd schemaLessMode
+ 2674  ls
+ 2675  code schemaLessMode.txt
+ 2676  cd ,,
+ 2677  cd ..
+ 2678  ls
+ 2679  cd schemaMode
+ 2680  ls
+ 2681  code schemaMode.txt
+ 2682  curl http://localhost:8983/solr/films/schema -X POST -H 'Content-type:application/json' --data-binary '{\n    "add-field" : {\n        "name":"name",\n        "type":"text_general",\n        "multiValued":false,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"initial_release_date",\n        "type":"pdate",\n        "stored":true\n    },\n    "add-field" : {\n        "name":"directed_by",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"genre",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    }\n: 1540957113:0;curl http://localhost:8983/solr/films/schema/fields\n: 1540957124:0;z /home/badwolf/Downloads/solr-7.1.0
+ 2683  bin/post -c films example/films/films.json
+ 2684  bin/solr create -c films
+ 2685  curl http://localhost:8983/solr/films/schema -X POST -H 'Content-type:application/json' --data-binary '{\n    "add-field" : {\n        "name":"name",\n        "type":"text_general",\n        "multiValued":false,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"initial_release_date",\n        "type":"pdate",\n        "stored":true\n    },\n    "add-field" : {\n        "name":"directed_by",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"genre",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    }\n: 1540957212:0;bin/post -c films example/films/films.json
+ 2686  ls
+ 2687  bash sc.sh
+ 2688  bin/solr stop
+ 2689  ls
+ 2690  code sc.sh
+ 2691  ./sc.sh
+ 2692  bash sc.sh
+ 2693  bin/solr stop-all
+ 2694  bin/solr stop- all
+ 2695  bin/solr stop -all
+ 2696  ls
+ 2697  rm -rf example/films/
+ 2698  bin/solr start
+ 2699  bin/solr create -c films
+ 2700  curl http://localhost:8983/solr/films/schema -X POST -H 'Content-type:application/json' --data-binary '{\n    "add-field" : {\n        "name":"name",\n        "type":"text_general",\n        "multiValued":false,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"initial_release_date",\n        "type":"pdate",\n        "stored":true\n    },\n    "add-field" : {\n        "name":"directed_by",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"genre",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    }\n: 1540957760:0;ls
+ 2701  cd example
+ 2702  ls
+ 2703  cd files
+ 2704  ls
+ 2705  cd ..
+ 2706  bin/post -c films example/films/films.json
+ 2707  ls
+ 2708  bin/post -c films example/films/films.json
+ 2709  ls
+ 2710  bin/solr create -c films
+ 2711  ls 
+ 2712  cd example
+ 2713  ;s
+ 2714  ls
+ 2715  cd files
+ 2716  ls
+ 2717  cd ..
+ 2718  bin/solr create -c mfilms
+ 2719  curl http://localhost:8983/solr/mfilms/schema -X POST -H 'Content-type:application/json' --data-binary '{\n    "add-field" : {\n        "name":"name",\n        "type":"text_general",\n        "multiValued":false,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"initial_release_date",\n        "type":"pdate",\n        "stored":true\n    },\n    "add-field" : {\n        "name":"directed_by",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    },\n    "add-field" : {\n        "name":"genre",\n        "type":"text_general",\n        "multiValued":true,\n        "stored":true\n    }\n: 1540957900:0;bin/post -c mfilms example/mfilms/films.json
+ 2720  ls
+ 2721  bin/post -c films films.json
+ 2722  bin/post -c mfilms example/mfilms/films.json
+ 2723  ks
+ 2724  ls
+ 2725  bin/post -c mfilms films.json
+ 2726  ls
+ 2727  code db2.md
+ 2728  z os
+ 2729  mkdir assignment4
+ 2730  cd assignment
+ 2731  cd assignment4
+ 2732  ls
+ 2733  cd xv6-public-master
+ 2734  make qemu
+ 2735  ls
+ 2736  make qemu
+ 2737  sudo apt-get install libc6-dev-i386
+ 2738  make qemu
+ 2739  sudo apt-get install qemu
+ 2740  make qemu
+ 2741  cd ..
+ 2742  rm *
+ 2743  rm -r *
+ 2744  git clone git://github.com/mit-pdos/xv6-public.git
+ 2745  git clone https://github.com/mit-pdos/xv6-public.git
+ 2746  ls
+ 2747  cd xv6-public
+ 2748  make
+ 2749  make qemu -nox
+ 2750  make qemu
+ 2751  ls
+ 2752  make clean
+ 2753  ls
+ 2754  cd ..
+ 2755  ls
+ 2756  cd ..
+ 2757  ls
+ 2758  evince OS\ Assignment\ 5.pdf
+ 2759  z OS
+ 2760  ls
+ 2761  cd assignment
+ 2762  cd assignment4
+ 2763  ls
+ 2764  cd xv6-public
+ 2765  ls
+ 2766  code syscall.h
+ 2767  code defs.h
+ 2768  code syscall.h
+ 2769  code user.h
+ 2770  code sysproc.c
+ 2771  code usys.S
+ 2772  code syscall.c
+ 2773  code proc.c
+ 2774  grep "void invertcase" ./*
+ 2775  grep "invertcase" ./*
+ 2776  code ps.c
+ 2777  code Makefile
+ 2778  make
+ 2779  code syscall.h
+ 2780  make
+ 2781  sudo apt-get up
+ 2782  ls
+ 2783  clear
+ 2784  ls
+ 2785  z os
+ 2786  ls
+ 2787  cd assignment
+ 2788  ls
+ 2789  cd assignment4
+ 2790  ls
+ 2791  cd xv6-public
+ 2792  make
+ 2793  make qemu
+ 2794  code ps.c
+ 2795  make qemu
+ 2796  make
+ 2797  make qemu
+ 2798  make
+ 2799  make qemu
+ 2800  z os
+ 2801  cat .zsh_history
+ 2802  z ps
+ 2803  cd ..
+ 2804  z os
+ 2805  cd assignment4
+ 2806  cd xv6-public
+ 2807  make qemu-gdb
+ 2808  make qemu
+ 2809  make qemu-nox-gdb
+ 2810  gdb kernel
+ 2811  (gdb) target remote localhost:26000 
+ 2812  gdb
+ 2813  ls
+ 2814  z ps
+ 2815  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4
+ 2816  cd xv6-public
+ 2817  gdb kernel
+ 2818  z assignment4
+ 2819  ls
+ 2820  cd xv6-public
+ 2821  make qemu0gdb
+ 2822  make qemu-gdb
+ 2823  gdb
+ 2824  z 
+ 2825  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4
+ 2826  cd xv6-public
+ 2827  gdb
+ 2828  cd
+ 2829  mv .zsh_history .zsh_history_bad
+ 2830  fc -R .zsh_history
+ 2831  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4
+ 2832  cd xv6-public
+ 2833  ls
+ 2834  code ps.c
+ 2835  code proc.x
+ 2836  code proc.c
+ 2837  code syscall.h
+ 2838  code usys.S
+ 2839  code syscall.c
+ 2840  code sysproc.c
+ 2841  make
+ 2842  make qemu-gdb
+ 2843  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4
+ 2844  cd xv6-public
+ 2845  gdb
+ 2846  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4/xv6-public
+ 2847  make
+ 2848  code defs.h
+ 2849  make
+ 2850  make qemu
+ 2851  make qemu-gdb
+ 2852  make qemu
+ 2853  make
+ 2854  make qemu
+ 2855  make
+ 2856  make qemu
+ 2857  make
+ 2858  make qemu
+ 2859  make
+ 2860  make qemu
+ 2861  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4/xv6-public
+ 2862  grep "echo" ./*
+ 2863  code echo.c
+ 2864  ls
+ 2865  make clean
+ 2866  ls
+ 2867  grep "echo" ./*.c
+ 2868  make qemu
+ 2869  code ps.c
+ 2870  grep "ps"
+ 2871  grep "ps" ./*
+ 2872  mv ps.c invertcase.c
+ 2873  code Makefile
+ 2874  make 
+ 2875  make qemu
+ 2876  code invertcase.c
+ 2877  make qemu
+ 2878  code user.h
+ 2879  make
+ 2880  make qemu
+ 2881  ls
+ 2882  git add .
+ 2883  git commit -m "invertCaseDone"
+ 2884  make clean
+ 2885  ls
+ 2886  z /home/badwolf/Downloads
+ 2887  ./Telegram
+ 2888  virtualenv dl
+ 2889  z acads
+ 2890  ls
+ 2891  mkdir dl
+ 2892  cd dl
+ 2893  workon dl
+ 2894  mkvirtualenv dl
+ 2895  ip3 install http://download.pytorch.org/whl/cpu/torch-0.4.1-cp35-cp35m-linux_x86_64.whl
+ 2896  pip3 install http://download.pytorch.org/whl/cpu/torch-0.4.1-cp35-cp35m-linux_x86_64.whl
+ 2897  pip3 install torchvision
+ 2898  python3
+ 2899  z ssd
+ 2900  ls
+ 2901  cd ass2
+ 2902  ls
+ 2903  cd Quiz-App
+ 2904  ;s
+ 2905  ls
+ 2906  cd go
+ 2907  ls
+ 2908  ./main
+ 2909  z ssad
+ 2910  cd ass2
+ 2911  ;s
+ 2912  ls
+ 2913  cd Quiz-App
+ 2914  ls
+ 2915  cd react-app
+ 2916  ls
+ 2917  yarn 
+ 2918  yarn start
+ 2919  z ssad
+ 2920  ls
+ 2921  cd ass2
+ 2922  ls
+ 2923  cd Quiz-App
+ 2924  ls
+ 2925  cd 2017710_assign2
+ 2926  ls
+ 2927  cd ..
+ 2928  md5sum 20171170_assign2.tar.gz
+ 2929  md5sum 20171170_assign2 
+ 2930  md5sum 20171170_assign2.tar.gz
+ 2931  ls
+ 2932  mv 2017710_assign2 l
+ 2933  tar -xvf 20171170_assign2.tar.gz
+ 2934  ls
+ 2935  cd 2017710_assign2
+ 2936  ls
+ 2937  cd 
+ 2938  cd -
+ 2939  cd go
+ 2940  ls
+ 2941  ./main
+ 2942  z ssad
+ 2943  cd ass2
+ 2944  ls
+ 2945  cd Quiz-App
+ 2946  ls
+ 2947  cd 2017710_assign2
+ 2948  ls
+ 2949  cd react-app
+ 2950  ls
+ 2951  yarn
+ 2952  yarn start 
+ 2953  yarn 
+ 2954  yarn strt
+ 2955  yarn start 
+ 2956  ls
+ 2957  cd src
+ 2958  yarn
+ 2959  yarn start 
+ 2960  cd ..
+ 2961  ls
+ 2962  cd l
+ 2963  ls
+ 2964  cd ..
+ 2965  ls
+ 2966  cd 2017710_assign2
+ 2967  ls
+ 2968  cd react-app
+ 2969  ls
+ 2970  yarn start 
+ 2971  ls
+ 2972  cd src
+ 2973  ls
+ 2974  cd ..
+ 2975  ls
+ 2976  cd 2017710_assign2
+ 2977  ls
+ 2978  cd react-app
+ 2979  yarn start 
+ 2980  yarn install 
+ 2981  yarn start 
+ 2982  yarn build 
+ 2983  yarn 
+ 2984  cd ..
+ 2985  ls
+ 2986  cd ..
+ 2987  ls
+ 2988  cd l
+ 2989  ls
+ 2990  cd react-app
+ 2991  ls
+ 2992  ks
+ 2993  ls
+ 2994  cd src
+ 2995  ls
+ 2996  cd ..
+ 2997  yarn 
+ 2998  ls
+ 2999  yarn start 
+ 3000  cd ..
+ 3001  ls
+ 3002  cd ..
+ 3003  ls
+ 3004  cd react-app
+ 3005  ls
+ 3006  cp package.json ./../2017710_assign2/react-app
+ 3007  cd ..
+ 3008  cd 2017710_assign2
+ 3009  ls
+ 3010  cd react-app
+ 3011  ls
+ 3012  yarn
+ 3013  yarn start 
+ 3014  z ssad
+ 3015  cd ass2
+ 3016  ls
+ 3017  cd Q
+ 3018  cd Quiz-App
+ 3019  ls
+ 3020  cd 2017710_assign2
+ 3021  ls
+ 3022  cd go
+ 3023  ls
+ 3024  code models.go
+ 3025  ls
+ 3026  cd ..
+ 3027  ls
+ 3028  clear
+ 3029  ls
+ 3030  l
+ 3031  ll
+ 3032  l
+ 3033  ls
+ 3034  clear
+ 3035  yes
+ 3036  as
+ 3037  Z SSAD
+ 3038  z ssad
+ 3039  ls
+ 3040  cd project
+ 3041  ls
+ 3042  cd SSAD12
+ 3043  ls
+ 3044  cd src
+ 3045  ls
+ 3046  cd superset
+ 3047  ls
+ 3048  cd ..
+ 3049  cd ,,
+ 3050  ls
+ 3051  z ssad
+ 3052  mkdir work
+ 3053  cd work
+ 3054  cd -
+ 3055  ls
+ 3056  cd superset
+ 3057  ls
+ 3058  cp config.py ./../../../../work
+ 3059  cd ..
+ 3060  cp -r dummy_flask_app ./../../../work/
+ 3061  z work
+ 3062  ls
+ 3063  code config.py
+ 3064  ls
+ 3065  cd dummy_flask_app
+ 3066  ls
+ 3067  code config.py
+ 3068  cd ..
+ 3069  code credentials.txt
+ 3070  ls
+ 3071  cd dummy_flask_app
+ 3072  ls
+ 3073  code README.md
+ 3074  ls
+ 3075  code README.md
+ 3076  ls
+ 3077  workon ssad
+ 3078  pip freeze requirements.txt
+ 3079  ls
+ 3080  code README.md
+ 3081  pip freeze >  requirements.txt
+ 3082  code requirements.txt
+ 3083  cd ..
+ 3084  ls
+ 3085  code readme.txt
+ 3086  ls
+ 3087  code 
+ 3088  z cl1
+ 3089  code assignment3
+ 3090  code assignment3_part1.md
+ 3091  ls
+ 3092  clear
+ 3093  ls
+ 3094  clear
+ 3095  echo "hi"
+ 3096  ls
+ 3097  clear
+ 3098  ls
+ 3099  clear
+ 3100  ls
+ 3101  cd P
+ 3102  cd Public
+ 3103  ls
+ 3104  clear
+ 3105  cd ..
+ 3106  cd med
+ 3107  cd /
+ 3108  cd media
+ 3109  ls
+ 3110  cd badwolf
+ 3111  ls
+ 3112  clear
+ 3113  cd Windows
+ 3114  ls
+ 3115  clear
+ 3116  ls
+ 3117  cd Config.Msi
+ 3118  ls
+ 3119  clear
+ 3120  ls
+ 3121  cd ..
+ 3122  ls
+ 3123  z os
+ 3124  ls
+ 3125  cd 20171170_assgn4
+ 3126  ls
+ 3127  cd ..
+ 3128  ls
+ 3129  xs assignment
+ 3130  cd assignment4
+ 3131  ls
+ 3132  cd xv6-public
+ 3133  ls
+ 3134  evince OS\ Assignment\ 5.pdf &
+ 3135  ls
+ 3136  cd ..
+ 3137  ls
+ 3138  cd ..
+ 3139  evince OS\ Assignment\ 5.pdf 
+ 3140  evince OS\ Assignment\ 5.pdf &
+ 3141  ls
+ 3142  cd assignment4
+ 3143  ;s
+ 3144  ls
+ 3145  cd xv6-public
+ 3146  ls
+ 3147  man diff
+ 3148  diff ./* XV6-Scheduler-master/
+ 3149  diff ./* XV6-Scheduler-master/cop4610-proj4-vp15g/*
+ 3150  man diff
+ 3151  diff ./*
+ 3152  diff ./* XV6-Scheduler-master/cop4610-proj4-vp15g/* > diff.txt
+ 3153  diff -w ./* XV6-Scheduler-master/cop4610-proj4-vp15g/* | more
+ 3154  ls
+ 3155  cat bootasm.S
+ 3156  diff -w ./*.c XV6-Scheduler-master/cop4610-proj4-vp15g/*.c | more
+ 3157  diff -r ./* XV6-Scheduler-master/cop4610-proj4-vp15g/* | more
+ 3158  ls
+ 3159  ;s
+ 3160  ls
+ 3161  diff -r ./* XV6-Scheduler-master/cop4610-proj4-vp15g/* 
+ 3162  diff --brief -Nr ./ ./X
+ 3163  diff --brief -Nr ./ ./XV6-Scheduler-master/
+ 3164  diff --brief -W -Nr ./ ./XV6-Scheduler-master/
+ 3165  diff --brief -w -Nr ./ ./XV6-Scheduler-master/
+ 3166  diff --brief -w  ./ ./XV6-Scheduler-master/
+ 3167  ls
+ 3168  clear
+ 3169  rm -r XV6-Scheduler-master
+ 3170  ls
+ 3171  cra
+ 3172  ls
+ 3173  clear
+ 3174  cd ..
+ 3175  ls
+ 3176  cd xv6-public
+ 3177  ls
+ 3178  grep "struct proc" ./*
+ 3179  code defs.h
+ 3180  ls
+ 3181  grep "struct proc" ./*
+ 3182  code proc.h
+ 3183  code proc.c
+ 3184  code exec.c
+ 3185  make
+ 3186  \tghc 2.hs
+ 3187  make
+ 3188  make qemu
+ 3189  make clean
+ 3190  ls
+ 3191  cd XV6-Scheduler-master
+ 3192  ls
+ 3193  cd cop4610-proj4-vp15g
+ 3194  ls
+ 3195  grep "ps" ./*
+ 3196  code *.c *.h
+ 3197  make 
+ 3198  ls
+ 3199  make qemu
+ 3200  make
+ 3201  ls
+ 3202  cd src
+ 3203  ls
+ 3204  ks
+ 3205  ls
+ 3206  yarn 
+ 3207  yarn start 
+ 3208  yarn
+ 3209  cd ..
+ 3210  ls
+ 3211  yarn 
+ 3212  yarn start 
+ 3213  ls
+ 3214  cd src
+ 3215  ls
+ 3216  cd components
+ 3217  ls
+ 3218  cd ..
+ 3219  yarn s
+ 3220  yarn 
+ 3221  ls
+ 3222  node 
+ 3223  npm install
+ 3224  cd ..
+ 3225  ls
+ 3226  npm start
+ 3227  yarn start
+ 3228  ls
+ 3229  cd src
+ 3230  ls
+ 3231  yarn start
+ 3232  yae\rn
+ 3233  yarn
+ 3234  yarn start
+ 3235  ls
+ 3236  z /home/badwolf/Documents
+ 3237  ls
+ 3238  cd 20171209
+ 3239  ls
+ 3240  go run 5\ -\ CRUD\ API.go
+ 3241  go
+ 3242  z ls
+ 3243  cd ..
+ 3244  ls
+ 3245  cd ..
+ 3246  z ssad
+ 3247  ls
+ 3248  cd ass2
+ 3249  ls
+ 3250  cd Quiz-App
+ 3251  ;s;
+ 3252  ls
+ 3253  cd react-app
+ 3254  ls
+ 3255  cd src
+ 3256  ls
+ 3257  cd components
+ 3258  ls
+ 3259  code App.js
+ 3260  grep "local" ./*
+ 3261  code Login_r.js
+ 3262  ls
+ 3263  clear
+ 3264  ls
+ 3265  clear
+ 3266  ls
+ 3267  clear
+ 3268  ls
+ 3269  clear
+ 3270  ls
+ 3271  clear
+ 3272  workon dl
+ 3273  z dl
+ 3274  ls
+ 3275  pwd
+ 3276  cd ..
+ 3277  ls
+ 3278  z acadwsw
+ 3279  z acads
+ 3280  cd dl
+ 3281  ls
+ 3282  pwd
+ 3283  python4
+ 3284  python3
+ 3285  sudo apt0get install ipython3
+ 3286  sudo apt-get install ipython3
+ 3287  ipython3
+ 3288  pip3 install IPython
+ 3289  ipython3
+ 3290  ls
+ 3291  clear
+ 3292  ls
+ 3293  clear
+ 3294  pip3 install numpy
+ 3295  i
+ 3296  ipython3
+ 3297  pip3 install matplotlib
+ 3298  ipython3
+ 3299  sudo apt-get install openvpn
+ 3300  sudo apt-get openvpn 
+ 3301  reboot
+ 3302  ls
+ 3303  clear
+ 3304  ls
+ 3305  clear
+ 3306  sudo openvpn --config ~/Documents/ubuntu.ovpn 
+ 3307  sudo apt-get openvpn 
+ 3308  sudo apt install openvpn
+ 3309  sudo openvpn --config ~/Documents/ubuntu.ovpn 
+ 3310  ls
+ 3311  z os
+ 3312  cd assignment4
+ 3313  ls
+ 3314  cd xv6-public
+ 3315  ls
+ 3316  code syscall.h
+ 3317  ls
+ 3318  code defs.h
+ 3319  code user.h
+ 3320  code sysproc.c
+ 3321  code usys.S
+ 3322  code syscall.c
+ 3323  code proc.c
+ 3324  code proc.h
+ 3325  code pstat.h
+ 3326  code ps.c
+ 3327  make
+ 3328  ;ls
+ 3329  ls
+ 3330  make
+ 3331  code param.h
+ 3332  make
+ 3333  code Makefile
+ 3334  make
+ 3335  code kill.c
+ 3336  ls
+ 3337  cd xv6-kernel-modified-master
+ 3338  ls
+ 3339  make
+ 3340  cd xv6
+ 3341  make
+ 3342  ls
+ 3343  make
+ 3344  cd fs
+ 3345  ls
+ 3346  touch README
+ 3347  cd ..
+ 3348  male
+ 3349  make
+ 3350  rm fs
+ 3351  rm fs -r
+ 3352  make
+ 3353  ls
+ 3354  make
+ 3355  make qemu
+ 3356  make
+ 3357  code Makefile
+ 3358  make
+ 3359  make qemu
+ 3360  code Makefile
+ 3361  make
+ 3362  make 
+ 3363  make
+ 3364  make qemy
+ 3365  make 
+ 3366  make
+ 3367  cd //
+ 3368  cd -
+ 3369  cd ..
+ 3370  rm -r xv6-kernel-modified-master
+ 3371  git clone https://github.com/shixuan-fan/xv6-kernel-modified.git
+ 3372  cd xv6-kernel-modified
+ 3373  ls
+ 3374  cd xv6
+ 3375  make
+ 3376  cd ..
+ 3377  ls
+ 3378  cd ,,
+ 3379  cd ..
+ 3380  rm xv6-kernel-modified
+ 3381  rm  -r xv6-kernel-modified
+ 3382  ls
+ 3383  git clone https://github.com/belfazt/xv6.git
+ 3384  cd xv6
+ 3385  ls
+ 3386  make
+ 3387  code /usr/include/assert.h
+ 3388  make
+ 3389  make qemu
+ 3390  cd ..
+ 3391  rm -r xv6
+ 3392  git clone https://github.com/Eencsio/xv6-OS.git
+ 3393  ls
+ 3394  cd xv6-OS
+ 3395  ls
+ 3396  make
+ 3397  z assignment4
+ 3398  cd xv6-public
+ 3399  ls
+ 3400  make
+ 3401  code proc.c
+ 3402  make
+ 3403  make qemu
+ 3404  git add .
+ 3405  ls
+ 3406  cd Do
+ 3407  cd Documents
+ 3408  ls
+ 3409  cd 20171209/
+ 3410  ls
+ 3411  rm -r xv6-OS
+ 3412  git clone https://github.com/william-cheung/xv6-public.git
+ 3413  cd xv6-public
+ 3414  ls
+ 3415  make
+ 3416  make qemu
+ 3417  code syscall.c
+ 3418  make
+ 3419  make qemu
+ 3420  ls
+ 3421  make
+ 3422  make qemu
+ 3423  z os
+ 3424  cd assignment4
+ 3425  cd xv6-public
+ 3426  ls
+ 3427  make
+ 3428  code proc.c
+ 3429  ls
+ 3430  code syscall.h
+ 3431  code defs.h
+ 3432  code user.h
+ 3433  code sysproc.c
+ 3434  code usys.S
+ 3435  code syscall.c
+ 3436  code proc.c
+ 3437  code ps.c
+ 3438  code Makefile
+ 3439  make
+ 3440  make qemu
+ 3441  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4/xv6-public
+ 3442  make
+ 3443  make qemy
+ 3444  make qemu
+ 3445  make
+ 3446  make qemu
+ 3447  make
+ 3448  make qemu
+ 3449  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4/xv6-public
+ 3450  git add .
+ 3451  git commit -m "ps done"
+ 3452  git push origin master 
+ 3453  git add .
+ 3454  ls
+ 3455  code proc.c
+ 3456  code sysproc.c
+ 3457  code set_priority.c
+ 3458  code exec.c
+ 3459  code syscall.c
+ 3460  code syscall.h
+ 3461  code defs.h
+ 3462  code user.h
+ 3463  code sysproc.c
+ 3464  code usys.S
+ 3465  code syscall.h
+ 3466  code syscall.c
+ 3467  code proc.c
+ 3468  make
+ 3469  make qemu 
+ 3470  ls
+ 3471  make clean
+ 3472  code Makefile
+ 3473  make
+ 3474  make clean
+ 3475  make qemu 
+ 3476  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4/xv6-public
+ 3477  ls
+ 3478  make clean
+ 3479  ls
+ 3480  rm -r XV6-Scheduler-master
+ 3481  rm -r XV6-Scheduler-master.zip 
+ 3482  ls
+ 3483  make clean
+ 3484  ls
+ 3485  git add .
+ 3486  git commit -m "Set priority done"
+ 3487  ls
+ 3488  git remote rm origin
+ 3489  ls
+ 3490  cd ..
+ 3491  ls
+ 3492  cd ..
+ 3493  git add .
+ 3494  git commit -m "Os q1,2 done assignment 5 "
+ 3495  git push origin master 
+ 3496  z os
+ 3497  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/assignment4/xv6-public
+ 3498  ls
+ 3499  cd ,,
+ 3500  cd ..
+ 3501  l
+ 3502  ls
+ 3503  cd xv6-public
+ 3504  ks
+ 3505  ls
+ 3506  cleae
+ 3507  code syscall.c
+ 3508  make 
+ 3509  make clean
+ 3510  make qemu 
+ 3511  ;s
+ 3512  ls
+ 3513  clear
+ 3514  ls
+ 3515  clear
+ 3516  ls
+ 3517  clear
+ 3518  ls
+ 3519  clear
+ 3520  ls
+ 3521  clear
+ 3522  ls
+ 3523  clear
+ 3524  code\\n
+ 3525  ls
+ 3526  z acads
+ 3527  ls
+ 3528  git push origin master
+ 3529  ls
+ 3530  lss
+ 3531  ls
+ 3532  z assignment4
+ 3533  cd xv6-public
+ 3534  ls
+ 3535  make clean
+ 3536  ls
+ 3537  code Makefile
+ 3538  code tester.c
+ 3539  make
+ 3540  make clean
+ 3541  make qemu 
+ 3542  make 
+ 3543  make qemu 
+ 3544  make clean
+ 3545  make
+ 3546  make qemu
+ 3547  make 
+ 3548  make qemu
+ 3549  make
+ 3550  make qemu
+ 3551  code proc.c
+ 3552  make
+ 3553  make clean
+ 3554  make qemu
+ 3555  code ps.c
+ 3556  code proc.c
+ 3557  make
+ 3558  make qemu
+ 3559  make
+ 3560  make qemu
+ 3561  make
+ 3562  make qemu
+ 3563  make
+ 3564  make qemu
+ 3565  ls
+ 3566  make clean
+ 3567  ls
+ 3568  make clean
+ 3569  ls
+ 3570  cd ..
+ 3571  cd -
+ 3572  git add .
+ 3573  git commit -m "report left"
+ 3574  ls
+ 3575  sudo apt-get upgrade 
+ 3576  python3
+ 3577  workon dl
+ 3578  pip3 install nltk
+ 3579  python3
+ 3580  ipython3
+ 3581  workon dl
+ 3582  ipython3
+ 3583  z assignment4
+ 3584  ls
+ 3585  cd xv6-public
+ 3586  ls
+ 3587  make clean
+ 3588  ks
+ 3589  ls
+ 3590  cd ..
+ 3591  ls
+ 3592  code report.md
+ 3593  cd -
+ 3594  make 
+ 3595  make qemu
+ 3596  make
+ 3597  make qemu
+ 3598  z assignment4
+ 3599  cd xv6-public
+ 3600  ks
+ 3601  ls
+ 3602  make clean
+ 3603  ls
+ 3604  make qemu
+ 3605  z assignment4
+ 3606  cd xv6-public
+ 3607  ls
+ 3608  make qemu
+ 3609  make 
+ 3610  make qemu;
+ 3611  z assignment4
+ 3612  ls
+ 3613  cd xv6-public
+ 3614  ls
+ 3615  make clee
+ 3616  make clean
+ 3617  make qemu;
+ 3618  time
+ 3619  code proc.c
+ 3620  make
+ 3621  make qemu;
+ 3622  ls
+ 3623  z assignment4
+ 3624  cd xv6-public
+ 3625  make qemu;
+ 3626  make
+ 3627  make qemu;
+ 3628  code syscall.c
+ 3629  make 
+ 3630  make qemu;
+ 3631  ls
+ 3632  make clean
+ 3633  ls
+ 3634  clear
+ 3635  ls
+ 3636  cd ..
+ 3637  ls
+ 3638  sudo openvpn --config ~/Documents/ubuntu.ovpn 
+ 3639  ls
+ 3640  pip3 install matplotlib
+ 3641  ipython3
+ 3642  workon dl
+ 3643  ipython3
+ 3644  z haskell
+ 3645  ls
+ 3646  mkdir t
+ 3647  cd t
+ 3648  ls
+ 3649  code main.hs
+ 3650  vim main.hs
+ 3651  ghci
+ 3652  code hangman.hs
+ 3653  ghci
+ 3654  runhaskell hangman.hs
+ 3655  ghc hangman.hs
+ 3656  ./hangman
+ 3657  ls
+ 3658  rm *
+ 3659  code hangman.hs
+ 3660  runhaskell hangman.hs
+ 3661  z haskell
+ 3662  cd t
+ 3663  ls
+ 3664  runhaskell hangman.hs
+ 3665  ghci
+ 3666  runhaskell hangman.hs
+ 3667  ghci
+ 3668  runhaskell hangman.hs
+ 3669  z Monads
+ 3670  ghc hangman.hs
+ 3671  ghc -v hangman.hs
+ 3672  ghc hangman.hs
+ 3673  ./hangman
+ 3674  ghc hangman.hs
+ 3675  ./hangman
+ 3676  ghc hangman.hs
+ 3677  ./hangman
+ 3678  ghc hangman.hs
+ 3679  ./hangman
+ 3680  ghc hangman.hs
+ 3681  ./hangman
+ 3682  ghc hangman.hs
+ 3683  ./hangman
+ 3684  ghc hangman.hs
+ 3685  ./hangman
+ 3686  ghc hangman.hs
+ 3687  ./hangman
+ 3688  ghc hangman.hs
+ 3689  ./hangman
+ 3690  ghc hangman.hs
+ 3691  ./hangman
+ 3692  ghc hangman.hs
+ 3693  ./hangman
+ 3694  ghc hangman.hs
+ 3695  ./hangman
+ 3696  ghc hangman.hs
+ 3697  ls
+ 3698  ghc hangman.hs
+ 3699  ./hangman
+ 3700  ghc hangman.hs
+ 3701  ./hangman
+ 3702  ghc hangman.hs
+ 3703  ./hangman
+ 3704  ghc hangman.hs
+ 3705  ls
+ 3706  ghc hangman.hs
+ 3707  ghci
+ 3708  ghc hangman.hs
+ 3709  ./hangman
+ 3710  ghc hangman.hs
+ 3711  ./hangman
+ 3712  ghc hangman.hs
+ 3713  ./hangman
+ 3714  ghc hangman.hs
+ 3715  ./hangman
+ 3716  ghc hangman.hs
+ 3717  ./hangman
+ 3718  z ssad
+ 3719  ls
+ 3720  cd project
+ 3721  ls
+ 3722  cd SSAD12
+ 3723  git pull origin development
+ 3724  ls
+ 3725  cd documents
+ 3726  ls
+ 3727  code ProjectConcept.odt
+ 3728  libreoffice ProjectConcept.odt
+ 3729  code SRS.md
+ 3730  ls
+ 3731  libreoffice TestPlan.ods
+ 3732  libreoffice ProjectPlan.odt
+ 3733  ls
+ 3734  code StatusTracker.ods
+ 3735  libreoffice StatusTracker.ods
+ 3736  git add ,
+ 3737  git add .
+ 3738  git commit -m "Updated the scopes"
+ 3739  git push origin development
+ 3740  ls
+ 3741  code SRS.md
+ 3742  z acads
+ 3743  git add .
+ 3744  git commit -m "Hangman:\n"
+ 3745  git commit -m "Hangman"
+ 3746  git push origin master
+ 3747  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys D6BC243565B2087BC3F897C9277A7293F59E4889
+ 3748  echo "deb http://miktex.org/download/ubuntu xenial universe" | sudo tee /etc/apt/sources.list.d/miktex.list
+ 3749  sudo apt-get update
+ 3750  sudo apt-get install miktex
+ 3751  sudo apt-get install tex-live
+ 3752  sudo apt-get install texlive
+ 3753  sudo apt-get purge miktex
+ 3754  z ht
+ 3755  z t
+ 3756  ls
+ 3757  code hangman.hs
+ 3758  ghci
+ 3759  ghc hangman.hs
+ 3760  ./hangman
+ 3761  git add .
+ 3762  git commit -m "Buffer , Alphabet done"
+ 3763  git push origin master
+ 3764  ./hangman
+ 3765  ghc hangman.hs
+ 3766  ./hangman
+ 3767  ghc hangman.hs
+ 3768  ./hangman
+ 3769  ghc hangman.hs
+ 3770  ./hangman
+ 3771  z /home/badwolf/Downloads
+ 3772  ls
+ 3773  cd 20171209/
+ 3774  ls
+ 3775  pwd
+ 3776  ls
+ 3777  cd 20171209/
+ 3778  ls
+ 3779  cd ..
+ 3780  z /home/badwolf/Documents
+ 3781  cd 20171209/
+ 3782  ls
+ 3783  pwd
+ 3784  ls wordnet20-from-prolog-all-3.sql
+ 3785  pwd
+ 3786  mysql -u root -p 
+ 3787  z Documents
+ 3788  cd 20171209/
+ 3789  ls
+ 3790  rm wordnet*
+ 3791  ls
+ 3792  rm WordNet-3.0.tar.gz
+ 3793  ls
+ 3794  rm control-monad-loop-0.1.tar.gz
+ 3795  ls
+ 3796  mysql -u root -p 
+ 3797  pwd
+ 3798  ls englishdictionary.sql
+ 3799  mysql -u root -p 
+ 3800  z 20171170
+ 3801  cd -
+ 3802  z /home/badwolf/Documents/20171209
+ 3803  pwd
+ 3804  mysql -u root -p 
+ 3805  mysql -u root -p password data < englishdictionary.sql
+ 3806  mysql -u root  data < englishdictionary.sql
+ 3807  mysql -u root  -p data < englishdictionary.sql
+ 3808  mysql -u root -p 
+ 3809  mysql -u root  data < englishdictionary.sql
+ 3810  mysql -u root -p data < englishdictionary.sql
+ 3811  mysql -u root -p 
+ 3812  cd Documents
+ 3813  cd 20171209
+ 3814  ls
+ 3815  ghci
+ 3816  code dictionary.csv
+ 3817  z t
+ 3818  ghc hangman.hs
+ 3819  ./hangman
+ 3820  touch path
+ 3821  ./hangman
+ 3822  ghc hangman.hs
+ 3823  ./hangman
+ 3824  ghc hangman.hs
+ 3825  ./hangman
+ 3826  ghc hangman.hs
+ 3827  ghci
+ 3828  ghc hangman.hs
+ 3829  ghci
+ 3830  ./hangman
+ 3831  ghci
+ 3832  ghc hangman.hs
+ 3833  ./hangman
+ 3834  ghci
+ 3835  ./hangman
+ 3836  ghci
+ 3837  ghc hangman.hs
+ 3838  ghci
+ 3839  ghc hangman.hs
+ 3840  ./hangman
+ 3841  cp ~/Documents/20171209/dictionary.csv ./
+ 3842  ls
+ 3843  ghc hangman.hs
+ 3844  ghci
+ 3845  z t
+ 3846  ghc hangman.hs
+ 3847  ./hangman
+ 3848  ghci
+ 3849  ghc hangman.hs
+ 3850  ./hangman
+ 3851  ghc hangman.hs
+ 3852  ./hangman
+ 3853  ghc hangman.hs
+ 3854  ./hangman
+ 3855  ghc hangman.hs
+ 3856  ghc hangman.hs\n: 1541763403:0;ghc hangman.hs
+ 3857  ./hangman
+ 3858  ghc hangman.hs
+ 3859  ./hangman
+ 3860  ghci
+ 3861  ghc hangman.hs
+ 3862  ./hangman
+ 3863  ghc hangman.hs
+ 3864  ./hangman
+ 3865  ghc hangman.hs
+ 3866  ./hangman
+ 3867  ghc hangman.hs
+ 3868  ./hangman
+ 3869  ghc hangman.hs
+ 3870  ./hangman
+ 3871  ghc hangman.hs
+ 3872  ghci
+ 3873  ghc hangman.hs
+ 3874  ghci
+ 3875  ghc hangman.hs
+ 3876  ./hangman
+ 3877  ghc hangman.hs
+ 3878  ./hangman
+ 3879  ghc hangman.hs
+ 3880  ./hangman
+ 3881  ghc hangman.hs
+ 3882  ./hangman
+ 3883  ghc hangman.hs
+ 3884  lls
+ 3885  ls
+ 3886  rm path
+ 3887  ls
+ 3888  ./hangman
+ 3889  ls
+ 3890  code hangman.hs
+ 3891  ./hangman
+ 3892  ls
+ 3893  code hangman.hs
+ 3894  ghc hangman.hs
+ 3895  ls
+ 3896  ./hangman
+ 3897  cd acads
+ 3898  z acads
+ 3899  ls
+ 3900  mkdir latex
+ 3901  cd latex
+ 3902  ls
+ 3903  code first.tex
+ 3904  tex first.tex
+ 3905  ls
+ 3906  evince first.pdf
+ 3907  rm *
+ 3908  code first.tex
+ 3909  ls
+ 3910  evince first.pdf &
+ 3911  ls
+ 3912  rm *
+ 3913  code myfirsttree.tex
+ 3914  evince myfirsttree.pdf
+ 3915  ls
+ 3916  z t
+ 3917  ls
+ 3918  cd ..
+ 3919  ls
+ 3920  cd ..
+ 3921  ks
+ 3922  ls
+ 3923  cd latex
+ 3924  ls
+ 3925  code myfirsttree.tex
+ 3926  evince myfirsttree.pdf
+ 3927  z ssad
+ 3928  cd SSAD12
+ 3929  ls
+ 3930  cd project
+ 3931  ls
+ 3932  cd SSAD12
+ 3933  cp myfirsttree.pdf l.pdf
+ 3934  ls
+ 3935  cd diagrams
+ 3936  cd ,,
+ 3937  cd ..
+ 3938  git pull origin development
+ 3939  ls
+ 3940  cd documents
+ 3941  ls
+ 3942  code contributors.md
+ 3943  ls
+ 3944  cd SRS.md
+ 3945  code SRS.md
+ 3946  code tofix.md
+ 3947  libreoffice StatusTracker.ods
+ 3948  ls
+ 3949  libreoffice ProjectPlan.odt
+ 3950  ls
+ 3951  libreoffice TestPlan.ods
+ 3952  ls
+ 3953  libreoffice ProjectPlan.odt
+ 3954  ls
+ 3955  git add .
+ 3956  git commit -m "Documentation fixes , issues that neeeds to be done"
+ 3957  git push origin development
+ 3958  libreoffice ProjectPlan.odt
+ 3959  ls
+ 3960  clear
+ 3961  git add ,
+ 3962  git add .
+ 3963  git commit -m 'Fixed Project Plan dates"
+ 3964  git commit -m "Fixed Project Plan dates"
+ 3965  git push origin development
+ 3966  l
+ 3967  ls
+ 3968  clear
+ 3969  evince design_document.pdf
+ 3970  code tofix.md
+ 3971  code SRS.md
+ 3972  ls
+ 3973  clear
+ 3974  ls
+ 3975  clear
+ 3976  git add .
+ 3977  git commit -m "Updated issues"
+ 3978  git push origin development
+ 3979  ls
+ 3980  evince design_document.pdf
+ 3981  git pull origin development
+ 3982  git add .
+ 3983  git pull origin development
+ 3984  git commit -m "Fixed mistakes in SRS"
+ 3985  git pull origin development
+ 3986  ls
+ 3987  clear
+ 3988  ls
+ 3989  git pull origin development
+ 3990  ls
+ 3991  git pull origin development
+ 3992  ls
+ 3993  cd ..
+ 3994  ls
+ 3995  cd feedback
+ 3996  ls
+ 3997  code r1_feedback.txt
+ 3998  ls
+ 3999  cd ..
+ 4000  ls
+ 4001  cd meeting_minutes
+ 4002  ls
+ 4003  clear
+ 4004  cd ..
+ 4005  ls
+ 4006  cd diagrams
+ 4007  ls
+ 4008  cd ..
+ 4009  ls
+ 4010  ./a.out
+ 4011  ls
+ 4012  rm a.out
+ 4013  ls
+ 4014  mv issues_faced.md documents
+ 4015  ls
+ 4016  clear
+ 4017  git pull origin development
+ 4018  git add .
+ 4019  git commit -m "Feedback , restructuring "
+ 4020  git pull origin development
+ 4021  git push origin development
+ 4022  ls
+ 4023  clerar
+ 4024  cd ssad
+ 4025  z SSAD12
+ 4026  ls
+ 4027  cd documents
+ 4028  ls
+ 4029  libreoffice TestPlan.ods
+ 4030  code tofix.md
+ 4031  libreoffice TestPlan.ods
+ 4032  ls
+ 4033  git add ,.
+ 4034  git add .
+ 4035  git commit -m "Updated test doc"
+ 4036  git push origin development
+ 4037  git pull origin development
+ 4038  rm tofix.md
+ 4039  ls
+ 4040  git add .
+ 4041  git commit -m "remwed the todo list"
+ 4042  git push origin development
+ 4043  git pull origin development
+ 4044  git push origin development
+ 4045  evince l.pdf&
+ 4046  code myfirsttree.tex
+ 4047  evince l.pdf &
+ 4048  z cl1
+ 4049  ls
+ 4050  evince Assignment3.pdf &
+ 4051  ls
+ 4052  evince Assignment\ 3.pdf &
+ 4053  z l
+ 4054  ls
+ 4055  evince myfirsttree.pdf& 
+ 4056  sudo apt-get install kazam
+ 4057  ps
+ 4058  sudo add-apt-repository ppa:kazam-team/unstable-series
+ 4059  sudo apt-get update
+ 4060  sudo apt-get install kazam python3-cairo python3-xlib
+ 4061  sudo add-apt-repository ppa:bigwhale/kazam-oneric && sudo apt-get update && sudo apt-get upgrade && sudo apt-get install kazam
+ 4062  kazam
+ 4063  ps -ef
+ 4064  ps -ef | grep "kazam"
+ 4065  kill -9 26840
+ 4066  kill -9 26480
+ 4067  ps -ef | grep "kazam"
+ 4068  kill -9 26702
+ 4069  ps -ef | grep "kazam"
+ 4070  sudo apt-get purge kazam
+ 4071  sudo apt-get install kazam python3-cairo python3-xlib
+ 4072  \t  sudo apt-get update && sudo apt-get install ffmpeg
+ 4073  sudo add-apt-repository ppa:obsproject/obs-studio\n  sudo apt-get update\n  sudo apt-get install obs-studio
+ 4074  sudo apt-get update
+ 4075  ls
+ 4076  superset runserver -d
+ 4077  workon ssad
+ 4078  superset runserver -d
+ 4079  workon ssad
+ 4080  superset runserver -d
+ 4081  workon ssad
+ 4082  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/ssad/project/SSAD12/src/dummy_flask_app
+ 4083  python3 main.py
+ 4084  ls
+ 4085  python3 run.py
+ 4086  z /home/badwolf/.virtualenvs
+ 4087  cd ssad
+ 4088  ls
+ 4089  cd bin
+ 4090  ks
+ 4091  ls
+ 4092  cin python3.5
+ 4093  cd python3.5
+ 4094  cd python3
+ 4095  ls
+ 4096  cd ..
+ 4097  cd include
+ 4098  ls
+ 4099  cd python3.5m
+ 4100  ls
+ 4101  cd ..
+ 4102  ls
+ 4103  cd ..
+ 4104  ls
+ 4105  cd lib
+ 4106  ls
+ 4107  cd python3.5/
+ 4108  ls
+ 4109  cd site-packages
+ 4110  cd superset
+ 4111  cd connectors
+ 4112  cd ..
+ 4113  l
+ 4114  code config.py
+ 4115  workon ssad
+ 4116  superset runserver -d
+ 4117  z ssad
+ 4118  z SSAD12
+ 4119  ls
+ 4120  cd documents
+ 4121  ls
+ 4122  code contributors.md
+ 4123  mkdir contributors
+ 4124  cd contributors
+ 4125  code contributors.tex
+ 4126  z l
+ 4127  ls
+ 4128  code myfirsttree.tex
+ 4129  z ssad
+ 4130  ls
+ 4131  z l
+ 4132  code myfirsttree.tex
+ 4133  evince myfirsttree.pdf &
+ 4134  code t
+ 4135  code myfirsttree.tex
+ 4136  evince l
+ 4137  ls
+ 4138  evince l.pdf
+ 4139  ls
+ 4140  code myfirsttree.tex
+ 4141  evince myfirsttree.pdf &
+ 4142  evince myfirsttree.pdf 
+ 4143  z cl1
+ 4144  evince Ae
+ 4145  evince Assignment\ 3.pdf &
+ 4146  cd -
+ 4147  evince myfirsttree.pdf &
+ 4148  git add ,
+ 4149  git add .
+ 4150  git commit -m ""
+ 4151  git commit -m "asd"
+ 4152  git add .
+ 4153  git commit -m "Add SP trees " 
+ 4154  ls
+ 4155  cd
+ 4156  code ran
+ 4157  z cl1
+ 4158  git pull https://github.com/saujasv/hierarchical-rnn.git
+ 4159  ls
+ 4160  ls -a
+ 4161  ls
+ 4162  mkdir project
+ 4163  cd project
+ 4164  git clone https://github.com/saujasv/hierarchical-rnn.git
+ 4165  ls
+ 4166  cd hierarchical-rnn
+ 4167  ls
+ 4168  cd scope
+ 4169  ls
+ 4170  cd ..
+ 4171  ls
+ 4172  z cl1
+ 4173  ls
+ 4174  cd project
+ 4175  ls
+ 4176  ks
+ 4177  ls
+ 4178  cd hierarchical-rnn
+ 4179  ls
+ 4180  cd generate
+ 4181  ls
+ 4182  python3 generate.py
+ 4183  code generate.py
+ 4184  python3 generate.py
+ 4185  workon dl
+ 4186  python3 generate.py
+ 4187  z /home/badwolf/Documents/20171209
+ 4188  code seq2seq_translation_tutorial.py
+ 4189  python3 generate.py > out.txt
+ 4190  cd no_agreement_grammars
+ 4191  cd ..
+ 4192  gedit out.txt
+ 4193  sed -i -e "s/(\'//g" out.txt
+ 4194  sed -i -e "s/('//g" out.txt
+ 4195  sed -i -e "s/')//g" out.txt
+ 4196  gedit out.txt
+ 4197  sed -i -e "s/'//g" out.txt
+ 4198  gedit out.txt
+ 4199  ghci
+ 4200  z cd t
+ 4201  ls
+ 4202  code hangman.hs
+ 4203  code outputclean.hs
+ 4204  code outputclean.py
+ 4205  python3 outputclean.py
+ 4206  python3 
+ 4207  code outputclean.py
+ 4208  python3 outputclean.py
+ 4209  gedit output.txt
+ 4210  python3 outputclean.py
+ 4211  ls
+ 4212  tar -xvf data.zip
+ 4213  cd data
+ 4214  ls
+ 4215  code eng-fra.txt
+ 4216  python3 outputclean.py
+ 4217  python3 outputclean.py > output.txt
+ 4218  cat output
+ 4219  cat output.txt
+ 4220  code output.txt
+ 4221  python3 outputclean.py > output.txt
+ 4222  code output.txt
+ 4223  code eng-fra.txt
+ 4224  ls
+ 4225  cp output.txt ~/Documents/20171209
+ 4226  workon dl
+ 4227  cd ..
+ 4228  python3 seq2seq_translation_tutorial.py
+ 4229  python seq2seq_translation_tutorial.py
+ 4230  python3 seq2seq_translation_tutorial.py
+ 4231  python seq2seq_translation_tutorial.py
+ 4232  python3 seq2seq_translation_tutorial.py
+ 4233  z os
+ 4234  ks
+ 4235  ls
+ 4236  l
+ 4237  ]
+ 4238  ls
+ 4239  python3 seq2seq_translation_tutorial.py
+ 4240  code output.txt
+ 4241  python3 seq2seq_translation_tutorial.py
+ 4242  z /home/badwolf/Documents/20171209
+ 4243  code seq2seq_translation_tutorial.py
+ 4244  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/cl1/project
+ 4245  ls
+ 4246  cd hierarchical-rnn
+ 4247  ls
+ 4248  cd generate
+ 4249  ls
+ 4250  code outputclean.py
+ 4251  ls
+ 4252  rm outputclean.py out.txt output.txt
+ 4253  ls
+ 4254  cd ..
+ 4255  ld
+ 4256  ls
+ 4257  z project
+ 4258  ls
+ 4259  cd hierarchical-rnn
+ 4260  ls
+ 4261  clear
+ 4262  ls
+ 4263  mkdir seq2seq
+ 4264  mkdir data
+ 4265  cd seq2seq
+ 4266  touch .gitignore
+ 4267  cd ../data
+ 4268  touch .gitignore
+ 4269  ls
+ 4270  cd ..
+ 4271  ls
+ 4272  cd ..
+ 4273  ls
+ 4274  clear
+ 4275  cd 20171209
+ 4276  ;s
+ 4277  ls
+ 4278  code output.txt
+ 4279  z os
+ 4280  ls
+ 4281  evince Operating\ System\ Concepts\ -\ 9th\ Edition.pdf
+ 4282  getconf PAGESIZE
+ 4283  python3
+ 4284  ls
+ 4285  cd -
+ 4286  z /home/badwolf/Documents/20171209
+ 4287  ls
+ 4288  code seq2seq_translation_tutorial.py
+ 4289  z os
+ 4290  ls
+ 4291  cd xv6-public
+ 4292  cd Assignment4
+ 4293  cd assignment4
+ 4294  ls
+ 4295  cd 20171170_assgn5
+ 4296  ls
+ 4297  cd ..
+ 4298  md5sum 20171170_assgn5
+ 4299  md5sum 20171170_assgn5.tar.gz
+ 4300  tar -xvf 20171170_assgn5.tar.gz
+ 4301  cd 20171170_assgn5
+ 4302  ls
+ 4303  cd xv6-public
+ 4304  ls
+ 4305  make
+ 4306  make qemu
+ 4307  z os
+ 4308  cd 20171170_assgn5
+ 4309  cd xv6-public
+ 4310  code syscall.c
+ 4311  code syscall.h
+ 4312  ls
+ 4313  code .
+ 4314  code syscall.c
+ 4315  make
+ 4316  make qemu
+ 4317  make
+ 4318  make 
+ 4319  make qemu-nox
+ 4320  z xv6
+ 4321  ls
+ 4322  make clean
+ 4323  pwf
+ 4324  pwd
+ 4325  make qemu
+ 4326  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/os/20171170_assgn5/xv6-public
+ 4327  ls
+ 4328  make qemu
+ 4329  z cp
+ 4330  mkdir tem
+ 4331  cd tem
+ 4332  code a,py
+ 4333  code a.py
+ 4334  code a.cpp
+ 4335  g++ a.cpp
+ 4336  ./a.out
+ 4337  aaa
+ 4338  gcc a.cpp
+ 4339  ./a.
+ 4340  ./a.out
+ 4341  code a.cpp
+ 4342  z cp
+ 4343  ls
+ 4344  cd -
+ 4345  ls
+ 4346  gcc a.cpp
+ 4347  ./a.out
+ 4348  gcc a.cpp
+ 4349  ./a.out
+ 4350  gcc a.cpp
+ 4351  ./a.out
+ 4352  gcc a.cpp
+ 4353  ./a.out
+ 4354  gcc a.cpp
+ 4355  ./a.out
+ 4356  gcc a.cpp
+ 4357  ./a.out
+ 4358  gcc a.cpp
+ 4359  ./a.out
+ 4360  rm *
+ 4361  code a.c
+ 4362  gcc a.c
+ 4363  ./a.out
+ 4364  gcc a.c
+ 4365  ./a.out
+ 4366  gcc a.c
+ 4367  ./a.out
+ 4368  code a.c
+ 4369  ./a.out
+ 4370  gcc a.c
+ 4371  ./a.out
+ 4372  gcc a.c
+ 4373  ./a.out
+ 4374  gcc a.c
+ 4375  ./a.out
+ 4376  clear
+ 4377  gcc a.c
+ 4378  ./a.out
+ 4379  gcc a.c
+ 4380  ./a.out
+ 4381  gcc a.c
+ 4382  ./a.out
+ 4383  gcc a.c
+ 4384  ./a.out
+ 4385  gcc a.c
+ 4386  ./a.out
+ 4387  gcc a.c
+ 4388  ./a.out
+ 4389  gcc a.c
+ 4390  ./a.out
+ 4391  code b.c
+ 4392  rm b,c
+ 4393  rm b.c
+ 4394  ls
+ 4395  code b.cpp
+ 4396  g++ b.cpp
+ 4397  ./a.out
+ 4398  g++ b.cpp
+ 4399  ./a.out
+ 4400  g++ b.cpp
+ 4401  ./a.out
+ 4402  g++ b.cpp
+ 4403  ./a.out
+ 4404  g++ b.cpp
+ 4405  ./a.out
+ 4406  g++ b.cpp
+ 4407  ./a.out
+ 4408  g++ b.cpp
+ 4409  ./a.out
+ 4410  g++ b.cpp
+ 4411  ./a.out
+ 4412  g++ b.cpp
+ 4413  ./a.out
+ 4414  g++ b.cpp
+ 4415  ./a.out
+ 4416  2
+ 4417  g++ b.cpp
+ 4418  cd -
+ 4419  g++ b.cpp
+ 4420  ./a.out
+ 4421  g++ b.cpp
+ 4422  ./a.out
+ 4423  g++ b.cpp
+ 4424  ./a.out
+ 4425  g++ b.cpp
+ 4426  ./a.out
+ 4427  g++ b.cpp
+ 4428  0
+ 4429  ./a.out
+ 4430  code c.cpp
+ 4431  g++ c.cpp
+ 4432  ./a.out
+ 4433  g++ c.cpp
+ 4434  ./a.out
+ 4435  g++ c.cpp
+ 4436  ./a.out
+ 4437  g++ c.cpp
+ 4438  .a/
+ 4439  ./a.out
+ 4440  g++ c.cpp
+ 4441  ./a.out
+ 4442  g++ c.cpp
+ 4443  ./a.out
+ 4444  g++ c.cpp
+ 4445  ./a.out
+ 4446  g++ c.cpp
+ 4447  ./a.out
+ 4448  g++ c.cpp
+ 4449  ./a.out
+ 4450  g++ c.cpp
+ 4451  ./a.out
+ 4452  g++ c.cpp
+ 4453  ./a.out
+ 4454  g++ c.cpp
+ 4455  ./a.out
+ 4456  g++ c.cpp
+ 4457  ./a.out
+ 4458  g++ c.cpp
+ 4459  ./a.out
+ 4460  g++ b.cpp
+ 4461  ./a.out
+ 4462  pwd
+ 4463  ./a.out
+ 4464  g++ b.cpp
+ 4465  ./a.out
+ 4466  g++ b.cpp
+ 4467  ./a.out
+ 4468  g++ b.cpp
+ 4469  ./a.out
+ 4470  g++ b.cpp
+ 4471  ./a.out
+ 4472  g++ b.cpp
+ 4473  ./a.out
+ 4474  g++ b.cpp
+ 4475  ./a.out
+ 4476  g++ b.cpp
+ 4477  ./a.out
+ 4478  g++ b.cpp
+ 4479  ./a.out
+ 4480  g++ b.cpp
+ 4481  ./a.out
+ 4482  g++ b.cpp
+ 4483  ./a.out
+ 4484  g++ b.cpp
+ 4485  ./a.out
+ 4486  g++ b.cpp
+ 4487  ./a.out
+ 4488  g++ b.cpp
+ 4489  ./a.out
+ 4490  g++ b.cpp
+ 4491  ./a.out
+ 4492  g++ b.cpp
+ 4493  ./a.out
+ 4494  g++ b.cpp
+ 4495  ./a.out
+ 4496  g++ b.cpp
+ 4497  ./a.out
+ 4498  g++ b.cpp
+ 4499  ./a.out
+ 4500  g++ b.cpp
+ 4501  ./a.out
+ 4502  g++ b.cpp
+ 4503  ./a.out
+ 4504  g++ b.cpp
+ 4505  ./a.out
+ 4506  g++ b.cpp
+ 4507  ./a.out
+ 4508  g++ b.cpp
+ 4509  ./a.out
+ 4510  g++ b.cpp
+ 4511  ./a.out
+ 4512  g++ b.cpp
+ 4513  ./a.out
+ 4514  g++ b.cpp
+ 4515  ./a.out
+ 4516  g++ b.cpp
+ 4517  ./a.out
+ 4518  g++ b.cpp
+ 4519  ./a.out
+ 4520  g++ b.cpp
+ 4521  ./a.out
+ 4522  g++ b.cpp
+ 4523  ./a.out
+ 4524  workon ssad
+ 4525  ls
+ 4526  clear
+ 4527  z ssad
+ 4528  cd ass4
+ 4529  ls
+ 4530  tar -xvf codes.tar.gz
+ 4531  s
+ 4532  l
+ 4533  cd codes
+ 4534  ls
+ 4535  cd 12
+ 4536  ls
+ 4537  cd 12
+ 4538  ls
+ 4539  cd go
+ 4540  ls
+ 4541  cd src
+ 4542  ls
+ 4543  code gorm.db
+ 4544  ls
+ 4545  code My\ Quiz\ App.go
+ 4546  go get -u golang.org/x/lint/golint
+ 4547  sudo apt-get install go
+ 4548  sudo apt-get install golang
+ 4549  ls
+ 4550  cd ..
+ 4551  ls
+ 4552  cd ..
+ 4553  code react-app
+ 4554  ls
+ 4555  cd react-app
+ 4556  ls
+ 4557  cd src
+ 4558  ls
+ 4559  cd components
+ 4560  ls
+ 4561  code *.js
+ 4562  grep ";" ./*
+ 4563  ks
+ 4564  ls
+ 4565  cd ..
+ 4566  ls
+ 4567  cd ..
+ 4568  ks
+ 4569  cd ..
+ 4570  ls
+ 4571  cd go
+ 4572  ls
+ 4573  cd src
+ 4574  ls
+ 4575  code My\ Quiz\ App.go
+ 4576  z acads
+ 4577  z ssad
+ 4578  ls
+ 4579  z ass2
+ 4580  l
+ 4581  cd Quiz-App
+ 4582  l
+ 4583  cd 2017710_assign2
+ 4584  l
+ 4585  code README.md
+ 4586  ls
+ 4587  z ssad
+ 4588  ls
+ 4589  cd ass4
+ 4590  ls
+ 4591  cd codes
+ 4592  l
+ 4593  cd 20
+ 4594  l
+ 4595  cd 20
+ 4596  l
+ 4597  cd g
+ 4598  cd go
+ 4599  l
+ 4600  go build -o main main.go routes.go hash.go models.go people.go questions.go login.go quizzes.go`
+ 4601  go build -o main main.go routes.go hash.go models.go people.go questions.go login.go quizzes.go
+ 4602  z project
+ 4603  l
+ 4604  cd hierarchical-rnn
+ 4605  l
+ 4606  z /home/badwolf/Documents/20171209
+ 4607  ls
+ 4608  l
+ 4609  code seq2seq_translation_tutorial.py
+ 4610  z /home/badwolf/Documents/20171209
+ 4611  ls
+ 4612  code output.txt
+ 4613  cd ..
+ 4614  ls
+ 4615  cd -
+ 4616  cd data
+ 4617  ls
+ 4618  code eng-fra.txt
+ 4619  cd ..
+ 4620  ls
+ 4621  code outputref.py
+ 4622  python3
+ 4623  gedit output.txt
+ 4624  python3
+ 4625  python3 seq2seq_translation_tutorial.py
+ 4626  workon dl
+ 4627  python3 seq2seq_translation_tutorial.py
+ 4628  cp output.txt ~/../
+ 4629  cp output.txt ./../
+ 4630  cd ..
+ 4631  ls
+ 4632  code seq2seq_translation_tutorial.py
+ 4633  python3 seq2seq_translation_tutorial.py
+ 4634  z codes
+ 4635  cd 12
+ 4636  ls
+ 4637  cd react-app
+ 4638  yarn
+ 4639  yarn start
+ 4640  cd 12
+ 4641  z 12
+ 4642  z codes
+ 4643  cd 12
+ 4644  z codes
+ 4645  cd 12
+ 4646  cd go
+ 4647  ls
+ 4648  cd src
+ 4649  ls
+ 4650  code My\ Quiz\ App.go
+ 4651  cd ..
+ 4652  cd ,,
+ 4653  cd ..
+ 4654  cd react-app
+ 4655  cd src/components
+ 4656  code *.js
+ 4657  code EditQuiz.js
+ 4658  code App.js
+ 4659  code Play.js
+ 4660  grep "score" ./*.js
+ 4661  code Quiz.js
+ 4662  code EditQuiz.js 
+ 4663  \n
+ 4664  python3 seq2seq_translation_tutorial.py
+ 4665  python3 
+ 4666  python3 seq2seq_translation_tutorial.py
+ 4667  cat output.txt
+ 4668  code ex.py
+ 4669  python3
+ 4670  ipython3
+ 4671  python3
+ 4672  ipython3
+ 4673  z cl1
+ 4674  cd project
+ 4675  ls
+ 4676  pip3 install awscli
+ 4677  pip install awscli
+ 4678  workon dl
+ 4679  pip3 install awscli
+ 4680  z /home/badwolf/Documents/20171209
+ 4681  l
+ 4682  chmod 400 dl.pem
+ 4683  ssh -i "dl.pem" ec2-user@ec2-18-224-71-217.us-east-2.compute.amazonaws.com
+ 4684  ls
+ 4685  z /home/badwolf/Documents
+ 4686  ls
+ 4687  cd 20171209
+ 4688  l
+ 4689  ls
+ 4690  bash Anaconda3-5.3.0-Linux-x86_64.sh
+ 4691  anaconda
+ 4692  python3
+ 4693  jupyter notebook
+ 4694  \tconda
+ 4695  code .zshrc
+ 4696  conda
+ 4697  python3 
+ 4698  conda
+ 4699  cd anaconda3
+ 4700  ls
+ 4701  conda
+ 4702  jupyter notebook
+ 4703  ls
+ 4704  rm 2018-11-10\ 18-53-56.flv 2018-11-10\ 19-30-33.flv
+ 4705  rm SSAD
+ 4706  rm -r SSAD
+ 4707  ls
+ 4708  cd scam
+ 4709  ls
+ 4710  cd ..
+ 4711  rm scam
+ 4712  ls
+ 4713  rm -r
+ 4714  rm -r scam
+ 4715  ls
+ 4716  rm charandemo.flv
+ 4717  ls
+ 4718  rm charanpresentation.flv
+ 4719  ls
+ 4720  rm db2.md
+ 4721  rm DB.txt
+ 4722  ls
+ 4723  cd d
+ 4724  cd dl
+ 4725  ls
+ 4726  cd bin
+ 4727  ls
+ 4728  cd ..
+ 4729  l
+ 4730  ls
+ 4731  cat t
+ 4732  rm t
+ 4733  ls
+ 4734  rm www.w3.org
+ 4735  rm -r www.w3.org
+ 4736  ls
+ 4737  rm get-pip.py
+ 4738  ls
+ 4739  cat index.html
+ 4740  rm index.html
+ 4741  ls
+ 4742  rm revised-chunk-pos-ann-guidelines-15-Dec-06.doc_0.odt
+ 4743  l
+ 4744  ./a.out
+ 4745  3
+ 4746  rm a
+ 4747  rm a.out
+ 4748  ls
+ 4749  cd BaseXData
+ 4750  ls
+ 4751  cd ..
+ 4752  rm -r BaseXData
+ 4753  ls
+ 4754  l
+ 4755  clear
+ 4756  sudo apt autoremove
+ 4757  conda
+ 4758  python3 
+ 4759  ipython3
+ 4760  which python
+ 4761  l
+ 4762  clear
+ 4763  ls
+ 4764  conda search python
+ 4765  conda create -n py37 python=3.7.1 anaconda
+ 4766  z cl1
+ 4767  jupyter notebook
+ 4768  source activate py37
+ 4769  ls
+ 4770  python3
+ 4771  source deactivate
+ 4772  python3
+ 4773  source activate py37
+ 4774  ls
+ 4775  ipython3
+ 4776  pip3 install ipython3
+ 4777  workon dl
+ 4778  ls
+ 4779  ipython3
+ 4780  sudo apt-get install ipython3
+ 4781  sudo apt-get upgrade
+ 4782  cd project
+ 4783  cd hierarchical-rnn
+ 4784  ls
+ 4785  cd s
+ 4786  cd seq2seq
+ 4787  ls
+ 4788  code seq2seq.ipynb
+ 4789  jupyter notebook
+ 4790  workon dl
+ 4791  ls
+ 4792  cd ..
+ 4793  ls
+ 4794  git pull origin master
+ 4795  l
+ 4796  cd ..
+ 4797  cd -
+ 4798  ls
+ 4799  l
+ 4800  ls
+ 4801  cd data
+ 4802  l
+ 4803  cd ..
+ 4804  ls
+ 4805  cd generate
+ 4806  ls
+ 4807  python3 generate.py
+ 4808  python3 
+ 4809  ipython3
+ 4810  l
+ 4811  python3 generate.py
+ 4812  python3 
+ 4813  ipython3
+ 4814  ls
+ 4815  ipython3
+ 4816  l
+ 4817  ipython3
+ 4818  code generate.py
+ 4819  python3 generate.py > out.txt
+ 4820  ipython3
+ 4821  sed -i -e "s/'//g" out.txt
+ 4822  sed -i -e "s/(//g" out.txt
+ 4823  sed -i -e "s/)//g" out.txt
+ 4824  code out.txt
+ 4825  code generate.py
+ 4826  ipython3
+ 4827  ls
+ 4828  rm out.txt
+ 4829  ls
+ 4830  cp src.txt tgt.txt ./../seq2seq
+ 4831  cd ../seq2seq
+ 4832  ls
+ 4833  jupyter notebook
+ 4834  ls
+ 4835  mv *.txt ./../data
+ 4836  ;s
+ 4837  l
+ 4838  workon dl
+ 4839  jupyter notebook
+ 4840  pip3 install spacey
+ 4841  pip3 install spacy
+ 4842  python3 -m spacy download en
+ 4843  ls
+ 4844  pip3 install tensorboardx
+ 4845  ls
+ 4846  jupyter notebook seq2seq.ipynb&
+ 4847  ls
+ 4848  cd ..
+ 4849  ls
+ 4850  cd data
+ 4851  ls
+ 4852  cat src.txt
+ 4853  mkdir checkpoints
+ 4854  rmdir checkpoints
+ 4855  cd ..
+ 4856  cd s
+ 4857  cd seq2seq
+ 4858  ls
+ 4859  import torch
+ 4860  python3 
+ 4861  pip3 install ikernel
+ 4862  pip3 install ipykernel
+ 4863  ipython kernel install --user --name=seq2seq
+ 4864  ps
+ 4865  ps -ef
+ 4866  ps -ef | grep "note"
+ 4867  kill -9 21988
+ 4868  ls
+ 4869  jupyter notebook seq2seq.ipynb 
+ 4870  python3
+ 4871  jupyter notebook seq2seq.ipynb 
+ 4872  python3 -m spacy download en
+ 4873  python3
+ 4874  ipython kernel install --user --name=seq2seq
+ 4875  jupyter notebook seq2seq.ipynb 
+ 4876  ipython kernel install --user --name=seq2seqv1
+ 4877  python3
+ 4878  ipython kernel install --user --name=seq2seqv1
+ 4879  jupyter notebook seq2seq.ipynb 
+ 4880  conda install spacy
+ 4881  workon dl
+ 4882  conda install spacy
+ 4883  source activate py37
+ 4884  python3
+ 4885  source activate py37
+ 4886  python3.7
+ 4887  \npython3.7 -m spacy download en
+ 4888  jupyter notebook seq2seq.ipynb 
+ 4889  z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/cl1/project/hierarchical-rnn
+ 4890  git pull origin master
+ 4891  l
+ 4892  cd generate
+ 4893  ls
+ 4894  cd ..
+ 4895  ls
+ 4896  cd data
+ 4897  ls
+ 4898  cd ..
+ 4899  ls
+ 4900  cd generate
+ 4901  ls
+ 4902  rm src.txt tgt.txt
+ 4903  git pull origin master
+ 4904  cd ..
+ 4905  git pull origin master
+ 4906  python3.7 spacy download en_core_web_lg
+ 4907  woekon dl
+ 4908  workon dl
+ 4909  python3.7 spacy download en_core_web_lg
+ 4910  spacy
+ 4911  spacy download en_core_web_lg
+ 4912  python3 
+ 4913  workon dl
+ 4914  python3 
+ 4915  python3.7
+ 4916  python3
+ 4917  python3 -m spacy download en_core_web_lg
+ 4918  conda install pytorch
+ 4919  z cl1
+ 4920  cd project
+ 4921  cd hierarchical-rnn
+ 4922  ls
+ 4923  git pull origin master
+ 4924  ls
+ 4925  cd generate
+ 4926  ls
+ 4927  cd ..
+ 4928  ls
+ 4929  cd s
+ 4930  cd seq2seq
+ 4931  ls
+ 4932  code seq2seq_gru
+ 4933  mv seq2seq_gru seq2seq_gru.ipynb
+ 4934  ls
+ 4935  cd ..
+ 4936  cd data
+ 4937  ls
+ 4938  cd ..
+ 4939  git push origin master
+ 4940  git add ,
+ 4941  git add .
+ 4942  git commit -m "Added seq2seq files for both gru and ltsm , ltsm includes glove embedding"
+ 4943  git push origin master
+ 4944  jupyter notebook seq2seq.ipynb 
+ 4945  git push origin master
+ 4946  git pull origin master
+ 4947  ls
+ 4948  l
+ 4949  cd seq2seq
+ 4950  l
+ 4951  cd ..
+ 4952  cd generate
+ 4953  l
+ 4954  code generate.py
+ 4955  cd ..
+ 4956  git pull origin master
+ 4957  git status
+ 4958  git pull origin master
+ 4959  git add .
+ 4960  git pull origin master
+ 4961  git commit -m "Added seq2seq files for both gru and ltsm , ltsm includes glove embedding"
+ 4962  git pull origin master
+ 4963  git push origin master
+ 4964  code generate
+ 4965  git status
+ 4966  git add .
+ 4967  git commit -m "resolved branch conflict"
+ 4968  cd generate
+ 4969  python3 generate.py
+ 4970  workon dl
+ 4971  python3 generate.py
+ 4972  git push origin master
+ 4973  workon dl
+ 4974  pip3 install tensorflow
+ 4975  workon ssad
+ 4976  superset runserver -d
+ 4977  z SSAD12
+ 4978  ls
+ 4979  l
+ 4980  cd src
+ 4981  cd dummy_flask_app/\n: 1542274109:0;workon ssad
+ 4982  l
+ 4983  ls
+ 4984  cd dummy_flask_app
+ 4985  ls
+ 4986  python3 main.py
+ 4987  python3 app.db
+ 4988  l
+ 4989  python3 run.py
+ 4990  z cl2
+ 4991  z cl
+ 4992  cd project
+ 4993  ls
+ 4994  cd hierarchical-rnn
+ 4995  ls
+ 4996  git pull origin master
+ 4997  ls
+ 4998  cd s
+ 4999  cd seq2seq
+ 5000  ls
+ 5001  mv seq2seq.ipynb ./../../../
+ 5002  l
+ 5003  cd ..
+ 5004  ls
+ 5005  cd generate
+ 5006  ls
+ 5007  cd data
+ 5008  ;s
+ 5009  l
+ 5010  cd ..
+ 5011  cp -r ./../data
+ 5012  cp -r ./../data/
+ 5013  cp -r ./data ./../data/
+ 5014  cd ..
+ 5015  ls
+ 5016  cd .
+ 5017  l
+ 5018  cd data
+ 5019  ;ls
+ 5020  ls
+ 5021  cd data
+ 5022  ls
+ 5023  cd agreement
+ 5024  ls
+ 5025  code transitive_rc-none_pp-none_quest.txt
+ 5026* z /media/badwolf/Windows/Users/Urja\ Nadibail/acads/sem3/cl1/project/hierarchical-rnn
+ 5027* cd generate/
+ 5028* cde generate.py
+ 5029* code generate.py
+ 5030* python -m pip install -U "pylint<2.0.0" --user
+ 5031  code data_sampler.py
+ 5032  python3 
+ 5033  ipython3
+ 5034  python3 data_sampler.py one two 345
+ 5035  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10
+ 5036  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 1
+ 5037  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 
+ 5038  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 1
+ 5039  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 
+ 5040  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 10
+ 5041  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10
+ 5042  ls
+ 5043  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt intransitive_rc-none_pp-none_quest.txt test 10
+ 5044  code intransitive_rc-none_pp-none_quest.txt
+ 5045  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10
+ 5046  \tconda
+ 5047  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10
+ 5048  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 10
+ 5049* pip uninstall pylint
+ 5050* pip3 uninstall pylint
+ 5051* sudo pip uninstall pylint
+ 5052  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 10
+ 5053  ls
+ 5054  pwd
+ 5055  ls
+ 5056  l
+ 5057  ls
+ 5058  l
+ 5059  ls
+ 5060  l
+ 5061  ls
+ 5062  clear
+ 5063  pwd
+ 5064  ipython3
+ 5065  ls
+ 5066  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt test 10 10
+ 5067  cat test
+ 5068  rm test
+ 5069  ls
+ 5070  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 10 10
+ 5071  cat train_data.txt
+ 5072  rm train_data.txt test_data.txt
+ 5073  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 10 10
+ 5074  cat train_data.txt
+ 5075  cat test_data.txt
+ 5076  ls test_data.txt
+ 5077  cat test_data.txt
+ 5078  cat train_data.txt
+ 5079  rm train_data.txt test_data.txt
+ 5080  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 10 10
+ 5081  cat test_data.txt
+ 5082  vim test_data.txt
+ 5083  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 10 10
+ 5084  cat test_data.txt
+ 5085  cat train_data.txt
+ 5086  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 10 10
+ 5087  rm train_data.txt test_data.txt
+ 5088  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 10 10
+ 5089  cat train_data.txt
+ 5090  cat test_data.txt
+ 5091  rm train_data.txt test_data.txt
+ 5092  cd ..
+ 5093  cd g
+ 5094  cd generate/
+ 5095  ls
+ 5096  cd ..
+ 5097  cd generate
+ 5098  ls
+ 5099  cd agreement_grammars
+ 5100  cd ..
+ 5101  code generate.py
+ 5102  cd ..
+ 5103  l
+ 5104  ls
+ 5105  cd hierarchical-rnn
+ 5106  ls
+ 5107  cd data
+ 5108  ls
+ 5109  cd data
+ 5110  ls
+ 5111  cd agreement
+ 5112  ;s
+ 5113  l
+ 5114  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5115  code data_sampler.py
+ 5116  wc -l *
+ 5117  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5118  uniq * 
+ 5119  cat * | uniq | wc -l
+ 5120  cat * | wc -l
+ 5121  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5122  wc -l *
+ 5123  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5124  l
+ 5125  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5126  rm train_data.txt test_data.txt
+ 5127  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5128  rm train_data.txt test_data.txt
+ 5129  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5130  rm train_data.txt test_data.txt
+ 5131  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5132  rm train_data.txt test_data.txt
+ 5133  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5134  rm train_data.txt test_data.txt
+ 5135  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5136  rm train_data.txt test_data.txt
+ 5137  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5138  rm train_data.txt test_data.txt
+ 5139  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5140  wc -l train_data.txt
+ 5141  rm train_data.txt test_data.txt
+ 5142  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5143  rm train_data.txt test_data.txt
+ 5144  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5145  rm train_data.txt test_data.txt
+ 5146  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5147  rm train_data.txt test_data.txt
+ 5148  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5149  rm train_data.txt test_data.txt
+ 5150  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5151  wc -l train_data.txt
+ 5152  rm train_data.txt test_data.txt
+ 5153  wc -l train_data.txt
+ 5154  rm train_data.txt test_data.txt
+ 5155  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5156  wc -l test_data.txt
+ 5157  wc -l train_data.txt
+ 5158  wc -l *
+ 5159  rm train_data.txt test_data.txt
+ 5160  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5161  rm train_data.txt test_data.txt
+ 5162  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5163  rm train_data.txt test_data.txt
+ 5164  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5165  wc -l *
+ 5166  cat test_data.txt | uniq 
+ 5167  cat test_data.txt | uniq  | wc -l
+ 5168  cat train_data.txt | uniq  | wc -l
+ 5169  code train_data.txt
+ 5170  code intransitive_rc-none_pp-none_ident.txt 
+ 5171  rm train_data.txt test_data.txt
+ 5172  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5173  rm train_data.txt test_data.txt
+ 5174  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5175  wc -l *
+ 5176  ls
+ 5177  wc -l *
+ 5178  l
+ 5179  cat train_data.txt | uniq  | wc -l
+ 5180  rm train_data.txt test_data.txt
+ 5181  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5182  rm train_data.txt test_data.txt
+ 5183  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5184  ls
+ 5185  code transitive_rc-none_pp-both_ident.txt
+ 5186  ls
+ 5187  code *.txt
+ 5188  ls > left 
+ 5189  cat left
+ 5190  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5191  python3 data_sampler.py intransitive_rc-none_pp-none_quest.txt train_data.txt test_data.txt 700 400
+ 5192  wc -l *
+ 5193  rm train_data.txt test_data.txt
+ 5194  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5195  python3 data_sampler.py intransitive_rc-none_pp-none_quest.txt train_data.txt test_data.txt 700 400
+ 5196  wc -l *
+ 5197  code ll.c
+ 5198  code left
+ 5199  python3 data_sampler.py intransitive_rc-subject_pp-none_ident.txt train_data.txt test_data.txt 1440 440
+ 5200  python3 data_sampler.py intransitive_rc-subject_pp-none_quest.txt train_data.txt test_data.txt 1440 440
+ 5201  wc -l *
+ 5202  rm test_data.txt train_data.txt
+ 5203  python3 data_sampler.py intransitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 700 400
+ 5204  python3 data_sampler.py intransitive_rc-none_pp-none_quest.txt train_data.txt test_data.txt 700 400
+ 5205  python3 data_sampler.py intransitive_rc-subject_pp-none_ident.txt train_data.txt test_data.txt 14400 440
+ 5206  python3 data_sampler.py intransitive_rc-subject_pp-none_quest.txt train_data.txt test_data.txt 14400 440
+ 5207  alias python3 = p
+ 5208  p
+ 5209  alias python3 p
+ 5210  p
+ 5211  python3
+ 5212  python3 data_sampler.py transitive_rc-none_pp-none_ident.txt train_data.txt test_data.txt 4800 440
+ 5213  python3 data_sampler.py transitive_rc-none_pp-none_quest.txt train_data.txt test_data.txt 4800 440
+ 5214  python3 data_sampler.py transitive_rc-none_pp-subject_ident.txt train_data.txt test_data.txt 4800 440
+ 5215  python3 data_sampler.py transitive_rc-none_pp-subject_quest.txt train_data.txt test_data.txt 4800 440
+ 5216  python3 data_sampler.py transitive_rc-none_pp-object_quest.txt train_data.txt test_data.txt 4800 440
+ 5217  python3 data_sampler.py transitive_rc-none_pp-object_ident.txt train_data.txt test_data.txt 4800 440
+ 5218  python3 data_sampler.py transitive_rc-object_pp-none_ident.txt train_data.txt test_data.txt 4800 440
+ 5219  python3 data_sampler.py transitive_rc-object_pp-none_quest.txt train_data.txt test_data.txt 4800 440
+ 5220  python3 data_sampler.py transitive_rc-none_pp-both_ident.txt train_data.txt test_data.txt 4800 440
+ 5221  python3 data_sampler.py transitive_rc-none_pp-both_quest.txt train_data.txt test_data.txt 4800 440
+ 5222  python3 data_sampler.py transitive_rc-object_pp-subject_quest.txt train_data.txt test_data.txt 4800 440
+ 5223  python3 data_sampler.py transitive_rc-object_pp-subject_ident.txt train_data.txt test_data.txt 4800 440
+ 5224  wc -l *
+ 5225  rm left
+ 5226  ls
+ 5227  python3 data_sampler.py intransitive_rc-none_pp-subject_ident.txt train_data.txt test_data.txt 14400 880
+ 5228  python3 data_sampler.py intransitive_rc-none_pp-subject_quest.txt train_data.txt generalized.txt 0 2500
+ 5229  wc -l train_data.txt 
+ 5230  cat train_data.txt | uniq  | wc -l
+ 5231  cat train_data.txt | uniq  > train_data.txt
+ 5232  cat train_data.txt | uniq  | wc -l
+ 5233  rm test_data.txt train_data.txt
+ 5234  python3 data_sampler.py intransitive_rc-subject_pp-none_ident.txt train_data.txt test_data.txt 1440 440
+ 5235  rm test_data.txt train_data.txt
