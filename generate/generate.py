@@ -276,7 +276,7 @@ def generate_data(agreement=False):
     no_agreement_stats = [
     #   verb    rc      pp  tr_i      tr_q    ts_i  ts/g_q
         (0,     0,      0,  1440,     1440,   440,  440),
-        (0,     1,      0,  14400,    14400,  440,  440),
+        (0,     1,      0,  14400,    14400,  440,  440),#insufficent data
         (0,     0,      1,  14400,    0,      880,  2500),
         (1,     0,      0,  4800,     4800,   440,  440),
         (1,     0,      1,  4800,     4800,   440,  440),
@@ -291,7 +291,7 @@ def generate_data(agreement=False):
 
     agreement_stats = [
     #   verb    rc      pp  tr_i      tr_q    ts_i  ts/g_q
-        (0,     0,      0,  700,      700,    440,  440),
+        (0,     0,      0,  700,      700,    440,  440),#Insufficient data (ony did 399)
         (0,     1,      0,  14400,    14400,  440,  440),
         (0,     0,      1,  14400,    0,      880,  2500),
         (1,     0,      0,  4800,     4800,   440,  440),
@@ -302,7 +302,7 @@ def generate_data(agreement=False):
         (1,     0,      3,  4800,     4800,   440,  440),
         (1,     2,      1,  4800,     4800,   440,  440),
         (1,     1,      2,  4800,     0,      880,  2500),
-        (1,     3,      0,  4800,     0,      880,  2500)
+        (1,     3,      0,  4800,     0,      880,  2500)#Insufficient data(only did 440)
     ]
     
     # Choose language
