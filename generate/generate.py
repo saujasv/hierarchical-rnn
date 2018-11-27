@@ -298,11 +298,10 @@ def generate_data(agreement=False):
     #                 of features were presented in training
 
     no_agreement_stats = [
-<<<<<<< HEAD
     #   verb    rc      pp  tr_i      tr_q    ts_i  ts_q g_q
         (0,     0,      0,  1440,     1440,   440,  440, 0),
-        (0,     1,      0,  14400,    14400,  440,  440, 0),
-        (0,     0,      1,  14400,    0,      880,  0,   2500),
+        (0,     0,      1,  14400,    14400,  440,  440, 0),
+        (0,     1,      0,  14400,    0,      880,  0,   2500),
         (1,     0,      0,  4800,     4800,   440,  440, 0),
         (1,     0,      1,  4800,     4800,   440,  440, 0),
         (1,     0,      2,  4800,     4800,   440,  440, 0),
@@ -317,8 +316,8 @@ def generate_data(agreement=False):
     agreement_stats = [
     #   verb    rc      pp  tr_i      tr_q    ts_i  ts_q g_q
         (0,     0,      0,  700,      700,    440,  440, 0),
-        (0,     1,      0,  14400,    14400,  440,  440, 0),
-        (0,     0,      1,  14400,    0,      880,  0,   2500),
+        (0,     0,      1,  14400,    14400,  440,  440, 0),
+        (0,     1,      0,  14400,    0,      880,  0,   2500),
         (1,     0,      0,  4800,     4800,   440,  440, 0),
         (1,     0,      1,  4800,     4800,   440,  440, 0),
         (1,     0,      2,  4800,     4800,   440,  440, 0),
@@ -328,37 +327,6 @@ def generate_data(agreement=False):
         (1,     2,      1,  4800,     4800,   440,  440, 0),
         (1,     1,      2,  4800,     0,      880,  0,   2500),
         (1,     3,      0,  4800,     0,      880,  0,   2500)
-=======
-    #   verb    rc      pp  tr_i      tr_q    ts_i  ts/g_q
-        (0,     0,      0,  1440,     1440,   440,  440),
-        (0,     1,      0,  14400,    14400,  440,  440),
-        (0,     0,      1,  14400,    0,      880,  2500),#insufficent data
-        (1,     0,      0,  4800,     4800,   440,  440),
-        (1,     0,      1,  4800,     4800,   440,  440),
-        (1,     0,      2,  4800,     4800,   440,  440),
-        (1,     1,      0,  4800,     0,      880,  2500),
-        (1,     2,      0,  4800,     4800,   440,  440),
-        (1,     0,      3,  4800,     4800,   440,  440),
-        (1,     2,      1,  4800,     4800,   440,  440),
-        (1,     1,      2,  4800,     0,      880,  2500),
-        (1,     3,      0,  4800,     0,      880,  2500)
-    ]
-
-    agreement_stats = [
-    #   verb    rc      pp  tr_i      tr_q    ts_i  ts/g_q
-        (0,     0,      0,  700,      700,    440,  440),#Insufficient data (ony did 399)
-        (0,     1,      0,  14400,    14400,  440,  440),
-        (0,     0,      1,  14400,    0,      880,  2500),
-        (1,     0,      0,  4800,     4800,   440,  440),
-        (1,     0,      1,  4800,     4800,   440,  440),
-        (1,     0,      2,  4800,     4800,   440,  440),
-        (1,     1,      0,  4800,     0,      880,  2500),
-        (1,     2,      0,  4800,     4800,   440,  440),
-        (1,     0,      3,  4800,     4800,   440,  440),
-        (1,     2,      1,  4800,     4800,   440,  440),
-        (1,     1,      2,  4800,     0,      880,  2500),
-        (1,     3,      0,  4800,     0,      880,  2500)#Insufficient data(only did 440)
->>>>>>> 699e67f48e2300cbfb3864b739e12fa7626f9076
     ]
     
     # Choose language
@@ -370,6 +338,10 @@ def generate_data(agreement=False):
         stats = no_agreement_stats
         lang = NoAgreementLanguage()
         prefix = 'no_agreement'
+    
+    sentences = dict()
+    for features in stats:
+        sentences[features] = {'ident': set(), 'quest': set()}
 
     # Generate sentences for each combination of features
     for features in stats:
@@ -377,16 +349,16 @@ def generate_data(agreement=False):
         quest_count = 0
         ident_target = features[3] + features[5]
         quest_target = features[4] + features[6] + features[7]
-        ident_file = open('data/' + prefix + '/' +\
-                                    v[features[0]] +\
-                                    '_rc-' + rc[features[1]] +\
-                                    '_pp-' + pp[features[2]] +\
-                                    '_ident.txt', 'w')
-        quest_file = open('data/' + prefix + '/' +\
-                                    v[features[0]] +\
-                                    '_rc-' + rc[features[1]] +\
-                                    '_pp-' + pp[features[2]] +\
-                                    '_quest.txt', 'w')
+        # ident_file = open('data/' + prefix + '/' +\
+        #                             v[features[0]] +\
+        #                             '_rc-' + rc[features[1]] +\
+        #                             '_pp-' + pp[features[2]] +\
+        #                             '_ident.txt', 'w')
+        # quest_file = open('data/' + prefix + '/' +\
+        #                             v[features[0]] +\
+        #                             '_rc-' + rc[features[1]] +\
+        #                             '_pp-' + pp[features[2]] +\
+        #                             '_quest.txt', 'w')
         while ident_count < ident_target or quest_count < quest_target:
             grammar = CFG.fromstring(lang.get_grammar_string(
                                         verb=v[features[0]], 
@@ -399,63 +371,92 @@ def generate_data(agreement=False):
                 # Sample randomly from generated sentences
                 lottery = randint(1, 1000)
                 if ident_count <= ident_target and 1 <= lottery <= 10:
-                    inp, out, main = Language.transform(sentence, ident=True)
-                    ident_file.write(out + '\t' + inp + '\t' + main + '\n')
+                    # inp, out, main = Language.transform(sentence, ident=True)
+                    # ident_file.write(out + '\t' + inp + '\t' + main + '\n')
+                    sentences[features]['ident'].add(Language.transform(sentence, ident=True))
                     ident_count += 1
                     to_vocab_change -= 1
                 elif quest_count <= quest_target and 990 <= lottery <= 1000:
                     if (features[1] == 1 or features[1] == 3) and bad_gen_sentence(sentence):
                         continue
-                    inp, out, main = Language.transform(sentence, ident=False)
-                    quest_file.write(out + '\t' + inp + '\t' + main + '\n')
+                    # inp, out, main = Language.transform(sentence, ident=False)
+                    # quest_file.write(out + '\t' + inp + '\t' + main + '\n')
+                    sentences[features]['quest'].add(Language.transform(sentence, ident=False))
                     quest_count += 1
                     to_vocab_change -= 1
                 if to_vocab_change == 0:
                     break
-        ident_file.close()
-        quest_file.close()
+        # ident_file.close()
+        # quest_file.close()
 
-        ident_file = open('data/' + prefix + '/' +\
-                                    v[features[0]] +\
-                                    '_rc-' + rc[features[1]] +\
-                                    '_pp-' + pp[features[2]] +\
-                                    '_ident.txt', 'r')
-        quest_file = open('data/' + prefix + '/' +\
-                                    v[features[0]] +\
-                                    '_rc-' + rc[features[1]] +\
-                                    '_pp-' + pp[features[2]] +\
-                                    '_quest.txt', 'r')
-        train_file = open('data/' + prefix + '/train.txt', 'a')
-        test_file = open('data/' + prefix + '/test.txt', 'a')
-        generalisation_file = open('data/' + prefix + '/generalisation.txt', 'a')
-        ident_lines = [l for l in ident_file.readlines() if len(l) >= 5]
-        quest_lines = [l for l in quest_file.readlines() if len(l) >= 5]
+        # ident_file = open('data/' + prefix + '/' +\
+        #                             v[features[0]] +\
+        #                             '_rc-' + rc[features[1]] +\
+        #                             '_pp-' + pp[features[2]] +\
+        #                             '_ident.txt', 'r')
+        # quest_file = open('data/' + prefix + '/' +\
+        #                             v[features[0]] +\
+        #                             '_rc-' + rc[features[1]] +\
+        #                             '_pp-' + pp[features[2]] +\
+        #                             '_quest.txt', 'r')
+        # train_file = open('data/' + prefix + '/train.txt', 'a')
+        # test_file = open('data/' + prefix + '/test.txt', 'a')
+        # generalisation_file = open('data/' + prefix + '/generalisation.txt', 'a')
+        # ident_lines = [l for l in ident_file.readlines() if len(l) >= 5]
+        # quest_lines = [l for l in quest_file.readlines() if len(l) >= 5]
+        # shuffle(ident_lines)
+        # shuffle(quest_lines)
+        # train_lines = ident_lines[:features[3]] + quest_lines[:features[4]]
+        # test_lines = ident_lines[features[3]+1:features[3]+features[5]] +\
+        #                 quest_lines[features[4]+1:features[4]+features[6]]
+        # gen_lines = quest_lines[features[4]+features[6]+1:features[4]+features[6]+features[7]]
+        # shuffle(train_lines)
+        # shuffle(test_lines)
+        # shuffle(gen_lines)
+        # for l in train_lines:
+        #     train_file.write('\t'.join(l.split('\t')[:2]) + '\n')
+        # for l in test_lines:
+        #     test_file.write('\t'.join(l.split('\t')[:2]) + '\n')
+        # for l in gen_lines:
+        #     generalisation_file.write('\t'.join(l.split('\t')[:2]) + '\n')
+        # train_file.close()
+        # test_file.close()
+        # generalisation_file.close()
+        print(prefix, v[features[0]], 'rc =', rc[features[1]], 'pp =', pp[features[2]], 'done')
+    
+    train_file = open('data/' + prefix + '/train.txt', 'w')
+    test_file = open('data/' + prefix + '/test.txt', 'w')
+    generalisation_file = open('data/' + prefix + '/generalisation.txt', 'w')
+    train_lines = list()
+    test_lines = list()
+    gen_lines = list()
+    for features in stats:
+        ident_lines = list(sentences[features]['ident'])
+        quest_lines = list(sentences[features]['quest'])
         shuffle(ident_lines)
         shuffle(quest_lines)
-        train_lines = ident_lines[:features[3]] + quest_lines[:features[4]]
-        test_lines = ident_lines[features[3]+1:features[3]+features[5]] + quest_lines[features[4]+1:features[4]+features[6]]
-        gen_lines = quest_lines[features[4]+features[6]+1:features[4]+features[6]+features[7]]
-        shuffle(train_lines)
-        shuffle(test_lines)
-        shuffle(gen_lines)
-        for l in train_lines:
-            train_file.write('\t'.join(l.split('\t')[:2]) + '\n')
-        for l in test_lines:
-            test_file.write('\t'.join(l.split('\t')[:2]) + '\n')
-        for l in gen_lines:
-            generalisation_file.write('\t'.join(l.split('\t')[:2]) + '\n')
-        train_file.close()
-        test_file.close()
-        generalisation_file.close()
-        print(prefix, v[features[0]], 'rc =', rc[features[1]], 'pp =', pp[features[2]], 'done')
+        train_lines.extend(ident_lines[:features[3]] + quest_lines[:features[4]])
+        test_lines.extend(ident_lines[features[3]+1:features[3]+features[5]] +\
+                            quest_lines[features[4]+1:features[4]+features[6]])
+        gen_lines.extend(quest_lines[features[4]+features[6]+1:features[4]+\
+                            features[6]+features[7]])
+    train_lines = list(set(train_lines))
+    test_lines = list(set(test_lines))
+    gen_lines = list(set(gen_lines))
+    for l in train_lines:
+        train_file.write('\t'.join(l[:2]) + '\n')
+    for l in test_lines:
+        test_file.write('\t'.join(l[:2]) + '\n')
+    for l in gen_lines:
+        generalisation_file.write('\t'.join(l[:2]) + '\n')
+    train_file.close()
+    test_file.close()
+    generalisation_file.close()
+
 
 if __name__ == '__main__':
     # Generate sentences for no-agreement language
     generate_data(agreement=False)
 
     # Generate sentences for agreement language
-<<<<<<< HEAD
     generate_data(agreement=True)
-=======
-    generate_data(agreement=True)
->>>>>>> 699e67f48e2300cbfb3864b739e12fa7626f9076
