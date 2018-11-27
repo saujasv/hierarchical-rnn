@@ -1,1141 +1,1141 @@
-dont your elephants smile	your elephants dont smile QUEST	dont
-do my elephants giggle	my elephants do giggle QUEST	do
-does the monkey read	the monkey does read QUEST	does
-dont my cats smile	my cats dont smile QUEST	dont
-does your bird laugh	your bird does laugh QUEST	does
-doesnt my monkey laugh	my monkey doesnt laugh QUEST	doesnt
-doesnt some rabbit live	some rabbit doesnt live QUEST	doesnt
-does my monkey laugh	my monkey does laugh QUEST	does
-doesnt her bird read	her bird doesnt read QUEST	doesnt
-doesnt her elephant read	her elephant doesnt read QUEST	doesnt
-do her dogs read	her dogs do read QUEST	do
-dont our rabbits giggle	our rabbits dont giggle QUEST	dont
-dont our seals laugh	our seals dont laugh QUEST	dont
-doesnt the cat read	the cat doesnt read QUEST	doesnt
-doesnt some rabbit live	some rabbit doesnt live QUEST	doesnt
-do her yaks sleep	her yaks do sleep QUEST	do
-do your birds smile	your birds do smile QUEST	do
-does my monkey read	my monkey does read QUEST	does
-does our elephant smile	our elephant does smile QUEST	does
-does her yak read	her yak does read QUEST	does
-doesnt her monkey sleep	her monkey doesnt sleep QUEST	doesnt
-does her elephant read	her elephant does read QUEST	does
-do her dogs laugh	her dogs do laugh QUEST	do
-do our elephants laugh	our elephants do laugh QUEST	do
-doesnt some seal giggle	some seal doesnt giggle QUEST	doesnt
-dont her cats laugh	her cats dont laugh QUEST	dont
-doesnt my elephant live	my elephant doesnt live QUEST	doesnt
-do some cats giggle	some cats do giggle QUEST	do
-doesnt our seal read	our seal doesnt read QUEST	doesnt
-dont the dogs read	the dogs dont read QUEST	dont
-do her birds giggle	her birds do giggle QUEST	do
-dont the yaks giggle	the yaks dont giggle QUEST	dont
-does my cat giggle	my cat does giggle QUEST	does
-do my unicorns read	my unicorns do read QUEST	do
-dont my unicorns giggle	my unicorns dont giggle QUEST	dont
-do our monkeys giggle	our monkeys do giggle QUEST	do
-doesnt her bird read	her bird doesnt read QUEST	doesnt
-dont our yaks giggle	our yaks dont giggle QUEST	dont
-dont our monkeys read	our monkeys dont read QUEST	dont
-doesnt your yak live	your yak doesnt live QUEST	doesnt
-do her unicorns laugh	her unicorns do laugh QUEST	do
-dont her monkeys laugh	her monkeys dont laugh QUEST	dont
-do our unicorns laugh	our unicorns do laugh QUEST	do
-dont our cats read	our cats dont read QUEST	dont
-do her yaks sleep	her yaks do sleep QUEST	do
-does our rabbit live	our rabbit does live QUEST	does
-do our cats laugh	our cats do laugh QUEST	do
-does the monkey read	the monkey does read QUEST	does
-doesnt the cat read	the cat doesnt read QUEST	doesnt
-does my unicorn smile	my unicorn does smile QUEST	does
-do my birds smile	my birds do smile QUEST	do
-dont your elephants read	your elephants dont read QUEST	dont
-do your seals laugh	your seals do laugh QUEST	do
-does our rabbit read	our rabbit does read QUEST	does
-doesnt some elephant giggle	some elephant doesnt giggle QUEST	doesnt
-dont our seals laugh	our seals dont laugh QUEST	dont
-does some bird giggle	some bird does giggle QUEST	does
-doesnt your dog read	your dog doesnt read QUEST	doesnt
-does her yak giggle	her yak does giggle QUEST	does
-dont some elephants laugh	some elephants dont laugh QUEST	dont
-doesnt some cat giggle	some cat doesnt giggle QUEST	doesnt
-do your cats giggle	your cats do giggle QUEST	do
-dont her birds live	her birds dont live QUEST	dont
-doesnt the rabbit laugh	the rabbit doesnt laugh QUEST	doesnt
-does our unicorn giggle	our unicorn does giggle QUEST	does
-does your yak sleep	your yak does sleep QUEST	does
-does some dog smile	some dog does smile QUEST	does
-does some seal read	some seal does read QUEST	does
-do the elephants giggle	the elephants do giggle QUEST	do
-dont some seals smile	some seals dont smile QUEST	dont
-dont her yaks giggle	her yaks dont giggle QUEST	dont
-doesnt our monkey smile	our monkey doesnt smile QUEST	doesnt
-dont our dogs smile	our dogs dont smile QUEST	dont
-do the elephants sleep	the elephants do sleep QUEST	do
-dont the rabbits sleep	the rabbits dont sleep QUEST	dont
-do the seals smile	the seals do smile QUEST	do
-doesnt the monkey read	the monkey doesnt read QUEST	doesnt
-do your cats giggle	your cats do giggle QUEST	do
-doesnt some elephant laugh	some elephant doesnt laugh QUEST	doesnt
-do her rabbits laugh	her rabbits do laugh QUEST	do
-do her cats read	her cats do read QUEST	do
-dont the yaks sleep	the yaks dont sleep QUEST	dont
-doesnt your monkey live	your monkey doesnt live QUEST	doesnt
-doesnt our elephant read	our elephant doesnt read QUEST	doesnt
-do her yaks read	her yaks do read QUEST	do
-does some seal giggle	some seal does giggle QUEST	does
-does her dog smile	her dog does smile QUEST	does
-do the seals read	the seals do read QUEST	do
-doesnt the seal laugh	the seal doesnt laugh QUEST	doesnt
-doesnt your yak smile	your yak doesnt smile QUEST	doesnt
-dont your seals read	your seals dont read QUEST	dont
-do the cats sleep	the cats do sleep QUEST	do
-doesnt my elephant live	my elephant doesnt live QUEST	doesnt
-doesnt her dog read	her dog doesnt read QUEST	doesnt
-does her cat sleep	her cat does sleep QUEST	does
-does my elephant sleep	my elephant does sleep QUEST	does
-doesnt your elephant sleep	your elephant doesnt sleep QUEST	doesnt
-does my rabbit laugh	my rabbit does laugh QUEST	does
-do my birds laugh	my birds do laugh QUEST	do
-does my yak laugh	my yak does laugh QUEST	does
-dont the dogs laugh	the dogs dont laugh QUEST	dont
-doesnt the bird live	the bird doesnt live QUEST	doesnt
-doesnt the yak read	the yak doesnt read QUEST	doesnt
-doesnt the bird laugh	the bird doesnt laugh QUEST	doesnt
-does some cat smile	some cat does smile QUEST	does
-does some seal live	some seal does live QUEST	does
-dont some dogs read	some dogs dont read QUEST	dont
-do some elephants laugh	some elephants do laugh QUEST	do
-doesnt our seal sleep	our seal doesnt sleep QUEST	doesnt
-dont the seals laugh	the seals dont laugh QUEST	dont
-does our yak smile	our yak does smile QUEST	does
-doesnt my seal sleep	my seal doesnt sleep QUEST	doesnt
-dont our unicorns live	our unicorns dont live QUEST	dont
-do the cats live	the cats do live QUEST	do
-do her yaks read	her yaks do read QUEST	do
-does the elephant smile	the elephant does smile QUEST	does
-does your monkey laugh	your monkey does laugh QUEST	does
-dont your unicorns laugh	your unicorns dont laugh QUEST	dont
-does our seal laugh	our seal does laugh QUEST	does
-does our rabbit laugh	our rabbit does laugh QUEST	does
-doesnt our rabbit read	our rabbit doesnt read QUEST	doesnt
-doesnt the unicorn read	the unicorn doesnt read QUEST	doesnt
-doesnt my bird live	my bird doesnt live QUEST	doesnt
-do my seals smile	my seals do smile QUEST	do
-do her rabbits read	her rabbits do read QUEST	do
-does our unicorn live	our unicorn does live QUEST	does
-dont her cats sleep	her cats dont sleep QUEST	dont
-do my rabbits giggle	my rabbits do giggle QUEST	do
-doesnt some bird laugh	some bird doesnt laugh QUEST	doesnt
-does our elephant sleep	our elephant does sleep QUEST	does
-does my bird laugh	my bird does laugh QUEST	does
-dont her elephants live	her elephants dont live QUEST	dont
-does our elephant sleep	our elephant does sleep QUEST	does
-dont your unicorns sleep	your unicorns dont sleep QUEST	dont
-doesnt our yak read	our yak doesnt read QUEST	doesnt
-does some cat laugh	some cat does laugh QUEST	does
-dont her unicorns smile	her unicorns dont smile QUEST	dont
-doesnt the dog read	the dog doesnt read QUEST	doesnt
-does the bird smile	the bird does smile QUEST	does
-dont her seals live	her seals dont live QUEST	dont
-does some rabbit read	some rabbit does read QUEST	does
-do the birds live	the birds do live QUEST	do
-do your elephants giggle	your elephants do giggle QUEST	do
-do your unicorns giggle	your unicorns do giggle QUEST	do
-dont my monkeys sleep	my monkeys dont sleep QUEST	dont
-does some bird laugh	some bird does laugh QUEST	does
-doesnt your monkey giggle	your monkey doesnt giggle QUEST	doesnt
-does our yak sleep	our yak does sleep QUEST	does
-dont my rabbits laugh	my rabbits dont laugh QUEST	dont
-does your unicorn laugh	your unicorn does laugh QUEST	does
-do the cats laugh	the cats do laugh QUEST	do
-does some unicorn sleep	some unicorn does sleep QUEST	does
-do your dogs laugh	your dogs do laugh QUEST	do
-doesnt her yak sleep	her yak doesnt sleep QUEST	doesnt
-dont our unicorns smile	our unicorns dont smile QUEST	dont
-does your yak giggle	your yak does giggle QUEST	does
-does my elephant sleep	my elephant does sleep QUEST	does
-dont my yaks laugh	my yaks dont laugh QUEST	dont
-dont our birds read	our birds dont read QUEST	dont
-dont our birds laugh	our birds dont laugh QUEST	dont
-does some unicorn live	some unicorn does live QUEST	does
-does my yak sleep	my yak does sleep QUEST	does
-dont the yaks giggle	the yaks dont giggle QUEST	dont
-dont my yaks giggle	my yaks dont giggle QUEST	dont
-do your birds read	your birds do read QUEST	do
-doesnt the rabbit live	the rabbit doesnt live QUEST	doesnt
-doesnt some bird giggle	some bird doesnt giggle QUEST	doesnt
-does the elephant giggle	the elephant does giggle QUEST	does
-dont my unicorns read	my unicorns dont read QUEST	dont
-doesnt the dog read	the dog doesnt read QUEST	doesnt
-doesnt the dog live	the dog doesnt live QUEST	doesnt
-doesnt her yak live	her yak doesnt live QUEST	doesnt
-do my monkeys live	my monkeys do live QUEST	do
-does the seal smile	the seal does smile QUEST	does
-doesnt your cat giggle	your cat doesnt giggle QUEST	doesnt
-dont your yaks giggle	your yaks dont giggle QUEST	dont
-dont the dogs laugh	the dogs dont laugh QUEST	dont
-dont the dogs live	the dogs dont live QUEST	dont
-dont the seals giggle	the seals dont giggle QUEST	dont
-dont her yaks laugh	her yaks dont laugh QUEST	dont
-doesnt our rabbit sleep	our rabbit doesnt sleep QUEST	doesnt
-doesnt some rabbit live	some rabbit doesnt live QUEST	doesnt
-doesnt your monkey giggle	your monkey doesnt giggle QUEST	doesnt
-dont some yaks giggle	some yaks dont giggle QUEST	dont
-does her bird giggle	her bird does giggle QUEST	does
-does your cat laugh	your cat does laugh QUEST	does
-doesnt some cat laugh	some cat doesnt laugh QUEST	doesnt
-doesnt our yak smile	our yak doesnt smile QUEST	doesnt
-do our unicorns smile	our unicorns do smile QUEST	do
-doesnt her rabbit laugh	her rabbit doesnt laugh QUEST	doesnt
-doesnt your rabbit live	your rabbit doesnt live QUEST	doesnt
-do her seals smile	her seals do smile QUEST	do
-does her yak laugh	her yak does laugh QUEST	does
-doesnt my seal sleep	my seal doesnt sleep QUEST	doesnt
-doesnt her seal sleep	her seal doesnt sleep QUEST	doesnt
-does her cat smile	her cat does smile QUEST	does
-do her dogs smile	her dogs do smile QUEST	do
-does your yak read	your yak does read QUEST	does
-does our monkey read	our monkey does read QUEST	does
-doesnt her monkey live	her monkey doesnt live QUEST	doesnt
-do her birds smile	her birds do smile QUEST	do
-does my yak sleep	my yak does sleep QUEST	does
-dont our birds live	our birds dont live QUEST	dont
-do some elephants giggle	some elephants do giggle QUEST	do
-do some unicorns giggle	some unicorns do giggle QUEST	do
-dont some unicorns giggle	some unicorns dont giggle QUEST	dont
-do our monkeys read	our monkeys do read QUEST	do
-do our seals read	our seals do read QUEST	do
-doesnt our rabbit giggle	our rabbit doesnt giggle QUEST	doesnt
-does our dog sleep	our dog does sleep QUEST	does
-do our dogs sleep	our dogs do sleep QUEST	do
-doesnt her bird sleep	her bird doesnt sleep QUEST	doesnt
-do her monkeys read	her monkeys do read QUEST	do
-doesnt your bird smile	your bird doesnt smile QUEST	doesnt
-does the unicorn read	the unicorn does read QUEST	does
-do the birds laugh	the birds do laugh QUEST	do
-doesnt her elephant giggle	her elephant doesnt giggle QUEST	doesnt
-do her unicorns laugh	her unicorns do laugh QUEST	do
-dont some monkeys live	some monkeys dont live QUEST	dont
-do my dogs sleep	my dogs do sleep QUEST	do
-dont her monkeys sleep	her monkeys dont sleep QUEST	dont
-does our seal smile	our seal does smile QUEST	does
-dont some dogs smile	some dogs dont smile QUEST	dont
-does our yak giggle	our yak does giggle QUEST	does
-dont our yaks laugh	our yaks dont laugh QUEST	dont
-doesnt our rabbit smile	our rabbit doesnt smile QUEST	doesnt
-does some dog laugh	some dog does laugh QUEST	does
-do some unicorns smile	some unicorns do smile QUEST	do
-does our seal smile	our seal does smile QUEST	does
-doesnt your dog smile	your dog doesnt smile QUEST	doesnt
-dont her seals sleep	her seals dont sleep QUEST	dont
-doesnt my elephant giggle	my elephant doesnt giggle QUEST	doesnt
-doesnt my unicorn laugh	my unicorn doesnt laugh QUEST	doesnt
-does the rabbit sleep	the rabbit does sleep QUEST	does
-doesnt our seal sleep	our seal doesnt sleep QUEST	doesnt
-dont our dogs giggle	our dogs dont giggle QUEST	dont
-doesnt the rabbit read	the rabbit doesnt read QUEST	doesnt
-dont the cats read	the cats dont read QUEST	dont
-doesnt her rabbit giggle	her rabbit doesnt giggle QUEST	doesnt
-doesnt the rabbit read	the rabbit doesnt read QUEST	doesnt
-does our elephant smile	our elephant does smile QUEST	does
-do the seals smile	the seals do smile QUEST	do
-dont our seals sleep	our seals dont sleep QUEST	dont
-dont the rabbits live	the rabbits dont live QUEST	dont
-doesnt your monkey laugh	your monkey doesnt laugh QUEST	doesnt
-doesnt my seal smile	my seal doesnt smile QUEST	doesnt
-do my dogs laugh	my dogs do laugh QUEST	do
-doesnt some seal read	some seal doesnt read QUEST	doesnt
-dont my dogs read	my dogs dont read QUEST	dont
-dont my rabbits giggle	my rabbits dont giggle QUEST	dont
-does our seal laugh	our seal does laugh QUEST	does
-doesnt my seal laugh	my seal doesnt laugh QUEST	doesnt
-dont my elephants laugh	my elephants dont laugh QUEST	dont
-doesnt our dog live	our dog doesnt live QUEST	doesnt
-do her rabbits sleep	her rabbits do sleep QUEST	do
-doesnt my unicorn giggle	my unicorn doesnt giggle QUEST	doesnt
-do my birds read	my birds do read QUEST	do
-doesnt my bird live	my bird doesnt live QUEST	doesnt
-dont my unicorns smile	my unicorns dont smile QUEST	dont
-do our monkeys laugh	our monkeys do laugh QUEST	do
-does her elephant laugh	her elephant does laugh QUEST	does
-dont my seals laugh	my seals dont laugh QUEST	dont
-does her elephant sleep	her elephant does sleep QUEST	does
-do your cats read	your cats do read QUEST	do
-doesnt the dog laugh	the dog doesnt laugh QUEST	doesnt
-do the birds laugh	the birds do laugh QUEST	do
-do our unicorns giggle	our unicorns do giggle QUEST	do
-doesnt our monkey smile	our monkey doesnt smile QUEST	doesnt
-does your dog laugh	your dog does laugh QUEST	does
-does the cat giggle	the cat does giggle QUEST	does
-does our dog laugh	our dog does laugh QUEST	does
-doesnt our dog read	our dog doesnt read QUEST	doesnt
-do the elephants read	the elephants do read QUEST	do
-dont the birds read	the birds dont read QUEST	dont
-does her dog giggle	her dog does giggle QUEST	does
-do your cats giggle	your cats do giggle QUEST	do
-do some dogs laugh	some dogs do laugh QUEST	do
-dont our seals read	our seals dont read QUEST	dont
-dont our yaks laugh	our yaks dont laugh QUEST	dont
-does my dog smile	my dog does smile QUEST	does
-does her bird giggle	her bird does giggle QUEST	does
-does her yak sleep	her yak does sleep QUEST	does
-doesnt her seal read	her seal doesnt read QUEST	doesnt
-dont the unicorns read	the unicorns dont read QUEST	dont
-do the cats read	the cats do read QUEST	do
-dont the cats read	the cats dont read QUEST	dont
-dont some monkeys smile	some monkeys dont smile QUEST	dont
-does the rabbit sleep	the rabbit does sleep QUEST	does
-does her monkey read	her monkey does read QUEST	does
-does some dog sleep	some dog does sleep QUEST	does
-dont your cats giggle	your cats dont giggle QUEST	dont
-doesnt our cat sleep	our cat doesnt sleep QUEST	doesnt
-dont my rabbits live	my rabbits dont live QUEST	dont
-do our cats giggle	our cats do giggle QUEST	do
-doesnt your elephant read	your elephant doesnt read QUEST	doesnt
-doesnt your elephant live	your elephant doesnt live QUEST	doesnt
-doesnt our unicorn giggle	our unicorn doesnt giggle QUEST	doesnt
-does your cat laugh	your cat does laugh QUEST	does
-do your cats laugh	your cats do laugh QUEST	do
-does my elephant live	my elephant does live QUEST	does
-do some cats laugh	some cats do laugh QUEST	do
-dont her cats live	her cats dont live QUEST	dont
-does your yak live	your yak does live QUEST	does
-dont your seals live	your seals dont live QUEST	dont
-do the seals smile	the seals do smile QUEST	do
-does some dog read	some dog does read QUEST	does
-dont our elephants laugh	our elephants dont laugh QUEST	dont
-dont the unicorns laugh	the unicorns dont laugh QUEST	dont
-do our cats sleep	our cats do sleep QUEST	do
-do our seals read	our seals do read QUEST	do
-dont our rabbits read	our rabbits dont read QUEST	dont
-does my bird giggle	my bird does giggle QUEST	does
-dont our yaks sleep	our yaks dont sleep QUEST	dont
-doesnt my elephant sleep	my elephant doesnt sleep QUEST	doesnt
-does my cat sleep	my cat does sleep QUEST	does
-does the monkey live	the monkey does live QUEST	does
-doesnt the cat sleep	the cat doesnt sleep QUEST	doesnt
-doesnt my seal laugh	my seal doesnt laugh QUEST	doesnt
-does some unicorn giggle	some unicorn does giggle QUEST	does
-doesnt her dog laugh	her dog doesnt laugh QUEST	doesnt
-dont your dogs laugh	your dogs dont laugh QUEST	dont
-doesnt our rabbit sleep	our rabbit doesnt sleep QUEST	doesnt
-doesnt the cat giggle	the cat doesnt giggle QUEST	doesnt
-dont her dogs live	her dogs dont live QUEST	dont
-doesnt my monkey giggle	my monkey doesnt giggle QUEST	doesnt
-does our monkey smile	our monkey does smile QUEST	does
-dont your elephants live	your elephants dont live QUEST	dont
-do the dogs live	the dogs do live QUEST	do
-do your elephants laugh	your elephants do laugh QUEST	do
-does our seal laugh	our seal does laugh QUEST	does
-dont the seals read	the seals dont read QUEST	dont
-does your monkey giggle	your monkey does giggle QUEST	does
-does the monkey giggle	the monkey does giggle QUEST	does
-dont the birds live	the birds dont live QUEST	dont
-does your rabbit read	your rabbit does read QUEST	does
-doesnt your rabbit sleep	your rabbit doesnt sleep QUEST	doesnt
-doesnt your yak giggle	your yak doesnt giggle QUEST	doesnt
-doesnt your yak live	your yak doesnt live QUEST	doesnt
-do her dogs sleep	her dogs do sleep QUEST	do
-dont her cats live	her cats dont live QUEST	dont
-dont her unicorns smile	her unicorns dont smile QUEST	dont
-does your cat live	your cat does live QUEST	does
-doesnt some bird read	some bird doesnt read QUEST	doesnt
-doesnt your rabbit live	your rabbit doesnt live QUEST	doesnt
-dont your rabbits laugh	your rabbits dont laugh QUEST	dont
-do my rabbits smile	my rabbits do smile QUEST	do
-doesnt our monkey giggle	our monkey doesnt giggle QUEST	doesnt
-do the rabbits smile	the rabbits do smile QUEST	do
-does some rabbit smile	some rabbit does smile QUEST	does
-doesnt your elephant sleep	your elephant doesnt sleep QUEST	doesnt
-doesnt some elephant sleep	some elephant doesnt sleep QUEST	doesnt
-doesnt some yak sleep	some yak doesnt sleep QUEST	doesnt
-doesnt the rabbit giggle	the rabbit doesnt giggle QUEST	doesnt
-doesnt the elephant live	the elephant doesnt live QUEST	doesnt
-does your seal read	your seal does read QUEST	does
-doesnt some yak laugh	some yak doesnt laugh QUEST	doesnt
-does my dog live	my dog does live QUEST	does
-does our rabbit live	our rabbit does live QUEST	does
-do my elephants live	my elephants do live QUEST	do
-doesnt some yak laugh	some yak doesnt laugh QUEST	doesnt
-dont some seals laugh	some seals dont laugh QUEST	dont
-dont the seals sleep	the seals dont sleep QUEST	dont
-do our seals read	our seals do read QUEST	do
-doesnt her elephant read	her elephant doesnt read QUEST	doesnt
-does our dog giggle	our dog does giggle QUEST	does
-dont your seals smile	your seals dont smile QUEST	dont
-do some elephants smile	some elephants do smile QUEST	do
-do my elephants smile	my elephants do smile QUEST	do
-dont some elephants giggle	some elephants dont giggle QUEST	dont
-do some monkeys giggle	some monkeys do giggle QUEST	do
-dont our monkeys giggle	our monkeys dont giggle QUEST	dont
-doesnt your seal read	your seal doesnt read QUEST	doesnt
-dont some rabbits laugh	some rabbits dont laugh QUEST	dont
-does the rabbit laugh	the rabbit does laugh QUEST	does
-does some cat smile	some cat does smile QUEST	does
-does our bird laugh	our bird does laugh QUEST	does
-does my yak sleep	my yak does sleep QUEST	does
-doesnt some yak laugh	some yak doesnt laugh QUEST	doesnt
-dont my rabbits sleep	my rabbits dont sleep QUEST	dont
-dont some rabbits laugh	some rabbits dont laugh QUEST	dont
-does some cat smile	some cat does smile QUEST	does
-do her seals sleep	her seals do sleep QUEST	do
-doesnt the cat laugh	the cat doesnt laugh QUEST	doesnt
-do the rabbits laugh	the rabbits do laugh QUEST	do
-doesnt your monkey live	your monkey doesnt live QUEST	doesnt
-doesnt my cat read	my cat doesnt read QUEST	doesnt
-does my seal read	my seal does read QUEST	does
-does our rabbit smile	our rabbit does smile QUEST	does
-does my rabbit giggle	my rabbit does giggle QUEST	does
-doesnt our cat live	our cat doesnt live QUEST	doesnt
-do some cats live	some cats do live QUEST	do
-dont some birds sleep	some birds dont sleep QUEST	dont
-does our yak giggle	our yak does giggle QUEST	does
-doesnt the unicorn smile	the unicorn doesnt smile QUEST	doesnt
-does her bird laugh	her bird does laugh QUEST	does
-doesnt my elephant giggle	my elephant doesnt giggle QUEST	doesnt
-doesnt my yak read	my yak doesnt read QUEST	doesnt
-doesnt the seal read	the seal doesnt read QUEST	doesnt
-doesnt my dog smile	my dog doesnt smile QUEST	doesnt
-does our elephant smile	our elephant does smile QUEST	does
-do our unicorns read	our unicorns do read QUEST	do
-doesnt some rabbit smile	some rabbit doesnt smile QUEST	doesnt
-dont some dogs smile	some dogs dont smile QUEST	dont
-do the birds giggle	the birds do giggle QUEST	do
-doesnt the yak giggle	the yak doesnt giggle QUEST	doesnt
-dont our unicorns live	our unicorns dont live QUEST	dont
-does her rabbit sleep	her rabbit does sleep QUEST	does
-do my unicorns giggle	my unicorns do giggle QUEST	do
-does her unicorn giggle	her unicorn does giggle QUEST	does
-dont our rabbits sleep	our rabbits dont sleep QUEST	dont
-dont your dogs sleep	your dogs dont sleep QUEST	dont
-does your bird read	your bird does read QUEST	does
-does your bird giggle	your bird does giggle QUEST	does
-do your cats giggle	your cats do giggle QUEST	do
-do your cats read	your cats do read QUEST	do
-doesnt your unicorn read	your unicorn doesnt read QUEST	doesnt
-do your birds laugh	your birds do laugh QUEST	do
-dont her yaks live	her yaks dont live QUEST	dont
-does the unicorn giggle	the unicorn does giggle QUEST	does
-do your monkeys smile	your monkeys do smile QUEST	do
-doesnt her cat smile	her cat doesnt smile QUEST	doesnt
-doesnt your bird laugh	your bird doesnt laugh QUEST	doesnt
-dont my cats smile	my cats dont smile QUEST	dont
-do your birds laugh	your birds do laugh QUEST	do
-do my seals read	my seals do read QUEST	do
-does our dog live	our dog does live QUEST	does
-dont some yaks live	some yaks dont live QUEST	dont
-do our monkeys read	our monkeys do read QUEST	do
-dont her unicorns laugh	her unicorns dont laugh QUEST	dont
-do some rabbits sleep	some rabbits do sleep QUEST	do
-dont the rabbits laugh	the rabbits dont laugh QUEST	dont
-do our seals laugh	our seals do laugh QUEST	do
-do our cats read	our cats do read QUEST	do
-doesnt our dog sleep	our dog doesnt sleep QUEST	doesnt
-dont her rabbits giggle	her rabbits dont giggle QUEST	dont
-does the unicorn giggle	the unicorn does giggle QUEST	does
-doesnt the rabbit giggle	the rabbit doesnt giggle QUEST	doesnt
-does my dog live	my dog does live QUEST	does
-dont the yaks live	the yaks dont live QUEST	dont
-dont our dogs read	our dogs dont read QUEST	dont
-do our birds smile	our birds do smile QUEST	do
-do my seals giggle	my seals do giggle QUEST	do
-does her elephant live	her elephant does live QUEST	does
-does some bird smile	some bird does smile QUEST	does
-dont some yaks live	some yaks dont live QUEST	dont
-does her dog live	her dog does live QUEST	does
-doesnt her elephant smile	her elephant doesnt smile QUEST	doesnt
-dont our unicorns smile	our unicorns dont smile QUEST	dont
-doesnt your unicorn smile	your unicorn doesnt smile QUEST	doesnt
-do the rabbits laugh	the rabbits do laugh QUEST	do
-doesnt my yak sleep	my yak doesnt sleep QUEST	doesnt
-dont your yaks laugh	your yaks dont laugh QUEST	dont
-doesnt her rabbit live	her rabbit doesnt live QUEST	doesnt
-dont her birds live	her birds dont live QUEST	dont
-does my dog giggle	my dog does giggle QUEST	does
-do your unicorns laugh	your unicorns do laugh QUEST	do
-do your cats live	your cats do live QUEST	do
-dont my elephants live	my elephants dont live QUEST	dont
-does your unicorn smile	your unicorn does smile QUEST	does
-doesnt her yak smile	her yak doesnt smile QUEST	doesnt
-does her bird giggle	her bird does giggle QUEST	does
-does her seal read	her seal does read QUEST	does
-do her yaks read	her yaks do read QUEST	do
-dont the yaks giggle	the yaks dont giggle QUEST	dont
-dont the monkeys giggle	the monkeys dont giggle QUEST	dont
-do your elephants read	your elephants do read QUEST	do
-does some seal sleep	some seal does sleep QUEST	does
-doesnt the cat giggle	the cat doesnt giggle QUEST	doesnt
-dont your rabbits giggle	your rabbits dont giggle QUEST	dont
-does the elephant read	the elephant does read QUEST	does
-doesnt some unicorn live	some unicorn doesnt live QUEST	doesnt
-doesnt your rabbit giggle	your rabbit doesnt giggle QUEST	doesnt
-doesnt my monkey read	my monkey doesnt read QUEST	doesnt
-doesnt her yak smile	her yak doesnt smile QUEST	doesnt
-does the rabbit laugh	the rabbit does laugh QUEST	does
-do her unicorns smile	her unicorns do smile QUEST	do
-do the cats read	the cats do read QUEST	do
-do my seals laugh	my seals do laugh QUEST	do
-dont my unicorns laugh	my unicorns dont laugh QUEST	dont
-does the unicorn giggle	the unicorn does giggle QUEST	does
-does her elephant live	her elephant does live QUEST	does
-doesnt your rabbit sleep	your rabbit doesnt sleep QUEST	doesnt
-do your unicorns sleep	your unicorns do sleep QUEST	do
-do the yaks giggle	the yaks do giggle QUEST	do
-do the yaks live	the yaks do live QUEST	do
-do our monkeys sleep	our monkeys do sleep QUEST	do
-doesnt the monkey smile	the monkey doesnt smile QUEST	doesnt
-dont my unicorns live	my unicorns dont live QUEST	dont
-do her rabbits laugh	her rabbits do laugh QUEST	do
-do your unicorns read	your unicorns do read QUEST	do
-do your rabbits sleep	your rabbits do sleep QUEST	do
-do my birds sleep	my birds do sleep QUEST	do
-dont our monkeys live	our monkeys dont live QUEST	dont
-dont your cats read	your cats dont read QUEST	dont
-does our yak giggle	our yak does giggle QUEST	does
-does my bird live	my bird does live QUEST	does
-dont the elephants giggle	the elephants dont giggle QUEST	dont
-do our yaks sleep	our yaks do sleep QUEST	do
-doesnt our dog sleep	our dog doesnt sleep QUEST	doesnt
-do the cats smile	the cats do smile QUEST	do
-dont the cats sleep	the cats dont sleep QUEST	dont
-do her cats giggle	her cats do giggle QUEST	do
-do her seals read	her seals do read QUEST	do
-doesnt some elephant laugh	some elephant doesnt laugh QUEST	doesnt
-do the seals giggle	the seals do giggle QUEST	do
-does our elephant live	our elephant does live QUEST	does
-doesnt her cat read	her cat doesnt read QUEST	doesnt
-doesnt some yak read	some yak doesnt read QUEST	doesnt
-doesnt your elephant giggle	your elephant doesnt giggle QUEST	doesnt
-do our rabbits giggle	our rabbits do giggle QUEST	do
-doesnt my elephant laugh	my elephant doesnt laugh QUEST	doesnt
-dont the birds sleep	the birds dont sleep QUEST	dont
-doesnt your bird laugh	your bird doesnt laugh QUEST	doesnt
-does our monkey laugh	our monkey does laugh QUEST	does
-doesnt our rabbit laugh	our rabbit doesnt laugh QUEST	doesnt
-doesnt my rabbit laugh	my rabbit doesnt laugh QUEST	doesnt
-dont some yaks laugh	some yaks dont laugh QUEST	dont
-doesnt some monkey sleep	some monkey doesnt sleep QUEST	doesnt
-doesnt the dog laugh	the dog doesnt laugh QUEST	doesnt
-doesnt the rabbit sleep	the rabbit doesnt sleep QUEST	doesnt
-dont our cats giggle	our cats dont giggle QUEST	dont
-does my rabbit laugh	my rabbit does laugh QUEST	does
-do my cats sleep	my cats do sleep QUEST	do
-does our dog smile	our dog does smile QUEST	does
-do our yaks smile	our yaks do smile QUEST	do
-do my seals sleep	my seals do sleep QUEST	do
-does my dog read	my dog does read QUEST	does
-does our elephant sleep	our elephant does sleep QUEST	does
-doesnt our unicorn smile	our unicorn doesnt smile QUEST	doesnt
-dont her monkeys giggle	her monkeys dont giggle QUEST	dont
-does my cat smile	my cat does smile QUEST	does
-doesnt the unicorn live	the unicorn doesnt live QUEST	doesnt
-doesnt the unicorn sleep	the unicorn doesnt sleep QUEST	doesnt
-doesnt your unicorn smile	your unicorn doesnt smile QUEST	doesnt
-doesnt her elephant read	her elephant doesnt read QUEST	doesnt
-dont my elephants laugh	my elephants dont laugh QUEST	dont
-dont her dogs sleep	her dogs dont sleep QUEST	dont
-does her rabbit laugh	her rabbit does laugh QUEST	does
-does her monkey read	her monkey does read QUEST	does
-doesnt some monkey live	some monkey doesnt live QUEST	doesnt
-dont your birds read	your birds dont read QUEST	dont
-dont the birds smile	the birds dont smile QUEST	dont
-dont the birds read	the birds dont read QUEST	dont
-do our rabbits live	our rabbits do live QUEST	do
-doesnt her seal read	her seal doesnt read QUEST	doesnt
-do her rabbits laugh	her rabbits do laugh QUEST	do
-dont her rabbits sleep	her rabbits dont sleep QUEST	dont
-do my seals sleep	my seals do sleep QUEST	do
-does our cat read	our cat does read QUEST	does
-do the dogs live	the dogs do live QUEST	do
-do our monkeys giggle	our monkeys do giggle QUEST	do
-do her cats live	her cats do live QUEST	do
-does some cat read	some cat does read QUEST	does
-dont the monkeys sleep	the monkeys dont sleep QUEST	dont
-doesnt your seal sleep	your seal doesnt sleep QUEST	doesnt
-do my seals laugh	my seals do laugh QUEST	do
-does some cat giggle	some cat does giggle QUEST	does
-dont her birds giggle	her birds dont giggle QUEST	dont
-does our unicorn giggle	our unicorn does giggle QUEST	does
-dont her elephants giggle	her elephants dont giggle QUEST	dont
-do the seals laugh	the seals do laugh QUEST	do
-does some monkey read	some monkey does read QUEST	does
-doesnt my bird giggle	my bird doesnt giggle QUEST	doesnt
-does some unicorn sleep	some unicorn does sleep QUEST	does
-dont the elephants laugh	the elephants dont laugh QUEST	dont
-does her dog smile	her dog does smile QUEST	does
-doesnt her elephant sleep	her elephant doesnt sleep QUEST	doesnt
-dont her elephants read	her elephants dont read QUEST	dont
-dont some unicorns read	some unicorns dont read QUEST	dont
-does your monkey giggle	your monkey does giggle QUEST	does
-dont her unicorns smile	her unicorns dont smile QUEST	dont
-does your yak read	your yak does read QUEST	does
-does her yak smile	her yak does smile QUEST	does
-does your unicorn smile	your unicorn does smile QUEST	does
-doesnt some rabbit sleep	some rabbit doesnt sleep QUEST	doesnt
-does some monkey smile	some monkey does smile QUEST	does
-do some birds sleep	some birds do sleep QUEST	do
-do our cats read	our cats do read QUEST	do
-dont my monkeys giggle	my monkeys dont giggle QUEST	dont
-dont my yaks smile	my yaks dont smile QUEST	dont
-does the dog smile	the dog does smile QUEST	does
-do some unicorns laugh	some unicorns do laugh QUEST	do
-does the rabbit live	the rabbit does live QUEST	does
-do your unicorns read	your unicorns do read QUEST	do
-does her yak giggle	her yak does giggle QUEST	does
-dont some rabbits read	some rabbits dont read QUEST	dont
-do your monkeys smile	your monkeys do smile QUEST	do
-dont our monkeys smile	our monkeys dont smile QUEST	dont
-does your elephant laugh	your elephant does laugh QUEST	does
-do my monkeys read	my monkeys do read QUEST	do
-doesnt the dog smile	the dog doesnt smile QUEST	doesnt
-does the unicorn live	the unicorn does live QUEST	does
-does some elephant laugh	some elephant does laugh QUEST	does
-do the unicorns live	the unicorns do live QUEST	do
-do your unicorns sleep	your unicorns do sleep QUEST	do
-do the monkeys live	the monkeys do live QUEST	do
-doesnt the cat smile	the cat doesnt smile QUEST	doesnt
-doesnt your seal laugh	your seal doesnt laugh QUEST	doesnt
-dont the elephants live	the elephants dont live QUEST	dont
-does her monkey live	her monkey does live QUEST	does
-do some seals giggle	some seals do giggle QUEST	do
-dont her elephants read	her elephants dont read QUEST	dont
-does her rabbit read	her rabbit does read QUEST	does
-dont her dogs giggle	her dogs dont giggle QUEST	dont
-do her elephants giggle	her elephants do giggle QUEST	do
-do the seals giggle	the seals do giggle QUEST	do
-dont her monkeys sleep	her monkeys dont sleep QUEST	dont
-does my cat sleep	my cat does sleep QUEST	does
-dont the monkeys laugh	the monkeys dont laugh QUEST	dont
-doesnt her dog sleep	her dog doesnt sleep QUEST	doesnt
-do her dogs sleep	her dogs do sleep QUEST	do
-dont her rabbits sleep	her rabbits dont sleep QUEST	dont
-dont our elephants live	our elephants dont live QUEST	dont
-doesnt your monkey giggle	your monkey doesnt giggle QUEST	doesnt
-doesnt her rabbit sleep	her rabbit doesnt sleep QUEST	doesnt
-does our bird sleep	our bird does sleep QUEST	does
-does your bird read	your bird does read QUEST	does
-does our bird giggle	our bird does giggle QUEST	does
-does your dog giggle	your dog does giggle QUEST	does
-doesnt her dog giggle	her dog doesnt giggle QUEST	doesnt
-dont her cats read	her cats dont read QUEST	dont
-do the cats smile	the cats do smile QUEST	do
-do our rabbits live	our rabbits do live QUEST	do
-doesnt our cat read	our cat doesnt read QUEST	doesnt
-doesnt some cat laugh	some cat doesnt laugh QUEST	doesnt
-do some monkeys read	some monkeys do read QUEST	do
-do some monkeys sleep	some monkeys do sleep QUEST	do
-dont some birds giggle	some birds dont giggle QUEST	dont
-dont my cats read	my cats dont read QUEST	dont
-do the dogs laugh	the dogs do laugh QUEST	do
-do your seals live	your seals do live QUEST	do
-dont the seals laugh	the seals dont laugh QUEST	dont
-does some elephant sleep	some elephant does sleep QUEST	does
-dont some seals laugh	some seals dont laugh QUEST	dont
-dont her birds smile	her birds dont smile QUEST	dont
-does her elephant read	her elephant does read QUEST	does
-dont some monkeys smile	some monkeys dont smile QUEST	dont
-does some yak giggle	some yak does giggle QUEST	does
-doesnt her unicorn live	her unicorn doesnt live QUEST	doesnt
-doesnt some rabbit smile	some rabbit doesnt smile QUEST	doesnt
-does her rabbit laugh	her rabbit does laugh QUEST	does
-do her dogs laugh	her dogs do laugh QUEST	do
-doesnt her monkey smile	her monkey doesnt smile QUEST	doesnt
-doesnt her unicorn smile	her unicorn doesnt smile QUEST	doesnt
-dont her dogs sleep	her dogs dont sleep QUEST	dont
-do the rabbits live	the rabbits do live QUEST	do
-dont the yaks live	the yaks dont live QUEST	dont
-do my elephants live	my elephants do live QUEST	do
-dont her dogs giggle	her dogs dont giggle QUEST	dont
-do some seals laugh	some seals do laugh QUEST	do
-doesnt my monkey smile	my monkey doesnt smile QUEST	doesnt
-does my bird giggle	my bird does giggle QUEST	does
-do her birds live	her birds do live QUEST	do
-do our unicorns laugh	our unicorns do laugh QUEST	do
-doesnt my monkey laugh	my monkey doesnt laugh QUEST	doesnt
-does your cat sleep	your cat does sleep QUEST	does
-do her cats sleep	her cats do sleep QUEST	do
-does my seal giggle	my seal does giggle QUEST	does
-dont the yaks live	the yaks dont live QUEST	dont
-doesnt our yak laugh	our yak doesnt laugh QUEST	doesnt
-dont our unicorns laugh	our unicorns dont laugh QUEST	dont
-dont her dogs smile	her dogs dont smile QUEST	dont
-do some dogs giggle	some dogs do giggle QUEST	do
-dont our monkeys laugh	our monkeys dont laugh QUEST	dont
-do our monkeys sleep	our monkeys do sleep QUEST	do
-doesnt your unicorn read	your unicorn doesnt read QUEST	doesnt
-does your elephant sleep	your elephant does sleep QUEST	does
-doesnt some cat laugh	some cat doesnt laugh QUEST	doesnt
-does my elephant laugh	my elephant does laugh QUEST	does
-do my elephants read	my elephants do read QUEST	do
-doesnt your unicorn smile	your unicorn doesnt smile QUEST	doesnt
-doesnt your bird smile	your bird doesnt smile QUEST	doesnt
-dont my rabbits smile	my rabbits dont smile QUEST	dont
-do our seals laugh	our seals do laugh QUEST	do
-does her bird laugh	her bird does laugh QUEST	does
-dont my yaks smile	my yaks dont smile QUEST	dont
-does the cat laugh	the cat does laugh QUEST	does
-does our dog smile	our dog does smile QUEST	does
-doesnt our unicorn giggle	our unicorn doesnt giggle QUEST	doesnt
-do your yaks giggle	your yaks do giggle QUEST	do
-does our monkey live	our monkey does live QUEST	does
-doesnt the yak sleep	the yak doesnt sleep QUEST	doesnt
-dont your yaks read	your yaks dont read QUEST	dont
-does your dog live	your dog does live QUEST	does
-dont some elephants read	some elephants dont read QUEST	dont
-doesnt my bird laugh	my bird doesnt laugh QUEST	doesnt
-do our unicorns smile	our unicorns do smile QUEST	do
-does our cat read	our cat does read QUEST	does
-dont our unicorns smile	our unicorns dont smile QUEST	dont
-dont our unicorns read	our unicorns dont read QUEST	dont
-dont her seals laugh	her seals dont laugh QUEST	dont
-does the dog smile	the dog does smile QUEST	does
-doesnt some elephant live	some elephant doesnt live QUEST	doesnt
-doesnt her dog smile	her dog doesnt smile QUEST	doesnt
-do some rabbits smile	some rabbits do smile QUEST	do
-dont some seals giggle	some seals dont giggle QUEST	dont
-dont some elephants live	some elephants dont live QUEST	dont
-does your unicorn smile	your unicorn does smile QUEST	does
-dont my elephants smile	my elephants dont smile QUEST	dont
-do your unicorns laugh	your unicorns do laugh QUEST	do
-do my cats live	my cats do live QUEST	do
-dont some monkeys laugh	some monkeys dont laugh QUEST	dont
-do our dogs sleep	our dogs do sleep QUEST	do
-doesnt her dog smile	her dog doesnt smile QUEST	doesnt
-does the cat laugh	the cat does laugh QUEST	does
-do our seals smile	our seals do smile QUEST	do
-does my unicorn live	my unicorn does live QUEST	does
-does my rabbit giggle	my rabbit does giggle QUEST	does
-does our elephant live	our elephant does live QUEST	does
-dont our seals live	our seals dont live QUEST	dont
-do the birds read	the birds do read QUEST	do
-doesnt some seal read	some seal doesnt read QUEST	doesnt
-does my dog smile	my dog does smile QUEST	does
-does our seal sleep	our seal does sleep QUEST	does
-does her monkey live	her monkey does live QUEST	does
-does the yak live	the yak does live QUEST	does
-dont your birds smile	your birds dont smile QUEST	dont
-dont some monkeys live	some monkeys dont live QUEST	dont
-does our monkey sleep	our monkey does sleep QUEST	does
-does my cat laugh	my cat does laugh QUEST	does
-does the rabbit sleep	the rabbit does sleep QUEST	does
-do the monkeys giggle	the monkeys do giggle QUEST	do
-does the cat giggle	the cat does giggle QUEST	does
-dont the rabbits live	the rabbits dont live QUEST	dont
-doesnt some rabbit read	some rabbit doesnt read QUEST	doesnt
-do some elephants read	some elephants do read QUEST	do
-do my dogs read	my dogs do read QUEST	do
-dont her yaks sleep	her yaks dont sleep QUEST	dont
-dont our yaks sleep	our yaks dont sleep QUEST	dont
-does my unicorn live	my unicorn does live QUEST	does
-do some yaks laugh	some yaks do laugh QUEST	do
-does your rabbit giggle	your rabbit does giggle QUEST	does
-dont the dogs live	the dogs dont live QUEST	dont
-does her unicorn read	her unicorn does read QUEST	does
-doesnt some elephant read	some elephant doesnt read QUEST	doesnt
-doesnt some elephant sleep	some elephant doesnt sleep QUEST	doesnt
-doesnt my dog live	my dog doesnt live QUEST	doesnt
-doesnt some unicorn live	some unicorn doesnt live QUEST	doesnt
-do our seals laugh	our seals do laugh QUEST	do
-dont our elephants smile	our elephants dont smile QUEST	dont
-dont some monkeys smile	some monkeys dont smile QUEST	dont
-do my monkeys smile	my monkeys do smile QUEST	do
-doesnt the bird smile	the bird doesnt smile QUEST	doesnt
-do the yaks giggle	the yaks do giggle QUEST	do
-do some birds sleep	some birds do sleep QUEST	do
-doesnt her unicorn live	her unicorn doesnt live QUEST	doesnt
-do her cats giggle	her cats do giggle QUEST	do
-do my unicorns giggle	my unicorns do giggle QUEST	do
-dont your monkeys live	your monkeys dont live QUEST	dont
-doesnt your yak read	your yak doesnt read QUEST	doesnt
-do your monkeys read	your monkeys do read QUEST	do
-does my seal live	my seal does live QUEST	does
-do the elephants live	the elephants do live QUEST	do
-doesnt her bird smile	her bird doesnt smile QUEST	doesnt
-does our unicorn read	our unicorn does read QUEST	does
-doesnt our unicorn sleep	our unicorn doesnt sleep QUEST	doesnt
-do our unicorns read	our unicorns do read QUEST	do
-does her cat sleep	her cat does sleep QUEST	does
-dont her unicorns sleep	her unicorns dont sleep QUEST	dont
-does my unicorn giggle	my unicorn does giggle QUEST	does
-does our unicorn read	our unicorn does read QUEST	does
-does her seal laugh	her seal does laugh QUEST	does
-dont your birds read	your birds dont read QUEST	dont
-doesnt my bird smile	my bird doesnt smile QUEST	doesnt
-do my seals smile	my seals do smile QUEST	do
-do the monkeys read	the monkeys do read QUEST	do
-do our dogs smile	our dogs do smile QUEST	do
-do your monkeys sleep	your monkeys do sleep QUEST	do
-does our unicorn read	our unicorn does read QUEST	does
-doesnt my yak smile	my yak doesnt smile QUEST	doesnt
-dont my yaks laugh	my yaks dont laugh QUEST	dont
-doesnt your monkey live	your monkey doesnt live QUEST	doesnt
-does the monkey smile	the monkey does smile QUEST	does
-does your seal giggle	your seal does giggle QUEST	does
-dont the elephants live	the elephants dont live QUEST	dont
-do our birds laugh	our birds do laugh QUEST	do
-dont some seals smile	some seals dont smile QUEST	dont
-do some unicorns laugh	some unicorns do laugh QUEST	do
-does the elephant laugh	the elephant does laugh QUEST	does
-doesnt her rabbit giggle	her rabbit doesnt giggle QUEST	doesnt
-doesnt her yak live	her yak doesnt live QUEST	doesnt
-do our monkeys giggle	our monkeys do giggle QUEST	do
-doesnt her unicorn live	her unicorn doesnt live QUEST	doesnt
-doesnt her seal sleep	her seal doesnt sleep QUEST	doesnt
-does some cat giggle	some cat does giggle QUEST	does
-do some elephants read	some elephants do read QUEST	do
-does my yak laugh	my yak does laugh QUEST	does
-does my unicorn giggle	my unicorn does giggle QUEST	does
-does some unicorn laugh	some unicorn does laugh QUEST	does
-dont some cats laugh	some cats dont laugh QUEST	dont
-do her monkeys read	her monkeys do read QUEST	do
-do our yaks laugh	our yaks do laugh QUEST	do
-dont our yaks laugh	our yaks dont laugh QUEST	dont
-dont the rabbits laugh	the rabbits dont laugh QUEST	dont
-do our yaks read	our yaks do read QUEST	do
-dont our yaks laugh	our yaks dont laugh QUEST	dont
-do the yaks read	the yaks do read QUEST	do
-dont our monkeys live	our monkeys dont live QUEST	dont
-dont my seals live	my seals dont live QUEST	dont
-does the yak read	the yak does read QUEST	does
-does her elephant read	her elephant does read QUEST	does
-doesnt your monkey smile	your monkey doesnt smile QUEST	doesnt
-doesnt your unicorn live	your unicorn doesnt live QUEST	doesnt
-doesnt some seal sleep	some seal doesnt sleep QUEST	doesnt
-doesnt our cat giggle	our cat doesnt giggle QUEST	doesnt
-do your cats smile	your cats do smile QUEST	do
-does her bird smile	her bird does smile QUEST	does
-does our seal smile	our seal does smile QUEST	does
-do our cats live	our cats do live QUEST	do
-do the dogs sleep	the dogs do sleep QUEST	do
-does the yak live	the yak does live QUEST	does
-does our cat sleep	our cat does sleep QUEST	does
-doesnt our yak giggle	our yak doesnt giggle QUEST	doesnt
-do your rabbits live	your rabbits do live QUEST	do
-does my rabbit read	my rabbit does read QUEST	does
-doesnt my rabbit live	my rabbit doesnt live QUEST	doesnt
-dont some yaks live	some yaks dont live QUEST	dont
-do your birds live	your birds do live QUEST	do
-does my seal giggle	my seal does giggle QUEST	does
-do her elephants smile	her elephants do smile QUEST	do
-do her seals read	her seals do read QUEST	do
-does her cat laugh	her cat does laugh QUEST	does
-do her birds smile	her birds do smile QUEST	do
-dont some yaks read	some yaks dont read QUEST	dont
-dont some birds read	some birds dont read QUEST	dont
-dont our elephants read	our elephants dont read QUEST	dont
-do your birds sleep	your birds do sleep QUEST	do
-do some cats live	some cats do live QUEST	do
-doesnt my cat sleep	my cat doesnt sleep QUEST	doesnt
-dont your dogs laugh	your dogs dont laugh QUEST	dont
-do my birds live	my birds do live QUEST	do
-dont some elephants sleep	some elephants dont sleep QUEST	dont
-do your yaks giggle	your yaks do giggle QUEST	do
-does her bird laugh	her bird does laugh QUEST	does
-dont her cats live	her cats dont live QUEST	dont
-does the elephant read	the elephant does read QUEST	does
-do your dogs giggle	your dogs do giggle QUEST	do
-doesnt your rabbit smile	your rabbit doesnt smile QUEST	doesnt
-do some seals smile	some seals do smile QUEST	do
-does my cat laugh	my cat does laugh QUEST	does
-dont the unicorns smile	the unicorns dont smile QUEST	dont
-dont some birds giggle	some birds dont giggle QUEST	dont
-dont the dogs read	the dogs dont read QUEST	dont
-do my monkeys sleep	my monkeys do sleep QUEST	do
-doesnt her elephant live	her elephant doesnt live QUEST	doesnt
-does our bird live	our bird does live QUEST	does
-do her seals live	her seals do live QUEST	do
-dont her seals smile	her seals dont smile QUEST	dont
-dont our cats live	our cats dont live QUEST	dont
-dont your yaks read	your yaks dont read QUEST	dont
-dont my seals laugh	my seals dont laugh QUEST	dont
-doesnt my elephant read	my elephant doesnt read QUEST	doesnt
-doesnt some rabbit smile	some rabbit doesnt smile QUEST	doesnt
-do your yaks sleep	your yaks do sleep QUEST	do
-dont her birds sleep	her birds dont sleep QUEST	dont
-doesnt our bird giggle	our bird doesnt giggle QUEST	doesnt
-does some rabbit sleep	some rabbit does sleep QUEST	does
-do my elephants smile	my elephants do smile QUEST	do
-does the dog sleep	the dog does sleep QUEST	does
-dont my birds sleep	my birds dont sleep QUEST	dont
-doesnt her dog sleep	her dog doesnt sleep QUEST	doesnt
-do her yaks read	her yaks do read QUEST	do
-does some yak live	some yak does live QUEST	does
-does my unicorn read	my unicorn does read QUEST	does
-dont her elephants giggle	her elephants dont giggle QUEST	dont
-doesnt my bird smile	my bird doesnt smile QUEST	doesnt
-does my dog smile	my dog does smile QUEST	does
-do her dogs sleep	her dogs do sleep QUEST	do
-does her seal giggle	her seal does giggle QUEST	does
-dont some cats sleep	some cats dont sleep QUEST	dont
-doesnt the seal smile	the seal doesnt smile QUEST	doesnt
-does our rabbit giggle	our rabbit does giggle QUEST	does
-do your unicorns read	your unicorns do read QUEST	do
-does your bird laugh	your bird does laugh QUEST	does
-dont your dogs read	your dogs dont read QUEST	dont
-does her rabbit live	her rabbit does live QUEST	does
-dont the dogs smile	the dogs dont smile QUEST	dont
-doesnt her rabbit sleep	her rabbit doesnt sleep QUEST	doesnt
-do the rabbits giggle	the rabbits do giggle QUEST	do
-do some cats smile	some cats do smile QUEST	do
-dont our unicorns smile	our unicorns dont smile QUEST	dont
-dont our birds sleep	our birds dont sleep QUEST	dont
-do your seals laugh	your seals do laugh QUEST	do
-do the elephants read	the elephants do read QUEST	do
-does my yak sleep	my yak does sleep QUEST	does
-does some cat smile	some cat does smile QUEST	does
-does your rabbit giggle	your rabbit does giggle QUEST	does
-doesnt our cat live	our cat doesnt live QUEST	doesnt
-does our bird live	our bird does live QUEST	does
-doesnt your unicorn read	your unicorn doesnt read QUEST	doesnt
-do your rabbits laugh	your rabbits do laugh QUEST	do
-dont the dogs laugh	the dogs dont laugh QUEST	dont
-dont our monkeys read	our monkeys dont read QUEST	dont
-does your cat smile	your cat does smile QUEST	does
-doesnt the rabbit smile	the rabbit doesnt smile QUEST	doesnt
-do our monkeys live	our monkeys do live QUEST	do
-do the monkeys live	the monkeys do live QUEST	do
-doesnt the yak laugh	the yak doesnt laugh QUEST	doesnt
-do my elephants live	my elephants do live QUEST	do
-dont her yaks laugh	her yaks dont laugh QUEST	dont
-doesnt the dog laugh	the dog doesnt laugh QUEST	doesnt
-does the unicorn giggle	the unicorn does giggle QUEST	does
-do our cats live	our cats do live QUEST	do
-dont the dogs sleep	the dogs dont sleep QUEST	dont
-doesnt the rabbit smile	the rabbit doesnt smile QUEST	doesnt
-doesnt your monkey live	your monkey doesnt live QUEST	doesnt
-doesnt the monkey live	the monkey doesnt live QUEST	doesnt
-dont your birds sleep	your birds dont sleep QUEST	dont
-dont my seals sleep	my seals dont sleep QUEST	dont
-do some seals smile	some seals do smile QUEST	do
-doesnt her rabbit sleep	her rabbit doesnt sleep QUEST	doesnt
-does the cat laugh	the cat does laugh QUEST	does
-doesnt the monkey sleep	the monkey doesnt sleep QUEST	doesnt
-do her yaks live	her yaks do live QUEST	do
-do the yaks sleep	the yaks do sleep QUEST	do
-doesnt some elephant read	some elephant doesnt read QUEST	doesnt
-do our seals read	our seals do read QUEST	do
-doesnt your seal laugh	your seal doesnt laugh QUEST	doesnt
-doesnt your cat laugh	your cat doesnt laugh QUEST	doesnt
-does my bird giggle	my bird does giggle QUEST	does
-do some birds sleep	some birds do sleep QUEST	do
-does the bird giggle	the bird does giggle QUEST	does
-dont the birds giggle	the birds dont giggle QUEST	dont
-dont her monkeys smile	her monkeys dont smile QUEST	dont
-do her rabbits smile	her rabbits do smile QUEST	do
-dont your yaks giggle	your yaks dont giggle QUEST	dont
-doesnt her yak giggle	her yak doesnt giggle QUEST	doesnt
-doesnt some yak read	some yak doesnt read QUEST	doesnt
-doesnt some rabbit laugh	some rabbit doesnt laugh QUEST	doesnt
-doesnt my monkey sleep	my monkey doesnt sleep QUEST	doesnt
-does your dog laugh	your dog does laugh QUEST	does
-doesnt my elephant laugh	my elephant doesnt laugh QUEST	doesnt
-dont our seals live	our seals dont live QUEST	dont
-doesnt our bird live	our bird doesnt live QUEST	doesnt
-do some unicorns live	some unicorns do live QUEST	do
-dont some unicorns live	some unicorns dont live QUEST	dont
-doesnt some monkey laugh	some monkey doesnt laugh QUEST	doesnt
-dont some birds live	some birds dont live QUEST	dont
-do the rabbits giggle	the rabbits do giggle QUEST	do
-does her unicorn sleep	her unicorn does sleep QUEST	does
-does the elephant giggle	the elephant does giggle QUEST	does
-dont the cats laugh	the cats dont laugh QUEST	dont
-do our birds live	our birds do live QUEST	do
-dont our dogs read	our dogs dont read QUEST	dont
-doesnt my unicorn smile	my unicorn doesnt smile QUEST	doesnt
-dont my elephants smile	my elephants dont smile QUEST	dont
-do my seals sleep	my seals do sleep QUEST	do
-does some seal smile	some seal does smile QUEST	does
-does her unicorn giggle	her unicorn does giggle QUEST	does
-does her unicorn sleep	her unicorn does sleep QUEST	does
-does her bird giggle	her bird does giggle QUEST	does
-doesnt her elephant sleep	her elephant doesnt sleep QUEST	doesnt
-does some monkey smile	some monkey does smile QUEST	does
-doesnt some monkey live	some monkey doesnt live QUEST	doesnt
-dont some yaks smile	some yaks dont smile QUEST	dont
-does our dog laugh	our dog does laugh QUEST	does
-doesnt the cat read	the cat doesnt read QUEST	doesnt
-doesnt some seal giggle	some seal doesnt giggle QUEST	doesnt
-does the yak smile	the yak does smile QUEST	does
-do her unicorns sleep	her unicorns do sleep QUEST	do
-does your rabbit laugh	your rabbit does laugh QUEST	does
-do some yaks smile	some yaks do smile QUEST	do
-dont our cats live	our cats dont live QUEST	dont
-doesnt my seal read	my seal doesnt read QUEST	doesnt
-do my yaks read	my yaks do read QUEST	do
-does her cat live	her cat does live QUEST	does
-doesnt your seal giggle	your seal doesnt giggle QUEST	doesnt
-dont the yaks read	the yaks dont read QUEST	dont
-do my cats read	my cats do read QUEST	do
-dont your rabbits smile	your rabbits dont smile QUEST	dont
-dont your unicorns smile	your unicorns dont smile QUEST	dont
-doesnt her cat laugh	her cat doesnt laugh QUEST	doesnt
-doesnt your seal read	your seal doesnt read QUEST	doesnt
-do the birds sleep	the birds do sleep QUEST	do
-dont the birds sleep	the birds dont sleep QUEST	dont
-does her dog sleep	her dog does sleep QUEST	does
-doesnt your rabbit laugh	your rabbit doesnt laugh QUEST	doesnt
-do my rabbits smile	my rabbits do smile QUEST	do
-do the monkeys read	the monkeys do read QUEST	do
-do some seals giggle	some seals do giggle QUEST	do
-do some yaks read	some yaks do read QUEST	do
-dont her birds giggle	her birds dont giggle QUEST	dont
-does my cat giggle	my cat does giggle QUEST	does
-doesnt my seal giggle	my seal doesnt giggle QUEST	doesnt
-doesnt your monkey read	your monkey doesnt read QUEST	doesnt
-do our unicorns smile	our unicorns do smile QUEST	do
-doesnt some cat sleep	some cat doesnt sleep QUEST	doesnt
-dont our dogs read	our dogs dont read QUEST	dont
-dont her rabbits sleep	her rabbits dont sleep QUEST	dont
-do her monkeys smile	her monkeys do smile QUEST	do
-do our elephants giggle	our elephants do giggle QUEST	do
-doesnt some monkey read	some monkey doesnt read QUEST	doesnt
-does my yak giggle	my yak does giggle QUEST	does
-do my yaks giggle	my yaks do giggle QUEST	do
-dont your rabbits smile	your rabbits dont smile QUEST	dont
-do the yaks read	the yaks do read QUEST	do
-do some dogs live	some dogs do live QUEST	do
-do the yaks smile	the yaks do smile QUEST	do
-dont some unicorns laugh	some unicorns dont laugh QUEST	dont
-dont some monkeys read	some monkeys dont read QUEST	dont
-do her monkeys live	her monkeys do live QUEST	do
-do our birds sleep	our birds do sleep QUEST	do
-doesnt her seal laugh	her seal doesnt laugh QUEST	doesnt
-do your monkeys read	your monkeys do read QUEST	do
-dont the monkeys read	the monkeys dont read QUEST	dont
-does your dog smile	your dog does smile QUEST	does
-do my monkeys smile	my monkeys do smile QUEST	do
-dont my seals read	my seals dont read QUEST	dont
-doesnt my yak giggle	my yak doesnt giggle QUEST	doesnt
-dont my rabbits laugh	my rabbits dont laugh QUEST	dont
-do my elephants smile	my elephants do smile QUEST	do
-does my rabbit smile	my rabbit does smile QUEST	does
-do our birds sleep	our birds do sleep QUEST	do
-dont our birds smile	our birds dont smile QUEST	dont
-does our rabbit laugh	our rabbit does laugh QUEST	does
-do my seals giggle	my seals do giggle QUEST	do
-dont her yaks read	her yaks dont read QUEST	dont
-dont the monkeys read	the monkeys dont read QUEST	dont
-does the cat live	the cat does live QUEST	does
-does my monkey giggle	my monkey does giggle QUEST	does
-dont my birds giggle	my birds dont giggle QUEST	dont
-do the dogs giggle	the dogs do giggle QUEST	do
-does some rabbit smile	some rabbit does smile QUEST	does
-doesnt her dog laugh	her dog doesnt laugh QUEST	doesnt
-doesnt the rabbit read	the rabbit doesnt read QUEST	doesnt
-does the elephant read	the elephant does read QUEST	does
-doesnt the seal read	the seal doesnt read QUEST	doesnt
-dont her rabbits laugh	her rabbits dont laugh QUEST	dont
-doesnt my yak laugh	my yak doesnt laugh QUEST	doesnt
-do her rabbits sleep	her rabbits do sleep QUEST	do
-does your dog read	your dog does read QUEST	does
-doesnt your bird smile	your bird doesnt smile QUEST	doesnt
-doesnt the yak giggle	the yak doesnt giggle QUEST	doesnt
-do my cats sleep	my cats do sleep QUEST	do
-doesnt her seal laugh	her seal doesnt laugh QUEST	doesnt
-do her yaks sleep	her yaks do sleep QUEST	do
-doesnt the monkey smile	the monkey doesnt smile QUEST	doesnt
-dont the seals smile	the seals dont smile QUEST	dont
-does some unicorn read	some unicorn does read QUEST	does
-dont some rabbits live	some rabbits dont live QUEST	dont
-does her dog giggle	her dog does giggle QUEST	does
-do her elephants read	her elephants do read QUEST	do
-dont some birds read	some birds dont read QUEST	dont
-dont some birds giggle	some birds dont giggle QUEST	dont
-do some monkeys read	some monkeys do read QUEST	do
-doesnt the cat smile	the cat doesnt smile QUEST	doesnt
-does our yak read	our yak does read QUEST	does
-does her elephant read	her elephant does read QUEST	does
-doesnt her dog read	her dog doesnt read QUEST	doesnt
-do your monkeys read	your monkeys do read QUEST	do
-does some dog smile	some dog does smile QUEST	does
-doesnt the seal laugh	the seal doesnt laugh QUEST	doesnt
-do some rabbits sleep	some rabbits do sleep QUEST	do
-doesnt the elephant sleep	the elephant doesnt sleep QUEST	doesnt
-does our monkey giggle	our monkey does giggle QUEST	does
-doesnt our elephant smile	our elephant doesnt smile QUEST	doesnt
-doesnt your dog read	your dog doesnt read QUEST	doesnt
-do her birds smile	her birds do smile QUEST	do
-doesnt your yak sleep	your yak doesnt sleep QUEST	doesnt
-do the cats smile	the cats do smile QUEST	do
-do your cats sleep	your cats do sleep QUEST	do
-does our dog sleep	our dog does sleep QUEST	does
-doesnt our rabbit sleep	our rabbit doesnt sleep QUEST	doesnt
-does your dog laugh	your dog does laugh QUEST	does
-dont her monkeys sleep	her monkeys dont sleep QUEST	dont
-do some dogs live	some dogs do live QUEST	do
-does your yak live	your yak does live QUEST	does
-doesnt some monkey laugh	some monkey doesnt laugh QUEST	doesnt
-doesnt our yak laugh	our yak doesnt laugh QUEST	doesnt
-does our dog smile	our dog does smile QUEST	does
-do our cats sleep	our cats do sleep QUEST	do
-dont our cats smile	our cats dont smile QUEST	dont
-does your monkey sleep	your monkey does sleep QUEST	does
-do the dogs giggle	the dogs do giggle QUEST	do
-does my dog laugh	my dog does laugh QUEST	does
-do some birds smile	some birds do smile QUEST	do
-doesnt her seal sleep	her seal doesnt sleep QUEST	doesnt
-does the unicorn sleep	the unicorn does sleep QUEST	does
-doesnt the unicorn live	the unicorn doesnt live QUEST	doesnt
-does the seal live	the seal does live QUEST	does
-do some unicorns sleep	some unicorns do sleep QUEST	do
-doesnt some elephant giggle	some elephant doesnt giggle QUEST	doesnt
-doesnt her bird sleep	her bird doesnt sleep QUEST	doesnt
-dont your dogs live	your dogs dont live QUEST	dont
-dont some birds laugh	some birds dont laugh QUEST	dont
-do her elephants read	her elephants do read QUEST	do
-does our yak laugh	our yak does laugh QUEST	does
-doesnt some bird live	some bird doesnt live QUEST	doesnt
-doesnt some rabbit laugh	some rabbit doesnt laugh QUEST	doesnt
-does your unicorn read	your unicorn does read QUEST	does
-dont your rabbits smile	your rabbits dont smile QUEST	dont
-doesnt our unicorn smile	our unicorn doesnt smile QUEST	doesnt
-dont our monkeys live	our monkeys dont live QUEST	dont
-does the unicorn giggle	the unicorn does giggle QUEST	does
-do the unicorns read	the unicorns do read QUEST	do
-does her monkey live	her monkey does live QUEST	does
-doesnt your elephant laugh	your elephant doesnt laugh QUEST	doesnt
-dont your cats laugh	your cats dont laugh QUEST	dont
-do some dogs live	some dogs do live QUEST	do
-does her unicorn sleep	her unicorn does sleep QUEST	does
-do the seals live	the seals do live QUEST	do
-does the unicorn sleep	the unicorn does sleep QUEST	does
-do my yaks laugh	my yaks do laugh QUEST	do
-do your cats live	your cats do live QUEST	do
-dont my elephants sleep	my elephants dont sleep QUEST	dont
-dont your cats giggle	your cats dont giggle QUEST	dont
-does our yak read	our yak does read QUEST	does
-doesnt her unicorn read	her unicorn doesnt read QUEST	doesnt
-do her rabbits read	her rabbits do read QUEST	do
-does your bird smile	your bird does smile QUEST	does
-doesnt your monkey smile	your monkey doesnt smile QUEST	doesnt
-does my elephant laugh	my elephant does laugh QUEST	does
-dont some dogs smile	some dogs dont smile QUEST	dont
-do my seals smile	my seals do smile QUEST	do
-does my monkey laugh	my monkey does laugh QUEST	does
-doesnt her unicorn sleep	her unicorn doesnt sleep QUEST	doesnt
-doesnt our unicorn smile	our unicorn doesnt smile QUEST	doesnt
-does my elephant laugh	my elephant does laugh QUEST	does
-does some bird smile	some bird does smile QUEST	does
-does her elephant read	her elephant does read QUEST	does
-doesnt my cat live	my cat doesnt live QUEST	doesnt
-doesnt the dog live	the dog doesnt live QUEST	doesnt
-dont some rabbits live	some rabbits dont live QUEST	dont
-do my rabbits giggle	my rabbits do giggle QUEST	do
-doesnt my yak laugh	my yak doesnt laugh QUEST	doesnt
-dont some birds live	some birds dont live QUEST	dont
-doesnt our cat giggle	our cat doesnt giggle QUEST	doesnt
-dont the unicorns giggle	the unicorns dont giggle QUEST	dont
-dont my yaks laugh	my yaks dont laugh QUEST	dont
-dont your unicorns read	your unicorns dont read QUEST	dont
-dont the unicorns smile	the unicorns dont smile QUEST	dont
-dont the unicorns read	the unicorns dont read QUEST	dont
-does our bird live	our bird does live QUEST	does
-doesnt her monkey sleep	her monkey doesnt sleep QUEST	doesnt
-does the bird read	the bird does read QUEST	does
-dont some monkeys smile	some monkeys dont smile QUEST	dont
-do some cats sleep	some cats do sleep QUEST	do
-dont her monkeys smile	her monkeys dont smile QUEST	dont
-doesnt some bird laugh	some bird doesnt laugh QUEST	doesnt
-do some monkeys laugh	some monkeys do laugh QUEST	do
-doesnt our unicorn live	our unicorn doesnt live QUEST	doesnt
+does some unicorn giggle ? QUEST	some unicorn does giggle . QUEST	does
+does some elephant sleep ? QUEST	some elephant does sleep . QUEST	does
+do the cats giggle ? QUEST	the cats do giggle . QUEST	do
+doesnt our elephant live ? QUEST	our elephant doesnt live . QUEST	doesnt
+do some unicorns smile ? QUEST	some unicorns do smile . QUEST	do
+does your rabbit giggle ? QUEST	your rabbit does giggle . QUEST	does
+dont her seals sleep ? QUEST	her seals dont sleep . QUEST	dont
+do some dogs read ? QUEST	some dogs do read . QUEST	do
+doesnt some dog read ? QUEST	some dog doesnt read . QUEST	doesnt
+dont her elephants smile ? QUEST	her elephants dont smile . QUEST	dont
+dont some elephants smile ? QUEST	some elephants dont smile . QUEST	dont
+does the unicorn smile ? QUEST	the unicorn does smile . QUEST	does
+does the unicorn sleep ? QUEST	the unicorn does sleep . QUEST	does
+do the yaks laugh ? QUEST	the yaks do laugh . QUEST	do
+does some elephant live ? QUEST	some elephant does live . QUEST	does
+do our monkeys live ? QUEST	our monkeys do live . QUEST	do
+does some cat giggle ? QUEST	some cat does giggle . QUEST	does
+does some elephant giggle ? QUEST	some elephant does giggle . QUEST	does
+doesnt some monkey smile ? QUEST	some monkey doesnt smile . QUEST	doesnt
+doesnt the yak sleep ? QUEST	the yak doesnt sleep . QUEST	doesnt
+dont your monkeys live ? QUEST	your monkeys dont live . QUEST	dont
+dont our seals read ? QUEST	our seals dont read . QUEST	dont
+doesnt my bird laugh ? QUEST	my bird doesnt laugh . QUEST	doesnt
+doesnt your rabbit sleep ? QUEST	your rabbit doesnt sleep . QUEST	doesnt
+does your seal smile ? QUEST	your seal does smile . QUEST	does
+does some yak laugh ? QUEST	some yak does laugh . QUEST	does
+doesnt the cat read ? QUEST	the cat doesnt read . QUEST	doesnt
+dont your dogs smile ? QUEST	your dogs dont smile . QUEST	dont
+dont our seals giggle ? QUEST	our seals dont giggle . QUEST	dont
+do my monkeys read ? QUEST	my monkeys do read . QUEST	do
+dont our birds smile ? QUEST	our birds dont smile . QUEST	dont
+does your dog sleep ? QUEST	your dog does sleep . QUEST	does
+do your elephants sleep ? QUEST	your elephants do sleep . QUEST	do
+do the yaks smile ? QUEST	the yaks do smile . QUEST	do
+dont some yaks read ? QUEST	some yaks dont read . QUEST	dont
+does some yak sleep ? QUEST	some yak does sleep . QUEST	does
+doesnt some rabbit read ? QUEST	some rabbit doesnt read . QUEST	doesnt
+do your rabbits smile ? QUEST	your rabbits do smile . QUEST	do
+do your yaks sleep ? QUEST	your yaks do sleep . QUEST	do
+dont her unicorns sleep ? QUEST	her unicorns dont sleep . QUEST	dont
+doesnt your bird laugh ? QUEST	your bird doesnt laugh . QUEST	doesnt
+do the monkeys read ? QUEST	the monkeys do read . QUEST	do
+dont the monkeys read ? QUEST	the monkeys dont read . QUEST	dont
+doesnt our seal giggle ? QUEST	our seal doesnt giggle . QUEST	doesnt
+dont our dogs laugh ? QUEST	our dogs dont laugh . QUEST	dont
+dont our rabbits giggle ? QUEST	our rabbits dont giggle . QUEST	dont
+do some seals giggle ? QUEST	some seals do giggle . QUEST	do
+do my yaks sleep ? QUEST	my yaks do sleep . QUEST	do
+dont the monkeys read ? QUEST	the monkeys dont read . QUEST	dont
+doesnt some rabbit giggle ? QUEST	some rabbit doesnt giggle . QUEST	doesnt
+doesnt some seal giggle ? QUEST	some seal doesnt giggle . QUEST	doesnt
+doesnt the dog giggle ? QUEST	the dog doesnt giggle . QUEST	doesnt
+does my elephant live ? QUEST	my elephant does live . QUEST	does
+doesnt the monkey laugh ? QUEST	the monkey doesnt laugh . QUEST	doesnt
+dont my monkeys laugh ? QUEST	my monkeys dont laugh . QUEST	dont
+does her seal live ? QUEST	her seal does live . QUEST	does
+doesnt some unicorn sleep ? QUEST	some unicorn doesnt sleep . QUEST	doesnt
+do your seals live ? QUEST	your seals do live . QUEST	do
+dont the cats smile ? QUEST	the cats dont smile . QUEST	dont
+doesnt some cat giggle ? QUEST	some cat doesnt giggle . QUEST	doesnt
+dont some monkeys giggle ? QUEST	some monkeys dont giggle . QUEST	dont
+does my yak live ? QUEST	my yak does live . QUEST	does
+doesnt your rabbit live ? QUEST	your rabbit doesnt live . QUEST	doesnt
+does our yak sleep ? QUEST	our yak does sleep . QUEST	does
+does some dog giggle ? QUEST	some dog does giggle . QUEST	does
+doesnt my yak giggle ? QUEST	my yak doesnt giggle . QUEST	doesnt
+dont my cats giggle ? QUEST	my cats dont giggle . QUEST	dont
+doesnt your elephant read ? QUEST	your elephant doesnt read . QUEST	doesnt
+dont your seals live ? QUEST	your seals dont live . QUEST	dont
+do your elephants read ? QUEST	your elephants do read . QUEST	do
+does her monkey smile ? QUEST	her monkey does smile . QUEST	does
+doesnt your cat smile ? QUEST	your cat doesnt smile . QUEST	doesnt
+dont your birds smile ? QUEST	your birds dont smile . QUEST	dont
+does her cat live ? QUEST	her cat does live . QUEST	does
+do some monkeys laugh ? QUEST	some monkeys do laugh . QUEST	do
+do our dogs smile ? QUEST	our dogs do smile . QUEST	do
+dont the rabbits read ? QUEST	the rabbits dont read . QUEST	dont
+does some cat read ? QUEST	some cat does read . QUEST	does
+do my yaks read ? QUEST	my yaks do read . QUEST	do
+doesnt our rabbit laugh ? QUEST	our rabbit doesnt laugh . QUEST	doesnt
+do our rabbits laugh ? QUEST	our rabbits do laugh . QUEST	do
+dont my elephants laugh ? QUEST	my elephants dont laugh . QUEST	dont
+do your cats smile ? QUEST	your cats do smile . QUEST	do
+does the unicorn read ? QUEST	the unicorn does read . QUEST	does
+doesnt her unicorn laugh ? QUEST	her unicorn doesnt laugh . QUEST	doesnt
+dont the dogs laugh ? QUEST	the dogs dont laugh . QUEST	dont
+do your rabbits read ? QUEST	your rabbits do read . QUEST	do
+does your seal laugh ? QUEST	your seal does laugh . QUEST	does
+do the cats laugh ? QUEST	the cats do laugh . QUEST	do
+dont her rabbits live ? QUEST	her rabbits dont live . QUEST	dont
+does some seal live ? QUEST	some seal does live . QUEST	does
+dont my monkeys read ? QUEST	my monkeys dont read . QUEST	dont
+dont your rabbits read ? QUEST	your rabbits dont read . QUEST	dont
+doesnt your unicorn laugh ? QUEST	your unicorn doesnt laugh . QUEST	doesnt
+doesnt your elephant live ? QUEST	your elephant doesnt live . QUEST	doesnt
+does some bird giggle ? QUEST	some bird does giggle . QUEST	does
+do some elephants giggle ? QUEST	some elephants do giggle . QUEST	do
+does the yak laugh ? QUEST	the yak does laugh . QUEST	does
+does her yak live ? QUEST	her yak does live . QUEST	does
+dont her birds smile ? QUEST	her birds dont smile . QUEST	dont
+dont her elephants laugh ? QUEST	her elephants dont laugh . QUEST	dont
+doesnt your unicorn smile ? QUEST	your unicorn doesnt smile . QUEST	doesnt
+do her elephants laugh ? QUEST	her elephants do laugh . QUEST	do
+doesnt her seal live ? QUEST	her seal doesnt live . QUEST	doesnt
+does her yak giggle ? QUEST	her yak does giggle . QUEST	does
+do the birds smile ? QUEST	the birds do smile . QUEST	do
+does our unicorn live ? QUEST	our unicorn does live . QUEST	does
+do her monkeys smile ? QUEST	her monkeys do smile . QUEST	do
+doesnt our dog read ? QUEST	our dog doesnt read . QUEST	doesnt
+doesnt some bird smile ? QUEST	some bird doesnt smile . QUEST	doesnt
+do my unicorns sleep ? QUEST	my unicorns do sleep . QUEST	do
+do your cats live ? QUEST	your cats do live . QUEST	do
+does the yak sleep ? QUEST	the yak does sleep . QUEST	does
+dont her unicorns giggle ? QUEST	her unicorns dont giggle . QUEST	dont
+doesnt some bird sleep ? QUEST	some bird doesnt sleep . QUEST	doesnt
+do our monkeys live ? QUEST	our monkeys do live . QUEST	do
+does the elephant smile ? QUEST	the elephant does smile . QUEST	does
+doesnt some elephant laugh ? QUEST	some elephant doesnt laugh . QUEST	doesnt
+does the cat live ? QUEST	the cat does live . QUEST	does
+does the seal live ? QUEST	the seal does live . QUEST	does
+do the dogs sleep ? QUEST	the dogs do sleep . QUEST	do
+doesnt your elephant read ? QUEST	your elephant doesnt read . QUEST	doesnt
+do her cats sleep ? QUEST	her cats do sleep . QUEST	do
+does your seal laugh ? QUEST	your seal does laugh . QUEST	does
+doesnt some rabbit smile ? QUEST	some rabbit doesnt smile . QUEST	doesnt
+dont her monkeys read ? QUEST	her monkeys dont read . QUEST	dont
+doesnt her cat laugh ? QUEST	her cat doesnt laugh . QUEST	doesnt
+dont my dogs smile ? QUEST	my dogs dont smile . QUEST	dont
+does our dog live ? QUEST	our dog does live . QUEST	does
+do my elephants live ? QUEST	my elephants do live . QUEST	do
+do her unicorns live ? QUEST	her unicorns do live . QUEST	do
+dont my elephants read ? QUEST	my elephants dont read . QUEST	dont
+does your dog sleep ? QUEST	your dog does sleep . QUEST	does
+dont your birds sleep ? QUEST	your birds dont sleep . QUEST	dont
+dont her unicorns read ? QUEST	her unicorns dont read . QUEST	dont
+dont her dogs smile ? QUEST	her dogs dont smile . QUEST	dont
+does some dog sleep ? QUEST	some dog does sleep . QUEST	does
+do the cats sleep ? QUEST	the cats do sleep . QUEST	do
+dont the birds read ? QUEST	the birds dont read . QUEST	dont
+do our elephants live ? QUEST	our elephants do live . QUEST	do
+does my monkey read ? QUEST	my monkey does read . QUEST	does
+do her unicorns read ? QUEST	her unicorns do read . QUEST	do
+do your dogs smile ? QUEST	your dogs do smile . QUEST	do
+do the birds live ? QUEST	the birds do live . QUEST	do
+doesnt some elephant laugh ? QUEST	some elephant doesnt laugh . QUEST	doesnt
+do the cats laugh ? QUEST	the cats do laugh . QUEST	do
+dont the birds giggle ? QUEST	the birds dont giggle . QUEST	dont
+dont some dogs laugh ? QUEST	some dogs dont laugh . QUEST	dont
+dont some dogs read ? QUEST	some dogs dont read . QUEST	dont
+do some birds laugh ? QUEST	some birds do laugh . QUEST	do
+doesnt my seal read ? QUEST	my seal doesnt read . QUEST	doesnt
+does my yak sleep ? QUEST	my yak does sleep . QUEST	does
+dont your cats read ? QUEST	your cats dont read . QUEST	dont
+does the yak smile ? QUEST	the yak does smile . QUEST	does
+do your unicorns laugh ? QUEST	your unicorns do laugh . QUEST	do
+doesnt your unicorn giggle ? QUEST	your unicorn doesnt giggle . QUEST	doesnt
+dont your rabbits giggle ? QUEST	your rabbits dont giggle . QUEST	dont
+doesnt my rabbit read ? QUEST	my rabbit doesnt read . QUEST	doesnt
+do her monkeys read ? QUEST	her monkeys do read . QUEST	do
+doesnt my bird sleep ? QUEST	my bird doesnt sleep . QUEST	doesnt
+doesnt our rabbit read ? QUEST	our rabbit doesnt read . QUEST	doesnt
+does your dog sleep ? QUEST	your dog does sleep . QUEST	does
+dont your dogs giggle ? QUEST	your dogs dont giggle . QUEST	dont
+does some rabbit giggle ? QUEST	some rabbit does giggle . QUEST	does
+does my yak smile ? QUEST	my yak does smile . QUEST	does
+does my yak sleep ? QUEST	my yak does sleep . QUEST	does
+do your yaks live ? QUEST	your yaks do live . QUEST	do
+does her rabbit live ? QUEST	her rabbit does live . QUEST	does
+do her yaks live ? QUEST	her yaks do live . QUEST	do
+dont some rabbits live ? QUEST	some rabbits dont live . QUEST	dont
+does her seal sleep ? QUEST	her seal does sleep . QUEST	does
+doesnt my cat laugh ? QUEST	my cat doesnt laugh . QUEST	doesnt
+dont our seals read ? QUEST	our seals dont read . QUEST	dont
+dont some unicorns sleep ? QUEST	some unicorns dont sleep . QUEST	dont
+does your elephant live ? QUEST	your elephant does live . QUEST	does
+do my birds read ? QUEST	my birds do read . QUEST	do
+dont our unicorns giggle ? QUEST	our unicorns dont giggle . QUEST	dont
+dont our cats sleep ? QUEST	our cats dont sleep . QUEST	dont
+dont the birds sleep ? QUEST	the birds dont sleep . QUEST	dont
+dont your dogs sleep ? QUEST	your dogs dont sleep . QUEST	dont
+does our bird live ? QUEST	our bird does live . QUEST	does
+does your monkey live ? QUEST	your monkey does live . QUEST	does
+do my monkeys live ? QUEST	my monkeys do live . QUEST	do
+does her monkey smile ? QUEST	her monkey does smile . QUEST	does
+does some cat sleep ? QUEST	some cat does sleep . QUEST	does
+doesnt my unicorn giggle ? QUEST	my unicorn doesnt giggle . QUEST	doesnt
+doesnt your elephant giggle ? QUEST	your elephant doesnt giggle . QUEST	doesnt
+dont your unicorns giggle ? QUEST	your unicorns dont giggle . QUEST	dont
+dont the rabbits sleep ? QUEST	the rabbits dont sleep . QUEST	dont
+does your bird smile ? QUEST	your bird does smile . QUEST	does
+doesnt our bird sleep ? QUEST	our bird doesnt sleep . QUEST	doesnt
+dont your monkeys giggle ? QUEST	your monkeys dont giggle . QUEST	dont
+does her rabbit giggle ? QUEST	her rabbit does giggle . QUEST	does
+dont her rabbits giggle ? QUEST	her rabbits dont giggle . QUEST	dont
+do my dogs live ? QUEST	my dogs do live . QUEST	do
+do the birds laugh ? QUEST	the birds do laugh . QUEST	do
+doesnt her elephant laugh ? QUEST	her elephant doesnt laugh . QUEST	doesnt
+doesnt some seal laugh ? QUEST	some seal doesnt laugh . QUEST	doesnt
+dont our yaks laugh ? QUEST	our yaks dont laugh . QUEST	dont
+does our monkey live ? QUEST	our monkey does live . QUEST	does
+dont some seals read ? QUEST	some seals dont read . QUEST	dont
+dont her elephants sleep ? QUEST	her elephants dont sleep . QUEST	dont
+do some dogs laugh ? QUEST	some dogs do laugh . QUEST	do
+do some birds read ? QUEST	some birds do read . QUEST	do
+doesnt our dog live ? QUEST	our dog doesnt live . QUEST	doesnt
+doesnt some monkey read ? QUEST	some monkey doesnt read . QUEST	doesnt
+dont my elephants sleep ? QUEST	my elephants dont sleep . QUEST	dont
+do your birds sleep ? QUEST	your birds do sleep . QUEST	do
+dont the dogs live ? QUEST	the dogs dont live . QUEST	dont
+does our elephant smile ? QUEST	our elephant does smile . QUEST	does
+does our cat laugh ? QUEST	our cat does laugh . QUEST	does
+does some monkey laugh ? QUEST	some monkey does laugh . QUEST	does
+does some dog laugh ? QUEST	some dog does laugh . QUEST	does
+doesnt our unicorn smile ? QUEST	our unicorn doesnt smile . QUEST	doesnt
+doesnt the unicorn smile ? QUEST	the unicorn doesnt smile . QUEST	doesnt
+dont our unicorns read ? QUEST	our unicorns dont read . QUEST	dont
+doesnt some dog smile ? QUEST	some dog doesnt smile . QUEST	doesnt
+dont some yaks smile ? QUEST	some yaks dont smile . QUEST	dont
+doesnt some unicorn giggle ? QUEST	some unicorn doesnt giggle . QUEST	doesnt
+do some monkeys laugh ? QUEST	some monkeys do laugh . QUEST	do
+does her cat read ? QUEST	her cat does read . QUEST	does
+does our yak laugh ? QUEST	our yak does laugh . QUEST	does
+doesnt her bird laugh ? QUEST	her bird doesnt laugh . QUEST	doesnt
+does my unicorn read ? QUEST	my unicorn does read . QUEST	does
+dont some dogs read ? QUEST	some dogs dont read . QUEST	dont
+doesnt your monkey smile ? QUEST	your monkey doesnt smile . QUEST	doesnt
+dont her dogs read ? QUEST	her dogs dont read . QUEST	dont
+doesnt some rabbit giggle ? QUEST	some rabbit doesnt giggle . QUEST	doesnt
+does some cat laugh ? QUEST	some cat does laugh . QUEST	does
+do her yaks smile ? QUEST	her yaks do smile . QUEST	do
+does my yak sleep ? QUEST	my yak does sleep . QUEST	does
+doesnt her yak read ? QUEST	her yak doesnt read . QUEST	doesnt
+dont her cats sleep ? QUEST	her cats dont sleep . QUEST	dont
+dont my cats read ? QUEST	my cats dont read . QUEST	dont
+does your cat read ? QUEST	your cat does read . QUEST	does
+do our elephants sleep ? QUEST	our elephants do sleep . QUEST	do
+does our bird sleep ? QUEST	our bird does sleep . QUEST	does
+do our dogs sleep ? QUEST	our dogs do sleep . QUEST	do
+dont my dogs sleep ? QUEST	my dogs dont sleep . QUEST	dont
+does some rabbit read ? QUEST	some rabbit does read . QUEST	does
+dont the unicorns sleep ? QUEST	the unicorns dont sleep . QUEST	dont
+do our cats smile ? QUEST	our cats do smile . QUEST	do
+does our rabbit giggle ? QUEST	our rabbit does giggle . QUEST	does
+does the cat smile ? QUEST	the cat does smile . QUEST	does
+does your monkey live ? QUEST	your monkey does live . QUEST	does
+doesnt your yak smile ? QUEST	your yak doesnt smile . QUEST	doesnt
+doesnt my rabbit laugh ? QUEST	my rabbit doesnt laugh . QUEST	doesnt
+do the rabbits sleep ? QUEST	the rabbits do sleep . QUEST	do
+does our dog giggle ? QUEST	our dog does giggle . QUEST	does
+doesnt some cat smile ? QUEST	some cat doesnt smile . QUEST	doesnt
+do some yaks smile ? QUEST	some yaks do smile . QUEST	do
+does your rabbit smile ? QUEST	your rabbit does smile . QUEST	does
+doesnt my monkey live ? QUEST	my monkey doesnt live . QUEST	doesnt
+do your elephants laugh ? QUEST	your elephants do laugh . QUEST	do
+doesnt some monkey smile ? QUEST	some monkey doesnt smile . QUEST	doesnt
+dont your monkeys laugh ? QUEST	your monkeys dont laugh . QUEST	dont
+doesnt some rabbit smile ? QUEST	some rabbit doesnt smile . QUEST	doesnt
+doesnt some monkey smile ? QUEST	some monkey doesnt smile . QUEST	doesnt
+doesnt my monkey smile ? QUEST	my monkey doesnt smile . QUEST	doesnt
+does the bird live ? QUEST	the bird does live . QUEST	does
+does your dog laugh ? QUEST	your dog does laugh . QUEST	does
+dont your dogs laugh ? QUEST	your dogs dont laugh . QUEST	dont
+dont my elephants read ? QUEST	my elephants dont read . QUEST	dont
+doesnt our cat giggle ? QUEST	our cat doesnt giggle . QUEST	doesnt
+does the elephant smile ? QUEST	the elephant does smile . QUEST	does
+does your elephant smile ? QUEST	your elephant does smile . QUEST	does
+does some bird giggle ? QUEST	some bird does giggle . QUEST	does
+dont some dogs read ? QUEST	some dogs dont read . QUEST	dont
+doesnt the cat laugh ? QUEST	the cat doesnt laugh . QUEST	doesnt
+do my yaks laugh ? QUEST	my yaks do laugh . QUEST	do
+does the elephant live ? QUEST	the elephant does live . QUEST	does
+doesnt her unicorn live ? QUEST	her unicorn doesnt live . QUEST	doesnt
+doesnt some rabbit giggle ? QUEST	some rabbit doesnt giggle . QUEST	doesnt
+does the monkey live ? QUEST	the monkey does live . QUEST	does
+does some monkey read ? QUEST	some monkey does read . QUEST	does
+dont my unicorns read ? QUEST	my unicorns dont read . QUEST	dont
+dont my seals live ? QUEST	my seals dont live . QUEST	dont
+doesnt our elephant live ? QUEST	our elephant doesnt live . QUEST	doesnt
+does our rabbit sleep ? QUEST	our rabbit does sleep . QUEST	does
+doesnt our dog sleep ? QUEST	our dog doesnt sleep . QUEST	doesnt
+do some dogs read ? QUEST	some dogs do read . QUEST	do
+dont the seals smile ? QUEST	the seals dont smile . QUEST	dont
+dont my dogs giggle ? QUEST	my dogs dont giggle . QUEST	dont
+do our yaks live ? QUEST	our yaks do live . QUEST	do
+dont the rabbits sleep ? QUEST	the rabbits dont sleep . QUEST	dont
+does some bird smile ? QUEST	some bird does smile . QUEST	does
+doesnt her seal giggle ? QUEST	her seal doesnt giggle . QUEST	doesnt
+doesnt your bird laugh ? QUEST	your bird doesnt laugh . QUEST	doesnt
+does some elephant giggle ? QUEST	some elephant does giggle . QUEST	does
+does the seal live ? QUEST	the seal does live . QUEST	does
+do my dogs live ? QUEST	my dogs do live . QUEST	do
+doesnt some dog smile ? QUEST	some dog doesnt smile . QUEST	doesnt
+dont some dogs laugh ? QUEST	some dogs dont laugh . QUEST	dont
+does the seal smile ? QUEST	the seal does smile . QUEST	does
+does her monkey sleep ? QUEST	her monkey does sleep . QUEST	does
+does your elephant giggle ? QUEST	your elephant does giggle . QUEST	does
+do your dogs laugh ? QUEST	your dogs do laugh . QUEST	do
+do the elephants read ? QUEST	the elephants do read . QUEST	do
+doesnt the seal giggle ? QUEST	the seal doesnt giggle . QUEST	doesnt
+doesnt my unicorn smile ? QUEST	my unicorn doesnt smile . QUEST	doesnt
+does her cat read ? QUEST	her cat does read . QUEST	does
+doesnt her yak smile ? QUEST	her yak doesnt smile . QUEST	doesnt
+dont your unicorns smile ? QUEST	your unicorns dont smile . QUEST	dont
+dont your rabbits sleep ? QUEST	your rabbits dont sleep . QUEST	dont
+doesnt the cat laugh ? QUEST	the cat doesnt laugh . QUEST	doesnt
+does your monkey read ? QUEST	your monkey does read . QUEST	does
+does your rabbit sleep ? QUEST	your rabbit does sleep . QUEST	does
+do my birds laugh ? QUEST	my birds do laugh . QUEST	do
+does her unicorn giggle ? QUEST	her unicorn does giggle . QUEST	does
+do our monkeys laugh ? QUEST	our monkeys do laugh . QUEST	do
+do my elephants laugh ? QUEST	my elephants do laugh . QUEST	do
+dont the yaks laugh ? QUEST	the yaks dont laugh . QUEST	dont
+doesnt my bird laugh ? QUEST	my bird doesnt laugh . QUEST	doesnt
+do the dogs smile ? QUEST	the dogs do smile . QUEST	do
+dont the rabbits sleep ? QUEST	the rabbits dont sleep . QUEST	dont
+doesnt some yak giggle ? QUEST	some yak doesnt giggle . QUEST	doesnt
+do my cats giggle ? QUEST	my cats do giggle . QUEST	do
+doesnt the monkey smile ? QUEST	the monkey doesnt smile . QUEST	doesnt
+dont her unicorns live ? QUEST	her unicorns dont live . QUEST	dont
+dont the cats smile ? QUEST	the cats dont smile . QUEST	dont
+does my bird read ? QUEST	my bird does read . QUEST	does
+doesnt the seal laugh ? QUEST	the seal doesnt laugh . QUEST	doesnt
+doesnt the seal smile ? QUEST	the seal doesnt smile . QUEST	doesnt
+does your rabbit read ? QUEST	your rabbit does read . QUEST	does
+does the yak sleep ? QUEST	the yak does sleep . QUEST	does
+dont your unicorns laugh ? QUEST	your unicorns dont laugh . QUEST	dont
+doesnt our monkey read ? QUEST	our monkey doesnt read . QUEST	doesnt
+doesnt the monkey read ? QUEST	the monkey doesnt read . QUEST	doesnt
+does her cat read ? QUEST	her cat does read . QUEST	does
+do her cats sleep ? QUEST	her cats do sleep . QUEST	do
+dont my yaks sleep ? QUEST	my yaks dont sleep . QUEST	dont
+doesnt the unicorn laugh ? QUEST	the unicorn doesnt laugh . QUEST	doesnt
+does the unicorn giggle ? QUEST	the unicorn does giggle . QUEST	does
+does your bird giggle ? QUEST	your bird does giggle . QUEST	does
+does my dog read ? QUEST	my dog does read . QUEST	does
+does my dog giggle ? QUEST	my dog does giggle . QUEST	does
+does the yak giggle ? QUEST	the yak does giggle . QUEST	does
+do my elephants giggle ? QUEST	my elephants do giggle . QUEST	do
+do my rabbits giggle ? QUEST	my rabbits do giggle . QUEST	do
+do our cats read ? QUEST	our cats do read . QUEST	do
+dont her unicorns live ? QUEST	her unicorns dont live . QUEST	dont
+doesnt the unicorn live ? QUEST	the unicorn doesnt live . QUEST	doesnt
+does the rabbit read ? QUEST	the rabbit does read . QUEST	does
+doesnt her yak read ? QUEST	her yak doesnt read . QUEST	doesnt
+does my rabbit smile ? QUEST	my rabbit does smile . QUEST	does
+dont your elephants smile ? QUEST	your elephants dont smile . QUEST	dont
+dont our dogs laugh ? QUEST	our dogs dont laugh . QUEST	dont
+does our bird laugh ? QUEST	our bird does laugh . QUEST	does
+does your elephant read ? QUEST	your elephant does read . QUEST	does
+do your seals smile ? QUEST	your seals do smile . QUEST	do
+do your dogs sleep ? QUEST	your dogs do sleep . QUEST	do
+dont the monkeys sleep ? QUEST	the monkeys dont sleep . QUEST	dont
+do some elephants giggle ? QUEST	some elephants do giggle . QUEST	do
+does the unicorn giggle ? QUEST	the unicorn does giggle . QUEST	does
+doesnt my bird giggle ? QUEST	my bird doesnt giggle . QUEST	doesnt
+dont some birds read ? QUEST	some birds dont read . QUEST	dont
+does my monkey sleep ? QUEST	my monkey does sleep . QUEST	does
+does our elephant sleep ? QUEST	our elephant does sleep . QUEST	does
+doesnt our yak sleep ? QUEST	our yak doesnt sleep . QUEST	doesnt
+dont the monkeys sleep ? QUEST	the monkeys dont sleep . QUEST	dont
+dont the cats sleep ? QUEST	the cats dont sleep . QUEST	dont
+do my rabbits laugh ? QUEST	my rabbits do laugh . QUEST	do
+dont the dogs sleep ? QUEST	the dogs dont sleep . QUEST	dont
+do her elephants laugh ? QUEST	her elephants do laugh . QUEST	do
+doesnt her unicorn giggle ? QUEST	her unicorn doesnt giggle . QUEST	doesnt
+dont her rabbits smile ? QUEST	her rabbits dont smile . QUEST	dont
+doesnt her dog laugh ? QUEST	her dog doesnt laugh . QUEST	doesnt
+doesnt the rabbit smile ? QUEST	the rabbit doesnt smile . QUEST	doesnt
+does her seal smile ? QUEST	her seal does smile . QUEST	does
+does my elephant smile ? QUEST	my elephant does smile . QUEST	does
+doesnt her rabbit live ? QUEST	her rabbit doesnt live . QUEST	doesnt
+do your seals giggle ? QUEST	your seals do giggle . QUEST	do
+dont her rabbits live ? QUEST	her rabbits dont live . QUEST	dont
+does her rabbit sleep ? QUEST	her rabbit does sleep . QUEST	does
+does the rabbit laugh ? QUEST	the rabbit does laugh . QUEST	does
+do our birds live ? QUEST	our birds do live . QUEST	do
+do my rabbits live ? QUEST	my rabbits do live . QUEST	do
+does her yak laugh ? QUEST	her yak does laugh . QUEST	does
+doesnt her elephant giggle ? QUEST	her elephant doesnt giggle . QUEST	doesnt
+do her unicorns read ? QUEST	her unicorns do read . QUEST	do
+dont the elephants giggle ? QUEST	the elephants dont giggle . QUEST	dont
+doesnt her unicorn read ? QUEST	her unicorn doesnt read . QUEST	doesnt
+doesnt some yak smile ? QUEST	some yak doesnt smile . QUEST	doesnt
+do some birds giggle ? QUEST	some birds do giggle . QUEST	do
+does some dog sleep ? QUEST	some dog does sleep . QUEST	does
+dont our cats sleep ? QUEST	our cats dont sleep . QUEST	dont
+do your yaks read ? QUEST	your yaks do read . QUEST	do
+does some dog smile ? QUEST	some dog does smile . QUEST	does
+do the rabbits giggle ? QUEST	the rabbits do giggle . QUEST	do
+does the dog read ? QUEST	the dog does read . QUEST	does
+dont my unicorns read ? QUEST	my unicorns dont read . QUEST	dont
+dont our seals sleep ? QUEST	our seals dont sleep . QUEST	dont
+does my dog smile ? QUEST	my dog does smile . QUEST	does
+do the birds smile ? QUEST	the birds do smile . QUEST	do
+doesnt our unicorn giggle ? QUEST	our unicorn doesnt giggle . QUEST	doesnt
+does your yak live ? QUEST	your yak does live . QUEST	does
+dont your dogs live ? QUEST	your dogs dont live . QUEST	dont
+do the dogs read ? QUEST	the dogs do read . QUEST	do
+do our seals read ? QUEST	our seals do read . QUEST	do
+doesnt some yak giggle ? QUEST	some yak doesnt giggle . QUEST	doesnt
+doesnt the bird smile ? QUEST	the bird doesnt smile . QUEST	doesnt
+dont your monkeys smile ? QUEST	your monkeys dont smile . QUEST	dont
+dont her yaks laugh ? QUEST	her yaks dont laugh . QUEST	dont
+dont the unicorns sleep ? QUEST	the unicorns dont sleep . QUEST	dont
+dont some birds smile ? QUEST	some birds dont smile . QUEST	dont
+does the yak sleep ? QUEST	the yak does sleep . QUEST	does
+dont the seals sleep ? QUEST	the seals dont sleep . QUEST	dont
+do the elephants sleep ? QUEST	the elephants do sleep . QUEST	do
+dont her dogs laugh ? QUEST	her dogs dont laugh . QUEST	dont
+dont our yaks giggle ? QUEST	our yaks dont giggle . QUEST	dont
+doesnt the unicorn sleep ? QUEST	the unicorn doesnt sleep . QUEST	doesnt
+does some yak sleep ? QUEST	some yak does sleep . QUEST	does
+do some monkeys sleep ? QUEST	some monkeys do sleep . QUEST	do
+dont our rabbits giggle ? QUEST	our rabbits dont giggle . QUEST	dont
+do her rabbits live ? QUEST	her rabbits do live . QUEST	do
+does her dog smile ? QUEST	her dog does smile . QUEST	does
+dont your cats giggle ? QUEST	your cats dont giggle . QUEST	dont
+doesnt her unicorn smile ? QUEST	her unicorn doesnt smile . QUEST	doesnt
+does her cat sleep ? QUEST	her cat does sleep . QUEST	does
+dont my cats sleep ? QUEST	my cats dont sleep . QUEST	dont
+do the elephants sleep ? QUEST	the elephants do sleep . QUEST	do
+does our cat read ? QUEST	our cat does read . QUEST	does
+do some seals giggle ? QUEST	some seals do giggle . QUEST	do
+do some rabbits live ? QUEST	some rabbits do live . QUEST	do
+does your dog laugh ? QUEST	your dog does laugh . QUEST	does
+do some elephants read ? QUEST	some elephants do read . QUEST	do
+doesnt your monkey sleep ? QUEST	your monkey doesnt sleep . QUEST	doesnt
+doesnt her yak sleep ? QUEST	her yak doesnt sleep . QUEST	doesnt
+does some elephant laugh ? QUEST	some elephant does laugh . QUEST	does
+dont my cats laugh ? QUEST	my cats dont laugh . QUEST	dont
+dont some cats read ? QUEST	some cats dont read . QUEST	dont
+dont some cats laugh ? QUEST	some cats dont laugh . QUEST	dont
+doesnt your bird sleep ? QUEST	your bird doesnt sleep . QUEST	doesnt
+dont her monkeys read ? QUEST	her monkeys dont read . QUEST	dont
+doesnt my bird smile ? QUEST	my bird doesnt smile . QUEST	doesnt
+does my monkey live ? QUEST	my monkey does live . QUEST	does
+dont your rabbits smile ? QUEST	your rabbits dont smile . QUEST	dont
+does her dog live ? QUEST	her dog does live . QUEST	does
+dont my seals read ? QUEST	my seals dont read . QUEST	dont
+doesnt your seal smile ? QUEST	your seal doesnt smile . QUEST	doesnt
+do your birds giggle ? QUEST	your birds do giggle . QUEST	do
+doesnt the seal smile ? QUEST	the seal doesnt smile . QUEST	doesnt
+do her monkeys giggle ? QUEST	her monkeys do giggle . QUEST	do
+doesnt our yak smile ? QUEST	our yak doesnt smile . QUEST	doesnt
+does some monkey read ? QUEST	some monkey does read . QUEST	does
+dont your monkeys read ? QUEST	your monkeys dont read . QUEST	dont
+doesnt your cat giggle ? QUEST	your cat doesnt giggle . QUEST	doesnt
+does our monkey read ? QUEST	our monkey does read . QUEST	does
+do our yaks laugh ? QUEST	our yaks do laugh . QUEST	do
+dont our yaks read ? QUEST	our yaks dont read . QUEST	dont
+do some seals smile ? QUEST	some seals do smile . QUEST	do
+do my dogs live ? QUEST	my dogs do live . QUEST	do
+doesnt our yak laugh ? QUEST	our yak doesnt laugh . QUEST	doesnt
+does the bird giggle ? QUEST	the bird does giggle . QUEST	does
+do some cats sleep ? QUEST	some cats do sleep . QUEST	do
+does her dog live ? QUEST	her dog does live . QUEST	does
+doesnt our bird smile ? QUEST	our bird doesnt smile . QUEST	doesnt
+doesnt the dog live ? QUEST	the dog doesnt live . QUEST	doesnt
+does our bird live ? QUEST	our bird does live . QUEST	does
+does our rabbit read ? QUEST	our rabbit does read . QUEST	does
+do our rabbits read ? QUEST	our rabbits do read . QUEST	do
+dont her rabbits read ? QUEST	her rabbits dont read . QUEST	dont
+does our yak laugh ? QUEST	our yak does laugh . QUEST	does
+dont our monkeys smile ? QUEST	our monkeys dont smile . QUEST	dont
+do my seals live ? QUEST	my seals do live . QUEST	do
+dont the dogs smile ? QUEST	the dogs dont smile . QUEST	dont
+doesnt the bird sleep ? QUEST	the bird doesnt sleep . QUEST	doesnt
+do my monkeys laugh ? QUEST	my monkeys do laugh . QUEST	do
+do our yaks sleep ? QUEST	our yaks do sleep . QUEST	do
+does my dog read ? QUEST	my dog does read . QUEST	does
+doesnt her bird live ? QUEST	her bird doesnt live . QUEST	doesnt
+doesnt my dog laugh ? QUEST	my dog doesnt laugh . QUEST	doesnt
+dont her dogs giggle ? QUEST	her dogs dont giggle . QUEST	dont
+doesnt my bird smile ? QUEST	my bird doesnt smile . QUEST	doesnt
+doesnt some bird live ? QUEST	some bird doesnt live . QUEST	doesnt
+doesnt the cat smile ? QUEST	the cat doesnt smile . QUEST	doesnt
+dont our yaks smile ? QUEST	our yaks dont smile . QUEST	dont
+dont your monkeys live ? QUEST	your monkeys dont live . QUEST	dont
+does her yak sleep ? QUEST	her yak does sleep . QUEST	does
+do your rabbits sleep ? QUEST	your rabbits do sleep . QUEST	do
+dont her rabbits laugh ? QUEST	her rabbits dont laugh . QUEST	dont
+does the seal giggle ? QUEST	the seal does giggle . QUEST	does
+do her rabbits sleep ? QUEST	her rabbits do sleep . QUEST	do
+dont my dogs read ? QUEST	my dogs dont read . QUEST	dont
+do our monkeys read ? QUEST	our monkeys do read . QUEST	do
+does her elephant read ? QUEST	her elephant does read . QUEST	does
+does her monkey live ? QUEST	her monkey does live . QUEST	does
+does some bird read ? QUEST	some bird does read . QUEST	does
+do your yaks laugh ? QUEST	your yaks do laugh . QUEST	do
+doesnt our dog sleep ? QUEST	our dog doesnt sleep . QUEST	doesnt
+do our cats sleep ? QUEST	our cats do sleep . QUEST	do
+does her rabbit smile ? QUEST	her rabbit does smile . QUEST	does
+doesnt the elephant laugh ? QUEST	the elephant doesnt laugh . QUEST	doesnt
+doesnt the unicorn live ? QUEST	the unicorn doesnt live . QUEST	doesnt
+dont our elephants read ? QUEST	our elephants dont read . QUEST	dont
+doesnt the monkey smile ? QUEST	the monkey doesnt smile . QUEST	doesnt
+doesnt some monkey smile ? QUEST	some monkey doesnt smile . QUEST	doesnt
+dont the seals read ? QUEST	the seals dont read . QUEST	dont
+does my bird laugh ? QUEST	my bird does laugh . QUEST	does
+does my yak live ? QUEST	my yak does live . QUEST	does
+does some seal giggle ? QUEST	some seal does giggle . QUEST	does
+does my bird sleep ? QUEST	my bird does sleep . QUEST	does
+doesnt my bird sleep ? QUEST	my bird doesnt sleep . QUEST	doesnt
+doesnt some dog laugh ? QUEST	some dog doesnt laugh . QUEST	doesnt
+dont the unicorns read ? QUEST	the unicorns dont read . QUEST	dont
+does our monkey read ? QUEST	our monkey does read . QUEST	does
+do her dogs smile ? QUEST	her dogs do smile . QUEST	do
+dont your seals smile ? QUEST	your seals dont smile . QUEST	dont
+dont my seals giggle ? QUEST	my seals dont giggle . QUEST	dont
+does our elephant read ? QUEST	our elephant does read . QUEST	does
+does her dog giggle ? QUEST	her dog does giggle . QUEST	does
+does some bird read ? QUEST	some bird does read . QUEST	does
+doesnt our dog sleep ? QUEST	our dog doesnt sleep . QUEST	doesnt
+doesnt my bird live ? QUEST	my bird doesnt live . QUEST	doesnt
+doesnt the yak giggle ? QUEST	the yak doesnt giggle . QUEST	doesnt
+does my yak giggle ? QUEST	my yak does giggle . QUEST	does
+dont her elephants sleep ? QUEST	her elephants dont sleep . QUEST	dont
+doesnt our seal smile ? QUEST	our seal doesnt smile . QUEST	doesnt
+doesnt our cat smile ? QUEST	our cat doesnt smile . QUEST	doesnt
+doesnt your bird read ? QUEST	your bird doesnt read . QUEST	doesnt
+does her bird giggle ? QUEST	her bird does giggle . QUEST	does
+doesnt your bird smile ? QUEST	your bird doesnt smile . QUEST	doesnt
+dont her unicorns smile ? QUEST	her unicorns dont smile . QUEST	dont
+does the dog sleep ? QUEST	the dog does sleep . QUEST	does
+doesnt my yak read ? QUEST	my yak doesnt read . QUEST	doesnt
+dont some rabbits laugh ? QUEST	some rabbits dont laugh . QUEST	dont
+does my elephant sleep ? QUEST	my elephant does sleep . QUEST	does
+does your bird live ? QUEST	your bird does live . QUEST	does
+doesnt her dog live ? QUEST	her dog doesnt live . QUEST	doesnt
+does the seal live ? QUEST	the seal does live . QUEST	does
+dont our unicorns live ? QUEST	our unicorns dont live . QUEST	dont
+doesnt her monkey giggle ? QUEST	her monkey doesnt giggle . QUEST	doesnt
+do our unicorns sleep ? QUEST	our unicorns do sleep . QUEST	do
+doesnt the monkey read ? QUEST	the monkey doesnt read . QUEST	doesnt
+do the yaks sleep ? QUEST	the yaks do sleep . QUEST	do
+dont your elephants read ? QUEST	your elephants dont read . QUEST	dont
+dont the dogs smile ? QUEST	the dogs dont smile . QUEST	dont
+does your monkey giggle ? QUEST	your monkey does giggle . QUEST	does
+doesnt your unicorn read ? QUEST	your unicorn doesnt read . QUEST	doesnt
+do our rabbits live ? QUEST	our rabbits do live . QUEST	do
+do her elephants smile ? QUEST	her elephants do smile . QUEST	do
+doesnt our bird sleep ? QUEST	our bird doesnt sleep . QUEST	doesnt
+doesnt my rabbit live ? QUEST	my rabbit doesnt live . QUEST	doesnt
+does her bird read ? QUEST	her bird does read . QUEST	does
+doesnt our dog read ? QUEST	our dog doesnt read . QUEST	doesnt
+dont her seals giggle ? QUEST	her seals dont giggle . QUEST	dont
+do our seals read ? QUEST	our seals do read . QUEST	do
+dont the seals giggle ? QUEST	the seals dont giggle . QUEST	dont
+do the dogs live ? QUEST	the dogs do live . QUEST	do
+doesnt our bird smile ? QUEST	our bird doesnt smile . QUEST	doesnt
+does your dog giggle ? QUEST	your dog does giggle . QUEST	does
+do your cats giggle ? QUEST	your cats do giggle . QUEST	do
+doesnt our bird sleep ? QUEST	our bird doesnt sleep . QUEST	doesnt
+doesnt our elephant live ? QUEST	our elephant doesnt live . QUEST	doesnt
+do her seals live ? QUEST	her seals do live . QUEST	do
+do her yaks giggle ? QUEST	her yaks do giggle . QUEST	do
+dont your seals live ? QUEST	your seals dont live . QUEST	dont
+dont my monkeys giggle ? QUEST	my monkeys dont giggle . QUEST	dont
+does the elephant giggle ? QUEST	the elephant does giggle . QUEST	does
+do our yaks read ? QUEST	our yaks do read . QUEST	do
+does our dog smile ? QUEST	our dog does smile . QUEST	does
+does our seal giggle ? QUEST	our seal does giggle . QUEST	does
+dont her dogs laugh ? QUEST	her dogs dont laugh . QUEST	dont
+does the cat read ? QUEST	the cat does read . QUEST	does
+do her birds sleep ? QUEST	her birds do sleep . QUEST	do
+does your dog giggle ? QUEST	your dog does giggle . QUEST	does
+do your elephants giggle ? QUEST	your elephants do giggle . QUEST	do
+doesnt my bird live ? QUEST	my bird doesnt live . QUEST	doesnt
+does the rabbit laugh ? QUEST	the rabbit does laugh . QUEST	does
+doesnt your dog live ? QUEST	your dog doesnt live . QUEST	doesnt
+dont your unicorns laugh ? QUEST	your unicorns dont laugh . QUEST	dont
+does my monkey giggle ? QUEST	my monkey does giggle . QUEST	does
+dont my rabbits giggle ? QUEST	my rabbits dont giggle . QUEST	dont
+dont some dogs live ? QUEST	some dogs dont live . QUEST	dont
+does my seal laugh ? QUEST	my seal does laugh . QUEST	does
+do my monkeys laugh ? QUEST	my monkeys do laugh . QUEST	do
+do our unicorns laugh ? QUEST	our unicorns do laugh . QUEST	do
+do our unicorns giggle ? QUEST	our unicorns do giggle . QUEST	do
+doesnt your yak sleep ? QUEST	your yak doesnt sleep . QUEST	doesnt
+do your dogs read ? QUEST	your dogs do read . QUEST	do
+dont your elephants read ? QUEST	your elephants dont read . QUEST	dont
+doesnt your yak read ? QUEST	your yak doesnt read . QUEST	doesnt
+does some bird sleep ? QUEST	some bird does sleep . QUEST	does
+doesnt our elephant smile ? QUEST	our elephant doesnt smile . QUEST	doesnt
+do our elephants smile ? QUEST	our elephants do smile . QUEST	do
+does your rabbit read ? QUEST	your rabbit does read . QUEST	does
+does her rabbit smile ? QUEST	her rabbit does smile . QUEST	does
+do your unicorns smile ? QUEST	your unicorns do smile . QUEST	do
+doesnt her rabbit read ? QUEST	her rabbit doesnt read . QUEST	doesnt
+do some rabbits read ? QUEST	some rabbits do read . QUEST	do
+doesnt my monkey sleep ? QUEST	my monkey doesnt sleep . QUEST	doesnt
+doesnt some dog giggle ? QUEST	some dog doesnt giggle . QUEST	doesnt
+dont our seals laugh ? QUEST	our seals dont laugh . QUEST	dont
+dont her dogs laugh ? QUEST	her dogs dont laugh . QUEST	dont
+doesnt my cat sleep ? QUEST	my cat doesnt sleep . QUEST	doesnt
+dont the dogs sleep ? QUEST	the dogs dont sleep . QUEST	dont
+doesnt her unicorn laugh ? QUEST	her unicorn doesnt laugh . QUEST	doesnt
+does your dog read ? QUEST	your dog does read . QUEST	does
+dont the elephants read ? QUEST	the elephants dont read . QUEST	dont
+doesnt our yak smile ? QUEST	our yak doesnt smile . QUEST	doesnt
+do some monkeys smile ? QUEST	some monkeys do smile . QUEST	do
+dont her unicorns giggle ? QUEST	her unicorns dont giggle . QUEST	dont
+does the seal laugh ? QUEST	the seal does laugh . QUEST	does
+dont the rabbits smile ? QUEST	the rabbits dont smile . QUEST	dont
+does some rabbit smile ? QUEST	some rabbit does smile . QUEST	does
+doesnt her rabbit read ? QUEST	her rabbit doesnt read . QUEST	doesnt
+does your unicorn read ? QUEST	your unicorn does read . QUEST	does
+do some monkeys laugh ? QUEST	some monkeys do laugh . QUEST	do
+doesnt the unicorn sleep ? QUEST	the unicorn doesnt sleep . QUEST	doesnt
+do some birds live ? QUEST	some birds do live . QUEST	do
+does the seal read ? QUEST	the seal does read . QUEST	does
+doesnt your dog sleep ? QUEST	your dog doesnt sleep . QUEST	doesnt
+doesnt the dog smile ? QUEST	the dog doesnt smile . QUEST	doesnt
+does our dog smile ? QUEST	our dog does smile . QUEST	does
+doesnt my monkey sleep ? QUEST	my monkey doesnt sleep . QUEST	doesnt
+does her bird read ? QUEST	her bird does read . QUEST	does
+dont the monkeys read ? QUEST	the monkeys dont read . QUEST	dont
+do her monkeys read ? QUEST	her monkeys do read . QUEST	do
+does some unicorn live ? QUEST	some unicorn does live . QUEST	does
+do your dogs sleep ? QUEST	your dogs do sleep . QUEST	do
+dont her cats giggle ? QUEST	her cats dont giggle . QUEST	dont
+does my bird giggle ? QUEST	my bird does giggle . QUEST	does
+does the bird laugh ? QUEST	the bird does laugh . QUEST	does
+dont the rabbits smile ? QUEST	the rabbits dont smile . QUEST	dont
+does the yak live ? QUEST	the yak does live . QUEST	does
+does some cat laugh ? QUEST	some cat does laugh . QUEST	does
+does her monkey giggle ? QUEST	her monkey does giggle . QUEST	does
+dont her dogs giggle ? QUEST	her dogs dont giggle . QUEST	dont
+dont your unicorns giggle ? QUEST	your unicorns dont giggle . QUEST	dont
+does our elephant read ? QUEST	our elephant does read . QUEST	does
+does your seal read ? QUEST	your seal does read . QUEST	does
+do our rabbits read ? QUEST	our rabbits do read . QUEST	do
+do our elephants read ? QUEST	our elephants do read . QUEST	do
+doesnt some yak smile ? QUEST	some yak doesnt smile . QUEST	doesnt
+doesnt the cat laugh ? QUEST	the cat doesnt laugh . QUEST	doesnt
+dont the birds laugh ? QUEST	the birds dont laugh . QUEST	dont
+do our elephants sleep ? QUEST	our elephants do sleep . QUEST	do
+do our elephants live ? QUEST	our elephants do live . QUEST	do
+does your monkey laugh ? QUEST	your monkey does laugh . QUEST	does
+does your cat live ? QUEST	your cat does live . QUEST	does
+dont our elephants giggle ? QUEST	our elephants dont giggle . QUEST	dont
+doesnt the cat laugh ? QUEST	the cat doesnt laugh . QUEST	doesnt
+dont my unicorns live ? QUEST	my unicorns dont live . QUEST	dont
+doesnt some elephant giggle ? QUEST	some elephant doesnt giggle . QUEST	doesnt
+do some monkeys live ? QUEST	some monkeys do live . QUEST	do
+does the monkey read ? QUEST	the monkey does read . QUEST	does
+does my yak giggle ? QUEST	my yak does giggle . QUEST	does
+dont some unicorns giggle ? QUEST	some unicorns dont giggle . QUEST	dont
+does some elephant giggle ? QUEST	some elephant does giggle . QUEST	does
+doesnt some cat smile ? QUEST	some cat doesnt smile . QUEST	doesnt
+does the cat live ? QUEST	the cat does live . QUEST	does
+doesnt your unicorn live ? QUEST	your unicorn doesnt live . QUEST	doesnt
+do your dogs smile ? QUEST	your dogs do smile . QUEST	do
+dont her dogs smile ? QUEST	her dogs dont smile . QUEST	dont
+do the monkeys laugh ? QUEST	the monkeys do laugh . QUEST	do
+dont her cats giggle ? QUEST	her cats dont giggle . QUEST	dont
+doesnt our unicorn read ? QUEST	our unicorn doesnt read . QUEST	doesnt
+dont my yaks smile ? QUEST	my yaks dont smile . QUEST	dont
+does some unicorn laugh ? QUEST	some unicorn does laugh . QUEST	does
+doesnt some dog laugh ? QUEST	some dog doesnt laugh . QUEST	doesnt
+doesnt my elephant live ? QUEST	my elephant doesnt live . QUEST	doesnt
+doesnt her cat live ? QUEST	her cat doesnt live . QUEST	doesnt
+do her birds laugh ? QUEST	her birds do laugh . QUEST	do
+do my unicorns laugh ? QUEST	my unicorns do laugh . QUEST	do
+does our bird giggle ? QUEST	our bird does giggle . QUEST	does
+does her bird read ? QUEST	her bird does read . QUEST	does
+dont her monkeys read ? QUEST	her monkeys dont read . QUEST	dont
+does her seal smile ? QUEST	her seal does smile . QUEST	does
+does her seal laugh ? QUEST	her seal does laugh . QUEST	does
+do the cats sleep ? QUEST	the cats do sleep . QUEST	do
+dont your cats laugh ? QUEST	your cats dont laugh . QUEST	dont
+does her monkey sleep ? QUEST	her monkey does sleep . QUEST	does
+do her rabbits smile ? QUEST	her rabbits do smile . QUEST	do
+doesnt her rabbit smile ? QUEST	her rabbit doesnt smile . QUEST	doesnt
+does her yak laugh ? QUEST	her yak does laugh . QUEST	does
+doesnt her cat read ? QUEST	her cat doesnt read . QUEST	doesnt
+doesnt the elephant read ? QUEST	the elephant doesnt read . QUEST	doesnt
+doesnt your seal live ? QUEST	your seal doesnt live . QUEST	doesnt
+do the monkeys live ? QUEST	the monkeys do live . QUEST	do
+does her rabbit live ? QUEST	her rabbit does live . QUEST	does
+dont her yaks read ? QUEST	her yaks dont read . QUEST	dont
+does our monkey smile ? QUEST	our monkey does smile . QUEST	does
+dont your cats giggle ? QUEST	your cats dont giggle . QUEST	dont
+dont our birds smile ? QUEST	our birds dont smile . QUEST	dont
+do her unicorns live ? QUEST	her unicorns do live . QUEST	do
+do my elephants live ? QUEST	my elephants do live . QUEST	do
+does some seal read ? QUEST	some seal does read . QUEST	does
+doesnt my dog giggle ? QUEST	my dog doesnt giggle . QUEST	doesnt
+does my dog giggle ? QUEST	my dog does giggle . QUEST	does
+do my elephants sleep ? QUEST	my elephants do sleep . QUEST	do
+dont her monkeys smile ? QUEST	her monkeys dont smile . QUEST	dont
+do her seals laugh ? QUEST	her seals do laugh . QUEST	do
+do my yaks read ? QUEST	my yaks do read . QUEST	do
+dont my monkeys read ? QUEST	my monkeys dont read . QUEST	dont
+do her dogs sleep ? QUEST	her dogs do sleep . QUEST	do
+do my rabbits sleep ? QUEST	my rabbits do sleep . QUEST	do
+does our dog sleep ? QUEST	our dog does sleep . QUEST	does
+dont my unicorns live ? QUEST	my unicorns dont live . QUEST	dont
+dont my rabbits live ? QUEST	my rabbits dont live . QUEST	dont
+doesnt her rabbit read ? QUEST	her rabbit doesnt read . QUEST	doesnt
+doesnt her unicorn sleep ? QUEST	her unicorn doesnt sleep . QUEST	doesnt
+doesnt my cat sleep ? QUEST	my cat doesnt sleep . QUEST	doesnt
+do your cats laugh ? QUEST	your cats do laugh . QUEST	do
+does our bird sleep ? QUEST	our bird does sleep . QUEST	does
+doesnt some rabbit laugh ? QUEST	some rabbit doesnt laugh . QUEST	doesnt
+do your unicorns live ? QUEST	your unicorns do live . QUEST	do
+do her cats live ? QUEST	her cats do live . QUEST	do
+do our seals sleep ? QUEST	our seals do sleep . QUEST	do
+dont my birds smile ? QUEST	my birds dont smile . QUEST	dont
+dont my elephants read ? QUEST	my elephants dont read . QUEST	dont
+do our yaks sleep ? QUEST	our yaks do sleep . QUEST	do
+do some unicorns giggle ? QUEST	some unicorns do giggle . QUEST	do
+dont some elephants sleep ? QUEST	some elephants dont sleep . QUEST	dont
+doesnt some elephant read ? QUEST	some elephant doesnt read . QUEST	doesnt
+does our rabbit laugh ? QUEST	our rabbit does laugh . QUEST	does
+does our dog laugh ? QUEST	our dog does laugh . QUEST	does
+do our cats live ? QUEST	our cats do live . QUEST	do
+do the cats sleep ? QUEST	the cats do sleep . QUEST	do
+dont my monkeys sleep ? QUEST	my monkeys dont sleep . QUEST	dont
+dont the monkeys live ? QUEST	the monkeys dont live . QUEST	dont
+doesnt our monkey smile ? QUEST	our monkey doesnt smile . QUEST	doesnt
+does my rabbit laugh ? QUEST	my rabbit does laugh . QUEST	does
+do her elephants live ? QUEST	her elephants do live . QUEST	do
+dont some birds sleep ? QUEST	some birds dont sleep . QUEST	dont
+do our seals live ? QUEST	our seals do live . QUEST	do
+dont her dogs smile ? QUEST	her dogs dont smile . QUEST	dont
+does my unicorn giggle ? QUEST	my unicorn does giggle . QUEST	does
+dont some rabbits laugh ? QUEST	some rabbits dont laugh . QUEST	dont
+doesnt her bird read ? QUEST	her bird doesnt read . QUEST	doesnt
+do the elephants read ? QUEST	the elephants do read . QUEST	do
+do my unicorns sleep ? QUEST	my unicorns do sleep . QUEST	do
+does her monkey sleep ? QUEST	her monkey does sleep . QUEST	does
+dont the yaks live ? QUEST	the yaks dont live . QUEST	dont
+do our unicorns smile ? QUEST	our unicorns do smile . QUEST	do
+dont our cats giggle ? QUEST	our cats dont giggle . QUEST	dont
+do some dogs sleep ? QUEST	some dogs do sleep . QUEST	do
+does my seal read ? QUEST	my seal does read . QUEST	does
+doesnt some dog live ? QUEST	some dog doesnt live . QUEST	doesnt
+doesnt our unicorn laugh ? QUEST	our unicorn doesnt laugh . QUEST	doesnt
+do our yaks read ? QUEST	our yaks do read . QUEST	do
+doesnt our elephant laugh ? QUEST	our elephant doesnt laugh . QUEST	doesnt
+do our seals laugh ? QUEST	our seals do laugh . QUEST	do
+do your dogs laugh ? QUEST	your dogs do laugh . QUEST	do
+does her unicorn giggle ? QUEST	her unicorn does giggle . QUEST	does
+does the dog smile ? QUEST	the dog does smile . QUEST	does
+do our rabbits smile ? QUEST	our rabbits do smile . QUEST	do
+dont your dogs sleep ? QUEST	your dogs dont sleep . QUEST	dont
+do your cats smile ? QUEST	your cats do smile . QUEST	do
+dont your rabbits smile ? QUEST	your rabbits dont smile . QUEST	dont
+dont her seals giggle ? QUEST	her seals dont giggle . QUEST	dont
+does our rabbit live ? QUEST	our rabbit does live . QUEST	does
+doesnt some dog live ? QUEST	some dog doesnt live . QUEST	doesnt
+do her dogs giggle ? QUEST	her dogs do giggle . QUEST	do
+doesnt some dog read ? QUEST	some dog doesnt read . QUEST	doesnt
+dont her dogs giggle ? QUEST	her dogs dont giggle . QUEST	dont
+do the unicorns sleep ? QUEST	the unicorns do sleep . QUEST	do
+do your elephants giggle ? QUEST	your elephants do giggle . QUEST	do
+does our seal giggle ? QUEST	our seal does giggle . QUEST	does
+does her bird live ? QUEST	her bird does live . QUEST	does
+do my dogs laugh ? QUEST	my dogs do laugh . QUEST	do
+doesnt your cat read ? QUEST	your cat doesnt read . QUEST	doesnt
+does her dog smile ? QUEST	her dog does smile . QUEST	does
+doesnt our rabbit read ? QUEST	our rabbit doesnt read . QUEST	doesnt
+does my rabbit giggle ? QUEST	my rabbit does giggle . QUEST	does
+doesnt your dog giggle ? QUEST	your dog doesnt giggle . QUEST	doesnt
+doesnt our bird sleep ? QUEST	our bird doesnt sleep . QUEST	doesnt
+dont our unicorns laugh ? QUEST	our unicorns dont laugh . QUEST	dont
+doesnt some bird giggle ? QUEST	some bird doesnt giggle . QUEST	doesnt
+does our rabbit laugh ? QUEST	our rabbit does laugh . QUEST	does
+dont our unicorns giggle ? QUEST	our unicorns dont giggle . QUEST	dont
+doesnt the dog smile ? QUEST	the dog doesnt smile . QUEST	doesnt
+doesnt our yak live ? QUEST	our yak doesnt live . QUEST	doesnt
+does her rabbit giggle ? QUEST	her rabbit does giggle . QUEST	does
+does our seal laugh ? QUEST	our seal does laugh . QUEST	does
+dont our yaks smile ? QUEST	our yaks dont smile . QUEST	dont
+does my rabbit live ? QUEST	my rabbit does live . QUEST	does
+dont my seals giggle ? QUEST	my seals dont giggle . QUEST	dont
+doesnt our bird read ? QUEST	our bird doesnt read . QUEST	doesnt
+doesnt my elephant read ? QUEST	my elephant doesnt read . QUEST	doesnt
+do my yaks read ? QUEST	my yaks do read . QUEST	do
+do my seals sleep ? QUEST	my seals do sleep . QUEST	do
+do her dogs sleep ? QUEST	her dogs do sleep . QUEST	do
+does the rabbit smile ? QUEST	the rabbit does smile . QUEST	does
+does the unicorn sleep ? QUEST	the unicorn does sleep . QUEST	does
+doesnt our bird live ? QUEST	our bird doesnt live . QUEST	doesnt
+doesnt the rabbit smile ? QUEST	the rabbit doesnt smile . QUEST	doesnt
+do my unicorns live ? QUEST	my unicorns do live . QUEST	do
+do her birds live ? QUEST	her birds do live . QUEST	do
+does the dog live ? QUEST	the dog does live . QUEST	does
+dont her birds live ? QUEST	her birds dont live . QUEST	dont
+doesnt her seal laugh ? QUEST	her seal doesnt laugh . QUEST	doesnt
+does her seal laugh ? QUEST	her seal does laugh . QUEST	does
+does our unicorn giggle ? QUEST	our unicorn does giggle . QUEST	does
+does some dog read ? QUEST	some dog does read . QUEST	does
+does her yak laugh ? QUEST	her yak does laugh . QUEST	does
+does the unicorn laugh ? QUEST	the unicorn does laugh . QUEST	does
+do her monkeys laugh ? QUEST	her monkeys do laugh . QUEST	do
+dont my seals sleep ? QUEST	my seals dont sleep . QUEST	dont
+dont your cats live ? QUEST	your cats dont live . QUEST	dont
+does the dog read ? QUEST	the dog does read . QUEST	does
+doesnt my monkey laugh ? QUEST	my monkey doesnt laugh . QUEST	doesnt
+do our birds giggle ? QUEST	our birds do giggle . QUEST	do
+does my dog smile ? QUEST	my dog does smile . QUEST	does
+do our cats smile ? QUEST	our cats do smile . QUEST	do
+dont our dogs smile ? QUEST	our dogs dont smile . QUEST	dont
+does my yak laugh ? QUEST	my yak does laugh . QUEST	does
+doesnt your rabbit read ? QUEST	your rabbit doesnt read . QUEST	doesnt
+do the cats giggle ? QUEST	the cats do giggle . QUEST	do
+dont my monkeys live ? QUEST	my monkeys dont live . QUEST	dont
+do my elephants live ? QUEST	my elephants do live . QUEST	do
+doesnt the dog live ? QUEST	the dog doesnt live . QUEST	doesnt
+doesnt our unicorn smile ? QUEST	our unicorn doesnt smile . QUEST	doesnt
+doesnt our elephant sleep ? QUEST	our elephant doesnt sleep . QUEST	doesnt
+doesnt our unicorn sleep ? QUEST	our unicorn doesnt sleep . QUEST	doesnt
+does our monkey live ? QUEST	our monkey does live . QUEST	does
+does the dog read ? QUEST	the dog does read . QUEST	does
+does our rabbit giggle ? QUEST	our rabbit does giggle . QUEST	does
+does her dog giggle ? QUEST	her dog does giggle . QUEST	does
+do the seals live ? QUEST	the seals do live . QUEST	do
+do some unicorns read ? QUEST	some unicorns do read . QUEST	do
+dont some yaks read ? QUEST	some yaks dont read . QUEST	dont
+do your elephants read ? QUEST	your elephants do read . QUEST	do
+does some dog sleep ? QUEST	some dog does sleep . QUEST	does
+does my cat read ? QUEST	my cat does read . QUEST	does
+does your bird laugh ? QUEST	your bird does laugh . QUEST	does
+does your yak read ? QUEST	your yak does read . QUEST	does
+dont her dogs sleep ? QUEST	her dogs dont sleep . QUEST	dont
+does my yak live ? QUEST	my yak does live . QUEST	does
+do the rabbits sleep ? QUEST	the rabbits do sleep . QUEST	do
+do my cats read ? QUEST	my cats do read . QUEST	do
+do her cats laugh ? QUEST	her cats do laugh . QUEST	do
+does her bird live ? QUEST	her bird does live . QUEST	does
+do your rabbits live ? QUEST	your rabbits do live . QUEST	do
+do your unicorns read ? QUEST	your unicorns do read . QUEST	do
+doesnt some bird live ? QUEST	some bird doesnt live . QUEST	doesnt
+do some cats giggle ? QUEST	some cats do giggle . QUEST	do
+dont my birds giggle ? QUEST	my birds dont giggle . QUEST	dont
+doesnt some dog smile ? QUEST	some dog doesnt smile . QUEST	doesnt
+does some elephant sleep ? QUEST	some elephant does sleep . QUEST	does
+doesnt some seal smile ? QUEST	some seal doesnt smile . QUEST	doesnt
+doesnt the yak giggle ? QUEST	the yak doesnt giggle . QUEST	doesnt
+dont my elephants smile ? QUEST	my elephants dont smile . QUEST	dont
+does the elephant live ? QUEST	the elephant does live . QUEST	does
+do our cats sleep ? QUEST	our cats do sleep . QUEST	do
+doesnt our rabbit sleep ? QUEST	our rabbit doesnt sleep . QUEST	doesnt
+dont some birds live ? QUEST	some birds dont live . QUEST	dont
+doesnt the dog sleep ? QUEST	the dog doesnt sleep . QUEST	doesnt
+do some seals giggle ? QUEST	some seals do giggle . QUEST	do
+doesnt the bird smile ? QUEST	the bird doesnt smile . QUEST	doesnt
+does your unicorn sleep ? QUEST	your unicorn does sleep . QUEST	does
+does my bird smile ? QUEST	my bird does smile . QUEST	does
+does the elephant read ? QUEST	the elephant does read . QUEST	does
+does some yak sleep ? QUEST	some yak does sleep . QUEST	does
+does our rabbit laugh ? QUEST	our rabbit does laugh . QUEST	does
+doesnt your dog read ? QUEST	your dog doesnt read . QUEST	doesnt
+do your cats smile ? QUEST	your cats do smile . QUEST	do
+doesnt your seal read ? QUEST	your seal doesnt read . QUEST	doesnt
+do my cats laugh ? QUEST	my cats do laugh . QUEST	do
+does our bird giggle ? QUEST	our bird does giggle . QUEST	does
+does my cat laugh ? QUEST	my cat does laugh . QUEST	does
+doesnt your unicorn laugh ? QUEST	your unicorn doesnt laugh . QUEST	doesnt
+do our rabbits read ? QUEST	our rabbits do read . QUEST	do
+dont your yaks live ? QUEST	your yaks dont live . QUEST	dont
+doesnt your rabbit smile ? QUEST	your rabbit doesnt smile . QUEST	doesnt
+doesnt your rabbit giggle ? QUEST	your rabbit doesnt giggle . QUEST	doesnt
+dont my cats smile ? QUEST	my cats dont smile . QUEST	dont
+dont our monkeys read ? QUEST	our monkeys dont read . QUEST	dont
+doesnt the seal laugh ? QUEST	the seal doesnt laugh . QUEST	doesnt
+do her seals giggle ? QUEST	her seals do giggle . QUEST	do
+does my rabbit sleep ? QUEST	my rabbit does sleep . QUEST	does
+do her seals live ? QUEST	her seals do live . QUEST	do
+do my yaks sleep ? QUEST	my yaks do sleep . QUEST	do
+does my rabbit smile ? QUEST	my rabbit does smile . QUEST	does
+do my seals smile ? QUEST	my seals do smile . QUEST	do
+dont your rabbits giggle ? QUEST	your rabbits dont giggle . QUEST	dont
+doesnt our elephant laugh ? QUEST	our elephant doesnt laugh . QUEST	doesnt
+do my rabbits read ? QUEST	my rabbits do read . QUEST	do
+dont our yaks giggle ? QUEST	our yaks dont giggle . QUEST	dont
+do my seals giggle ? QUEST	my seals do giggle . QUEST	do
+dont my cats laugh ? QUEST	my cats dont laugh . QUEST	dont
+doesnt the unicorn read ? QUEST	the unicorn doesnt read . QUEST	doesnt
+do some dogs sleep ? QUEST	some dogs do sleep . QUEST	do
+does the cat smile ? QUEST	the cat does smile . QUEST	does
+do some dogs sleep ? QUEST	some dogs do sleep . QUEST	do
+dont our birds sleep ? QUEST	our birds dont sleep . QUEST	dont
+do her birds giggle ? QUEST	her birds do giggle . QUEST	do
+doesnt my bird sleep ? QUEST	my bird doesnt sleep . QUEST	doesnt
+do my birds sleep ? QUEST	my birds do sleep . QUEST	do
+do her seals smile ? QUEST	her seals do smile . QUEST	do
+does my rabbit sleep ? QUEST	my rabbit does sleep . QUEST	does
+dont my birds live ? QUEST	my birds dont live . QUEST	dont
+does your rabbit live ? QUEST	your rabbit does live . QUEST	does
+do some yaks giggle ? QUEST	some yaks do giggle . QUEST	do
+dont some monkeys live ? QUEST	some monkeys dont live . QUEST	dont
+does your unicorn laugh ? QUEST	your unicorn does laugh . QUEST	does
+dont your elephants sleep ? QUEST	your elephants dont sleep . QUEST	dont
+doesnt some yak smile ? QUEST	some yak doesnt smile . QUEST	doesnt
+doesnt your cat sleep ? QUEST	your cat doesnt sleep . QUEST	doesnt
+does the unicorn smile ? QUEST	the unicorn does smile . QUEST	does
+doesnt the rabbit giggle ? QUEST	the rabbit doesnt giggle . QUEST	doesnt
+does the seal smile ? QUEST	the seal does smile . QUEST	does
+does some elephant live ? QUEST	some elephant does live . QUEST	does
+do some elephants smile ? QUEST	some elephants do smile . QUEST	do
+does our monkey live ? QUEST	our monkey does live . QUEST	does
+doesnt my unicorn live ? QUEST	my unicorn doesnt live . QUEST	doesnt
+doesnt some unicorn sleep ? QUEST	some unicorn doesnt sleep . QUEST	doesnt
+dont our monkeys smile ? QUEST	our monkeys dont smile . QUEST	dont
+doesnt our unicorn live ? QUEST	our unicorn doesnt live . QUEST	doesnt
+do our yaks live ? QUEST	our yaks do live . QUEST	do
+dont our cats laugh ? QUEST	our cats dont laugh . QUEST	dont
+do some birds laugh ? QUEST	some birds do laugh . QUEST	do
+dont your seals read ? QUEST	your seals dont read . QUEST	dont
+doesnt my bird live ? QUEST	my bird doesnt live . QUEST	doesnt
+does the yak live ? QUEST	the yak does live . QUEST	does
+do her birds live ? QUEST	her birds do live . QUEST	do
+do our elephants laugh ? QUEST	our elephants do laugh . QUEST	do
+doesnt her rabbit smile ? QUEST	her rabbit doesnt smile . QUEST	doesnt
+do my dogs smile ? QUEST	my dogs do smile . QUEST	do
+doesnt my yak sleep ? QUEST	my yak doesnt sleep . QUEST	doesnt
+dont my yaks sleep ? QUEST	my yaks dont sleep . QUEST	dont
+dont my monkeys live ? QUEST	my monkeys dont live . QUEST	dont
+dont my monkeys live ? QUEST	my monkeys dont live . QUEST	dont
+does your bird laugh ? QUEST	your bird does laugh . QUEST	does
+dont her birds smile ? QUEST	her birds dont smile . QUEST	dont
+does the unicorn giggle ? QUEST	the unicorn does giggle . QUEST	does
+dont the cats live ? QUEST	the cats dont live . QUEST	dont
+dont your yaks smile ? QUEST	your yaks dont smile . QUEST	dont
+dont my elephants live ? QUEST	my elephants dont live . QUEST	dont
+dont some dogs laugh ? QUEST	some dogs dont laugh . QUEST	dont
+do some monkeys sleep ? QUEST	some monkeys do sleep . QUEST	do
+does some bird read ? QUEST	some bird does read . QUEST	does
+do your monkeys sleep ? QUEST	your monkeys do sleep . QUEST	do
+doesnt your unicorn smile ? QUEST	your unicorn doesnt smile . QUEST	doesnt
+doesnt her rabbit sleep ? QUEST	her rabbit doesnt sleep . QUEST	doesnt
+do some rabbits smile ? QUEST	some rabbits do smile . QUEST	do
+do the unicorns read ? QUEST	the unicorns do read . QUEST	do
+does my dog read ? QUEST	my dog does read . QUEST	does
+do our unicorns laugh ? QUEST	our unicorns do laugh . QUEST	do
+dont your elephants sleep ? QUEST	your elephants dont sleep . QUEST	dont
+does the rabbit read ? QUEST	the rabbit does read . QUEST	does
+dont the elephants giggle ? QUEST	the elephants dont giggle . QUEST	dont
+does some unicorn sleep ? QUEST	some unicorn does sleep . QUEST	does
+do some dogs sleep ? QUEST	some dogs do sleep . QUEST	do
+dont her cats laugh ? QUEST	her cats dont laugh . QUEST	dont
+does her monkey laugh ? QUEST	her monkey does laugh . QUEST	does
+do some yaks laugh ? QUEST	some yaks do laugh . QUEST	do
+doesnt some monkey smile ? QUEST	some monkey doesnt smile . QUEST	doesnt
+does your rabbit giggle ? QUEST	your rabbit does giggle . QUEST	does
+doesnt the elephant sleep ? QUEST	the elephant doesnt sleep . QUEST	doesnt
+dont the cats smile ? QUEST	the cats dont smile . QUEST	dont
+dont our unicorns live ? QUEST	our unicorns dont live . QUEST	dont
+do the monkeys giggle ? QUEST	the monkeys do giggle . QUEST	do
+dont my unicorns read ? QUEST	my unicorns dont read . QUEST	dont
+does your monkey laugh ? QUEST	your monkey does laugh . QUEST	does
+doesnt my bird smile ? QUEST	my bird doesnt smile . QUEST	doesnt
+dont my monkeys smile ? QUEST	my monkeys dont smile . QUEST	dont
+dont your cats live ? QUEST	your cats dont live . QUEST	dont
+doesnt our monkey giggle ? QUEST	our monkey doesnt giggle . QUEST	doesnt
+does my seal read ? QUEST	my seal does read . QUEST	does
+do your dogs laugh ? QUEST	your dogs do laugh . QUEST	do
+does some rabbit read ? QUEST	some rabbit does read . QUEST	does
+dont the birds laugh ? QUEST	the birds dont laugh . QUEST	dont
+does her yak read ? QUEST	her yak does read . QUEST	does
+dont our monkeys live ? QUEST	our monkeys dont live . QUEST	dont
+do her rabbits giggle ? QUEST	her rabbits do giggle . QUEST	do
+do her yaks read ? QUEST	her yaks do read . QUEST	do
+does the seal read ? QUEST	the seal does read . QUEST	does
+doesnt your yak smile ? QUEST	your yak doesnt smile . QUEST	doesnt
+does some seal laugh ? QUEST	some seal does laugh . QUEST	does
+dont our cats sleep ? QUEST	our cats dont sleep . QUEST	dont
+doesnt our bird laugh ? QUEST	our bird doesnt laugh . QUEST	doesnt
+does her elephant giggle ? QUEST	her elephant does giggle . QUEST	does
+dont my dogs read ? QUEST	my dogs dont read . QUEST	dont
+does some cat live ? QUEST	some cat does live . QUEST	does
+do her elephants read ? QUEST	her elephants do read . QUEST	do
+does your elephant read ? QUEST	your elephant does read . QUEST	does
+does your seal laugh ? QUEST	your seal does laugh . QUEST	does
+does her yak smile ? QUEST	her yak does smile . QUEST	does
+doesnt her elephant read ? QUEST	her elephant doesnt read . QUEST	doesnt
+does your cat live ? QUEST	your cat does live . QUEST	does
+does my cat read ? QUEST	my cat does read . QUEST	does
+do her yaks laugh ? QUEST	her yaks do laugh . QUEST	do
+dont your monkeys read ? QUEST	your monkeys dont read . QUEST	dont
+do our elephants giggle ? QUEST	our elephants do giggle . QUEST	do
+does my elephant laugh ? QUEST	my elephant does laugh . QUEST	does
+dont my yaks laugh ? QUEST	my yaks dont laugh . QUEST	dont
+does the dog read ? QUEST	the dog does read . QUEST	does
+does my cat sleep ? QUEST	my cat does sleep . QUEST	does
+do my dogs smile ? QUEST	my dogs do smile . QUEST	do
+dont some rabbits smile ? QUEST	some rabbits dont smile . QUEST	dont
+doesnt your elephant live ? QUEST	your elephant doesnt live . QUEST	doesnt
+do our dogs giggle ? QUEST	our dogs do giggle . QUEST	do
+dont our dogs sleep ? QUEST	our dogs dont sleep . QUEST	dont
+dont your birds smile ? QUEST	your birds dont smile . QUEST	dont
+dont our unicorns sleep ? QUEST	our unicorns dont sleep . QUEST	dont
+does some dog read ? QUEST	some dog does read . QUEST	does
+do my unicorns live ? QUEST	my unicorns do live . QUEST	do
+doesnt her cat sleep ? QUEST	her cat doesnt sleep . QUEST	doesnt
+does some dog sleep ? QUEST	some dog does sleep . QUEST	does
+does my monkey live ? QUEST	my monkey does live . QUEST	does
+dont some monkeys laugh ? QUEST	some monkeys dont laugh . QUEST	dont
+doesnt some cat read ? QUEST	some cat doesnt read . QUEST	doesnt
+does my elephant read ? QUEST	my elephant does read . QUEST	does
+doesnt some unicorn live ? QUEST	some unicorn doesnt live . QUEST	doesnt
+dont the dogs laugh ? QUEST	the dogs dont laugh . QUEST	dont
+dont the yaks read ? QUEST	the yaks dont read . QUEST	dont
+does her dog live ? QUEST	her dog does live . QUEST	does
+do her unicorns live ? QUEST	her unicorns do live . QUEST	do
+doesnt my rabbit smile ? QUEST	my rabbit doesnt smile . QUEST	doesnt
+does my unicorn read ? QUEST	my unicorn does read . QUEST	does
+doesnt the yak sleep ? QUEST	the yak doesnt sleep . QUEST	doesnt
+do our monkeys laugh ? QUEST	our monkeys do laugh . QUEST	do
+doesnt your bird laugh ? QUEST	your bird doesnt laugh . QUEST	doesnt
+do my seals live ? QUEST	my seals do live . QUEST	do
+do my cats giggle ? QUEST	my cats do giggle . QUEST	do
+doesnt your seal smile ? QUEST	your seal doesnt smile . QUEST	doesnt
+does our seal smile ? QUEST	our seal does smile . QUEST	does
+does our dog live ? QUEST	our dog does live . QUEST	does
+dont my unicorns giggle ? QUEST	my unicorns dont giggle . QUEST	dont
+doesnt my monkey sleep ? QUEST	my monkey doesnt sleep . QUEST	doesnt
+does my dog live ? QUEST	my dog does live . QUEST	does
+doesnt the rabbit live ? QUEST	the rabbit doesnt live . QUEST	doesnt
+doesnt her elephant live ? QUEST	her elephant doesnt live . QUEST	doesnt
+do her unicorns sleep ? QUEST	her unicorns do sleep . QUEST	do
+doesnt my dog laugh ? QUEST	my dog doesnt laugh . QUEST	doesnt
+does some monkey laugh ? QUEST	some monkey does laugh . QUEST	does
+dont your seals laugh ? QUEST	your seals dont laugh . QUEST	dont
+dont your seals sleep ? QUEST	your seals dont sleep . QUEST	dont
+does our bird sleep ? QUEST	our bird does sleep . QUEST	does
+dont our unicorns read ? QUEST	our unicorns dont read . QUEST	dont
+do our monkeys giggle ? QUEST	our monkeys do giggle . QUEST	do
+doesnt some dog smile ? QUEST	some dog doesnt smile . QUEST	doesnt
+doesnt some seal laugh ? QUEST	some seal doesnt laugh . QUEST	doesnt
+doesnt the bird read ? QUEST	the bird doesnt read . QUEST	doesnt
+does the cat read ? QUEST	the cat does read . QUEST	does
+dont the birds laugh ? QUEST	the birds dont laugh . QUEST	dont
+do your cats laugh ? QUEST	your cats do laugh . QUEST	do
+do some cats read ? QUEST	some cats do read . QUEST	do
+dont her cats giggle ? QUEST	her cats dont giggle . QUEST	dont
+do her rabbits giggle ? QUEST	her rabbits do giggle . QUEST	do
+does the dog laugh ? QUEST	the dog does laugh . QUEST	does
+does my yak smile ? QUEST	my yak does smile . QUEST	does
+doesnt the yak laugh ? QUEST	the yak doesnt laugh . QUEST	doesnt
+does my yak live ? QUEST	my yak does live . QUEST	does
+does some cat sleep ? QUEST	some cat does sleep . QUEST	does
+dont her elephants read ? QUEST	her elephants dont read . QUEST	dont
+dont her yaks live ? QUEST	her yaks dont live . QUEST	dont
+doesnt your seal giggle ? QUEST	your seal doesnt giggle . QUEST	doesnt
+does our seal read ? QUEST	our seal does read . QUEST	does
+does some monkey read ? QUEST	some monkey does read . QUEST	does
+doesnt some dog sleep ? QUEST	some dog doesnt sleep . QUEST	doesnt
+do my unicorns sleep ? QUEST	my unicorns do sleep . QUEST	do
+does the seal read ? QUEST	the seal does read . QUEST	does
+doesnt our elephant read ? QUEST	our elephant doesnt read . QUEST	doesnt
+dont our yaks read ? QUEST	our yaks dont read . QUEST	dont
+doesnt her dog giggle ? QUEST	her dog doesnt giggle . QUEST	doesnt
+doesnt her dog live ? QUEST	her dog doesnt live . QUEST	doesnt
+dont some seals smile ? QUEST	some seals dont smile . QUEST	dont
+do our seals smile ? QUEST	our seals do smile . QUEST	do
+does our elephant sleep ? QUEST	our elephant does sleep . QUEST	does
+does some cat live ? QUEST	some cat does live . QUEST	does
+do the cats smile ? QUEST	the cats do smile . QUEST	do
+does some yak laugh ? QUEST	some yak does laugh . QUEST	does
+doesnt some rabbit laugh ? QUEST	some rabbit doesnt laugh . QUEST	doesnt
+do some seals read ? QUEST	some seals do read . QUEST	do
+dont her seals read ? QUEST	her seals dont read . QUEST	dont
+doesnt the dog read ? QUEST	the dog doesnt read . QUEST	doesnt
+dont her yaks sleep ? QUEST	her yaks dont sleep . QUEST	dont
+doesnt our seal read ? QUEST	our seal doesnt read . QUEST	doesnt
+dont my monkeys read ? QUEST	my monkeys dont read . QUEST	dont
+do my rabbits giggle ? QUEST	my rabbits do giggle . QUEST	do
+dont some cats read ? QUEST	some cats dont read . QUEST	dont
+doesnt my bird live ? QUEST	my bird doesnt live . QUEST	doesnt
+doesnt my bird laugh ? QUEST	my bird doesnt laugh . QUEST	doesnt
+do our seals laugh ? QUEST	our seals do laugh . QUEST	do
+do our elephants read ? QUEST	our elephants do read . QUEST	do
+does some elephant live ? QUEST	some elephant does live . QUEST	does
+dont some birds giggle ? QUEST	some birds dont giggle . QUEST	dont
+do your seals sleep ? QUEST	your seals do sleep . QUEST	do
+does her rabbit smile ? QUEST	her rabbit does smile . QUEST	does
+dont our dogs giggle ? QUEST	our dogs dont giggle . QUEST	dont
+doesnt my seal giggle ? QUEST	my seal doesnt giggle . QUEST	doesnt
+do our seals read ? QUEST	our seals do read . QUEST	do
+doesnt our yak sleep ? QUEST	our yak doesnt sleep . QUEST	doesnt
+does my dog smile ? QUEST	my dog does smile . QUEST	does
+doesnt her unicorn laugh ? QUEST	her unicorn doesnt laugh . QUEST	doesnt
+dont my elephants laugh ? QUEST	my elephants dont laugh . QUEST	dont
+does my monkey laugh ? QUEST	my monkey does laugh . QUEST	does
+do your rabbits read ? QUEST	your rabbits do read . QUEST	do
+dont some monkeys smile ? QUEST	some monkeys dont smile . QUEST	dont
+doesnt the monkey live ? QUEST	the monkey doesnt live . QUEST	doesnt
+dont her birds giggle ? QUEST	her birds dont giggle . QUEST	dont
+dont your birds smile ? QUEST	your birds dont smile . QUEST	dont
+doesnt the dog live ? QUEST	the dog doesnt live . QUEST	doesnt
+doesnt the cat smile ? QUEST	the cat doesnt smile . QUEST	doesnt
+does the rabbit live ? QUEST	the rabbit does live . QUEST	does
+does some dog live ? QUEST	some dog does live . QUEST	does
+do the rabbits giggle ? QUEST	the rabbits do giggle . QUEST	do
+do my seals smile ? QUEST	my seals do smile . QUEST	do
+dont my seals smile ? QUEST	my seals dont smile . QUEST	dont
+doesnt our cat giggle ? QUEST	our cat doesnt giggle . QUEST	doesnt
+dont your rabbits live ? QUEST	your rabbits dont live . QUEST	dont
+do our elephants live ? QUEST	our elephants do live . QUEST	do
+does her monkey sleep ? QUEST	her monkey does sleep . QUEST	does
+doesnt the dog laugh ? QUEST	the dog doesnt laugh . QUEST	doesnt
+dont the seals live ? QUEST	the seals dont live . QUEST	dont
+does the cat sleep ? QUEST	the cat does sleep . QUEST	does
+do the yaks sleep ? QUEST	the yaks do sleep . QUEST	do
+do the monkeys read ? QUEST	the monkeys do read . QUEST	do
+does some elephant giggle ? QUEST	some elephant does giggle . QUEST	does
+doesnt our dog smile ? QUEST	our dog doesnt smile . QUEST	doesnt
+dont her monkeys smile ? QUEST	her monkeys dont smile . QUEST	dont
+does some dog giggle ? QUEST	some dog does giggle . QUEST	does
+doesnt some elephant read ? QUEST	some elephant doesnt read . QUEST	doesnt
+dont some rabbits read ? QUEST	some rabbits dont read . QUEST	dont
+does your cat read ? QUEST	your cat does read . QUEST	does
+doesnt the elephant live ? QUEST	the elephant doesnt live . QUEST	doesnt
+do her yaks sleep ? QUEST	her yaks do sleep . QUEST	do
+does our bird laugh ? QUEST	our bird does laugh . QUEST	does
+dont the monkeys smile ? QUEST	the monkeys dont smile . QUEST	dont
+does some monkey live ? QUEST	some monkey does live . QUEST	does
+dont her unicorns sleep ? QUEST	her unicorns dont sleep . QUEST	dont
+dont the unicorns read ? QUEST	the unicorns dont read . QUEST	dont
+doesnt your dog read ? QUEST	your dog doesnt read . QUEST	doesnt
+do the unicorns sleep ? QUEST	the unicorns do sleep . QUEST	do
+doesnt the dog live ? QUEST	the dog doesnt live . QUEST	doesnt
+dont the cats smile ? QUEST	the cats dont smile . QUEST	dont
+does my cat smile ? QUEST	my cat does smile . QUEST	does
+doesnt the dog read ? QUEST	the dog doesnt read . QUEST	doesnt
+do the elephants read ? QUEST	the elephants do read . QUEST	do
+do some rabbits read ? QUEST	some rabbits do read . QUEST	do
+doesnt some seal read ? QUEST	some seal doesnt read . QUEST	doesnt
+dont some yaks read ? QUEST	some yaks dont read . QUEST	dont
+does your seal live ? QUEST	your seal does live . QUEST	does
+does her unicorn giggle ? QUEST	her unicorn does giggle . QUEST	does
+does her monkey giggle ? QUEST	her monkey does giggle . QUEST	does
+does some elephant smile ? QUEST	some elephant does smile . QUEST	does
+do some monkeys giggle ? QUEST	some monkeys do giggle . QUEST	do
+do the cats laugh ? QUEST	the cats do laugh . QUEST	do
+do the rabbits laugh ? QUEST	the rabbits do laugh . QUEST	do
+do the unicorns sleep ? QUEST	the unicorns do sleep . QUEST	do

@@ -1,7 +1,5 @@
 S -> IND_1 NP_SG RC_1_SG VP_SG
 S -> IND_1 NP_PL RC_1_PL VP_PL
-S -> IND_2 NP_SG RC_2 VP_SG
-S -> IND_2 NP_PL RC_2 VP_PL
 S -> IND_3 NP_SG RC_3_SG VP_SG
 S -> IND_3 NP_PL RC_3_PL VP_PL
 NP_SG -> Det N_SG
@@ -11,7 +9,7 @@ NP -> NP_SG
 VP_SG -> Aux_SG V_trans NP_O
 VP_PL -> Aux_PL V_trans NP_O
 NP_O -> NP PP
-PP -> P Det NP
+PP -> P NP
 RC_1_SG -> Rel Aux_SG V_intrans
 RC_1_PL -> Rel Aux_PL V_intrans
 RC_2 -> Rel Det N_SG Aux_SG V_intrans

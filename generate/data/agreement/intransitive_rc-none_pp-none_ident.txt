@@ -1,1140 +1,1140 @@
-our elephant does giggle	our elephant does giggle IDENT	does
-my monkeys dont smile	my monkeys dont smile IDENT	dont
-the birds do read	the birds do read IDENT	do
-our seal doesnt live	our seal doesnt live IDENT	doesnt
-our cat doesnt giggle	our cat doesnt giggle IDENT	doesnt
-my rabbit doesnt read	my rabbit doesnt read IDENT	doesnt
-my unicorns do giggle	my unicorns do giggle IDENT	do
-the seal does read	the seal does read IDENT	does
-some seals dont smile	some seals dont smile IDENT	dont
-our rabbit does live	our rabbit does live IDENT	does
-our unicorn does read	our unicorn does read IDENT	does
-her yak does sleep	her yak does sleep IDENT	does
-the unicorns dont live	the unicorns dont live IDENT	dont
-the rabbit doesnt read	the rabbit doesnt read IDENT	doesnt
-the monkey does sleep	the monkey does sleep IDENT	does
-the cats do read	the cats do read IDENT	do
-her rabbit does sleep	her rabbit does sleep IDENT	does
-her unicorns do smile	her unicorns do smile IDENT	do
-the monkey does read	the monkey does read IDENT	does
-the elephants do sleep	the elephants do sleep IDENT	do
-our rabbit does laugh	our rabbit does laugh IDENT	does
-our unicorn doesnt live	our unicorn doesnt live IDENT	doesnt
-our rabbits dont live	our rabbits dont live IDENT	dont
-your dog does smile	your dog does smile IDENT	does
-my seal doesnt giggle	my seal doesnt giggle IDENT	doesnt
-our rabbit does sleep	our rabbit does sleep IDENT	does
-your yaks do laugh	your yaks do laugh IDENT	do
-your unicorns dont live	your unicorns dont live IDENT	dont
-my yak doesnt read	my yak doesnt read IDENT	doesnt
-her monkey doesnt laugh	her monkey doesnt laugh IDENT	doesnt
-our unicorn does live	our unicorn does live IDENT	does
-our bird does sleep	our bird does sleep IDENT	does
-our dogs dont live	our dogs dont live IDENT	dont
-my cat does smile	my cat does smile IDENT	does
-our rabbits do live	our rabbits do live IDENT	do
-our dogs do read	our dogs do read IDENT	do
-the elephant does giggle	the elephant does giggle IDENT	does
-the unicorns do read	the unicorns do read IDENT	do
-the monkey doesnt laugh	the monkey doesnt laugh IDENT	doesnt
-the monkeys do live	the monkeys do live IDENT	do
-our monkeys dont sleep	our monkeys dont sleep IDENT	dont
-our unicorn does laugh	our unicorn does laugh IDENT	does
-our unicorn doesnt smile	our unicorn doesnt smile IDENT	doesnt
-our birds dont smile	our birds dont smile IDENT	dont
-your seal doesnt laugh	your seal doesnt laugh IDENT	doesnt
-some seal doesnt live	some seal doesnt live IDENT	doesnt
-our yak doesnt read	our yak doesnt read IDENT	doesnt
-our yaks do read	our yaks do read IDENT	do
-some birds dont read	some birds dont read IDENT	dont
-my dog does laugh	my dog does laugh IDENT	does
-your rabbit does live	your rabbit does live IDENT	does
-your bird doesnt live	your bird doesnt live IDENT	doesnt
-your rabbits dont read	your rabbits dont read IDENT	dont
-her elephants do read	her elephants do read IDENT	do
-some elephant doesnt laugh	some elephant doesnt laugh IDENT	doesnt
-the cat doesnt laugh	the cat doesnt laugh IDENT	doesnt
-some rabbit doesnt laugh	some rabbit doesnt laugh IDENT	doesnt
-some bird does smile	some bird does smile IDENT	does
-the dog doesnt smile	the dog doesnt smile IDENT	doesnt
-some dogs dont laugh	some dogs dont laugh IDENT	dont
-our cat doesnt giggle	our cat doesnt giggle IDENT	doesnt
-your monkey does live	your monkey does live IDENT	does
-your dogs do live	your dogs do live IDENT	do
-our seal does live	our seal does live IDENT	does
-her unicorn does live	her unicorn does live IDENT	does
-your yaks do giggle	your yaks do giggle IDENT	do
-the elephants dont giggle	the elephants dont giggle IDENT	dont
-her seals dont smile	her seals dont smile IDENT	dont
-my bird does live	my bird does live IDENT	does
-your cat doesnt live	your cat doesnt live IDENT	doesnt
-some rabbit doesnt laugh	some rabbit doesnt laugh IDENT	doesnt
-the birds dont live	the birds dont live IDENT	dont
-your yak doesnt sleep	your yak doesnt sleep IDENT	doesnt
-the bird does giggle	the bird does giggle IDENT	does
-some cat does smile	some cat does smile IDENT	does
-my elephant does smile	my elephant does smile IDENT	does
-your birds do smile	your birds do smile IDENT	do
-our elephants do read	our elephants do read IDENT	do
-your bird does giggle	your bird does giggle IDENT	does
-the unicorn doesnt live	the unicorn doesnt live IDENT	doesnt
-your monkeys do sleep	your monkeys do sleep IDENT	do
-some dog doesnt sleep	some dog doesnt sleep IDENT	doesnt
-some rabbits dont sleep	some rabbits dont sleep IDENT	dont
-my unicorns do sleep	my unicorns do sleep IDENT	do
-my unicorn does giggle	my unicorn does giggle IDENT	does
-the seal doesnt sleep	the seal doesnt sleep IDENT	doesnt
-my seal doesnt read	my seal doesnt read IDENT	doesnt
-the elephants do laugh	the elephants do laugh IDENT	do
-the elephants dont smile	the elephants dont smile IDENT	dont
-your bird doesnt read	your bird doesnt read IDENT	doesnt
-some birds do read	some birds do read IDENT	do
-your birds do read	your birds do read IDENT	do
-her elephants dont smile	her elephants dont smile IDENT	dont
-my unicorn does laugh	my unicorn does laugh IDENT	does
-your dogs dont sleep	your dogs dont sleep IDENT	dont
-some elephant doesnt read	some elephant doesnt read IDENT	doesnt
-the yaks do laugh	the yaks do laugh IDENT	do
-my dogs dont smile	my dogs dont smile IDENT	dont
-our cat does smile	our cat does smile IDENT	does
-my elephant doesnt smile	my elephant doesnt smile IDENT	doesnt
-the bird does read	the bird does read IDENT	does
-her dog does giggle	her dog does giggle IDENT	does
-your seals do smile	your seals do smile IDENT	do
-your seals do laugh	your seals do laugh IDENT	do
-some cats dont smile	some cats dont smile IDENT	dont
-some unicorn doesnt laugh	some unicorn doesnt laugh IDENT	doesnt
-our cats dont giggle	our cats dont giggle IDENT	dont
-our birds do giggle	our birds do giggle IDENT	do
-our yak does laugh	our yak does laugh IDENT	does
-our cats do laugh	our cats do laugh IDENT	do
-your elephant doesnt live	your elephant doesnt live IDENT	doesnt
-your elephant does read	your elephant does read IDENT	does
-your unicorns do live	your unicorns do live IDENT	do
-your yaks dont live	your yaks dont live IDENT	dont
-the yak doesnt live	the yak doesnt live IDENT	doesnt
-her seal doesnt live	her seal doesnt live IDENT	doesnt
-some rabbit does laugh	some rabbit does laugh IDENT	does
-the cat doesnt read	the cat doesnt read IDENT	doesnt
-her elephant doesnt sleep	her elephant doesnt sleep IDENT	doesnt
-her seals dont laugh	her seals dont laugh IDENT	dont
-the seal doesnt live	the seal doesnt live IDENT	doesnt
-your seals do read	your seals do read IDENT	do
-my seals do laugh	my seals do laugh IDENT	do
-your yak does live	your yak does live IDENT	does
-the birds dont giggle	the birds dont giggle IDENT	dont
-your cat does sleep	your cat does sleep IDENT	does
-our unicorns dont smile	our unicorns dont smile IDENT	dont
-my seals do smile	my seals do smile IDENT	do
-our cat does laugh	our cat does laugh IDENT	does
-some seal doesnt laugh	some seal doesnt laugh IDENT	doesnt
-some yak doesnt read	some yak doesnt read IDENT	doesnt
-some dogs dont laugh	some dogs dont laugh IDENT	dont
-her yaks do sleep	her yaks do sleep IDENT	do
-my birds dont live	my birds dont live IDENT	dont
-some monkeys do giggle	some monkeys do giggle IDENT	do
-her seals do live	her seals do live IDENT	do
-your unicorn doesnt read	your unicorn doesnt read IDENT	doesnt
-my rabbit doesnt smile	my rabbit doesnt smile IDENT	doesnt
-your monkey does giggle	your monkey does giggle IDENT	does
-your bird doesnt laugh	your bird doesnt laugh IDENT	doesnt
-my cats do laugh	my cats do laugh IDENT	do
-my unicorns dont laugh	my unicorns dont laugh IDENT	dont
-your yak does smile	your yak does smile IDENT	does
-our unicorns dont smile	our unicorns dont smile IDENT	dont
-some unicorns do smile	some unicorns do smile IDENT	do
-some unicorn does live	some unicorn does live IDENT	does
-your elephant does giggle	your elephant does giggle IDENT	does
-my yaks do sleep	my yaks do sleep IDENT	do
-her unicorns do sleep	her unicorns do sleep IDENT	do
-our elephant doesnt sleep	our elephant doesnt sleep IDENT	doesnt
-the elephant does sleep	the elephant does sleep IDENT	does
-our birds dont laugh	our birds dont laugh IDENT	dont
-her elephant does read	her elephant does read IDENT	does
-our seals do read	our seals do read IDENT	do
-my rabbit doesnt sleep	my rabbit doesnt sleep IDENT	doesnt
-some elephant doesnt laugh	some elephant doesnt laugh IDENT	doesnt
-your rabbits dont laugh	your rabbits dont laugh IDENT	dont
-the bird does live	the bird does live IDENT	does
-my dogs dont sleep	my dogs dont sleep IDENT	dont
-the elephant does smile	the elephant does smile IDENT	does
-your birds do smile	your birds do smile IDENT	do
-some cat doesnt laugh	some cat doesnt laugh IDENT	doesnt
-her monkeys do laugh	her monkeys do laugh IDENT	do
-our bird doesnt live	our bird doesnt live IDENT	doesnt
-my cat doesnt smile	my cat doesnt smile IDENT	doesnt
-her dogs dont smile	her dogs dont smile IDENT	dont
-our seal does read	our seal does read IDENT	does
-our monkey doesnt laugh	our monkey doesnt laugh IDENT	doesnt
-some yaks do live	some yaks do live IDENT	do
-the cat doesnt laugh	the cat doesnt laugh IDENT	doesnt
-your dogs dont laugh	your dogs dont laugh IDENT	dont
-some dogs dont read	some dogs dont read IDENT	dont
-some elephants dont laugh	some elephants dont laugh IDENT	dont
-the monkey doesnt giggle	the monkey doesnt giggle IDENT	doesnt
-your unicorn does smile	your unicorn does smile IDENT	does
-your unicorn doesnt read	your unicorn doesnt read IDENT	doesnt
-our dogs do live	our dogs do live IDENT	do
-some rabbit does laugh	some rabbit does laugh IDENT	does
-your elephant does giggle	your elephant does giggle IDENT	does
-some cats dont giggle	some cats dont giggle IDENT	dont
-the unicorn doesnt smile	the unicorn doesnt smile IDENT	doesnt
-your seals dont laugh	your seals dont laugh IDENT	dont
-our rabbits dont live	our rabbits dont live IDENT	dont
-our elephant doesnt laugh	our elephant doesnt laugh IDENT	doesnt
-my dog does read	my dog does read IDENT	does
-her elephants dont smile	her elephants dont smile IDENT	dont
-your monkeys do sleep	your monkeys do sleep IDENT	do
-my dog doesnt laugh	my dog doesnt laugh IDENT	doesnt
-my seals do laugh	my seals do laugh IDENT	do
-some yak does giggle	some yak does giggle IDENT	does
-her unicorns do laugh	her unicorns do laugh IDENT	do
-our birds do laugh	our birds do laugh IDENT	do
-some seal does live	some seal does live IDENT	does
-my monkey does sleep	my monkey does sleep IDENT	does
-some elephant does giggle	some elephant does giggle IDENT	does
-her elephants dont smile	her elephants dont smile IDENT	dont
-the unicorn doesnt live	the unicorn doesnt live IDENT	doesnt
-some yaks do live	some yaks do live IDENT	do
-your bird doesnt laugh	your bird doesnt laugh IDENT	doesnt
-her unicorns do giggle	her unicorns do giggle IDENT	do
-her seals dont laugh	her seals dont laugh IDENT	dont
-her rabbit doesnt smile	her rabbit doesnt smile IDENT	doesnt
-our dogs dont read	our dogs dont read IDENT	dont
-my yaks do read	my yaks do read IDENT	do
-the seal doesnt read	the seal doesnt read IDENT	doesnt
-the cats do read	the cats do read IDENT	do
-some seal does laugh	some seal does laugh IDENT	does
-your yak doesnt smile	your yak doesnt smile IDENT	doesnt
-my rabbits dont read	my rabbits dont read IDENT	dont
-her elephants do giggle	her elephants do giggle IDENT	do
-the dog does laugh	the dog does laugh IDENT	does
-your birds dont live	your birds dont live IDENT	dont
-her monkeys dont sleep	her monkeys dont sleep IDENT	dont
-our elephants dont laugh	our elephants dont laugh IDENT	dont
-our cats do giggle	our cats do giggle IDENT	do
-my monkey doesnt sleep	my monkey doesnt sleep IDENT	doesnt
-our cats do laugh	our cats do laugh IDENT	do
-her cats do laugh	her cats do laugh IDENT	do
-our unicorns do laugh	our unicorns do laugh IDENT	do
-our monkeys do laugh	our monkeys do laugh IDENT	do
-your seal does smile	your seal does smile IDENT	does
-our monkey doesnt read	our monkey doesnt read IDENT	doesnt
-our unicorns dont read	our unicorns dont read IDENT	dont
-her yak does laugh	her yak does laugh IDENT	does
-the rabbits dont giggle	the rabbits dont giggle IDENT	dont
-the unicorn does live	the unicorn does live IDENT	does
-some unicorns dont read	some unicorns dont read IDENT	dont
-some cat does sleep	some cat does sleep IDENT	does
-your dog does read	your dog does read IDENT	does
-your birds do read	your birds do read IDENT	do
-the dog doesnt sleep	the dog doesnt sleep IDENT	doesnt
-our elephant doesnt smile	our elephant doesnt smile IDENT	doesnt
-our dog doesnt smile	our dog doesnt smile IDENT	doesnt
-her seals do read	her seals do read IDENT	do
-her yaks do live	her yaks do live IDENT	do
-our dogs dont sleep	our dogs dont sleep IDENT	dont
-my cat does read	my cat does read IDENT	does
-your yak doesnt giggle	your yak doesnt giggle IDENT	doesnt
-her rabbit doesnt read	her rabbit doesnt read IDENT	doesnt
-the dog doesnt live	the dog doesnt live IDENT	doesnt
-the rabbits do live	the rabbits do live IDENT	do
-my dog does read	my dog does read IDENT	does
-our rabbits do read	our rabbits do read IDENT	do
-her seals dont giggle	her seals dont giggle IDENT	dont
-your seals dont read	your seals dont read IDENT	dont
-some rabbit doesnt giggle	some rabbit doesnt giggle IDENT	doesnt
-some rabbits do giggle	some rabbits do giggle IDENT	do
-my elephant doesnt laugh	my elephant doesnt laugh IDENT	doesnt
-the elephants do giggle	the elephants do giggle IDENT	do
-some monkeys do smile	some monkeys do smile IDENT	do
-my bird does read	my bird does read IDENT	does
-my elephant does live	my elephant does live IDENT	does
-her dog doesnt read	her dog doesnt read IDENT	doesnt
-my cat does read	my cat does read IDENT	does
-the cat does read	the cat does read IDENT	does
-her bird doesnt sleep	her bird doesnt sleep IDENT	doesnt
-her elephant does live	her elephant does live IDENT	does
-our unicorn does live	our unicorn does live IDENT	does
-your birds do read	your birds do read IDENT	do
-the dog does live	the dog does live IDENT	does
-the yaks dont laugh	the yaks dont laugh IDENT	dont
-our elephants do giggle	our elephants do giggle IDENT	do
-my rabbit does live	my rabbit does live IDENT	does
-the elephants dont sleep	the elephants dont sleep IDENT	dont
-our yak doesnt sleep	our yak doesnt sleep IDENT	doesnt
-my cat doesnt live	my cat doesnt live IDENT	doesnt
-our seals do sleep	our seals do sleep IDENT	do
-your cat doesnt giggle	your cat doesnt giggle IDENT	doesnt
-some unicorns do live	some unicorns do live IDENT	do
-your monkeys dont smile	your monkeys dont smile IDENT	dont
-her bird doesnt laugh	her bird doesnt laugh IDENT	doesnt
-my elephant doesnt laugh	my elephant doesnt laugh IDENT	doesnt
-some monkeys do laugh	some monkeys do laugh IDENT	do
-your seal doesnt live	your seal doesnt live IDENT	doesnt
-her yak does giggle	her yak does giggle IDENT	does
-the cats dont smile	the cats dont smile IDENT	dont
-some unicorn doesnt laugh	some unicorn doesnt laugh IDENT	doesnt
-my dogs do sleep	my dogs do sleep IDENT	do
-your rabbits dont giggle	your rabbits dont giggle IDENT	dont
-her cats do laugh	her cats do laugh IDENT	do
-her bird doesnt read	her bird doesnt read IDENT	doesnt
-our seals dont sleep	our seals dont sleep IDENT	dont
-her monkey does sleep	her monkey does sleep IDENT	does
-our seal does laugh	our seal does laugh IDENT	does
-her monkeys do laugh	her monkeys do laugh IDENT	do
-my cat doesnt live	my cat doesnt live IDENT	doesnt
-some unicorn does smile	some unicorn does smile IDENT	does
-my monkeys do smile	my monkeys do smile IDENT	do
-some cat does sleep	some cat does sleep IDENT	does
-some dog does sleep	some dog does sleep IDENT	does
-some dogs do giggle	some dogs do giggle IDENT	do
-some seal doesnt smile	some seal doesnt smile IDENT	doesnt
-your dog doesnt live	your dog doesnt live IDENT	doesnt
-our monkeys do giggle	our monkeys do giggle IDENT	do
-your unicorns dont read	your unicorns dont read IDENT	dont
-some rabbits dont live	some rabbits dont live IDENT	dont
-some cats dont laugh	some cats dont laugh IDENT	dont
-some elephant doesnt giggle	some elephant doesnt giggle IDENT	doesnt
-our yak doesnt laugh	our yak doesnt laugh IDENT	doesnt
-your rabbit does laugh	your rabbit does laugh IDENT	does
-some rabbits dont read	some rabbits dont read IDENT	dont
-her seal does read	her seal does read IDENT	does
-her elephant does smile	her elephant does smile IDENT	does
-our birds do read	our birds do read IDENT	do
-her birds dont read	her birds dont read IDENT	dont
-our rabbits dont smile	our rabbits dont smile IDENT	dont
-your dogs do laugh	your dogs do laugh IDENT	do
-your cat doesnt read	your cat doesnt read IDENT	doesnt
-your cats dont laugh	your cats dont laugh IDENT	dont
-your birds do laugh	your birds do laugh IDENT	do
-her birds dont giggle	her birds dont giggle IDENT	dont
-her elephant doesnt sleep	her elephant doesnt sleep IDENT	doesnt
-the rabbit does laugh	the rabbit does laugh IDENT	does
-our yaks dont giggle	our yaks dont giggle IDENT	dont
-her elephants do giggle	her elephants do giggle IDENT	do
-our cats dont sleep	our cats dont sleep IDENT	dont
-our rabbit doesnt giggle	our rabbit doesnt giggle IDENT	doesnt
-my monkey doesnt laugh	my monkey doesnt laugh IDENT	doesnt
-your birds dont laugh	your birds dont laugh IDENT	dont
-your monkey doesnt live	your monkey doesnt live IDENT	doesnt
-our dogs do live	our dogs do live IDENT	do
-her unicorn doesnt read	her unicorn doesnt read IDENT	doesnt
-the unicorn does live	the unicorn does live IDENT	does
-my unicorns do smile	my unicorns do smile IDENT	do
-her monkeys do sleep	her monkeys do sleep IDENT	do
-some bird does sleep	some bird does sleep IDENT	does
-your elephant does read	your elephant does read IDENT	does
-my seal does live	my seal does live IDENT	does
-her unicorn doesnt laugh	her unicorn doesnt laugh IDENT	doesnt
-my unicorn does read	my unicorn does read IDENT	does
-my unicorn doesnt read	my unicorn doesnt read IDENT	doesnt
-your rabbits dont read	your rabbits dont read IDENT	dont
-your yak doesnt giggle	your yak doesnt giggle IDENT	doesnt
-your seal doesnt sleep	your seal doesnt sleep IDENT	doesnt
-our monkeys do laugh	our monkeys do laugh IDENT	do
-our elephants dont laugh	our elephants dont laugh IDENT	dont
-some elephants do sleep	some elephants do sleep IDENT	do
-some seals do smile	some seals do smile IDENT	do
-the unicorns do smile	the unicorns do smile IDENT	do
-your dogs dont giggle	your dogs dont giggle IDENT	dont
-the yaks do read	the yaks do read IDENT	do
-your elephant does sleep	your elephant does sleep IDENT	does
-the unicorn doesnt smile	the unicorn doesnt smile IDENT	doesnt
-the yaks dont smile	the yaks dont smile IDENT	dont
-my unicorn doesnt smile	my unicorn doesnt smile IDENT	doesnt
-my bird does laugh	my bird does laugh IDENT	does
-the elephant does laugh	the elephant does laugh IDENT	does
-the cats do laugh	the cats do laugh IDENT	do
-some elephant doesnt read	some elephant doesnt read IDENT	doesnt
-the cat doesnt read	the cat doesnt read IDENT	doesnt
-my birds dont sleep	my birds dont sleep IDENT	dont
-your dogs dont laugh	your dogs dont laugh IDENT	dont
-your yak does smile	your yak does smile IDENT	does
-the seal does smile	the seal does smile IDENT	does
-her bird doesnt smile	her bird doesnt smile IDENT	doesnt
-my cat does live	my cat does live IDENT	does
-some bird does smile	some bird does smile IDENT	does
-some birds do smile	some birds do smile IDENT	do
-your dogs do laugh	your dogs do laugh IDENT	do
-my rabbits dont live	my rabbits dont live IDENT	dont
-your seal doesnt live	your seal doesnt live IDENT	doesnt
-some unicorns dont laugh	some unicorns dont laugh IDENT	dont
-some yak doesnt laugh	some yak doesnt laugh IDENT	doesnt
-some yaks do laugh	some yaks do laugh IDENT	do
-her yak does read	her yak does read IDENT	does
-your unicorns do giggle	your unicorns do giggle IDENT	do
-her dog doesnt sleep	her dog doesnt sleep IDENT	doesnt
-her rabbit does laugh	her rabbit does laugh IDENT	does
-some seals do read	some seals do read IDENT	do
-the cats do read	the cats do read IDENT	do
-your birds do giggle	your birds do giggle IDENT	do
-her birds dont read	her birds dont read IDENT	dont
-the seal doesnt smile	the seal doesnt smile IDENT	doesnt
-the monkeys dont smile	the monkeys dont smile IDENT	dont
-your rabbits dont smile	your rabbits dont smile IDENT	dont
-our unicorn doesnt laugh	our unicorn doesnt laugh IDENT	doesnt
-some elephant does sleep	some elephant does sleep IDENT	does
-my elephants dont smile	my elephants dont smile IDENT	dont
-her birds dont laugh	her birds dont laugh IDENT	dont
-some seal doesnt smile	some seal doesnt smile IDENT	doesnt
-my elephants dont read	my elephants dont read IDENT	dont
-my yak does read	my yak does read IDENT	does
-the seal does smile	the seal does smile IDENT	does
-your rabbits do smile	your rabbits do smile IDENT	do
-your rabbits dont read	your rabbits dont read IDENT	dont
-my rabbit doesnt smile	my rabbit doesnt smile IDENT	doesnt
-some bird doesnt live	some bird doesnt live IDENT	doesnt
-your cat does smile	your cat does smile IDENT	does
-the dog doesnt giggle	the dog doesnt giggle IDENT	doesnt
-the bird does giggle	the bird does giggle IDENT	does
-the elephant does read	the elephant does read IDENT	does
-our dog does giggle	our dog does giggle IDENT	does
-the unicorns do giggle	the unicorns do giggle IDENT	do
-our rabbit doesnt live	our rabbit doesnt live IDENT	doesnt
-our rabbits dont live	our rabbits dont live IDENT	dont
-our birds dont sleep	our birds dont sleep IDENT	dont
-her seal does laugh	her seal does laugh IDENT	does
-my birds dont laugh	my birds dont laugh IDENT	dont
-her rabbits dont read	her rabbits dont read IDENT	dont
-her yaks dont read	her yaks dont read IDENT	dont
-your elephant does sleep	your elephant does sleep IDENT	does
-your elephant doesnt sleep	your elephant doesnt sleep IDENT	doesnt
-your seal doesnt read	your seal doesnt read IDENT	doesnt
-the birds dont live	the birds dont live IDENT	dont
-some monkeys dont smile	some monkeys dont smile IDENT	dont
-her unicorn does smile	her unicorn does smile IDENT	does
-your monkey doesnt read	your monkey doesnt read IDENT	doesnt
-some yak does live	some yak does live IDENT	does
-our rabbits do smile	our rabbits do smile IDENT	do
-our yaks do laugh	our yaks do laugh IDENT	do
-my bird doesnt sleep	my bird doesnt sleep IDENT	doesnt
-your elephants dont giggle	your elephants dont giggle IDENT	dont
-our rabbit does giggle	our rabbit does giggle IDENT	does
-our monkeys do laugh	our monkeys do laugh IDENT	do
-our cats do sleep	our cats do sleep IDENT	do
-my cats dont sleep	my cats dont sleep IDENT	dont
-her bird doesnt smile	her bird doesnt smile IDENT	doesnt
-my yaks do sleep	my yaks do sleep IDENT	do
-your rabbit doesnt sleep	your rabbit doesnt sleep IDENT	doesnt
-her seals dont giggle	her seals dont giggle IDENT	dont
-your elephants dont live	your elephants dont live IDENT	dont
-our birds dont smile	our birds dont smile IDENT	dont
-the unicorns dont giggle	the unicorns dont giggle IDENT	dont
-our bird does laugh	our bird does laugh IDENT	does
-our seals dont laugh	our seals dont laugh IDENT	dont
-your dog doesnt read	your dog doesnt read IDENT	doesnt
-our seal does giggle	our seal does giggle IDENT	does
-her seal doesnt giggle	her seal doesnt giggle IDENT	doesnt
-our cats dont giggle	our cats dont giggle IDENT	dont
-our bird does read	our bird does read IDENT	does
-her bird doesnt giggle	her bird doesnt giggle IDENT	doesnt
-your yak does giggle	your yak does giggle IDENT	does
-her cat does laugh	her cat does laugh IDENT	does
-our rabbit doesnt live	our rabbit doesnt live IDENT	doesnt
-my elephants do live	my elephants do live IDENT	do
-her seal does laugh	her seal does laugh IDENT	does
-some seal does giggle	some seal does giggle IDENT	does
-our yak doesnt sleep	our yak doesnt sleep IDENT	doesnt
-our cat doesnt smile	our cat doesnt smile IDENT	doesnt
-her dog doesnt giggle	her dog doesnt giggle IDENT	doesnt
-the rabbit doesnt live	the rabbit doesnt live IDENT	doesnt
-our dogs dont laugh	our dogs dont laugh IDENT	dont
-some yak doesnt live	some yak doesnt live IDENT	doesnt
-her seal does live	her seal does live IDENT	does
-my dog doesnt giggle	my dog doesnt giggle IDENT	doesnt
-our dogs do smile	our dogs do smile IDENT	do
-my birds dont smile	my birds dont smile IDENT	dont
-her yak does smile	her yak does smile IDENT	does
-your seal does read	your seal does read IDENT	does
-some rabbit does sleep	some rabbit does sleep IDENT	does
-some dogs dont sleep	some dogs dont sleep IDENT	dont
-some seal doesnt sleep	some seal doesnt sleep IDENT	doesnt
-the rabbits dont laugh	the rabbits dont laugh IDENT	dont
-some seals dont giggle	some seals dont giggle IDENT	dont
-her monkeys dont laugh	her monkeys dont laugh IDENT	dont
-some yak doesnt giggle	some yak doesnt giggle IDENT	doesnt
-my monkey doesnt sleep	my monkey doesnt sleep IDENT	doesnt
-the dogs do smile	the dogs do smile IDENT	do
-your unicorn does live	your unicorn does live IDENT	does
-your unicorn does laugh	your unicorn does laugh IDENT	does
-the elephant does sleep	the elephant does sleep IDENT	does
-your yak doesnt read	your yak doesnt read IDENT	doesnt
-the seal doesnt sleep	the seal doesnt sleep IDENT	doesnt
-her dog does giggle	her dog does giggle IDENT	does
-her unicorn does live	her unicorn does live IDENT	does
-our elephant doesnt live	our elephant doesnt live IDENT	doesnt
-her unicorn does smile	her unicorn does smile IDENT	does
-some bird does laugh	some bird does laugh IDENT	does
-my yaks dont sleep	my yaks dont sleep IDENT	dont
-the rabbits do laugh	the rabbits do laugh IDENT	do
-our yak does laugh	our yak does laugh IDENT	does
-my rabbits do live	my rabbits do live IDENT	do
-the seals dont live	the seals dont live IDENT	dont
-our yak doesnt smile	our yak doesnt smile IDENT	doesnt
-her seal does sleep	her seal does sleep IDENT	does
-some unicorn doesnt giggle	some unicorn doesnt giggle IDENT	doesnt
-some monkey does giggle	some monkey does giggle IDENT	does
-our unicorn doesnt laugh	our unicorn doesnt laugh IDENT	doesnt
-our rabbit doesnt live	our rabbit doesnt live IDENT	doesnt
-our unicorn does smile	our unicorn does smile IDENT	does
-her dogs do live	her dogs do live IDENT	do
-some unicorn does laugh	some unicorn does laugh IDENT	does
-our yak doesnt smile	our yak doesnt smile IDENT	doesnt
-our dogs dont read	our dogs dont read IDENT	dont
-the elephant doesnt live	the elephant doesnt live IDENT	doesnt
-your elephants do laugh	your elephants do laugh IDENT	do
-our elephants do laugh	our elephants do laugh IDENT	do
-her dog does read	her dog does read IDENT	does
-my monkeys do read	my monkeys do read IDENT	do
-your unicorns dont giggle	your unicorns dont giggle IDENT	dont
-the dog doesnt giggle	the dog doesnt giggle IDENT	doesnt
-the rabbits dont giggle	the rabbits dont giggle IDENT	dont
-some birds dont sleep	some birds dont sleep IDENT	dont
-our monkey does read	our monkey does read IDENT	does
-our bird doesnt giggle	our bird doesnt giggle IDENT	doesnt
-my elephant doesnt giggle	my elephant doesnt giggle IDENT	doesnt
-my bird doesnt laugh	my bird doesnt laugh IDENT	doesnt
-your monkey does laugh	your monkey does laugh IDENT	does
-your rabbit does sleep	your rabbit does sleep IDENT	does
-the yaks do giggle	the yaks do giggle IDENT	do
-my dog doesnt laugh	my dog doesnt laugh IDENT	doesnt
-some yaks dont live	some yaks dont live IDENT	dont
-our yaks do sleep	our yaks do sleep IDENT	do
-the bird does live	the bird does live IDENT	does
-the yaks dont live	the yaks dont live IDENT	dont
-the cat doesnt live	the cat doesnt live IDENT	doesnt
-the birds dont read	the birds dont read IDENT	dont
-our seals dont laugh	our seals dont laugh IDENT	dont
-our cat doesnt sleep	our cat doesnt sleep IDENT	doesnt
-my elephant doesnt giggle	my elephant doesnt giggle IDENT	doesnt
-my unicorns dont read	my unicorns dont read IDENT	dont
-my yak doesnt laugh	my yak doesnt laugh IDENT	doesnt
-her birds do laugh	her birds do laugh IDENT	do
-my elephants do live	my elephants do live IDENT	do
-the monkey doesnt giggle	the monkey doesnt giggle IDENT	doesnt
-her cat does laugh	her cat does laugh IDENT	does
-her elephant does sleep	her elephant does sleep IDENT	does
-her dog doesnt laugh	her dog doesnt laugh IDENT	doesnt
-our cat does laugh	our cat does laugh IDENT	does
-our birds dont read	our birds dont read IDENT	dont
-her cats dont live	her cats dont live IDENT	dont
-our monkeys do laugh	our monkeys do laugh IDENT	do
-her unicorns dont giggle	her unicorns dont giggle IDENT	dont
-our unicorns dont giggle	our unicorns dont giggle IDENT	dont
-your monkeys do smile	your monkeys do smile IDENT	do
-her seal doesnt live	her seal doesnt live IDENT	doesnt
-her elephants do live	her elephants do live IDENT	do
-our seals do live	our seals do live IDENT	do
-some rabbits do smile	some rabbits do smile IDENT	do
-some elephants do laugh	some elephants do laugh IDENT	do
-her bird does read	her bird does read IDENT	does
-my dogs dont giggle	my dogs dont giggle IDENT	dont
-the dogs dont smile	the dogs dont smile IDENT	dont
-your dog doesnt giggle	your dog doesnt giggle IDENT	doesnt
-my birds dont live	my birds dont live IDENT	dont
-my unicorn doesnt smile	my unicorn doesnt smile IDENT	doesnt
-her dog doesnt giggle	her dog doesnt giggle IDENT	doesnt
-the elephants dont read	the elephants dont read IDENT	dont
-her rabbit doesnt live	her rabbit doesnt live IDENT	doesnt
-her monkey doesnt read	her monkey doesnt read IDENT	doesnt
-the monkeys do read	the monkeys do read IDENT	do
-the monkey does giggle	the monkey does giggle IDENT	does
-my bird doesnt giggle	my bird doesnt giggle IDENT	doesnt
-some elephant doesnt laugh	some elephant doesnt laugh IDENT	doesnt
-your unicorn does read	your unicorn does read IDENT	does
-your rabbit doesnt smile	your rabbit doesnt smile IDENT	doesnt
-her monkey does live	her monkey does live IDENT	does
-my cats do sleep	my cats do sleep IDENT	do
-some birds do read	some birds do read IDENT	do
-her cat doesnt smile	her cat doesnt smile IDENT	doesnt
-her yaks do giggle	her yaks do giggle IDENT	do
-some yaks do giggle	some yaks do giggle IDENT	do
-her rabbit does laugh	her rabbit does laugh IDENT	does
-your elephants do laugh	your elephants do laugh IDENT	do
-some monkey doesnt live	some monkey doesnt live IDENT	doesnt
-the cat doesnt live	the cat doesnt live IDENT	doesnt
-our unicorns do giggle	our unicorns do giggle IDENT	do
-our cat doesnt smile	our cat doesnt smile IDENT	doesnt
-our yak doesnt smile	our yak doesnt smile IDENT	doesnt
-my dog does read	my dog does read IDENT	does
-the dog does read	the dog does read IDENT	does
-her monkeys dont sleep	her monkeys dont sleep IDENT	dont
-the rabbits dont read	the rabbits dont read IDENT	dont
-her cats do giggle	her cats do giggle IDENT	do
-some elephant doesnt live	some elephant doesnt live IDENT	doesnt
-her unicorn doesnt sleep	her unicorn doesnt sleep IDENT	doesnt
-her dogs dont laugh	her dogs dont laugh IDENT	dont
-the yaks do read	the yaks do read IDENT	do
-my unicorn doesnt smile	my unicorn doesnt smile IDENT	doesnt
-our cats dont live	our cats dont live IDENT	dont
-my elephants dont live	my elephants dont live IDENT	dont
-her yak doesnt sleep	her yak doesnt sleep IDENT	doesnt
-some unicorns dont read	some unicorns dont read IDENT	dont
-her cat doesnt giggle	her cat doesnt giggle IDENT	doesnt
-our monkeys dont laugh	our monkeys dont laugh IDENT	dont
-our monkeys dont live	our monkeys dont live IDENT	dont
-her monkeys dont giggle	her monkeys dont giggle IDENT	dont
-the rabbits dont read	the rabbits dont read IDENT	dont
-her unicorn does read	her unicorn does read IDENT	does
-some yak doesnt read	some yak doesnt read IDENT	doesnt
-your unicorns dont giggle	your unicorns dont giggle IDENT	dont
-our elephant does laugh	our elephant does laugh IDENT	does
-our unicorn does live	our unicorn does live IDENT	does
-our yak does giggle	our yak does giggle IDENT	does
-our seals dont smile	our seals dont smile IDENT	dont
-her rabbits dont laugh	her rabbits dont laugh IDENT	dont
-our seal does smile	our seal does smile IDENT	does
-some cat does laugh	some cat does laugh IDENT	does
-the rabbit does live	the rabbit does live IDENT	does
-some yaks dont laugh	some yaks dont laugh IDENT	dont
-our elephant doesnt giggle	our elephant doesnt giggle IDENT	doesnt
-the birds do sleep	the birds do sleep IDENT	do
-the birds dont giggle	the birds dont giggle IDENT	dont
-our yaks do giggle	our yaks do giggle IDENT	do
-the unicorn doesnt laugh	the unicorn doesnt laugh IDENT	doesnt
-some monkey doesnt live	some monkey doesnt live IDENT	doesnt
-my monkeys dont smile	my monkeys dont smile IDENT	dont
-some unicorn does smile	some unicorn does smile IDENT	does
-the rabbit does live	the rabbit does live IDENT	does
-your unicorn doesnt laugh	your unicorn doesnt laugh IDENT	doesnt
-our cats do read	our cats do read IDENT	do
-her elephant does read	her elephant does read IDENT	does
-some dog does read	some dog does read IDENT	does
-her cat doesnt live	her cat doesnt live IDENT	doesnt
-some unicorn doesnt read	some unicorn doesnt read IDENT	doesnt
-some rabbits do live	some rabbits do live IDENT	do
-my yaks do laugh	my yaks do laugh IDENT	do
-her cats dont sleep	her cats dont sleep IDENT	dont
-your monkeys dont smile	your monkeys dont smile IDENT	dont
-your unicorns do sleep	your unicorns do sleep IDENT	do
-our seal does laugh	our seal does laugh IDENT	does
-our dog does live	our dog does live IDENT	does
-some monkeys do live	some monkeys do live IDENT	do
-your rabbit does live	your rabbit does live IDENT	does
-some unicorn doesnt giggle	some unicorn doesnt giggle IDENT	doesnt
-the yaks do giggle	the yaks do giggle IDENT	do
-some cat doesnt live	some cat doesnt live IDENT	doesnt
-my elephant doesnt smile	my elephant doesnt smile IDENT	doesnt
-my monkey does live	my monkey does live IDENT	does
-my dog does live	my dog does live IDENT	does
-our cats dont smile	our cats dont smile IDENT	dont
-our dogs do read	our dogs do read IDENT	do
-my dog doesnt read	my dog doesnt read IDENT	doesnt
-your cat doesnt read	your cat doesnt read IDENT	doesnt
-my monkeys dont smile	my monkeys dont smile IDENT	dont
-your rabbits do smile	your rabbits do smile IDENT	do
-our dogs dont smile	our dogs dont smile IDENT	dont
-the yak doesnt giggle	the yak doesnt giggle IDENT	doesnt
-the elephants do laugh	the elephants do laugh IDENT	do
-our elephants do smile	our elephants do smile IDENT	do
-my yak doesnt giggle	my yak doesnt giggle IDENT	doesnt
-her cat does smile	her cat does smile IDENT	does
-the cats do live	the cats do live IDENT	do
-some cats do laugh	some cats do laugh IDENT	do
-my yaks dont read	my yaks dont read IDENT	dont
-her rabbit doesnt laugh	her rabbit doesnt laugh IDENT	doesnt
-your cats do giggle	your cats do giggle IDENT	do
-some bird doesnt giggle	some bird doesnt giggle IDENT	doesnt
-my monkeys dont live	my monkeys dont live IDENT	dont
-our monkeys dont smile	our monkeys dont smile IDENT	dont
-my seals dont read	my seals dont read IDENT	dont
-our dogs do smile	our dogs do smile IDENT	do
-my seal does live	my seal does live IDENT	does
-our unicorns do giggle	our unicorns do giggle IDENT	do
-some cats do laugh	some cats do laugh IDENT	do
-my seals do sleep	my seals do sleep IDENT	do
-the seal doesnt laugh	the seal doesnt laugh IDENT	doesnt
-her elephants do smile	her elephants do smile IDENT	do
-our seal does giggle	our seal does giggle IDENT	does
-her cat doesnt laugh	her cat doesnt laugh IDENT	doesnt
-our yaks dont read	our yaks dont read IDENT	dont
-my dogs do live	my dogs do live IDENT	do
-my seal does smile	my seal does smile IDENT	does
-my monkeys do smile	my monkeys do smile IDENT	do
-my seals dont smile	my seals dont smile IDENT	dont
-her seal doesnt giggle	her seal doesnt giggle IDENT	doesnt
-my unicorns do smile	my unicorns do smile IDENT	do
-your cats do giggle	your cats do giggle IDENT	do
-her monkey doesnt giggle	her monkey doesnt giggle IDENT	doesnt
-my monkey does giggle	my monkey does giggle IDENT	does
-my seals do laugh	my seals do laugh IDENT	do
-my unicorn does giggle	my unicorn does giggle IDENT	does
-the seals do sleep	the seals do sleep IDENT	do
-our elephants dont sleep	our elephants dont sleep IDENT	dont
-our dogs do laugh	our dogs do laugh IDENT	do
-our elephant doesnt live	our elephant doesnt live IDENT	doesnt
-your unicorn does read	your unicorn does read IDENT	does
-some yaks do read	some yaks do read IDENT	do
-her dog does laugh	her dog does laugh IDENT	does
-my birds dont live	my birds dont live IDENT	dont
-her birds do live	her birds do live IDENT	do
-some rabbits dont laugh	some rabbits dont laugh IDENT	dont
-our rabbits do read	our rabbits do read IDENT	do
-her yak doesnt read	her yak doesnt read IDENT	doesnt
-some rabbit doesnt live	some rabbit doesnt live IDENT	doesnt
-my elephant does read	my elephant does read IDENT	does
-our cat does sleep	our cat does sleep IDENT	does
-my monkey doesnt live	my monkey doesnt live IDENT	doesnt
-our seals dont sleep	our seals dont sleep IDENT	dont
-my monkey doesnt read	my monkey doesnt read IDENT	doesnt
-the bird doesnt giggle	the bird doesnt giggle IDENT	doesnt
-the cat does giggle	the cat does giggle IDENT	does
-my dog doesnt read	my dog doesnt read IDENT	doesnt
-our bird doesnt laugh	our bird doesnt laugh IDENT	doesnt
-our cat does smile	our cat does smile IDENT	does
-some bird does smile	some bird does smile IDENT	does
-some bird doesnt read	some bird doesnt read IDENT	doesnt
-the dogs do giggle	the dogs do giggle IDENT	do
-the bird does smile	the bird does smile IDENT	does
-your seals do sleep	your seals do sleep IDENT	do
-some rabbit doesnt sleep	some rabbit doesnt sleep IDENT	doesnt
-my unicorn does sleep	my unicorn does sleep IDENT	does
-her monkey does live	her monkey does live IDENT	does
-the birds do sleep	the birds do sleep IDENT	do
-your yaks dont live	your yaks dont live IDENT	dont
-your yak does sleep	your yak does sleep IDENT	does
-the elephant doesnt live	the elephant doesnt live IDENT	doesnt
-some dog doesnt giggle	some dog doesnt giggle IDENT	doesnt
-some dogs dont live	some dogs dont live IDENT	dont
-her dogs do live	her dogs do live IDENT	do
-some cat does live	some cat does live IDENT	does
-your yak doesnt giggle	your yak doesnt giggle IDENT	doesnt
-the seals dont smile	the seals dont smile IDENT	dont
-my rabbits dont live	my rabbits dont live IDENT	dont
-the bird does smile	the bird does smile IDENT	does
-some unicorns do sleep	some unicorns do sleep IDENT	do
-the cats do laugh	the cats do laugh IDENT	do
-your dogs dont laugh	your dogs dont laugh IDENT	dont
-my monkeys do live	my monkeys do live IDENT	do
-my cats do read	my cats do read IDENT	do
-her seals dont sleep	her seals dont sleep IDENT	dont
-your rabbit does sleep	your rabbit does sleep IDENT	does
-the unicorn doesnt laugh	the unicorn doesnt laugh IDENT	doesnt
-your yaks do read	your yaks do read IDENT	do
-your unicorn does sleep	your unicorn does sleep IDENT	does
-your seals dont sleep	your seals dont sleep IDENT	dont
-our unicorns dont smile	our unicorns dont smile IDENT	dont
-her cats do read	her cats do read IDENT	do
-my seals do sleep	my seals do sleep IDENT	do
-my seals do smile	my seals do smile IDENT	do
-my elephants dont sleep	my elephants dont sleep IDENT	dont
-her seals do sleep	her seals do sleep IDENT	do
-some seal does smile	some seal does smile IDENT	does
-my monkey does live	my monkey does live IDENT	does
-her cat doesnt live	her cat doesnt live IDENT	doesnt
-your elephants do sleep	your elephants do sleep IDENT	do
-our rabbits do live	our rabbits do live IDENT	do
-the monkey does sleep	the monkey does sleep IDENT	does
-our unicorn does live	our unicorn does live IDENT	does
-our elephant does laugh	our elephant does laugh IDENT	does
-your birds dont smile	your birds dont smile IDENT	dont
-some dog does read	some dog does read IDENT	does
-the dog does read	the dog does read IDENT	does
-her monkey doesnt live	her monkey doesnt live IDENT	doesnt
-your rabbits do smile	your rabbits do smile IDENT	do
-our birds dont smile	our birds dont smile IDENT	dont
-my dog doesnt laugh	my dog doesnt laugh IDENT	doesnt
-our monkeys dont smile	our monkeys dont smile IDENT	dont
-your unicorn does sleep	your unicorn does sleep IDENT	does
-her bird doesnt smile	her bird doesnt smile IDENT	doesnt
-your unicorns do read	your unicorns do read IDENT	do
-her rabbit does laugh	her rabbit does laugh IDENT	does
-her rabbit doesnt laugh	her rabbit doesnt laugh IDENT	doesnt
-your yaks dont smile	your yaks dont smile IDENT	dont
-my seals dont live	my seals dont live IDENT	dont
-my yaks dont live	my yaks dont live IDENT	dont
-my cats do giggle	my cats do giggle IDENT	do
-your unicorn does live	your unicorn does live IDENT	does
-her elephant doesnt laugh	her elephant doesnt laugh IDENT	doesnt
-her elephant does smile	her elephant does smile IDENT	does
-my cats dont smile	my cats dont smile IDENT	dont
-some unicorn doesnt smile	some unicorn doesnt smile IDENT	doesnt
-our yaks do smile	our yaks do smile IDENT	do
-some dog doesnt sleep	some dog doesnt sleep IDENT	doesnt
-some rabbit does laugh	some rabbit does laugh IDENT	does
-my cat does live	my cat does live IDENT	does
-my yaks do live	my yaks do live IDENT	do
-my yaks do read	my yaks do read IDENT	do
-her monkey doesnt laugh	her monkey doesnt laugh IDENT	doesnt
-our yak does smile	our yak does smile IDENT	does
-our unicorns dont laugh	our unicorns dont laugh IDENT	dont
-our rabbits do sleep	our rabbits do sleep IDENT	do
-my monkeys do read	my monkeys do read IDENT	do
-your bird does laugh	your bird does laugh IDENT	does
-some yak does laugh	some yak does laugh IDENT	does
-the yaks dont sleep	the yaks dont sleep IDENT	dont
-her bird does read	her bird does read IDENT	does
-her cat doesnt laugh	her cat doesnt laugh IDENT	doesnt
-your dogs do smile	your dogs do smile IDENT	do
-our cats do giggle	our cats do giggle IDENT	do
-the monkey does laugh	the monkey does laugh IDENT	does
-the rabbits do read	the rabbits do read IDENT	do
-some unicorns do laugh	some unicorns do laugh IDENT	do
-my unicorns dont read	my unicorns dont read IDENT	dont
-the monkeys dont smile	the monkeys dont smile IDENT	dont
-some seals dont sleep	some seals dont sleep IDENT	dont
-our elephants do giggle	our elephants do giggle IDENT	do
-our cat doesnt smile	our cat doesnt smile IDENT	doesnt
-your cat doesnt sleep	your cat doesnt sleep IDENT	doesnt
-my yaks do giggle	my yaks do giggle IDENT	do
-my dogs do giggle	my dogs do giggle IDENT	do
-the dogs do giggle	the dogs do giggle IDENT	do
-my monkey doesnt giggle	my monkey doesnt giggle IDENT	doesnt
-her yak does giggle	her yak does giggle IDENT	does
-our elephant doesnt live	our elephant doesnt live IDENT	doesnt
-some cat does live	some cat does live IDENT	does
-our rabbits do read	our rabbits do read IDENT	do
-her elephants do read	her elephants do read IDENT	do
-her cat doesnt giggle	her cat doesnt giggle IDENT	doesnt
-our rabbit does laugh	our rabbit does laugh IDENT	does
-our seals dont laugh	our seals dont laugh IDENT	dont
-your elephants do live	your elephants do live IDENT	do
-some cats do live	some cats do live IDENT	do
-her birds do read	her birds do read IDENT	do
-our elephant doesnt live	our elephant doesnt live IDENT	doesnt
-some unicorns dont sleep	some unicorns dont sleep IDENT	dont
-my monkey does smile	my monkey does smile IDENT	does
-my seal does read	my seal does read IDENT	does
-your seal does read	your seal does read IDENT	does
-some seal does giggle	some seal does giggle IDENT	does
-her elephant does read	her elephant does read IDENT	does
-her monkeys dont read	her monkeys dont read IDENT	dont
-my elephant does sleep	my elephant does sleep IDENT	does
-our dog does smile	our dog does smile IDENT	does
-our seals do live	our seals do live IDENT	do
-my cats do laugh	my cats do laugh IDENT	do
-our dog doesnt giggle	our dog doesnt giggle IDENT	doesnt
-the rabbits do laugh	the rabbits do laugh IDENT	do
-our monkeys dont smile	our monkeys dont smile IDENT	dont
-my rabbits do giggle	my rabbits do giggle IDENT	do
-my dog doesnt laugh	my dog doesnt laugh IDENT	doesnt
-my unicorns dont sleep	my unicorns dont sleep IDENT	dont
-her cats do sleep	her cats do sleep IDENT	do
-my birds do live	my birds do live IDENT	do
-her rabbit does giggle	her rabbit does giggle IDENT	does
-our unicorns do live	our unicorns do live IDENT	do
-my monkeys do read	my monkeys do read IDENT	do
-my seal does smile	my seal does smile IDENT	does
-our cats do smile	our cats do smile IDENT	do
-our monkey does giggle	our monkey does giggle IDENT	does
-the seals do read	the seals do read IDENT	do
-your cat does laugh	your cat does laugh IDENT	does
-our yak does smile	our yak does smile IDENT	does
-my seals dont giggle	my seals dont giggle IDENT	dont
-our cats dont sleep	our cats dont sleep IDENT	dont
-your yak doesnt sleep	your yak doesnt sleep IDENT	doesnt
-my cats do read	my cats do read IDENT	do
-the yaks dont smile	the yaks dont smile IDENT	dont
-the dogs dont smile	the dogs dont smile IDENT	dont
-some rabbits dont giggle	some rabbits dont giggle IDENT	dont
-her yak doesnt live	her yak doesnt live IDENT	doesnt
-her monkey does smile	her monkey does smile IDENT	does
-your rabbit does smile	your rabbit does smile IDENT	does
-her dog does smile	her dog does smile IDENT	does
-your yak doesnt live	your yak doesnt live IDENT	doesnt
-her dogs dont live	her dogs dont live IDENT	dont
-her monkeys dont live	her monkeys dont live IDENT	dont
-her unicorn doesnt read	her unicorn doesnt read IDENT	doesnt
-my yak does sleep	my yak does sleep IDENT	does
-your birds dont smile	your birds dont smile IDENT	dont
-her rabbit doesnt giggle	her rabbit doesnt giggle IDENT	doesnt
-our unicorns dont giggle	our unicorns dont giggle IDENT	dont
-some elephants dont smile	some elephants dont smile IDENT	dont
-the rabbit does live	the rabbit does live IDENT	does
-our rabbits do smile	our rabbits do smile IDENT	do
-your unicorn doesnt giggle	your unicorn doesnt giggle IDENT	doesnt
-the monkeys dont smile	the monkeys dont smile IDENT	dont
-the seal doesnt smile	the seal doesnt smile IDENT	doesnt
-your monkey does smile	your monkey does smile IDENT	does
-our monkeys dont smile	our monkeys dont smile IDENT	dont
-her dogs dont laugh	her dogs dont laugh IDENT	dont
-our seal does smile	our seal does smile IDENT	does
-some dogs do live	some dogs do live IDENT	do
-some elephant does live	some elephant does live IDENT	does
-your elephant doesnt giggle	your elephant doesnt giggle IDENT	doesnt
-our yak does sleep	our yak does sleep IDENT	does
-the yak does sleep	the yak does sleep IDENT	does
-the dog does sleep	the dog does sleep IDENT	does
-my elephants dont sleep	my elephants dont sleep IDENT	dont
-your rabbit doesnt live	your rabbit doesnt live IDENT	doesnt
-your monkeys dont read	your monkeys dont read IDENT	dont
-our seals do smile	our seals do smile IDENT	do
-our dogs dont giggle	our dogs dont giggle IDENT	dont
-some unicorns dont read	some unicorns dont read IDENT	dont
-her cat doesnt sleep	her cat doesnt sleep IDENT	doesnt
-your elephants dont live	your elephants dont live IDENT	dont
-our monkey does laugh	our monkey does laugh IDENT	does
-our cat doesnt giggle	our cat doesnt giggle IDENT	doesnt
-the elephant does laugh	the elephant does laugh IDENT	does
-our bird does live	our bird does live IDENT	does
-our bird does giggle	our bird does giggle IDENT	does
-her seal does live	her seal does live IDENT	does
-the unicorns dont sleep	the unicorns dont sleep IDENT	dont
-her yaks do laugh	her yaks do laugh IDENT	do
-the rabbits do sleep	the rabbits do sleep IDENT	do
-our yak doesnt read	our yak doesnt read IDENT	doesnt
-my birds do smile	my birds do smile IDENT	do
-my elephants dont live	my elephants dont live IDENT	dont
-the unicorns do giggle	the unicorns do giggle IDENT	do
-the monkey does giggle	the monkey does giggle IDENT	does
-her seal does read	her seal does read IDENT	does
-her dog doesnt read	her dog doesnt read IDENT	doesnt
-your rabbit doesnt laugh	your rabbit doesnt laugh IDENT	doesnt
-some rabbits dont smile	some rabbits dont smile IDENT	dont
-some unicorns do live	some unicorns do live IDENT	do
-my dogs dont sleep	my dogs dont sleep IDENT	dont
-your seals dont live	your seals dont live IDENT	dont
-her dogs dont sleep	her dogs dont sleep IDENT	dont
-my birds do live	my birds do live IDENT	do
-some bird does live	some bird does live IDENT	does
-some cat does giggle	some cat does giggle IDENT	does
-my unicorns dont giggle	my unicorns dont giggle IDENT	dont
-your elephant doesnt sleep	your elephant doesnt sleep IDENT	doesnt
-our rabbit does giggle	our rabbit does giggle IDENT	does
-the rabbits dont sleep	the rabbits dont sleep IDENT	dont
-the elephant does giggle	the elephant does giggle IDENT	does
-the seals dont smile	the seals dont smile IDENT	dont
-her unicorns do giggle	her unicorns do giggle IDENT	do
-my cats do giggle	my cats do giggle IDENT	do
-her birds dont laugh	her birds dont laugh IDENT	dont
-our monkeys do sleep	our monkeys do sleep IDENT	do
-the rabbit doesnt giggle	the rabbit doesnt giggle IDENT	doesnt
-the dogs do giggle	the dogs do giggle IDENT	do
-our unicorn doesnt laugh	our unicorn doesnt laugh IDENT	doesnt
-the dog does laugh	the dog does laugh IDENT	does
-the seals dont live	the seals dont live IDENT	dont
-your rabbits dont giggle	your rabbits dont giggle IDENT	dont
-some monkey does live	some monkey does live IDENT	does
-her unicorn does giggle	her unicorn does giggle IDENT	does
-her rabbits do giggle	her rabbits do giggle IDENT	do
-her monkeys do giggle	her monkeys do giggle IDENT	do
-some monkey does sleep	some monkey does sleep IDENT	does
-your dog doesnt read	your dog doesnt read IDENT	doesnt
-her cats dont live	her cats dont live IDENT	dont
-her seal does sleep	her seal does sleep IDENT	does
-the seal does read	the seal does read IDENT	does
-the unicorns do sleep	the unicorns do sleep IDENT	do
-her unicorn does sleep	her unicorn does sleep IDENT	does
-some unicorns dont sleep	some unicorns dont sleep IDENT	dont
-her cat does sleep	her cat does sleep IDENT	does
-her elephant does live	her elephant does live IDENT	does
-some monkeys dont laugh	some monkeys dont laugh IDENT	dont
-some monkey does giggle	some monkey does giggle IDENT	does
-our yaks do live	our yaks do live IDENT	do
-our elephants dont live	our elephants dont live IDENT	dont
-my monkey does live	my monkey does live IDENT	does
-her dog doesnt laugh	her dog doesnt laugh IDENT	doesnt
-the unicorns do giggle	the unicorns do giggle IDENT	do
-her bird doesnt smile	her bird doesnt smile IDENT	doesnt
-my rabbit doesnt laugh	my rabbit doesnt laugh IDENT	doesnt
-your seal doesnt giggle	your seal doesnt giggle IDENT	doesnt
-some yak doesnt giggle	some yak doesnt giggle IDENT	doesnt
-the yaks do read	the yaks do read IDENT	do
-your yaks dont giggle	your yaks dont giggle IDENT	dont
-her monkeys do giggle	her monkeys do giggle IDENT	do
-our dogs dont smile	our dogs dont smile IDENT	dont
-some cat does sleep	some cat does sleep IDENT	does
-some unicorns do giggle	some unicorns do giggle IDENT	do
-some unicorn doesnt giggle	some unicorn doesnt giggle IDENT	doesnt
-your monkeys do sleep	your monkeys do sleep IDENT	do
-your monkey doesnt smile	your monkey doesnt smile IDENT	doesnt
-the dog does smile	the dog does smile IDENT	does
-the rabbits do laugh	the rabbits do laugh IDENT	do
-our elephant doesnt giggle	our elephant doesnt giggle IDENT	doesnt
-your rabbits do live	your rabbits do live IDENT	do
-our yaks dont sleep	our yaks dont sleep IDENT	dont
-some cat does live	some cat does live IDENT	does
-your monkeys do live	your monkeys do live IDENT	do
-my birds dont sleep	my birds dont sleep IDENT	dont
-her seal does live	her seal does live IDENT	does
-our rabbit does read	our rabbit does read IDENT	does
-your cat doesnt read	your cat doesnt read IDENT	doesnt
-my seal does giggle	my seal does giggle IDENT	does
-my cats dont smile	my cats dont smile IDENT	dont
-her yak does read	her yak does read IDENT	does
-our seal does laugh	our seal does laugh IDENT	does
-my dog does laugh	my dog does laugh IDENT	does
-the dogs dont read	the dogs dont read IDENT	dont
-our rabbits do live	our rabbits do live IDENT	do
-the unicorns dont smile	the unicorns dont smile IDENT	dont
-my dogs dont laugh	my dogs dont laugh IDENT	dont
-our yaks do laugh	our yaks do laugh IDENT	do
-our cats dont live	our cats dont live IDENT	dont
-your rabbits dont sleep	your rabbits dont sleep IDENT	dont
-my unicorn does smile	my unicorn does smile IDENT	does
-the rabbits do smile	the rabbits do smile IDENT	do
-my cats do sleep	my cats do sleep IDENT	do
-our unicorns dont giggle	our unicorns dont giggle IDENT	dont
-her elephant does smile	her elephant does smile IDENT	does
-the elephant doesnt smile	the elephant doesnt smile IDENT	doesnt
-your cat does giggle	your cat does giggle IDENT	does
-your rabbits dont laugh	your rabbits dont laugh IDENT	dont
-my monkeys dont laugh	my monkeys dont laugh IDENT	dont
-our unicorn does laugh	our unicorn does laugh IDENT	does
-the bird does smile	the bird does smile IDENT	does
-the seals dont read	the seals dont read IDENT	dont
-some rabbits do sleep	some rabbits do sleep IDENT	do
-our monkey does giggle	our monkey does giggle IDENT	does
-the monkey doesnt laugh	the monkey doesnt laugh IDENT	doesnt
-the rabbits dont sleep	the rabbits dont sleep IDENT	dont
-some cats dont smile	some cats dont smile IDENT	dont
-some monkey does smile	some monkey does smile IDENT	does
-your yaks do laugh	your yaks do laugh IDENT	do
-our birds do read	our birds do read IDENT	do
-our birds dont read	our birds dont read IDENT	dont
-the cats dont read	the cats dont read IDENT	dont
-some bird doesnt giggle	some bird doesnt giggle IDENT	doesnt
-the seal does sleep	the seal does sleep IDENT	does
-your unicorns do laugh	your unicorns do laugh IDENT	do
-your elephant does sleep	your elephant does sleep IDENT	does
-your elephant doesnt live	your elephant doesnt live IDENT	doesnt
-your birds do smile	your birds do smile IDENT	do
-my dog does laugh	my dog does laugh IDENT	does
-my dogs dont read	my dogs dont read IDENT	dont
-her birds do live	her birds do live IDENT	do
-our cat doesnt giggle	our cat doesnt giggle IDENT	doesnt
-the bird doesnt giggle	the bird doesnt giggle IDENT	doesnt
-my yak does live	my yak does live IDENT	does
-her monkey does laugh	her monkey does laugh IDENT	does
-our rabbits dont laugh	our rabbits dont laugh IDENT	dont
-your elephant does smile	your elephant does smile IDENT	does
-our bird doesnt smile	our bird doesnt smile IDENT	doesnt
-your seals dont live	your seals dont live IDENT	dont
-the unicorn doesnt laugh	the unicorn doesnt laugh IDENT	doesnt
-some rabbit doesnt read	some rabbit doesnt read IDENT	doesnt
-our dog doesnt laugh	our dog doesnt laugh IDENT	doesnt
-our bird doesnt live	our bird doesnt live IDENT	doesnt
-some monkeys do sleep	some monkeys do sleep IDENT	do
-your dogs dont sleep	your dogs dont sleep IDENT	dont
-our monkey doesnt smile	our monkey doesnt smile IDENT	doesnt
-our elephants dont live	our elephants dont live IDENT	dont
-our elephants dont laugh	our elephants dont laugh IDENT	dont
-your birds do live	your birds do live IDENT	do
-my unicorn does read	my unicorn does read IDENT	does
-your rabbits do read	your rabbits do read IDENT	do
-my dog does laugh	my dog does laugh IDENT	does
-our seal doesnt smile	our seal doesnt smile IDENT	doesnt
-her seal does sleep	her seal does sleep IDENT	does
-my yaks dont laugh	my yaks dont laugh IDENT	dont
-our unicorn does giggle	our unicorn does giggle IDENT	does
-her cats do read	her cats do read IDENT	do
-some dog does laugh	some dog does laugh IDENT	does
-some birds dont sleep	some birds dont sleep IDENT	dont
-her yaks do sleep	her yaks do sleep IDENT	do
-my unicorn doesnt sleep	my unicorn doesnt sleep IDENT	doesnt
-the elephant doesnt live	the elephant doesnt live IDENT	doesnt
-my yaks do giggle	my yaks do giggle IDENT	do
-my seal doesnt sleep	my seal doesnt sleep IDENT	doesnt
-my cats do smile	my cats do smile IDENT	do
-my elephant doesnt laugh	my elephant doesnt laugh IDENT	doesnt
-some dogs dont laugh	some dogs dont laugh IDENT	dont
-some seals do giggle	some seals do giggle IDENT	do
-the birds dont sleep	the birds dont sleep IDENT	dont
-some birds dont live	some birds dont live IDENT	dont
-the unicorns dont laugh	the unicorns dont laugh IDENT	dont
-her seals do laugh	her seals do laugh IDENT	do
-her rabbits do live	her rabbits do live IDENT	do
-her rabbit does smile	her rabbit does smile IDENT	does
-our seal doesnt read	our seal doesnt read IDENT	doesnt
-the birds dont sleep	the birds dont sleep IDENT	dont
-my rabbits do smile	my rabbits do smile IDENT	do
-our dog doesnt smile	our dog doesnt smile IDENT	doesnt
-our elephant does giggle	our elephant does giggle IDENT	does
-your unicorn does laugh	your unicorn does laugh IDENT	does
-your yaks do smile	your yaks do smile IDENT	do
-some unicorn does giggle	some unicorn does giggle IDENT	does
-the dogs do read	the dogs do read IDENT	do
-our cat doesnt live	our cat doesnt live IDENT	doesnt
-our seal does live	our seal does live IDENT	does
-your elephant does giggle	your elephant does giggle IDENT	does
-your rabbits dont read	your rabbits dont read IDENT	dont
-some cats do sleep	some cats do sleep IDENT	do
-the yaks do read	the yaks do read IDENT	do
-the elephants do read	the elephants do read IDENT	do
-our bird does laugh	our bird does laugh IDENT	does
-our dogs dont live	our dogs dont live IDENT	dont
-the seals do read	the seals do read IDENT	do
-my dog doesnt giggle	my dog doesnt giggle IDENT	doesnt
-my elephants dont sleep	my elephants dont sleep IDENT	dont
-the cats dont sleep	the cats dont sleep IDENT	dont
-my monkey doesnt smile	my monkey doesnt smile IDENT	doesnt
-our birds do laugh	our birds do laugh IDENT	do
-my seals do smile	my seals do smile IDENT	do
-the rabbits do giggle	the rabbits do giggle IDENT	do
-your birds dont smile	your birds dont smile IDENT	dont
-our cat does sleep	our cat does sleep IDENT	does
-my yaks dont live	my yaks dont live IDENT	dont
-our cat doesnt live	our cat doesnt live IDENT	doesnt
-your seals dont sleep	your seals dont sleep IDENT	dont
-the yaks dont laugh	the yaks dont laugh IDENT	dont
-your dogs dont read	your dogs dont read IDENT	dont
-some yaks do giggle	some yaks do giggle IDENT	do
-your seals dont laugh	your seals dont laugh IDENT	dont
-my seals do giggle	my seals do giggle IDENT	do
-the elephants dont smile	the elephants dont smile IDENT	dont
-some dogs do giggle	some dogs do giggle IDENT	do
-the seal does read	the seal does read IDENT	does
-our dog doesnt sleep	our dog doesnt sleep IDENT	doesnt
-her yak does read	her yak does read IDENT	does
-our monkeys do read	our monkeys do read IDENT	do
-some dog does giggle	some dog does giggle IDENT	does
-some yak does giggle	some yak does giggle IDENT	does
-some cat does smile	some cat does smile IDENT	does
-the elephants dont live	the elephants dont live IDENT	dont
-her cat doesnt giggle	her cat doesnt giggle IDENT	doesnt
-the elephant doesnt giggle	the elephant doesnt giggle IDENT	doesnt
-her bird doesnt smile	her bird doesnt smile IDENT	doesnt
-her cats dont live	her cats dont live IDENT	dont
-our bird does laugh	our bird does laugh IDENT	does
-our yaks dont laugh	our yaks dont laugh IDENT	dont
-our monkey does sleep	our monkey does sleep IDENT	does
-our yak doesnt laugh	our yak doesnt laugh IDENT	doesnt
-our yak doesnt sleep	our yak doesnt sleep IDENT	doesnt
-the seals do giggle	the seals do giggle IDENT	do
-some unicorn does sleep	some unicorn does sleep IDENT	does
-our unicorn does sleep	our unicorn does sleep IDENT	does
-the rabbits dont laugh	the rabbits dont laugh IDENT	dont
-your cat doesnt smile	your cat doesnt smile IDENT	doesnt
-your unicorn doesnt smile	your unicorn doesnt smile IDENT	doesnt
-your rabbit doesnt laugh	your rabbit doesnt laugh IDENT	doesnt
-my monkey does read	my monkey does read IDENT	does
-our seal does sleep	our seal does sleep IDENT	does
-your bird doesnt read	your bird doesnt read IDENT	doesnt
-some dog doesnt sleep	some dog doesnt sleep IDENT	doesnt
-some seals do smile	some seals do smile IDENT	do
-some rabbit does read	some rabbit does read IDENT	does
-my yaks dont sleep	my yaks dont sleep IDENT	dont
-the seal does smile	the seal does smile IDENT	does
-our unicorns do giggle	our unicorns do giggle IDENT	do
-my cats do read	my cats do read IDENT	do
-some yaks do read	some yaks do read IDENT	do
-her unicorns dont smile	her unicorns dont smile IDENT	dont
-my unicorns dont giggle	my unicorns dont giggle IDENT	dont
-her birds do giggle	her birds do giggle IDENT	do
-our seal doesnt laugh	our seal doesnt laugh IDENT	doesnt
-her rabbit does sleep	her rabbit does sleep IDENT	does
-the rabbit does giggle	the rabbit does giggle IDENT	does
-my elephant does giggle	my elephant does giggle IDENT	does
-some cat doesnt smile	some cat doesnt smile IDENT	doesnt
-some elephant doesnt sleep	some elephant doesnt sleep IDENT	doesnt
-our dog does giggle	our dog does giggle IDENT	does
-our cats dont laugh	our cats dont laugh IDENT	dont
-your dogs do live	your dogs do live IDENT	do
-her bird does live	her bird does live IDENT	does
-the rabbit doesnt giggle	the rabbit doesnt giggle IDENT	doesnt
-the unicorns dont smile	the unicorns dont smile IDENT	dont
-my rabbits dont laugh	my rabbits dont laugh IDENT	dont
-our dog does live	our dog does live IDENT	does
-our cat does live	our cat does live IDENT	does
-some unicorns do sleep	some unicorns do sleep IDENT	do
-our cat does live	our cat does live IDENT	does
-your dog doesnt smile	your dog doesnt smile IDENT	doesnt
-some monkeys dont sleep	some monkeys dont sleep IDENT	dont
-my cats do smile	my cats do smile IDENT	do
-our dogs do giggle	our dogs do giggle IDENT	do
-your seal doesnt live	your seal doesnt live IDENT	doesnt
-my cats do sleep	my cats do sleep IDENT	do
-our birds dont smile	our birds dont smile IDENT	dont
-her yaks dont giggle	her yaks dont giggle IDENT	dont
-some yak doesnt laugh	some yak doesnt laugh IDENT	doesnt
+the elephant doesnt giggle . IDENT	the elephant doesnt giggle . IDENT	doesnt
+the unicorns do giggle . IDENT	the unicorns do giggle . IDENT	do
+some monkeys do smile . IDENT	some monkeys do smile . IDENT	do
+some monkeys dont smile . IDENT	some monkeys dont smile . IDENT	dont
+our birds do read . IDENT	our birds do read . IDENT	do
+my cat does live . IDENT	my cat does live . IDENT	does
+your dog does live . IDENT	your dog does live . IDENT	does
+our bird does live . IDENT	our bird does live . IDENT	does
+some monkeys dont smile . IDENT	some monkeys dont smile . IDENT	dont
+the dog does laugh . IDENT	the dog does laugh . IDENT	does
+the yak doesnt read . IDENT	the yak doesnt read . IDENT	doesnt
+your cat does live . IDENT	your cat does live . IDENT	does
+the yaks do smile . IDENT	the yaks do smile . IDENT	do
+some monkeys do giggle . IDENT	some monkeys do giggle . IDENT	do
+my bird does live . IDENT	my bird does live . IDENT	does
+her elephants dont sleep . IDENT	her elephants dont sleep . IDENT	dont
+our elephant doesnt live . IDENT	our elephant doesnt live . IDENT	doesnt
+our monkeys dont live . IDENT	our monkeys dont live . IDENT	dont
+my rabbit doesnt sleep . IDENT	my rabbit doesnt sleep . IDENT	doesnt
+your rabbit does smile . IDENT	your rabbit does smile . IDENT	does
+some yaks do laugh . IDENT	some yaks do laugh . IDENT	do
+the dog doesnt read . IDENT	the dog doesnt read . IDENT	doesnt
+the birds do read . IDENT	the birds do read . IDENT	do
+my birds dont read . IDENT	my birds dont read . IDENT	dont
+her unicorn does live . IDENT	her unicorn does live . IDENT	does
+your rabbit doesnt read . IDENT	your rabbit doesnt read . IDENT	doesnt
+the yak doesnt read . IDENT	the yak doesnt read . IDENT	doesnt
+some unicorns do smile . IDENT	some unicorns do smile . IDENT	do
+my rabbit does laugh . IDENT	my rabbit does laugh . IDENT	does
+some monkeys dont read . IDENT	some monkeys dont read . IDENT	dont
+her yaks do live . IDENT	her yaks do live . IDENT	do
+my bird doesnt read . IDENT	my bird doesnt read . IDENT	doesnt
+our dogs dont live . IDENT	our dogs dont live . IDENT	dont
+our seals dont giggle . IDENT	our seals dont giggle . IDENT	dont
+the rabbit doesnt read . IDENT	the rabbit doesnt read . IDENT	doesnt
+her rabbit doesnt smile . IDENT	her rabbit doesnt smile . IDENT	doesnt
+her monkeys do read . IDENT	her monkeys do read . IDENT	do
+our monkeys do live . IDENT	our monkeys do live . IDENT	do
+your yak doesnt live . IDENT	your yak doesnt live . IDENT	doesnt
+my cats do laugh . IDENT	my cats do laugh . IDENT	do
+some unicorn doesnt laugh . IDENT	some unicorn doesnt laugh . IDENT	doesnt
+the monkeys dont laugh . IDENT	the monkeys dont laugh . IDENT	dont
+your bird does live . IDENT	your bird does live . IDENT	does
+your monkeys do live . IDENT	your monkeys do live . IDENT	do
+some yak does laugh . IDENT	some yak does laugh . IDENT	does
+my monkey doesnt live . IDENT	my monkey doesnt live . IDENT	doesnt
+your unicorn doesnt sleep . IDENT	your unicorn doesnt sleep . IDENT	doesnt
+your cat does read . IDENT	your cat does read . IDENT	does
+our elephant does read . IDENT	our elephant does read . IDENT	does
+some seals dont laugh . IDENT	some seals dont laugh . IDENT	dont
+some unicorns dont live . IDENT	some unicorns dont live . IDENT	dont
+her elephants do live . IDENT	her elephants do live . IDENT	do
+our rabbits do read . IDENT	our rabbits do read . IDENT	do
+our seal does sleep . IDENT	our seal does sleep . IDENT	does
+her yaks do sleep . IDENT	her yaks do sleep . IDENT	do
+my yak doesnt sleep . IDENT	my yak doesnt sleep . IDENT	doesnt
+her seal does laugh . IDENT	her seal does laugh . IDENT	does
+some birds dont laugh . IDENT	some birds dont laugh . IDENT	dont
+my cat does smile . IDENT	my cat does smile . IDENT	does
+your seal does read . IDENT	your seal does read . IDENT	does
+your bird does smile . IDENT	your bird does smile . IDENT	does
+the cat doesnt live . IDENT	the cat doesnt live . IDENT	doesnt
+our elephant does live . IDENT	our elephant does live . IDENT	does
+our dogs do read . IDENT	our dogs do read . IDENT	do
+the unicorns dont live . IDENT	the unicorns dont live . IDENT	dont
+some dog does read . IDENT	some dog does read . IDENT	does
+the yak does sleep . IDENT	the yak does sleep . IDENT	does
+my yak doesnt sleep . IDENT	my yak doesnt sleep . IDENT	doesnt
+the monkey does read . IDENT	the monkey does read . IDENT	does
+my dog doesnt giggle . IDENT	my dog doesnt giggle . IDENT	doesnt
+my rabbit doesnt giggle . IDENT	my rabbit doesnt giggle . IDENT	doesnt
+our seals do read . IDENT	our seals do read . IDENT	do
+some dogs dont smile . IDENT	some dogs dont smile . IDENT	dont
+some rabbit does laugh . IDENT	some rabbit does laugh . IDENT	does
+the cats dont laugh . IDENT	the cats dont laugh . IDENT	dont
+my dogs do read . IDENT	my dogs do read . IDENT	do
+our rabbit does sleep . IDENT	our rabbit does sleep . IDENT	does
+her cat does sleep . IDENT	her cat does sleep . IDENT	does
+your cats dont laugh . IDENT	your cats dont laugh . IDENT	dont
+your dogs do laugh . IDENT	your dogs do laugh . IDENT	do
+her cat doesnt laugh . IDENT	her cat doesnt laugh . IDENT	doesnt
+our dog does sleep . IDENT	our dog does sleep . IDENT	does
+your birds do smile . IDENT	your birds do smile . IDENT	do
+her elephants dont smile . IDENT	her elephants dont smile . IDENT	dont
+her dogs do laugh . IDENT	her dogs do laugh . IDENT	do
+her cat does sleep . IDENT	her cat does sleep . IDENT	does
+your dog doesnt read . IDENT	your dog doesnt read . IDENT	doesnt
+the elephants dont live . IDENT	the elephants dont live . IDENT	dont
+your cats dont live . IDENT	your cats dont live . IDENT	dont
+the yaks do smile . IDENT	the yaks do smile . IDENT	do
+some yaks do sleep . IDENT	some yaks do sleep . IDENT	do
+your unicorn doesnt giggle . IDENT	your unicorn doesnt giggle . IDENT	doesnt
+some bird does laugh . IDENT	some bird does laugh . IDENT	does
+my yaks do sleep . IDENT	my yaks do sleep . IDENT	do
+my elephants do smile . IDENT	my elephants do smile . IDENT	do
+the monkey doesnt smile . IDENT	the monkey doesnt smile . IDENT	doesnt
+our cat doesnt giggle . IDENT	our cat doesnt giggle . IDENT	doesnt
+some cat doesnt giggle . IDENT	some cat doesnt giggle . IDENT	doesnt
+some seals dont giggle . IDENT	some seals dont giggle . IDENT	dont
+her elephants dont smile . IDENT	her elephants dont smile . IDENT	dont
+some unicorn does laugh . IDENT	some unicorn does laugh . IDENT	does
+our cats do sleep . IDENT	our cats do sleep . IDENT	do
+some birds do laugh . IDENT	some birds do laugh . IDENT	do
+the elephants do smile . IDENT	the elephants do smile . IDENT	do
+her birds do live . IDENT	her birds do live . IDENT	do
+my yaks dont laugh . IDENT	my yaks dont laugh . IDENT	dont
+my elephant doesnt read . IDENT	my elephant doesnt read . IDENT	doesnt
+some dogs dont giggle . IDENT	some dogs dont giggle . IDENT	dont
+your elephant does sleep . IDENT	your elephant does sleep . IDENT	does
+your birds do sleep . IDENT	your birds do sleep . IDENT	do
+our elephant doesnt read . IDENT	our elephant doesnt read . IDENT	doesnt
+some monkeys dont giggle . IDENT	some monkeys dont giggle . IDENT	dont
+your monkeys do smile . IDENT	your monkeys do smile . IDENT	do
+her monkey doesnt live . IDENT	her monkey doesnt live . IDENT	doesnt
+our cat doesnt giggle . IDENT	our cat doesnt giggle . IDENT	doesnt
+my cat does giggle . IDENT	my cat does giggle . IDENT	does
+some dog doesnt sleep . IDENT	some dog doesnt sleep . IDENT	doesnt
+your unicorn does live . IDENT	your unicorn does live . IDENT	does
+your elephant doesnt giggle . IDENT	your elephant doesnt giggle . IDENT	doesnt
+my cats do sleep . IDENT	my cats do sleep . IDENT	do
+my cats dont read . IDENT	my cats dont read . IDENT	dont
+our yak doesnt smile . IDENT	our yak doesnt smile . IDENT	doesnt
+my yaks do read . IDENT	my yaks do read . IDENT	do
+her unicorn does live . IDENT	her unicorn does live . IDENT	does
+my yak doesnt sleep . IDENT	my yak doesnt sleep . IDENT	doesnt
+her monkeys dont live . IDENT	her monkeys dont live . IDENT	dont
+her cats do smile . IDENT	her cats do smile . IDENT	do
+some elephant does sleep . IDENT	some elephant does sleep . IDENT	does
+your rabbits do read . IDENT	your rabbits do read . IDENT	do
+your elephant doesnt giggle . IDENT	your elephant doesnt giggle . IDENT	doesnt
+her dogs do sleep . IDENT	her dogs do sleep . IDENT	do
+her unicorns do sleep . IDENT	her unicorns do sleep . IDENT	do
+the yak does read . IDENT	the yak does read . IDENT	does
+the dogs dont giggle . IDENT	the dogs dont giggle . IDENT	dont
+the yak doesnt laugh . IDENT	the yak doesnt laugh . IDENT	doesnt
+the cat doesnt smile . IDENT	the cat doesnt smile . IDENT	doesnt
+the cat doesnt read . IDENT	the cat doesnt read . IDENT	doesnt
+the seals do laugh . IDENT	the seals do laugh . IDENT	do
+my dog does sleep . IDENT	my dog does sleep . IDENT	does
+our seal doesnt giggle . IDENT	our seal doesnt giggle . IDENT	doesnt
+some yaks dont read . IDENT	some yaks dont read . IDENT	dont
+her rabbits do live . IDENT	her rabbits do live . IDENT	do
+the cat does live . IDENT	the cat does live . IDENT	does
+our cat doesnt giggle . IDENT	our cat doesnt giggle . IDENT	doesnt
+some unicorns do read . IDENT	some unicorns do read . IDENT	do
+my rabbits do giggle . IDENT	my rabbits do giggle . IDENT	do
+my monkeys do giggle . IDENT	my monkeys do giggle . IDENT	do
+my monkeys dont giggle . IDENT	my monkeys dont giggle . IDENT	dont
+my unicorns do sleep . IDENT	my unicorns do sleep . IDENT	do
+our dog does read . IDENT	our dog does read . IDENT	does
+your rabbits do live . IDENT	your rabbits do live . IDENT	do
+my cat doesnt read . IDENT	my cat doesnt read . IDENT	doesnt
+your monkeys dont live . IDENT	your monkeys dont live . IDENT	dont
+some dogs dont sleep . IDENT	some dogs dont sleep . IDENT	dont
+some seals do sleep . IDENT	some seals do sleep . IDENT	do
+my rabbits dont giggle . IDENT	my rabbits dont giggle . IDENT	dont
+our dog doesnt live . IDENT	our dog doesnt live . IDENT	doesnt
+her unicorn doesnt sleep . IDENT	her unicorn doesnt sleep . IDENT	doesnt
+my seal doesnt laugh . IDENT	my seal doesnt laugh . IDENT	doesnt
+our bird does sleep . IDENT	our bird does sleep . IDENT	does
+her rabbits dont smile . IDENT	her rabbits dont smile . IDENT	dont
+our dogs do smile . IDENT	our dogs do smile . IDENT	do
+my birds do live . IDENT	my birds do live . IDENT	do
+the dog does smile . IDENT	the dog does smile . IDENT	does
+my seal doesnt laugh . IDENT	my seal doesnt laugh . IDENT	doesnt
+our elephant does giggle . IDENT	our elephant does giggle . IDENT	does
+her rabbits dont smile . IDENT	her rabbits dont smile . IDENT	dont
+our dog doesnt live . IDENT	our dog doesnt live . IDENT	doesnt
+the birds dont giggle . IDENT	the birds dont giggle . IDENT	dont
+my cat does sleep . IDENT	my cat does sleep . IDENT	does
+my dog does sleep . IDENT	my dog does sleep . IDENT	does
+our monkey doesnt read . IDENT	our monkey doesnt read . IDENT	doesnt
+the rabbit does sleep . IDENT	the rabbit does sleep . IDENT	does
+my seals dont sleep . IDENT	my seals dont sleep . IDENT	dont
+your monkeys do laugh . IDENT	your monkeys do laugh . IDENT	do
+your monkeys do live . IDENT	your monkeys do live . IDENT	do
+some elephant does laugh . IDENT	some elephant does laugh . IDENT	does
+some birds dont sleep . IDENT	some birds dont sleep . IDENT	dont
+some yak doesnt read . IDENT	some yak doesnt read . IDENT	doesnt
+our dog doesnt live . IDENT	our dog doesnt live . IDENT	doesnt
+your dog doesnt giggle . IDENT	your dog doesnt giggle . IDENT	doesnt
+her cats do read . IDENT	her cats do read . IDENT	do
+our monkey doesnt live . IDENT	our monkey doesnt live . IDENT	doesnt
+some dog doesnt live . IDENT	some dog doesnt live . IDENT	doesnt
+our cats do live . IDENT	our cats do live . IDENT	do
+your yaks do sleep . IDENT	your yaks do sleep . IDENT	do
+my dog does smile . IDENT	my dog does smile . IDENT	does
+the bird doesnt live . IDENT	the bird doesnt live . IDENT	doesnt
+your dogs do live . IDENT	your dogs do live . IDENT	do
+our elephant does laugh . IDENT	our elephant does laugh . IDENT	does
+our bird does sleep . IDENT	our bird does sleep . IDENT	does
+your dogs dont live . IDENT	your dogs dont live . IDENT	dont
+our yaks dont smile . IDENT	our yaks dont smile . IDENT	dont
+some seal doesnt sleep . IDENT	some seal doesnt sleep . IDENT	doesnt
+our seals do read . IDENT	our seals do read . IDENT	do
+some dog does smile . IDENT	some dog does smile . IDENT	does
+some yaks dont laugh . IDENT	some yaks dont laugh . IDENT	dont
+the elephant doesnt laugh . IDENT	the elephant doesnt laugh . IDENT	doesnt
+her bird does live . IDENT	her bird does live . IDENT	does
+her elephants dont laugh . IDENT	her elephants dont laugh . IDENT	dont
+some elephant doesnt sleep . IDENT	some elephant doesnt sleep . IDENT	doesnt
+our elephants do giggle . IDENT	our elephants do giggle . IDENT	do
+some bird doesnt giggle . IDENT	some bird doesnt giggle . IDENT	doesnt
+my elephant doesnt live . IDENT	my elephant doesnt live . IDENT	doesnt
+some monkey does giggle . IDENT	some monkey does giggle . IDENT	does
+her rabbits do giggle . IDENT	her rabbits do giggle . IDENT	do
+my bird does giggle . IDENT	my bird does giggle . IDENT	does
+some elephant doesnt giggle . IDENT	some elephant doesnt giggle . IDENT	doesnt
+some monkey does sleep . IDENT	some monkey does sleep . IDENT	does
+our monkey doesnt sleep . IDENT	our monkey doesnt sleep . IDENT	doesnt
+my seal does smile . IDENT	my seal does smile . IDENT	does
+her seals do laugh . IDENT	her seals do laugh . IDENT	do
+the rabbits dont read . IDENT	the rabbits dont read . IDENT	dont
+my monkeys do smile . IDENT	my monkeys do smile . IDENT	do
+my bird does smile . IDENT	my bird does smile . IDENT	does
+her rabbit does read . IDENT	her rabbit does read . IDENT	does
+the seals do sleep . IDENT	the seals do sleep . IDENT	do
+her unicorns do giggle . IDENT	her unicorns do giggle . IDENT	do
+the yaks dont read . IDENT	the yaks dont read . IDENT	dont
+my elephants dont read . IDENT	my elephants dont read . IDENT	dont
+the cat does giggle . IDENT	the cat does giggle . IDENT	does
+some monkey does giggle . IDENT	some monkey does giggle . IDENT	does
+the seal does sleep . IDENT	the seal does sleep . IDENT	does
+her unicorn doesnt sleep . IDENT	her unicorn doesnt sleep . IDENT	doesnt
+your yak does live . IDENT	your yak does live . IDENT	does
+my rabbit doesnt sleep . IDENT	my rabbit doesnt sleep . IDENT	doesnt
+some seal doesnt live . IDENT	some seal doesnt live . IDENT	doesnt
+some rabbits dont smile . IDENT	some rabbits dont smile . IDENT	dont
+our elephants dont sleep . IDENT	our elephants dont sleep . IDENT	dont
+my cat doesnt giggle . IDENT	my cat doesnt giggle . IDENT	doesnt
+her dog doesnt read . IDENT	her dog doesnt read . IDENT	doesnt
+some rabbit does giggle . IDENT	some rabbit does giggle . IDENT	does
+my cats dont laugh . IDENT	my cats dont laugh . IDENT	dont
+my bird doesnt sleep . IDENT	my bird doesnt sleep . IDENT	doesnt
+the yaks do laugh . IDENT	the yaks do laugh . IDENT	do
+your rabbit does laugh . IDENT	your rabbit does laugh . IDENT	does
+the seals dont laugh . IDENT	the seals dont laugh . IDENT	dont
+your seals do giggle . IDENT	your seals do giggle . IDENT	do
+the yak does laugh . IDENT	the yak does laugh . IDENT	does
+my unicorn doesnt read . IDENT	my unicorn doesnt read . IDENT	doesnt
+my elephants dont sleep . IDENT	my elephants dont sleep . IDENT	dont
+her birds do smile . IDENT	her birds do smile . IDENT	do
+the elephant doesnt smile . IDENT	the elephant doesnt smile . IDENT	doesnt
+the seal does laugh . IDENT	the seal does laugh . IDENT	does
+some unicorn doesnt sleep . IDENT	some unicorn doesnt sleep . IDENT	doesnt
+her monkeys dont smile . IDENT	her monkeys dont smile . IDENT	dont
+the monkey doesnt live . IDENT	the monkey doesnt live . IDENT	doesnt
+the elephants do live . IDENT	the elephants do live . IDENT	do
+her monkey doesnt smile . IDENT	her monkey doesnt smile . IDENT	doesnt
+the cat doesnt live . IDENT	the cat doesnt live . IDENT	doesnt
+my seals dont sleep . IDENT	my seals dont sleep . IDENT	dont
+my seals do sleep . IDENT	my seals do sleep . IDENT	do
+our monkey doesnt read . IDENT	our monkey doesnt read . IDENT	doesnt
+her dogs dont read . IDENT	her dogs dont read . IDENT	dont
+your monkey doesnt live . IDENT	your monkey doesnt live . IDENT	doesnt
+your monkeys do giggle . IDENT	your monkeys do giggle . IDENT	do
+some bird does sleep . IDENT	some bird does sleep . IDENT	does
+my unicorns dont smile . IDENT	my unicorns dont smile . IDENT	dont
+the dogs dont laugh . IDENT	the dogs dont laugh . IDENT	dont
+our seal does smile . IDENT	our seal does smile . IDENT	does
+her bird does laugh . IDENT	her bird does laugh . IDENT	does
+your elephants do smile . IDENT	your elephants do smile . IDENT	do
+the birds do giggle . IDENT	the birds do giggle . IDENT	do
+her monkeys do sleep . IDENT	her monkeys do sleep . IDENT	do
+your elephant does live . IDENT	your elephant does live . IDENT	does
+some dog does read . IDENT	some dog does read . IDENT	does
+the seal does giggle . IDENT	the seal does giggle . IDENT	does
+your elephants do laugh . IDENT	your elephants do laugh . IDENT	do
+her rabbit doesnt read . IDENT	her rabbit doesnt read . IDENT	doesnt
+your rabbits do laugh . IDENT	your rabbits do laugh . IDENT	do
+your unicorn does read . IDENT	your unicorn does read . IDENT	does
+her yak does smile . IDENT	her yak does smile . IDENT	does
+some seals do giggle . IDENT	some seals do giggle . IDENT	do
+my seal doesnt smile . IDENT	my seal doesnt smile . IDENT	doesnt
+my seals do smile . IDENT	my seals do smile . IDENT	do
+the unicorn doesnt giggle . IDENT	the unicorn doesnt giggle . IDENT	doesnt
+her elephants do read . IDENT	her elephants do read . IDENT	do
+the unicorn doesnt sleep . IDENT	the unicorn doesnt sleep . IDENT	doesnt
+the rabbits dont sleep . IDENT	the rabbits dont sleep . IDENT	dont
+her bird does giggle . IDENT	her bird does giggle . IDENT	does
+some seals do giggle . IDENT	some seals do giggle . IDENT	do
+your unicorn doesnt laugh . IDENT	your unicorn doesnt laugh . IDENT	doesnt
+your unicorn does laugh . IDENT	your unicorn does laugh . IDENT	does
+your birds do smile . IDENT	your birds do smile . IDENT	do
+her seals do sleep . IDENT	her seals do sleep . IDENT	do
+our cat doesnt smile . IDENT	our cat doesnt smile . IDENT	doesnt
+our elephants dont live . IDENT	our elephants dont live . IDENT	dont
+our monkeys dont smile . IDENT	our monkeys dont smile . IDENT	dont
+some dogs do laugh . IDENT	some dogs do laugh . IDENT	do
+the yaks dont read . IDENT	the yaks dont read . IDENT	dont
+her dog does read . IDENT	her dog does read . IDENT	does
+her cats dont sleep . IDENT	her cats dont sleep . IDENT	dont
+my monkey does read . IDENT	my monkey does read . IDENT	does
+the birds dont giggle . IDENT	the birds dont giggle . IDENT	dont
+her seals dont smile . IDENT	her seals dont smile . IDENT	dont
+her yak does giggle . IDENT	her yak does giggle . IDENT	does
+her yaks do sleep . IDENT	her yaks do sleep . IDENT	do
+your cats dont sleep . IDENT	your cats dont sleep . IDENT	dont
+your yak does giggle . IDENT	your yak does giggle . IDENT	does
+my elephants do smile . IDENT	my elephants do smile . IDENT	do
+my dogs dont laugh . IDENT	my dogs dont laugh . IDENT	dont
+the seal does smile . IDENT	the seal does smile . IDENT	does
+the unicorns dont giggle . IDENT	the unicorns dont giggle . IDENT	dont
+the dog does read . IDENT	the dog does read . IDENT	does
+our dog does giggle . IDENT	our dog does giggle . IDENT	does
+some bird doesnt giggle . IDENT	some bird doesnt giggle . IDENT	doesnt
+your elephants do live . IDENT	your elephants do live . IDENT	do
+your unicorns dont giggle . IDENT	your unicorns dont giggle . IDENT	dont
+the rabbit does giggle . IDENT	the rabbit does giggle . IDENT	does
+some birds dont laugh . IDENT	some birds dont laugh . IDENT	dont
+the unicorn doesnt sleep . IDENT	the unicorn doesnt sleep . IDENT	doesnt
+my unicorns do smile . IDENT	my unicorns do smile . IDENT	do
+our elephants do sleep . IDENT	our elephants do sleep . IDENT	do
+our monkeys do sleep . IDENT	our monkeys do sleep . IDENT	do
+the dog doesnt giggle . IDENT	the dog doesnt giggle . IDENT	doesnt
+some unicorn does read . IDENT	some unicorn does read . IDENT	does
+some cat doesnt sleep . IDENT	some cat doesnt sleep . IDENT	doesnt
+my seal does smile . IDENT	my seal does smile . IDENT	does
+your unicorns dont laugh . IDENT	your unicorns dont laugh . IDENT	dont
+my yaks dont giggle . IDENT	my yaks dont giggle . IDENT	dont
+some monkey doesnt giggle . IDENT	some monkey doesnt giggle . IDENT	doesnt
+our elephant does laugh . IDENT	our elephant does laugh . IDENT	does
+her seal does read . IDENT	her seal does read . IDENT	does
+your cat doesnt giggle . IDENT	your cat doesnt giggle . IDENT	doesnt
+her seal doesnt live . IDENT	her seal doesnt live . IDENT	doesnt
+the monkey doesnt smile . IDENT	the monkey doesnt smile . IDENT	doesnt
+her seal does giggle . IDENT	her seal does giggle . IDENT	does
+my monkeys dont giggle . IDENT	my monkeys dont giggle . IDENT	dont
+the yak does laugh . IDENT	the yak does laugh . IDENT	does
+some cats dont read . IDENT	some cats dont read . IDENT	dont
+your monkey doesnt smile . IDENT	your monkey doesnt smile . IDENT	doesnt
+some dog doesnt read . IDENT	some dog doesnt read . IDENT	doesnt
+some unicorns do read . IDENT	some unicorns do read . IDENT	do
+the bird does read . IDENT	the bird does read . IDENT	does
+her unicorns dont giggle . IDENT	her unicorns dont giggle . IDENT	dont
+our rabbits do live . IDENT	our rabbits do live . IDENT	do
+your dogs dont smile . IDENT	your dogs dont smile . IDENT	dont
+your seal doesnt giggle . IDENT	your seal doesnt giggle . IDENT	doesnt
+the cat does read . IDENT	the cat does read . IDENT	does
+your cats do sleep . IDENT	your cats do sleep . IDENT	do
+her elephants do laugh . IDENT	her elephants do laugh . IDENT	do
+the elephants dont live . IDENT	the elephants dont live . IDENT	dont
+our cat doesnt smile . IDENT	our cat doesnt smile . IDENT	doesnt
+her rabbit does live . IDENT	her rabbit does live . IDENT	does
+your seal doesnt giggle . IDENT	your seal doesnt giggle . IDENT	doesnt
+the cat doesnt smile . IDENT	the cat doesnt smile . IDENT	doesnt
+your seals dont sleep . IDENT	your seals dont sleep . IDENT	dont
+her dogs do sleep . IDENT	her dogs do sleep . IDENT	do
+the monkey doesnt smile . IDENT	the monkey doesnt smile . IDENT	doesnt
+the yak doesnt smile . IDENT	the yak doesnt smile . IDENT	doesnt
+our birds dont sleep . IDENT	our birds dont sleep . IDENT	dont
+some seals dont sleep . IDENT	some seals dont sleep . IDENT	dont
+the birds dont giggle . IDENT	the birds dont giggle . IDENT	dont
+your elephant doesnt read . IDENT	your elephant doesnt read . IDENT	doesnt
+your cats dont read . IDENT	your cats dont read . IDENT	dont
+your cats do live . IDENT	your cats do live . IDENT	do
+her rabbits do live . IDENT	her rabbits do live . IDENT	do
+her dogs dont live . IDENT	her dogs dont live . IDENT	dont
+my seals do giggle . IDENT	my seals do giggle . IDENT	do
+the seal doesnt giggle . IDENT	the seal doesnt giggle . IDENT	doesnt
+your yaks dont giggle . IDENT	your yaks dont giggle . IDENT	dont
+the monkeys dont giggle . IDENT	the monkeys dont giggle . IDENT	dont
+your yak doesnt smile . IDENT	your yak doesnt smile . IDENT	doesnt
+her cats dont live . IDENT	her cats dont live . IDENT	dont
+our rabbit does sleep . IDENT	our rabbit does sleep . IDENT	does
+her rabbit does read . IDENT	her rabbit does read . IDENT	does
+some rabbit does read . IDENT	some rabbit does read . IDENT	does
+our unicorn does read . IDENT	our unicorn does read . IDENT	does
+the unicorn doesnt laugh . IDENT	the unicorn doesnt laugh . IDENT	doesnt
+your unicorn doesnt read . IDENT	your unicorn doesnt read . IDENT	doesnt
+some dog does giggle . IDENT	some dog does giggle . IDENT	does
+her rabbit doesnt smile . IDENT	her rabbit doesnt smile . IDENT	doesnt
+your dog does smile . IDENT	your dog does smile . IDENT	does
+her seals dont smile . IDENT	her seals dont smile . IDENT	dont
+some monkey doesnt live . IDENT	some monkey doesnt live . IDENT	doesnt
+some seals dont live . IDENT	some seals dont live . IDENT	dont
+our seal does giggle . IDENT	our seal does giggle . IDENT	does
+some rabbits do read . IDENT	some rabbits do read . IDENT	do
+some yaks dont read . IDENT	some yaks dont read . IDENT	dont
+our seal does giggle . IDENT	our seal does giggle . IDENT	does
+her bird does live . IDENT	her bird does live . IDENT	does
+some birds dont live . IDENT	some birds dont live . IDENT	dont
+my dog does read . IDENT	my dog does read . IDENT	does
+her monkey doesnt read . IDENT	her monkey doesnt read . IDENT	doesnt
+our cat doesnt smile . IDENT	our cat doesnt smile . IDENT	doesnt
+my unicorns do giggle . IDENT	my unicorns do giggle . IDENT	do
+her seals do smile . IDENT	her seals do smile . IDENT	do
+my rabbit does sleep . IDENT	my rabbit does sleep . IDENT	does
+my bird does sleep . IDENT	my bird does sleep . IDENT	does
+the cat doesnt giggle . IDENT	the cat doesnt giggle . IDENT	doesnt
+your elephant does live . IDENT	your elephant does live . IDENT	does
+her unicorn does laugh . IDENT	her unicorn does laugh . IDENT	does
+my yaks do laugh . IDENT	my yaks do laugh . IDENT	do
+my birds do smile . IDENT	my birds do smile . IDENT	do
+her seals dont read . IDENT	her seals dont read . IDENT	dont
+the elephant doesnt giggle . IDENT	the elephant doesnt giggle . IDENT	doesnt
+her unicorn doesnt read . IDENT	her unicorn doesnt read . IDENT	doesnt
+our bird does read . IDENT	our bird does read . IDENT	does
+some bird doesnt read . IDENT	some bird doesnt read . IDENT	doesnt
+our monkeys dont smile . IDENT	our monkeys dont smile . IDENT	dont
+your unicorn doesnt read . IDENT	your unicorn doesnt read . IDENT	doesnt
+some monkey does giggle . IDENT	some monkey does giggle . IDENT	does
+my yak does read . IDENT	my yak does read . IDENT	does
+her unicorns do sleep . IDENT	her unicorns do sleep . IDENT	do
+the monkey does sleep . IDENT	the monkey does sleep . IDENT	does
+the elephants do sleep . IDENT	the elephants do sleep . IDENT	do
+her elephant doesnt live . IDENT	her elephant doesnt live . IDENT	doesnt
+our dog doesnt smile . IDENT	our dog doesnt smile . IDENT	doesnt
+our seals do smile . IDENT	our seals do smile . IDENT	do
+your yaks do sleep . IDENT	your yaks do sleep . IDENT	do
+my dogs dont smile . IDENT	my dogs dont smile . IDENT	dont
+our seal doesnt laugh . IDENT	our seal doesnt laugh . IDENT	doesnt
+some monkey does smile . IDENT	some monkey does smile . IDENT	does
+the monkey does smile . IDENT	the monkey does smile . IDENT	does
+the cats do sleep . IDENT	the cats do sleep . IDENT	do
+our dog does sleep . IDENT	our dog does sleep . IDENT	does
+some bird does giggle . IDENT	some bird does giggle . IDENT	does
+our unicorns dont sleep . IDENT	our unicorns dont sleep . IDENT	dont
+your unicorns do smile . IDENT	your unicorns do smile . IDENT	do
+my dog doesnt read . IDENT	my dog doesnt read . IDENT	doesnt
+her bird does live . IDENT	her bird does live . IDENT	does
+her dogs do read . IDENT	her dogs do read . IDENT	do
+my unicorns dont read . IDENT	my unicorns dont read . IDENT	dont
+her dogs do sleep . IDENT	her dogs do sleep . IDENT	do
+my birds dont smile . IDENT	my birds dont smile . IDENT	dont
+her birds do laugh . IDENT	her birds do laugh . IDENT	do
+her seals do live . IDENT	her seals do live . IDENT	do
+some cat does laugh . IDENT	some cat does laugh . IDENT	does
+some cat does laugh . IDENT	some cat does laugh . IDENT	does
+her monkeys dont sleep . IDENT	her monkeys dont sleep . IDENT	dont
+my monkeys do read . IDENT	my monkeys do read . IDENT	do
+our unicorn doesnt giggle . IDENT	our unicorn doesnt giggle . IDENT	doesnt
+our dog doesnt sleep . IDENT	our dog doesnt sleep . IDENT	doesnt
+our cats dont live . IDENT	our cats dont live . IDENT	dont
+my cat does read . IDENT	my cat does read . IDENT	does
+our elephant does read . IDENT	our elephant does read . IDENT	does
+our cats dont sleep . IDENT	our cats dont sleep . IDENT	dont
+our birds dont laugh . IDENT	our birds dont laugh . IDENT	dont
+your rabbit does sleep . IDENT	your rabbit does sleep . IDENT	does
+the unicorns dont sleep . IDENT	the unicorns dont sleep . IDENT	dont
+the unicorns do giggle . IDENT	the unicorns do giggle . IDENT	do
+her unicorn does laugh . IDENT	her unicorn does laugh . IDENT	does
+my dogs dont smile . IDENT	my dogs dont smile . IDENT	dont
+the unicorn does live . IDENT	the unicorn does live . IDENT	does
+our dog does sleep . IDENT	our dog does sleep . IDENT	does
+her dog doesnt smile . IDENT	her dog doesnt smile . IDENT	doesnt
+her monkeys dont read . IDENT	her monkeys dont read . IDENT	dont
+some seals dont giggle . IDENT	some seals dont giggle . IDENT	dont
+the monkeys dont live . IDENT	the monkeys dont live . IDENT	dont
+our cats dont sleep . IDENT	our cats dont sleep . IDENT	dont
+our yak doesnt live . IDENT	our yak doesnt live . IDENT	doesnt
+my dog does laugh . IDENT	my dog does laugh . IDENT	does
+our dogs dont read . IDENT	our dogs dont read . IDENT	dont
+some cats do sleep . IDENT	some cats do sleep . IDENT	do
+some seal doesnt read . IDENT	some seal doesnt read . IDENT	doesnt
+our rabbits dont laugh . IDENT	our rabbits dont laugh . IDENT	dont
+your cats dont read . IDENT	your cats dont read . IDENT	dont
+her seal doesnt sleep . IDENT	her seal doesnt sleep . IDENT	doesnt
+your dog does giggle . IDENT	your dog does giggle . IDENT	does
+her monkeys dont live . IDENT	her monkeys dont live . IDENT	dont
+my cats dont sleep . IDENT	my cats dont sleep . IDENT	dont
+my dog doesnt giggle . IDENT	my dog doesnt giggle . IDENT	doesnt
+my rabbit does sleep . IDENT	my rabbit does sleep . IDENT	does
+my birds do read . IDENT	my birds do read . IDENT	do
+our rabbits do smile . IDENT	our rabbits do smile . IDENT	do
+her rabbits dont giggle . IDENT	her rabbits dont giggle . IDENT	dont
+your bird doesnt giggle . IDENT	your bird doesnt giggle . IDENT	doesnt
+your elephants do giggle . IDENT	your elephants do giggle . IDENT	do
+her rabbit doesnt giggle . IDENT	her rabbit doesnt giggle . IDENT	doesnt
+her unicorn doesnt laugh . IDENT	her unicorn doesnt laugh . IDENT	doesnt
+your rabbits do smile . IDENT	your rabbits do smile . IDENT	do
+our cat doesnt laugh . IDENT	our cat doesnt laugh . IDENT	doesnt
+my cats dont sleep . IDENT	my cats dont sleep . IDENT	dont
+the monkey doesnt smile . IDENT	the monkey doesnt smile . IDENT	doesnt
+my yaks do read . IDENT	my yaks do read . IDENT	do
+your rabbit doesnt giggle . IDENT	your rabbit doesnt giggle . IDENT	doesnt
+her seals do smile . IDENT	her seals do smile . IDENT	do
+our elephant does sleep . IDENT	our elephant does sleep . IDENT	does
+our cats do sleep . IDENT	our cats do sleep . IDENT	do
+her elephants do sleep . IDENT	her elephants do sleep . IDENT	do
+your dog doesnt sleep . IDENT	your dog doesnt sleep . IDENT	doesnt
+the unicorn does read . IDENT	the unicorn does read . IDENT	does
+your yaks do sleep . IDENT	your yaks do sleep . IDENT	do
+my yak doesnt read . IDENT	my yak doesnt read . IDENT	doesnt
+my dogs do read . IDENT	my dogs do read . IDENT	do
+my elephants do sleep . IDENT	my elephants do sleep . IDENT	do
+my monkeys do sleep . IDENT	my monkeys do sleep . IDENT	do
+my birds dont live . IDENT	my birds dont live . IDENT	dont
+her seals do read . IDENT	her seals do read . IDENT	do
+your rabbit doesnt sleep . IDENT	your rabbit doesnt sleep . IDENT	doesnt
+some seal doesnt laugh . IDENT	some seal doesnt laugh . IDENT	doesnt
+some cats dont smile . IDENT	some cats dont smile . IDENT	dont
+our dog does sleep . IDENT	our dog does sleep . IDENT	does
+her elephant doesnt live . IDENT	her elephant doesnt live . IDENT	doesnt
+her yaks do live . IDENT	her yaks do live . IDENT	do
+your seals do sleep . IDENT	your seals do sleep . IDENT	do
+some cats dont giggle . IDENT	some cats dont giggle . IDENT	dont
+the bird doesnt read . IDENT	the bird doesnt read . IDENT	doesnt
+our elephants do sleep . IDENT	our elephants do sleep . IDENT	do
+the seal does read . IDENT	the seal does read . IDENT	does
+my monkeys do giggle . IDENT	my monkeys do giggle . IDENT	do
+some birds dont giggle . IDENT	some birds dont giggle . IDENT	dont
+the yaks do sleep . IDENT	the yaks do sleep . IDENT	do
+our elephants do sleep . IDENT	our elephants do sleep . IDENT	do
+our monkeys do sleep . IDENT	our monkeys do sleep . IDENT	do
+her rabbits do sleep . IDENT	her rabbits do sleep . IDENT	do
+our rabbit doesnt sleep . IDENT	our rabbit doesnt sleep . IDENT	doesnt
+our rabbit doesnt laugh . IDENT	our rabbit doesnt laugh . IDENT	doesnt
+her unicorns do sleep . IDENT	her unicorns do sleep . IDENT	do
+your yak does read . IDENT	your yak does read . IDENT	does
+your seals do giggle . IDENT	your seals do giggle . IDENT	do
+your yak does sleep . IDENT	your yak does sleep . IDENT	does
+your bird doesnt live . IDENT	your bird doesnt live . IDENT	doesnt
+our cat doesnt read . IDENT	our cat doesnt read . IDENT	doesnt
+our seal does giggle . IDENT	our seal does giggle . IDENT	does
+the monkeys do giggle . IDENT	the monkeys do giggle . IDENT	do
+our cats do giggle . IDENT	our cats do giggle . IDENT	do
+our cat doesnt laugh . IDENT	our cat doesnt laugh . IDENT	doesnt
+her monkey doesnt sleep . IDENT	her monkey doesnt sleep . IDENT	doesnt
+our elephant doesnt giggle . IDENT	our elephant doesnt giggle . IDENT	doesnt
+her unicorns dont giggle . IDENT	her unicorns dont giggle . IDENT	dont
+some elephants do live . IDENT	some elephants do live . IDENT	do
+our unicorns dont smile . IDENT	our unicorns dont smile . IDENT	dont
+my seals do laugh . IDENT	my seals do laugh . IDENT	do
+her cat doesnt sleep . IDENT	her cat doesnt sleep . IDENT	doesnt
+her dogs do giggle . IDENT	her dogs do giggle . IDENT	do
+the unicorns do giggle . IDENT	the unicorns do giggle . IDENT	do
+her seals do giggle . IDENT	her seals do giggle . IDENT	do
+her birds dont read . IDENT	her birds dont read . IDENT	dont
+the elephants dont giggle . IDENT	the elephants dont giggle . IDENT	dont
+your dogs do live . IDENT	your dogs do live . IDENT	do
+some cat doesnt read . IDENT	some cat doesnt read . IDENT	doesnt
+your unicorns do giggle . IDENT	your unicorns do giggle . IDENT	do
+your yak does sleep . IDENT	your yak does sleep . IDENT	does
+your monkeys dont read . IDENT	your monkeys dont read . IDENT	dont
+some monkeys do sleep . IDENT	some monkeys do sleep . IDENT	do
+the elephants dont sleep . IDENT	the elephants dont sleep . IDENT	dont
+my monkeys do giggle . IDENT	my monkeys do giggle . IDENT	do
+her rabbit does live . IDENT	her rabbit does live . IDENT	does
+some monkeys dont giggle . IDENT	some monkeys dont giggle . IDENT	dont
+our dogs dont sleep . IDENT	our dogs dont sleep . IDENT	dont
+her rabbits do smile . IDENT	her rabbits do smile . IDENT	do
+your dogs dont smile . IDENT	your dogs dont smile . IDENT	dont
+her yak does read . IDENT	her yak does read . IDENT	does
+my rabbit doesnt giggle . IDENT	my rabbit doesnt giggle . IDENT	doesnt
+my monkey does read . IDENT	my monkey does read . IDENT	does
+my seal doesnt read . IDENT	my seal doesnt read . IDENT	doesnt
+her seal doesnt sleep . IDENT	her seal doesnt sleep . IDENT	doesnt
+your seals do giggle . IDENT	your seals do giggle . IDENT	do
+your birds dont giggle . IDENT	your birds dont giggle . IDENT	dont
+some unicorn doesnt read . IDENT	some unicorn doesnt read . IDENT	doesnt
+our elephant does laugh . IDENT	our elephant does laugh . IDENT	does
+your monkeys dont laugh . IDENT	your monkeys dont laugh . IDENT	dont
+my dog doesnt read . IDENT	my dog doesnt read . IDENT	doesnt
+your seal does live . IDENT	your seal does live . IDENT	does
+our monkeys do read . IDENT	our monkeys do read . IDENT	do
+my unicorns dont laugh . IDENT	my unicorns dont laugh . IDENT	dont
+her dogs dont giggle . IDENT	her dogs dont giggle . IDENT	dont
+her unicorn does laugh . IDENT	her unicorn does laugh . IDENT	does
+your dogs do read . IDENT	your dogs do read . IDENT	do
+your seal doesnt live . IDENT	your seal doesnt live . IDENT	doesnt
+some rabbits dont giggle . IDENT	some rabbits dont giggle . IDENT	dont
+the birds do read . IDENT	the birds do read . IDENT	do
+her dog doesnt smile . IDENT	her dog doesnt smile . IDENT	doesnt
+some yak does giggle . IDENT	some yak does giggle . IDENT	does
+the dog doesnt sleep . IDENT	the dog doesnt sleep . IDENT	doesnt
+the seal doesnt sleep . IDENT	the seal doesnt sleep . IDENT	doesnt
+the dogs dont sleep . IDENT	the dogs dont sleep . IDENT	dont
+our unicorns do read . IDENT	our unicorns do read . IDENT	do
+some rabbits do smile . IDENT	some rabbits do smile . IDENT	do
+my yak does sleep . IDENT	my yak does sleep . IDENT	does
+my monkeys do sleep . IDENT	my monkeys do sleep . IDENT	do
+our elephant does live . IDENT	our elephant does live . IDENT	does
+our dogs do live . IDENT	our dogs do live . IDENT	do
+your cat does sleep . IDENT	your cat does sleep . IDENT	does
+some rabbit does smile . IDENT	some rabbit does smile . IDENT	does
+my seal doesnt live . IDENT	my seal doesnt live . IDENT	doesnt
+your yaks dont read . IDENT	your yaks dont read . IDENT	dont
+some dog doesnt sleep . IDENT	some dog doesnt sleep . IDENT	doesnt
+our unicorns do live . IDENT	our unicorns do live . IDENT	do
+our yak doesnt laugh . IDENT	our yak doesnt laugh . IDENT	doesnt
+some yaks do live . IDENT	some yaks do live . IDENT	do
+the monkey doesnt smile . IDENT	the monkey doesnt smile . IDENT	doesnt
+my monkeys do read . IDENT	my monkeys do read . IDENT	do
+our elephants dont sleep . IDENT	our elephants dont sleep . IDENT	dont
+our birds dont giggle . IDENT	our birds dont giggle . IDENT	dont
+my cats do sleep . IDENT	my cats do sleep . IDENT	do
+the elephant does read . IDENT	the elephant does read . IDENT	does
+some elephant doesnt read . IDENT	some elephant doesnt read . IDENT	doesnt
+her unicorns dont read . IDENT	her unicorns dont read . IDENT	dont
+some rabbit does live . IDENT	some rabbit does live . IDENT	does
+our unicorn does smile . IDENT	our unicorn does smile . IDENT	does
+her rabbit doesnt laugh . IDENT	her rabbit doesnt laugh . IDENT	doesnt
+the yaks dont sleep . IDENT	the yaks dont sleep . IDENT	dont
+our cats do read . IDENT	our cats do read . IDENT	do
+some yak does sleep . IDENT	some yak does sleep . IDENT	does
+my dog does giggle . IDENT	my dog does giggle . IDENT	does
+my elephant does read . IDENT	my elephant does read . IDENT	does
+our yaks dont live . IDENT	our yaks dont live . IDENT	dont
+my yak does smile . IDENT	my yak does smile . IDENT	does
+our elephant doesnt live . IDENT	our elephant doesnt live . IDENT	doesnt
+your yak does giggle . IDENT	your yak does giggle . IDENT	does
+our elephants dont read . IDENT	our elephants dont read . IDENT	dont
+some yak does read . IDENT	some yak does read . IDENT	does
+her rabbits do read . IDENT	her rabbits do read . IDENT	do
+the birds do giggle . IDENT	the birds do giggle . IDENT	do
+my unicorn doesnt sleep . IDENT	my unicorn doesnt sleep . IDENT	doesnt
+the cats do smile . IDENT	the cats do smile . IDENT	do
+her rabbits dont laugh . IDENT	her rabbits dont laugh . IDENT	dont
+your monkeys dont laugh . IDENT	your monkeys dont laugh . IDENT	dont
+your birds dont sleep . IDENT	your birds dont sleep . IDENT	dont
+our birds do live . IDENT	our birds do live . IDENT	do
+your elephant doesnt read . IDENT	your elephant doesnt read . IDENT	doesnt
+the monkey does read . IDENT	the monkey does read . IDENT	does
+my seals do smile . IDENT	my seals do smile . IDENT	do
+the rabbit doesnt sleep . IDENT	the rabbit doesnt sleep . IDENT	doesnt
+the yak does sleep . IDENT	the yak does sleep . IDENT	does
+some cats dont smile . IDENT	some cats dont smile . IDENT	dont
+the unicorn doesnt live . IDENT	the unicorn doesnt live . IDENT	doesnt
+some unicorns dont live . IDENT	some unicorns dont live . IDENT	dont
+our rabbit does live . IDENT	our rabbit does live . IDENT	does
+her dog doesnt read . IDENT	her dog doesnt read . IDENT	doesnt
+the cats do smile . IDENT	the cats do smile . IDENT	do
+her rabbits do smile . IDENT	her rabbits do smile . IDENT	do
+her monkeys dont smile . IDENT	her monkeys dont smile . IDENT	dont
+the rabbits dont laugh . IDENT	the rabbits dont laugh . IDENT	dont
+our monkey does sleep . IDENT	our monkey does sleep . IDENT	does
+the seals dont read . IDENT	the seals dont read . IDENT	dont
+some seal does laugh . IDENT	some seal does laugh . IDENT	does
+our dog does giggle . IDENT	our dog does giggle . IDENT	does
+your elephants do giggle . IDENT	your elephants do giggle . IDENT	do
+our unicorns dont read . IDENT	our unicorns dont read . IDENT	dont
+your monkey does sleep . IDENT	your monkey does sleep . IDENT	does
+your rabbits do live . IDENT	your rabbits do live . IDENT	do
+some dog doesnt giggle . IDENT	some dog doesnt giggle . IDENT	doesnt
+my dog doesnt laugh . IDENT	my dog doesnt laugh . IDENT	doesnt
+her cat doesnt smile . IDENT	her cat doesnt smile . IDENT	doesnt
+her cats dont giggle . IDENT	her cats dont giggle . IDENT	dont
+our unicorn does laugh . IDENT	our unicorn does laugh . IDENT	does
+our seals dont laugh . IDENT	our seals dont laugh . IDENT	dont
+some yak doesnt sleep . IDENT	some yak doesnt sleep . IDENT	doesnt
+my seal does sleep . IDENT	my seal does sleep . IDENT	does
+the monkey doesnt laugh . IDENT	the monkey doesnt laugh . IDENT	doesnt
+the bird does laugh . IDENT	the bird does laugh . IDENT	does
+the elephants do laugh . IDENT	the elephants do laugh . IDENT	do
+her monkeys do giggle . IDENT	her monkeys do giggle . IDENT	do
+some rabbits do sleep . IDENT	some rabbits do sleep . IDENT	do
+her dog doesnt smile . IDENT	her dog doesnt smile . IDENT	doesnt
+my dogs dont live . IDENT	my dogs dont live . IDENT	dont
+some birds dont live . IDENT	some birds dont live . IDENT	dont
+some elephant does live . IDENT	some elephant does live . IDENT	does
+our seal does giggle . IDENT	our seal does giggle . IDENT	does
+some unicorn does giggle . IDENT	some unicorn does giggle . IDENT	does
+some cat doesnt giggle . IDENT	some cat doesnt giggle . IDENT	doesnt
+my elephant doesnt giggle . IDENT	my elephant doesnt giggle . IDENT	doesnt
+your monkeys do smile . IDENT	your monkeys do smile . IDENT	do
+your rabbits dont giggle . IDENT	your rabbits dont giggle . IDENT	dont
+my yak doesnt laugh . IDENT	my yak doesnt laugh . IDENT	doesnt
+my seals dont laugh . IDENT	my seals dont laugh . IDENT	dont
+my birds dont live . IDENT	my birds dont live . IDENT	dont
+your birds dont live . IDENT	your birds dont live . IDENT	dont
+your birds dont sleep . IDENT	your birds dont sleep . IDENT	dont
+her yaks do sleep . IDENT	her yaks do sleep . IDENT	do
+my monkeys dont giggle . IDENT	my monkeys dont giggle . IDENT	dont
+the bird doesnt live . IDENT	the bird doesnt live . IDENT	doesnt
+some yak doesnt sleep . IDENT	some yak doesnt sleep . IDENT	doesnt
+our yaks dont sleep . IDENT	our yaks dont sleep . IDENT	dont
+some cats do live . IDENT	some cats do live . IDENT	do
+our rabbit does live . IDENT	our rabbit does live . IDENT	does
+our elephant does read . IDENT	our elephant does read . IDENT	does
+my rabbits do sleep . IDENT	my rabbits do sleep . IDENT	do
+some seal does giggle . IDENT	some seal does giggle . IDENT	does
+some dog doesnt giggle . IDENT	some dog doesnt giggle . IDENT	doesnt
+the rabbit does smile . IDENT	the rabbit does smile . IDENT	does
+your rabbits do live . IDENT	your rabbits do live . IDENT	do
+some seal doesnt sleep . IDENT	some seal doesnt sleep . IDENT	doesnt
+some elephants do read . IDENT	some elephants do read . IDENT	do
+your cat doesnt laugh . IDENT	your cat doesnt laugh . IDENT	doesnt
+some bird does sleep . IDENT	some bird does sleep . IDENT	does
+our yak does live . IDENT	our yak does live . IDENT	does
+your yaks do laugh . IDENT	your yaks do laugh . IDENT	do
+my bird does read . IDENT	my bird does read . IDENT	does
+some unicorn doesnt read . IDENT	some unicorn doesnt read . IDENT	doesnt
+the monkeys do read . IDENT	the monkeys do read . IDENT	do
+the bird does giggle . IDENT	the bird does giggle . IDENT	does
+the unicorn does giggle . IDENT	the unicorn does giggle . IDENT	does
+her cat does giggle . IDENT	her cat does giggle . IDENT	does
+my bird does live . IDENT	my bird does live . IDENT	does
+her dog doesnt giggle . IDENT	her dog doesnt giggle . IDENT	doesnt
+some unicorn doesnt read . IDENT	some unicorn doesnt read . IDENT	doesnt
+your unicorns dont sleep . IDENT	your unicorns dont sleep . IDENT	dont
+the monkeys dont live . IDENT	the monkeys dont live . IDENT	dont
+her yaks do live . IDENT	her yaks do live . IDENT	do
+her cats dont sleep . IDENT	her cats dont sleep . IDENT	dont
+the seal doesnt sleep . IDENT	the seal doesnt sleep . IDENT	doesnt
+some dog does sleep . IDENT	some dog does sleep . IDENT	does
+our unicorn doesnt read . IDENT	our unicorn doesnt read . IDENT	doesnt
+some rabbits do live . IDENT	some rabbits do live . IDENT	do
+her bird doesnt sleep . IDENT	her bird doesnt sleep . IDENT	doesnt
+my dogs dont read . IDENT	my dogs dont read . IDENT	dont
+my elephants do laugh . IDENT	my elephants do laugh . IDENT	do
+my monkeys do read . IDENT	my monkeys do read . IDENT	do
+our bird doesnt live . IDENT	our bird doesnt live . IDENT	doesnt
+our rabbit does smile . IDENT	our rabbit does smile . IDENT	does
+your birds dont smile . IDENT	your birds dont smile . IDENT	dont
+our cat does smile . IDENT	our cat does smile . IDENT	does
+some elephants dont laugh . IDENT	some elephants dont laugh . IDENT	dont
+the elephants do laugh . IDENT	the elephants do laugh . IDENT	do
+the unicorn doesnt read . IDENT	the unicorn doesnt read . IDENT	doesnt
+the seals do read . IDENT	the seals do read . IDENT	do
+the seals dont read . IDENT	the seals dont read . IDENT	dont
+the unicorns do read . IDENT	the unicorns do read . IDENT	do
+my rabbit does read . IDENT	my rabbit does read . IDENT	does
+some yaks dont live . IDENT	some yaks dont live . IDENT	dont
+my yak does read . IDENT	my yak does read . IDENT	does
+my yak does laugh . IDENT	my yak does laugh . IDENT	does
+your elephants dont giggle . IDENT	your elephants dont giggle . IDENT	dont
+your rabbit does read . IDENT	your rabbit does read . IDENT	does
+her unicorns dont read . IDENT	her unicorns dont read . IDENT	dont
+our yaks do sleep . IDENT	our yaks do sleep . IDENT	do
+our dogs do giggle . IDENT	our dogs do giggle . IDENT	do
+my yak does sleep . IDENT	my yak does sleep . IDENT	does
+her rabbit does laugh . IDENT	her rabbit does laugh . IDENT	does
+her seals do laugh . IDENT	her seals do laugh . IDENT	do
+some bird does giggle . IDENT	some bird does giggle . IDENT	does
+your seal does live . IDENT	your seal does live . IDENT	does
+some rabbit doesnt giggle . IDENT	some rabbit doesnt giggle . IDENT	doesnt
+our unicorn doesnt laugh . IDENT	our unicorn doesnt laugh . IDENT	doesnt
+our bird does laugh . IDENT	our bird does laugh . IDENT	does
+some cats do laugh . IDENT	some cats do laugh . IDENT	do
+our cats do laugh . IDENT	our cats do laugh . IDENT	do
+some bird does live . IDENT	some bird does live . IDENT	does
+some cat doesnt sleep . IDENT	some cat doesnt sleep . IDENT	doesnt
+our seal doesnt live . IDENT	our seal doesnt live . IDENT	doesnt
+our monkeys dont sleep . IDENT	our monkeys dont sleep . IDENT	dont
+her cat does laugh . IDENT	her cat does laugh . IDENT	does
+some monkeys do laugh . IDENT	some monkeys do laugh . IDENT	do
+our seal does laugh . IDENT	our seal does laugh . IDENT	does
+her yak does giggle . IDENT	her yak does giggle . IDENT	does
+her seals do laugh . IDENT	her seals do laugh . IDENT	do
+our cats dont smile . IDENT	our cats dont smile . IDENT	dont
+her monkey doesnt live . IDENT	her monkey doesnt live . IDENT	doesnt
+her monkeys dont live . IDENT	her monkeys dont live . IDENT	dont
+my yak doesnt smile . IDENT	my yak doesnt smile . IDENT	doesnt
+my birds do smile . IDENT	my birds do smile . IDENT	do
+her elephant doesnt read . IDENT	her elephant doesnt read . IDENT	doesnt
+my seal doesnt live . IDENT	my seal doesnt live . IDENT	doesnt
+my unicorns do laugh . IDENT	my unicorns do laugh . IDENT	do
+our monkeys dont sleep . IDENT	our monkeys dont sleep . IDENT	dont
+our elephants do smile . IDENT	our elephants do smile . IDENT	do
+your dog does live . IDENT	your dog does live . IDENT	does
+some seal doesnt live . IDENT	some seal doesnt live . IDENT	doesnt
+some yaks do live . IDENT	some yaks do live . IDENT	do
+her dogs dont smile . IDENT	her dogs dont smile . IDENT	dont
+our unicorn doesnt giggle . IDENT	our unicorn doesnt giggle . IDENT	doesnt
+some dog doesnt live . IDENT	some dog doesnt live . IDENT	doesnt
+my birds dont laugh . IDENT	my birds dont laugh . IDENT	dont
+the yaks do laugh . IDENT	the yaks do laugh . IDENT	do
+the cats do live . IDENT	the cats do live . IDENT	do
+my yaks dont read . IDENT	my yaks dont read . IDENT	dont
+your birds do live . IDENT	your birds do live . IDENT	do
+some unicorn doesnt sleep . IDENT	some unicorn doesnt sleep . IDENT	doesnt
+the dogs dont sleep . IDENT	the dogs dont sleep . IDENT	dont
+her elephants dont laugh . IDENT	her elephants dont laugh . IDENT	dont
+some rabbit does read . IDENT	some rabbit does read . IDENT	does
+my cat does read . IDENT	my cat does read . IDENT	does
+her rabbits do sleep . IDENT	her rabbits do sleep . IDENT	do
+my yak doesnt smile . IDENT	my yak doesnt smile . IDENT	doesnt
+our bird does smile . IDENT	our bird does smile . IDENT	does
+her bird doesnt giggle . IDENT	her bird doesnt giggle . IDENT	doesnt
+our monkeys do smile . IDENT	our monkeys do smile . IDENT	do
+her dog does giggle . IDENT	her dog does giggle . IDENT	does
+her dog does smile . IDENT	her dog does smile . IDENT	does
+her cats do laugh . IDENT	her cats do laugh . IDENT	do
+our monkeys do read . IDENT	our monkeys do read . IDENT	do
+my monkeys dont read . IDENT	my monkeys dont read . IDENT	dont
+my yak does smile . IDENT	my yak does smile . IDENT	does
+my rabbit does live . IDENT	my rabbit does live . IDENT	does
+some cats dont read . IDENT	some cats dont read . IDENT	dont
+our yaks dont sleep . IDENT	our yaks dont sleep . IDENT	dont
+my unicorn doesnt giggle . IDENT	my unicorn doesnt giggle . IDENT	doesnt
+your seals dont read . IDENT	your seals dont read . IDENT	dont
+your birds do read . IDENT	your birds do read . IDENT	do
+your cats dont live . IDENT	your cats dont live . IDENT	dont
+some unicorn doesnt sleep . IDENT	some unicorn doesnt sleep . IDENT	doesnt
+her bird does giggle . IDENT	her bird does giggle . IDENT	does
+her cats do live . IDENT	her cats do live . IDENT	do
+her elephant doesnt laugh . IDENT	her elephant doesnt laugh . IDENT	doesnt
+some seal does sleep . IDENT	some seal does sleep . IDENT	does
+our bird doesnt giggle . IDENT	our bird doesnt giggle . IDENT	doesnt
+our cat does sleep . IDENT	our cat does sleep . IDENT	does
+the bird doesnt giggle . IDENT	the bird doesnt giggle . IDENT	doesnt
+some dogs do read . IDENT	some dogs do read . IDENT	do
+our cats dont giggle . IDENT	our cats dont giggle . IDENT	dont
+her unicorns do laugh . IDENT	her unicorns do laugh . IDENT	do
+my elephants do read . IDENT	my elephants do read . IDENT	do
+her dogs do smile . IDENT	her dogs do smile . IDENT	do
+my yaks do giggle . IDENT	my yaks do giggle . IDENT	do
+my monkey doesnt laugh . IDENT	my monkey doesnt laugh . IDENT	doesnt
+my unicorn does laugh . IDENT	my unicorn does laugh . IDENT	does
+some rabbits do giggle . IDENT	some rabbits do giggle . IDENT	do
+our yaks dont giggle . IDENT	our yaks dont giggle . IDENT	dont
+our elephant doesnt live . IDENT	our elephant doesnt live . IDENT	doesnt
+some elephant doesnt giggle . IDENT	some elephant doesnt giggle . IDENT	doesnt
+our rabbit doesnt sleep . IDENT	our rabbit doesnt sleep . IDENT	doesnt
+some monkeys do laugh . IDENT	some monkeys do laugh . IDENT	do
+some unicorn doesnt read . IDENT	some unicorn doesnt read . IDENT	doesnt
+our seal doesnt sleep . IDENT	our seal doesnt sleep . IDENT	doesnt
+our cat doesnt sleep . IDENT	our cat doesnt sleep . IDENT	doesnt
+your cat doesnt giggle . IDENT	your cat doesnt giggle . IDENT	doesnt
+our elephant doesnt read . IDENT	our elephant doesnt read . IDENT	doesnt
+my unicorn does sleep . IDENT	my unicorn does sleep . IDENT	does
+her yaks dont smile . IDENT	her yaks dont smile . IDENT	dont
+our yaks do read . IDENT	our yaks do read . IDENT	do
+my cats do read . IDENT	my cats do read . IDENT	do
+some cat does live . IDENT	some cat does live . IDENT	does
+some seal does smile . IDENT	some seal does smile . IDENT	does
+my yak does read . IDENT	my yak does read . IDENT	does
+the monkey does live . IDENT	the monkey does live . IDENT	does
+some elephants dont sleep . IDENT	some elephants dont sleep . IDENT	dont
+my rabbit does smile . IDENT	my rabbit does smile . IDENT	does
+your elephants dont live . IDENT	your elephants dont live . IDENT	dont
+our monkey does sleep . IDENT	our monkey does sleep . IDENT	does
+our monkeys do laugh . IDENT	our monkeys do laugh . IDENT	do
+my seal does sleep . IDENT	my seal does sleep . IDENT	does
+your yak doesnt sleep . IDENT	your yak doesnt sleep . IDENT	doesnt
+our yak does live . IDENT	our yak does live . IDENT	does
+our monkeys dont live . IDENT	our monkeys dont live . IDENT	dont
+my rabbits dont smile . IDENT	my rabbits dont smile . IDENT	dont
+the cat does smile . IDENT	the cat does smile . IDENT	does
+some monkey doesnt laugh . IDENT	some monkey doesnt laugh . IDENT	doesnt
+my dog doesnt giggle . IDENT	my dog doesnt giggle . IDENT	doesnt
+our bird doesnt giggle . IDENT	our bird doesnt giggle . IDENT	doesnt
+her elephant does sleep . IDENT	her elephant does sleep . IDENT	does
+the bird does sleep . IDENT	the bird does sleep . IDENT	does
+our monkeys do live . IDENT	our monkeys do live . IDENT	do
+your elephants dont live . IDENT	your elephants dont live . IDENT	dont
+some dogs do live . IDENT	some dogs do live . IDENT	do
+my cat doesnt smile . IDENT	my cat doesnt smile . IDENT	doesnt
+my cats dont sleep . IDENT	my cats dont sleep . IDENT	dont
+some cats dont giggle . IDENT	some cats dont giggle . IDENT	dont
+her dog doesnt live . IDENT	her dog doesnt live . IDENT	doesnt
+her dog does live . IDENT	her dog does live . IDENT	does
+our seal doesnt smile . IDENT	our seal doesnt smile . IDENT	doesnt
+some unicorn does laugh . IDENT	some unicorn does laugh . IDENT	does
+some seal doesnt laugh . IDENT	some seal doesnt laugh . IDENT	doesnt
+my yaks dont smile . IDENT	my yaks dont smile . IDENT	dont
+some yaks do sleep . IDENT	some yaks do sleep . IDENT	do
+some rabbits dont giggle . IDENT	some rabbits dont giggle . IDENT	dont
+our birds dont read . IDENT	our birds dont read . IDENT	dont
+your monkey does smile . IDENT	your monkey does smile . IDENT	does
+her dogs dont laugh . IDENT	her dogs dont laugh . IDENT	dont
+her elephants do smile . IDENT	her elephants do smile . IDENT	do
+the monkeys dont sleep . IDENT	the monkeys dont sleep . IDENT	dont
+some rabbits do laugh . IDENT	some rabbits do laugh . IDENT	do
+your cats do giggle . IDENT	your cats do giggle . IDENT	do
+her dog does smile . IDENT	her dog does smile . IDENT	does
+your elephant does sleep . IDENT	your elephant does sleep . IDENT	does
+the elephant does live . IDENT	the elephant does live . IDENT	does
+your rabbits dont sleep . IDENT	your rabbits dont sleep . IDENT	dont
+our dog doesnt smile . IDENT	our dog doesnt smile . IDENT	doesnt
+your birds dont read . IDENT	your birds dont read . IDENT	dont
+our dogs dont live . IDENT	our dogs dont live . IDENT	dont
+our unicorns dont sleep . IDENT	our unicorns dont sleep . IDENT	dont
+our dog doesnt read . IDENT	our dog doesnt read . IDENT	doesnt
+some birds do sleep . IDENT	some birds do sleep . IDENT	do
+my unicorns do smile . IDENT	my unicorns do smile . IDENT	do
+my seals do laugh . IDENT	my seals do laugh . IDENT	do
+the dogs dont read . IDENT	the dogs dont read . IDENT	dont
+the yaks do giggle . IDENT	the yaks do giggle . IDENT	do
+my yak doesnt giggle . IDENT	my yak doesnt giggle . IDENT	doesnt
+some bird does sleep . IDENT	some bird does sleep . IDENT	does
+her yak doesnt smile . IDENT	her yak doesnt smile . IDENT	doesnt
+the bird does laugh . IDENT	the bird does laugh . IDENT	does
+some yaks do laugh . IDENT	some yaks do laugh . IDENT	do
+some dog doesnt sleep . IDENT	some dog doesnt sleep . IDENT	doesnt
+her yaks do sleep . IDENT	her yaks do sleep . IDENT	do
+her dog doesnt read . IDENT	her dog doesnt read . IDENT	doesnt
+the monkeys dont live . IDENT	the monkeys dont live . IDENT	dont
+our unicorn does live . IDENT	our unicorn does live . IDENT	does
+her yak doesnt read . IDENT	her yak doesnt read . IDENT	doesnt
+her yaks dont read . IDENT	her yaks dont read . IDENT	dont
+the rabbits dont live . IDENT	the rabbits dont live . IDENT	dont
+my unicorns dont smile . IDENT	my unicorns dont smile . IDENT	dont
+some seals dont laugh . IDENT	some seals dont laugh . IDENT	dont
+your seals do laugh . IDENT	your seals do laugh . IDENT	do
+my seal doesnt read . IDENT	my seal doesnt read . IDENT	doesnt
+my cats dont read . IDENT	my cats dont read . IDENT	dont
+the yaks dont laugh . IDENT	the yaks dont laugh . IDENT	dont
+your dogs dont giggle . IDENT	your dogs dont giggle . IDENT	dont
+your yaks dont laugh . IDENT	your yaks dont laugh . IDENT	dont
+your yaks dont giggle . IDENT	your yaks dont giggle . IDENT	dont
+our dog does smile . IDENT	our dog does smile . IDENT	does
+some bird doesnt read . IDENT	some bird doesnt read . IDENT	doesnt
+your yaks dont giggle . IDENT	your yaks dont giggle . IDENT	dont
+the cats do smile . IDENT	the cats do smile . IDENT	do
+some unicorns dont read . IDENT	some unicorns dont read . IDENT	dont
+her elephants dont read . IDENT	her elephants dont read . IDENT	dont
+the seals do smile . IDENT	the seals do smile . IDENT	do
+your yaks dont laugh . IDENT	your yaks dont laugh . IDENT	dont
+my unicorns dont laugh . IDENT	my unicorns dont laugh . IDENT	dont
+our monkey doesnt laugh . IDENT	our monkey doesnt laugh . IDENT	doesnt
+your dogs do laugh . IDENT	your dogs do laugh . IDENT	do
+our unicorns dont smile . IDENT	our unicorns dont smile . IDENT	dont
+my elephant does live . IDENT	my elephant does live . IDENT	does
+your seal does live . IDENT	your seal does live . IDENT	does
+her elephants do sleep . IDENT	her elephants do sleep . IDENT	do
+her elephant does smile . IDENT	her elephant does smile . IDENT	does
+your unicorns dont smile . IDENT	your unicorns dont smile . IDENT	dont
+your unicorns do smile . IDENT	your unicorns do smile . IDENT	do
+our monkey does read . IDENT	our monkey does read . IDENT	does
+your cats dont live . IDENT	your cats dont live . IDENT	dont
+our elephants dont smile . IDENT	our elephants dont smile . IDENT	dont
+her unicorns dont giggle . IDENT	her unicorns dont giggle . IDENT	dont
+our elephant doesnt read . IDENT	our elephant doesnt read . IDENT	doesnt
+our yaks do laugh . IDENT	our yaks do laugh . IDENT	do
+some yaks dont sleep . IDENT	some yaks dont sleep . IDENT	dont
+our cat doesnt sleep . IDENT	our cat doesnt sleep . IDENT	doesnt
+some yak does giggle . IDENT	some yak does giggle . IDENT	does
+your seals dont smile . IDENT	your seals dont smile . IDENT	dont
+our dog doesnt sleep . IDENT	our dog doesnt sleep . IDENT	doesnt
+my cats do sleep . IDENT	my cats do sleep . IDENT	do
+some dogs dont giggle . IDENT	some dogs dont giggle . IDENT	dont
+some rabbits do sleep . IDENT	some rabbits do sleep . IDENT	do
+some birds do giggle . IDENT	some birds do giggle . IDENT	do
+my elephant does laugh . IDENT	my elephant does laugh . IDENT	does
+your dog does read . IDENT	your dog does read . IDENT	does
+the elephants do smile . IDENT	the elephants do smile . IDENT	do
+our yak does live . IDENT	our yak does live . IDENT	does
+the cats do read . IDENT	the cats do read . IDENT	do
+some yaks dont read . IDENT	some yaks dont read . IDENT	dont
+my seal doesnt read . IDENT	my seal doesnt read . IDENT	doesnt
+some yaks dont live . IDENT	some yaks dont live . IDENT	dont
+the yaks do live . IDENT	the yaks do live . IDENT	do
+your dogs do live . IDENT	your dogs do live . IDENT	do
+my yak doesnt sleep . IDENT	my yak doesnt sleep . IDENT	doesnt
+her rabbit doesnt read . IDENT	her rabbit doesnt read . IDENT	doesnt
+your unicorns do giggle . IDENT	your unicorns do giggle . IDENT	do
+the yak doesnt smile . IDENT	the yak doesnt smile . IDENT	doesnt
+your elephant does sleep . IDENT	your elephant does sleep . IDENT	does
+our rabbit doesnt giggle . IDENT	our rabbit doesnt giggle . IDENT	doesnt
+the dog does laugh . IDENT	the dog does laugh . IDENT	does
+some unicorn doesnt giggle . IDENT	some unicorn doesnt giggle . IDENT	doesnt
+your unicorn doesnt sleep . IDENT	your unicorn doesnt sleep . IDENT	doesnt
+your cats do read . IDENT	your cats do read . IDENT	do
+her seals dont laugh . IDENT	her seals dont laugh . IDENT	dont
+our yak does laugh . IDENT	our yak does laugh . IDENT	does
+my seals dont giggle . IDENT	my seals dont giggle . IDENT	dont
+my cats do sleep . IDENT	my cats do sleep . IDENT	do
+the birds dont smile . IDENT	the birds dont smile . IDENT	dont
+my rabbit doesnt giggle . IDENT	my rabbit doesnt giggle . IDENT	doesnt
+our yaks dont smile . IDENT	our yaks dont smile . IDENT	dont
+our dog doesnt sleep . IDENT	our dog doesnt sleep . IDENT	doesnt
+our seal doesnt giggle . IDENT	our seal doesnt giggle . IDENT	doesnt
+some monkeys do giggle . IDENT	some monkeys do giggle . IDENT	do
+her rabbit does giggle . IDENT	her rabbit does giggle . IDENT	does
+some birds do sleep . IDENT	some birds do sleep . IDENT	do
+our cat does smile . IDENT	our cat does smile . IDENT	does
+my unicorn doesnt smile . IDENT	my unicorn doesnt smile . IDENT	doesnt
+our birds dont read . IDENT	our birds dont read . IDENT	dont
+her dogs do laugh . IDENT	her dogs do laugh . IDENT	do
+the elephant doesnt sleep . IDENT	the elephant doesnt sleep . IDENT	doesnt
+her birds dont giggle . IDENT	her birds dont giggle . IDENT	dont
+our rabbits do giggle . IDENT	our rabbits do giggle . IDENT	do
+the rabbits do smile . IDENT	the rabbits do smile . IDENT	do
+her bird doesnt laugh . IDENT	her bird doesnt laugh . IDENT	doesnt
+some yaks do laugh . IDENT	some yaks do laugh . IDENT	do
+some elephants dont live . IDENT	some elephants dont live . IDENT	dont
+her monkey doesnt read . IDENT	her monkey doesnt read . IDENT	doesnt
+our cats do giggle . IDENT	our cats do giggle . IDENT	do
+some unicorns dont live . IDENT	some unicorns dont live . IDENT	dont
+some rabbits dont sleep . IDENT	some rabbits dont sleep . IDENT	dont
+her monkeys dont sleep . IDENT	her monkeys dont sleep . IDENT	dont
+your elephant does giggle . IDENT	your elephant does giggle . IDENT	does
+her rabbit doesnt read . IDENT	her rabbit doesnt read . IDENT	doesnt
+my elephants do laugh . IDENT	my elephants do laugh . IDENT	do
+our rabbits do read . IDENT	our rabbits do read . IDENT	do
+her rabbit doesnt smile . IDENT	her rabbit doesnt smile . IDENT	doesnt
+some dogs dont laugh . IDENT	some dogs dont laugh . IDENT	dont
+your elephants do smile . IDENT	your elephants do smile . IDENT	do
+our bird doesnt live . IDENT	our bird doesnt live . IDENT	doesnt
+some elephant doesnt live . IDENT	some elephant doesnt live . IDENT	doesnt
+some bird does sleep . IDENT	some bird does sleep . IDENT	does
+some elephant does sleep . IDENT	some elephant does sleep . IDENT	does
+the bird doesnt laugh . IDENT	the bird doesnt laugh . IDENT	doesnt
+our birds dont laugh . IDENT	our birds dont laugh . IDENT	dont
+my birds do read . IDENT	my birds do read . IDENT	do
+the elephants do laugh . IDENT	the elephants do laugh . IDENT	do
+my yak doesnt laugh . IDENT	my yak doesnt laugh . IDENT	doesnt
+my yaks dont sleep . IDENT	my yaks dont sleep . IDENT	dont
+some monkey doesnt smile . IDENT	some monkey doesnt smile . IDENT	doesnt
+her rabbit does laugh . IDENT	her rabbit does laugh . IDENT	does
+my elephant does sleep . IDENT	my elephant does sleep . IDENT	does
+some monkey doesnt giggle . IDENT	some monkey doesnt giggle . IDENT	doesnt
+my seals do sleep . IDENT	my seals do sleep . IDENT	do
+my dogs dont live . IDENT	my dogs dont live . IDENT	dont
+your yaks dont giggle . IDENT	your yaks dont giggle . IDENT	dont
+some seals dont laugh . IDENT	some seals dont laugh . IDENT	dont
+some dog does smile . IDENT	some dog does smile . IDENT	does
+our dogs dont read . IDENT	our dogs dont read . IDENT	dont
+the elephant does read . IDENT	the elephant does read . IDENT	does
+the cat does smile . IDENT	the cat does smile . IDENT	does
+some unicorn doesnt sleep . IDENT	some unicorn doesnt sleep . IDENT	doesnt
+your elephant doesnt sleep . IDENT	your elephant doesnt sleep . IDENT	doesnt
+some rabbit doesnt live . IDENT	some rabbit doesnt live . IDENT	doesnt
+our rabbit does live . IDENT	our rabbit does live . IDENT	does
+some elephants do sleep . IDENT	some elephants do sleep . IDENT	do
+your cat doesnt live . IDENT	your cat doesnt live . IDENT	doesnt
+her seals do live . IDENT	her seals do live . IDENT	do
+our monkey does read . IDENT	our monkey does read . IDENT	does
+the unicorn doesnt live . IDENT	the unicorn doesnt live . IDENT	doesnt
+my cat does sleep . IDENT	my cat does sleep . IDENT	does
+my elephant doesnt sleep . IDENT	my elephant doesnt sleep . IDENT	doesnt
+the rabbit does read . IDENT	the rabbit does read . IDENT	does
+our birds do giggle . IDENT	our birds do giggle . IDENT	do
+our dog doesnt sleep . IDENT	our dog doesnt sleep . IDENT	doesnt
+my elephants do laugh . IDENT	my elephants do laugh . IDENT	do
+our birds dont read . IDENT	our birds dont read . IDENT	dont
+her monkey does read . IDENT	her monkey does read . IDENT	does
+the monkeys do read . IDENT	the monkeys do read . IDENT	do
+some monkeys do live . IDENT	some monkeys do live . IDENT	do
+your seal does smile . IDENT	your seal does smile . IDENT	does
+the monkey does laugh . IDENT	the monkey does laugh . IDENT	does
+our elephant does live . IDENT	our elephant does live . IDENT	does
+our elephants dont live . IDENT	our elephants dont live . IDENT	dont
+our elephants dont read . IDENT	our elephants dont read . IDENT	dont
+my seals dont live . IDENT	my seals dont live . IDENT	dont
+your unicorn doesnt sleep . IDENT	your unicorn doesnt sleep . IDENT	doesnt
+her rabbit doesnt sleep . IDENT	her rabbit doesnt sleep . IDENT	doesnt
+her seals do laugh . IDENT	her seals do laugh . IDENT	do
+my unicorn doesnt sleep . IDENT	my unicorn doesnt sleep . IDENT	doesnt
+my dog doesnt giggle . IDENT	my dog doesnt giggle . IDENT	doesnt
+my monkey does laugh . IDENT	my monkey does laugh . IDENT	does
+my cats do laugh . IDENT	my cats do laugh . IDENT	do
+her elephants do giggle . IDENT	her elephants do giggle . IDENT	do
+my seal doesnt read . IDENT	my seal doesnt read . IDENT	doesnt
+my monkeys do giggle . IDENT	my monkeys do giggle . IDENT	do
+my seal does sleep . IDENT	my seal does sleep . IDENT	does
+my seals do giggle . IDENT	my seals do giggle . IDENT	do
+the cat doesnt read . IDENT	the cat doesnt read . IDENT	doesnt
+your dog doesnt read . IDENT	your dog doesnt read . IDENT	doesnt
+my monkey doesnt read . IDENT	my monkey doesnt read . IDENT	doesnt
+our cat does live . IDENT	our cat does live . IDENT	does
+some birds dont live . IDENT	some birds dont live . IDENT	dont
+her yak does sleep . IDENT	her yak does sleep . IDENT	does
+the cats dont sleep . IDENT	the cats dont sleep . IDENT	dont
+her monkeys dont giggle . IDENT	her monkeys dont giggle . IDENT	dont
+her unicorns dont laugh . IDENT	her unicorns dont laugh . IDENT	dont
+our dog does smile . IDENT	our dog does smile . IDENT	does
+our seal does smile . IDENT	our seal does smile . IDENT	does
+the dog doesnt laugh . IDENT	the dog doesnt laugh . IDENT	doesnt
+our unicorns do giggle . IDENT	our unicorns do giggle . IDENT	do
+your elephants do live . IDENT	your elephants do live . IDENT	do
+the elephant does read . IDENT	the elephant does read . IDENT	does
+her birds dont sleep . IDENT	her birds dont sleep . IDENT	dont
+some elephant doesnt live . IDENT	some elephant doesnt live . IDENT	doesnt
+some monkeys dont read . IDENT	some monkeys dont read . IDENT	dont
+my yak doesnt giggle . IDENT	my yak doesnt giggle . IDENT	doesnt
+some rabbit doesnt read . IDENT	some rabbit doesnt read . IDENT	doesnt
+the cats do live . IDENT	the cats do live . IDENT	do
+our rabbits do giggle . IDENT	our rabbits do giggle . IDENT	do
+my unicorns do live . IDENT	my unicorns do live . IDENT	do
+her unicorn does giggle . IDENT	her unicorn does giggle . IDENT	does
+the birds do laugh . IDENT	the birds do laugh . IDENT	do
+some unicorn doesnt smile . IDENT	some unicorn doesnt smile . IDENT	doesnt
+my seals dont read . IDENT	my seals dont read . IDENT	dont
+my bird does smile . IDENT	my bird does smile . IDENT	does
+our dogs do laugh . IDENT	our dogs do laugh . IDENT	do
+our yaks dont read . IDENT	our yaks dont read . IDENT	dont
+your seal doesnt giggle . IDENT	your seal doesnt giggle . IDENT	doesnt
+her seals do giggle . IDENT	her seals do giggle . IDENT	do
+the unicorn doesnt sleep . IDENT	the unicorn doesnt sleep . IDENT	doesnt
+your cats do sleep . IDENT	your cats do sleep . IDENT	do
+our cat doesnt giggle . IDENT	our cat doesnt giggle . IDENT	doesnt
+her seal doesnt live . IDENT	her seal doesnt live . IDENT	doesnt
+our cat does smile . IDENT	our cat does smile . IDENT	does
+her seals dont sleep . IDENT	her seals dont sleep . IDENT	dont
+her unicorn does sleep . IDENT	her unicorn does sleep . IDENT	does
+her dog does live . IDENT	her dog does live . IDENT	does
+some dog does sleep . IDENT	some dog does sleep . IDENT	does
+our seal doesnt giggle . IDENT	our seal doesnt giggle . IDENT	doesnt
+the elephant does read . IDENT	the elephant does read . IDENT	does
+the seal doesnt laugh . IDENT	the seal doesnt laugh . IDENT	doesnt
+the bird doesnt read . IDENT	the bird doesnt read . IDENT	doesnt
+some monkey doesnt giggle . IDENT	some monkey doesnt giggle . IDENT	doesnt
+her cat doesnt giggle . IDENT	her cat doesnt giggle . IDENT	doesnt
+some bird doesnt giggle . IDENT	some bird doesnt giggle . IDENT	doesnt
+my bird doesnt laugh . IDENT	my bird doesnt laugh . IDENT	doesnt
+my unicorns dont laugh . IDENT	my unicorns dont laugh . IDENT	dont
+our yak does smile . IDENT	our yak does smile . IDENT	does
+my dogs dont read . IDENT	my dogs dont read . IDENT	dont
+your yaks dont giggle . IDENT	your yaks dont giggle . IDENT	dont
+the elephants do sleep . IDENT	the elephants do sleep . IDENT	do
+your seals do laugh . IDENT	your seals do laugh . IDENT	do
+some seal does laugh . IDENT	some seal does laugh . IDENT	does
+the yaks dont smile . IDENT	the yaks dont smile . IDENT	dont
+your seals dont giggle . IDENT	your seals dont giggle . IDENT	dont
+your elephants do sleep . IDENT	your elephants do sleep . IDENT	do
+your dogs dont read . IDENT	your dogs dont read . IDENT	dont
+your monkeys dont live . IDENT	your monkeys dont live . IDENT	dont
+my seals dont sleep . IDENT	my seals dont sleep . IDENT	dont
+some seal doesnt laugh . IDENT	some seal doesnt laugh . IDENT	doesnt
+her seals do smile . IDENT	her seals do smile . IDENT	do
+some unicorns dont read . IDENT	some unicorns dont read . IDENT	dont
+some birds dont live . IDENT	some birds dont live . IDENT	dont
+our monkey doesnt live . IDENT	our monkey doesnt live . IDENT	doesnt
+the cat does live . IDENT	the cat does live . IDENT	does
+my cat does sleep . IDENT	my cat does sleep . IDENT	does
+the yaks do sleep . IDENT	the yaks do sleep . IDENT	do
+my birds dont laugh . IDENT	my birds dont laugh . IDENT	dont
+our rabbit doesnt smile . IDENT	our rabbit doesnt smile . IDENT	doesnt
+our monkeys do laugh . IDENT	our monkeys do laugh . IDENT	do
+some rabbits dont read . IDENT	some rabbits dont read . IDENT	dont
+her unicorn doesnt read . IDENT	her unicorn doesnt read . IDENT	doesnt
+her elephants do giggle . IDENT	her elephants do giggle . IDENT	do
+our cat doesnt smile . IDENT	our cat doesnt smile . IDENT	doesnt
+our rabbits do sleep . IDENT	our rabbits do sleep . IDENT	do
+my elephant doesnt read . IDENT	my elephant doesnt read . IDENT	doesnt
+her yak does giggle . IDENT	her yak does giggle . IDENT	does
+the dogs dont giggle . IDENT	the dogs dont giggle . IDENT	dont
+her yaks dont laugh . IDENT	her yaks dont laugh . IDENT	dont
+her monkeys do laugh . IDENT	her monkeys do laugh . IDENT	do
+some unicorn doesnt sleep . IDENT	some unicorn doesnt sleep . IDENT	doesnt
+her unicorns do sleep . IDENT	her unicorns do sleep . IDENT	do
+our unicorn does smile . IDENT	our unicorn does smile . IDENT	does
+her bird doesnt laugh . IDENT	her bird doesnt laugh . IDENT	doesnt
+the rabbit does live . IDENT	the rabbit does live . IDENT	does
+the elephant doesnt live . IDENT	the elephant doesnt live . IDENT	doesnt
+some rabbits do giggle . IDENT	some rabbits do giggle . IDENT	do
+the rabbit doesnt live . IDENT	the rabbit doesnt live . IDENT	doesnt
+the yaks dont live . IDENT	the yaks dont live . IDENT	dont
+her elephants dont sleep . IDENT	her elephants dont sleep . IDENT	dont
+my unicorn does giggle . IDENT	my unicorn does giggle . IDENT	does
+our monkeys do laugh . IDENT	our monkeys do laugh . IDENT	do
+our monkeys dont laugh . IDENT	our monkeys dont laugh . IDENT	dont
+our birds dont sleep . IDENT	our birds dont sleep . IDENT	dont
+the bird doesnt giggle . IDENT	the bird doesnt giggle . IDENT	doesnt
+the monkeys do smile . IDENT	the monkeys do smile . IDENT	do
+her cat does read . IDENT	her cat does read . IDENT	does
+some unicorn does live . IDENT	some unicorn does live . IDENT	does

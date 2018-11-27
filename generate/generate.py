@@ -1,6 +1,6 @@
 from nltk.parse.generate import generate as generate_from_cfg
 from nltk import CFG
-from random import sample, randint
+from random import sample, randint, shuffle
 
 class Error(Exception):
     """Base class for exceptions in this module."""
@@ -55,13 +55,17 @@ class Language:
         words = tokens[1:]
         main_aux = words[index]
         if ident:
-            ident_output = ' '.join(words)
+            words.append('.')
             words.append('IDENT')
             ident_input = ' '.join(words)
+            ident_output = ' '.join(words)
             return ident_input, ident_output, main_aux
         else:
             quest_words = [words[index]] + words[:index] + words[index + 1:]
+            words.append('.')
             words.append('QUEST')
+            quest_words.append('?')
+            quest_words.append('QUEST')
             ident = ' '.join(words)
             quest = ' '.join(quest_words)
             return ident, quest, main_aux
@@ -129,7 +133,7 @@ class Language:
                 list of tuples (input, output, main_aux)
         """
 
-        grammar = CFG.fromstring(self.get_grammar_string(ver, rc, pp))
+        grammar = CFG.fromstring(self.get_grammar_string(verb, rc, pp))
 
         sentences = list()
         for sentence in generate_from_cfg(grammar, n=n):
@@ -158,6 +162,8 @@ class NoAgreementLanguage(Language):
         }
     
     def sample_vocabulary(self):
+        aux = list(sample(self.vocabulary['Aux'], 2))
+        shuffle(aux)
         vocab = "\n"
         vocab += 'Rel -> ' + "'" + "' | '".join(self.vocabulary['Rel']) + "'\n"
         vocab += 'Det -> ' + "'" + "' | '".join(sample(self.vocabulary['Det'], 2)) + "'\n"
@@ -165,7 +171,7 @@ class NoAgreementLanguage(Language):
         vocab += 'V_trans -> ' + "'" + "' | '".join(sample(self.vocabulary['V_trans'], 2)) + "'\n"
         vocab += 'V_intrans -> ' + "'" + "' | '".join(sample(self.vocabulary['V_intrans'], 2)) + "'\n"
         vocab += 'P -> ' + "'" + "' | '".join(sample(self.vocabulary['P'], 2)) + "'\n"
-        vocab += 'Aux -> ' + "'" + "' | '".join(sample(self.vocabulary['Aux'], 2)) + "'"
+        vocab += 'Aux -> ' + "'" + "' | '".join(aux) + "'"
         return vocab
 
 class AgreementLanguage(Language):
@@ -192,16 +198,23 @@ class AgreementLanguage(Language):
         }
     
     def sample_vocabulary(self):
+        aux_sg = list(self.vocabulary['Aux_SG'])
+        aux_pl = list(self.vocabulary['Aux_PL'])
+        # print(aux_sg, aux_pl)
+        shuffle(aux_sg)
+        shuffle(aux_pl)
+        # print(aux_sg, aux_pl)
         vocab = "\n"
         vocab += 'N_SG -> ' + "'" + "' | '".join(sample(self.vocabulary['N_SG'], 3)) + "'\n"
         vocab += 'N_PL -> ' + "'" + "' | '".join(sample(self.vocabulary['N_PL'], 3)) + "'\n"
         vocab += 'V_intrans -> ' + "'" + "' | '".join(sample(self.vocabulary['V_intrans'], 2)) + "'\n"
         vocab += 'V_trans -> ' + "'" + "' | '".join(sample(self.vocabulary['V_trans'], 2)) + "'\n"
-        vocab += 'Aux_SG -> ' + "'" + "' | '".join(self.vocabulary['Aux_SG']) + "'\n"
-        vocab += 'Aux_PL -> ' + "'" + "' | '".join(self.vocabulary['Aux_PL']) + "'\n"
+        vocab += 'Aux_SG -> ' + "'" + "' | '".join(aux_sg) + "'\n"
+        vocab += 'Aux_PL -> ' + "'" + "' | '".join(aux_pl) + "'\n"
         vocab += 'P -> ' + "'" + "' | '".join(sample(self.vocabulary['P'], 2)) + "'\n"
         vocab += 'Rel -> ' + "'" + "' | '".join(self.vocabulary['Rel']) + "'\n"
         vocab += 'Det -> ' + "'" + "' | '".join(sample(self.vocabulary['Det'], 2)) + "'"
+        # print(vocab)
         return vocab
 
 '''
@@ -239,6 +252,17 @@ No Agreement:
         RC on subject, RC on object     4800    0
 '''
 
+def bad_gen_sentence(sentence):
+    main_aux = sentence[int(sentence[0]) + 1]
+    count = 0
+    for w in sentence:
+        if w == main_aux:
+            count += 1
+    if count > 1:
+        return True
+    else:
+        return False
+
 def generate_data(agreement=False):
     """
         Generate the data from grammars, and store it in ./data
@@ -247,7 +271,7 @@ def generate_data(agreement=False):
         Statistics are similar to McCoy et. al. and specified in
         the tuples.
 
-        NOTE: All sentences may not be unique. Chose unique
+        NOTE: All sentences may not be unique. Choose unique
         sentences before partitioning.
 
         Args: 
@@ -274,35 +298,35 @@ def generate_data(agreement=False):
     #                 of features were presented in training
 
     no_agreement_stats = [
-    #   verb    rc      pp  tr_i      tr_q    ts_i  ts/g_q
-        (0,     0,      0,  1440,     1440,   440,  440),
-        (0,     1,      0,  14400,    14400,  440,  440),
-        (0,     0,      1,  14400,    0,      880,  2500),
-        (1,     0,      0,  4800,     4800,   440,  440),
-        (1,     0,      1,  4800,     4800,   440,  440),
-        (1,     0,      2,  4800,     4800,   440,  440),
-        (1,     1,      0,  4800,     0,      880,  2500),
-        (1,     2,      0,  4800,     4800,   440,  440),
-        (1,     0,      3,  4800,     4800,   440,  440),
-        (1,     2,      1,  4800,     4800,   440,  440),
-        (1,     1,      2,  4800,     0,      880,  2500),
-        (1,     3,      0,  4800,     0,      880,  2500)
+    #   verb    rc      pp  tr_i      tr_q    ts_i  ts_q g_q
+        (0,     0,      0,  1440,     1440,   440,  440, 0),
+        (0,     1,      0,  14400,    14400,  440,  440, 0),
+        (0,     0,      1,  14400,    0,      880,  0,   2500),
+        (1,     0,      0,  4800,     4800,   440,  440, 0),
+        (1,     0,      1,  4800,     4800,   440,  440, 0),
+        (1,     0,      2,  4800,     4800,   440,  440, 0),
+        (1,     1,      0,  4800,     0,      880,  0,   2500),
+        (1,     2,      0,  4800,     4800,   440,  440, 0),
+        (1,     0,      3,  4800,     4800,   440,  440, 0),
+        (1,     2,      1,  4800,     4800,   440,  440, 0),
+        (1,     1,      2,  4800,     0,      880,  0,   2500),
+        (1,     3,      0,  4800,     0,      880,  0,   2500)
     ]
 
     agreement_stats = [
-    #   verb    rc      pp  tr_i      tr_q    ts_i  ts/g_q
-        (0,     0,      0,  700,      700,    440,  440),
-        (0,     1,      0,  14400,    14400,  440,  440),
-        (0,     0,      1,  14400,    0,      880,  2500),
-        (1,     0,      0,  4800,     4800,   440,  440),
-        (1,     0,      1,  4800,     4800,   440,  440),
-        (1,     0,      2,  4800,     4800,   440,  440),
-        (1,     1,      0,  4800,     0,      880,  2500),
-        (1,     2,      0,  4800,     4800,   440,  440),
-        (1,     0,      3,  4800,     4800,   440,  440),
-        (1,     2,      1,  4800,     4800,   440,  440),
-        (1,     1,      2,  4800,     0,      880,  2500),
-        (1,     3,      0,  4800,     0,      880,  2500)
+    #   verb    rc      pp  tr_i      tr_q    ts_i  ts_q g_q
+        (0,     0,      0,  700,      700,    440,  440, 0),
+        (0,     1,      0,  14400,    14400,  440,  440, 0),
+        (0,     0,      1,  14400,    0,      880,  0,   2500),
+        (1,     0,      0,  4800,     4800,   440,  440, 0),
+        (1,     0,      1,  4800,     4800,   440,  440, 0),
+        (1,     0,      2,  4800,     4800,   440,  440, 0),
+        (1,     1,      0,  4800,     0,      880,  0,   2500),
+        (1,     2,      0,  4800,     4800,   440,  440, 0),
+        (1,     0,      3,  4800,     4800,   440,  440, 0),
+        (1,     2,      1,  4800,     4800,   440,  440, 0),
+        (1,     1,      2,  4800,     0,      880,  0,   2500),
+        (1,     3,      0,  4800,     0,      880,  0,   2500)
     ]
     
     # Choose language
@@ -320,7 +344,7 @@ def generate_data(agreement=False):
         ident_count = 0
         quest_count = 0
         ident_target = features[3] + features[5]
-        quest_target = features[4] + features[6]
+        quest_target = features[4] + features[6] + features[7]
         ident_file = open('data/' + prefix + '/' +\
                                     v[features[0]] +\
                                     '_rc-' + rc[features[1]] +\
@@ -348,6 +372,8 @@ def generate_data(agreement=False):
                     ident_count += 1
                     to_vocab_change -= 1
                 elif quest_count <= quest_target and 990 <= lottery <= 1000:
+                    if (features[1] == 1 or features[1] == 3) and bad_gen_sentence(sentence):
+                        continue
                     inp, out, main = Language.transform(sentence, ident=False)
                     quest_file.write(out + '\t' + inp + '\t' + main + '\n')
                     quest_count += 1
@@ -356,21 +382,44 @@ def generate_data(agreement=False):
                     break
         ident_file.close()
         quest_file.close()
+
+        ident_file = open('data/' + prefix + '/' +\
+                                    v[features[0]] +\
+                                    '_rc-' + rc[features[1]] +\
+                                    '_pp-' + pp[features[2]] +\
+                                    '_ident.txt', 'r')
+        quest_file = open('data/' + prefix + '/' +\
+                                    v[features[0]] +\
+                                    '_rc-' + rc[features[1]] +\
+                                    '_pp-' + pp[features[2]] +\
+                                    '_quest.txt', 'r')
+        train_file = open('data/' + prefix + '/train.txt', 'a')
+        test_file = open('data/' + prefix + '/test.txt', 'a')
+        generalisation_file = open('data/' + prefix + '/generalisation.txt', 'a')
+        ident_lines = [l for l in ident_file.readlines() if len(l) >= 5]
+        quest_lines = [l for l in quest_file.readlines() if len(l) >= 5]
+        shuffle(ident_lines)
+        shuffle(quest_lines)
+        train_lines = ident_lines[:features[3]] + quest_lines[:features[4]]
+        test_lines = ident_lines[features[3]+1:features[3]+features[5]] + quest_lines[features[4]+1:features[4]+features[6]]
+        gen_lines = quest_lines[features[4]+features[6]+1:features[4]+features[6]+features[7]]
+        shuffle(train_lines)
+        shuffle(test_lines)
+        shuffle(gen_lines)
+        for l in train_lines:
+            train_file.write('\t'.join(l.split('\t')[:2]) + '\n')
+        for l in test_lines:
+            test_file.write('\t'.join(l.split('\t')[:2]) + '\n')
+        for l in gen_lines:
+            generalisation_file.write('\t'.join(l.split('\t')[:2]) + '\n')
+        train_file.close()
+        test_file.close()
+        generalisation_file.close()
         print(prefix, v[features[0]], 'rc =', rc[features[1]], 'pp =', pp[features[2]], 'done')
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     # Generate sentences for no-agreement language
     generate_data(agreement=False)
 
     # Generate sentences for agreement language
     generate_data(agreement=True)
-=======
-    no_agreement = AgreementLanguage()
-    i = 0
-    for triple in no_agreement.generate(n=1000, verb='transitive', rc='object', pp='subject'):
-        if i % 30 == 0:
-            print(triple)
-        i += 1
-        # print(triple)
->>>>>>> ba4fff5d42963e75534cb9d21c174e4c85c5b407
