@@ -1,0 +1,6 @@
+ touch generalized.txt
+  cat intransitive_rc-none_pp-subject_quest.txt > generalized.txt
+  wc -l generalized.txt
+  cat transitive_rc-subject_pp-none_quest.txt >> generalized.txt
+   cat transitive_rc-subject_pp-object_quest.txt >> generalized.txt
+    cat transitive_rc-object_pp-none_quest.txt >> generalized.txt
