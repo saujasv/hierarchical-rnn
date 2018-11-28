@@ -1,0 +1,3 @@
+Total number Of sentences:8843
+Total number of correct full sentences word match:7475
+Total number of correct full sentences pos match:8244

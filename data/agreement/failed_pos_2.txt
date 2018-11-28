@@ -1,0 +1,110 @@
+Expected:our elephant does irritate your elephant who your elephant does giggle Predicted:our elephant does irritate your elephant who does giggle
+Expected:some bird does call some birds that the yak doesnt live Predicted:some bird does call the birds that doesnt live
+Expected:your elephant doesnt call your elephant that your unicorn does giggle Predicted:your elephant doesnt call your elephant that does giggle
+Expected:some cat does confuse our seal who doesnt admire some seals Predicted:some cat who does confuse our seal doesnt admire some seals
+Expected:your unicorn does call the seals who the unicorn doesnt smile Predicted:your unicorn does call the seals who doesnt smile
+Expected:your unicorn doesnt admire her monkeys that her birds dont sleep Predicted:your unicorn doesnt admire her monkeys that dont sleep
+Expected:our dog does admire your dog who our elephant does smile Predicted:our dog does admire your dog who does smile
+Expected:does the cat confuse the cat who the birds dont giggle Predicted:does the cat confuse the cat who dont birds
+Expected:our monkey does confuse our monkey who our monkey doesnt read Predicted:our monkey does confuse our monkey who doesnt read
+Expected:your seal does confuse her seal who her seal does laugh Predicted:your seal does confuse her seal who does laugh
+Expected:the cat above the cats doesnt entertain your elephants above your bird Predicted:the cat above the cats entertain your elephants above your bird
+Expected:does some bird irritate her unicorns who her unicorns do laugh Predicted:does some bird irritate her unicorns who do laugh
+Expected:your yak does call some dogs who some elephant does sleep Predicted:your yak does call some dogs who does sleep
+Expected:does her monkey by her birds confuse your monkey who her yak does giggle Predicted:does her monkey by her birds confuse your monkey who does yak does giggle
+Expected:our unicorn does irritate our yak who some unicorn does laugh Predicted:our unicorn does irritate our yak who does laugh
+Expected:doesnt our rabbit confuse my elephant that our rabbit does live Predicted:doesnt our rabbit confuse my elephant that does live
+Expected:some elephant doesnt entertain your seals who some rabbit doesnt smile Predicted:some elephant doesnt entertain your seals who doesnt smile
+Expected:does her elephant with her monkeys call her monkeys who her birds do read Predicted:does her elephant with her monkeys call her monkeys who do read
+Expected:doesnt your seal call your seal who your seal does giggle Predicted:doesnt your seal call your seal who does giggle
+Expected:our yak does confuse our seals that your unicorn doesnt read Predicted:our yak does confuse our seals that doesnt read
+Expected:the yak does confuse the seal who the yak doesnt giggle Predicted:the yak does confuse the seal who doesnt giggle
+Expected:does your bird confuse her dog who her monkey does sleep Predicted:does your bird confuse her dog who does sleep
+Expected:our elephant does confuse your unicorns who your dogs do read Predicted:our elephant does confuse your unicorns who do read
+Expected:does some rabbit confuse some cats who your cats dont laugh Predicted:does some rabbit confuse some cats who dont cats
+Expected:doesnt some unicorn with some rabbits admire some monkeys with the elephant Predicted:doesnt some with with some rabbits admire some monkeys with the elephant
+Expected:my unicorn does impress my seal that does read Predicted:my unicorn that does impress my seal does read
+Expected:doesnt some rabbit irritate her monkeys who her monkeys dont sleep Predicted:doesnt some rabbit irritate her monkeys who dont sleep
+Expected:her cat does impress her rabbits that her rabbits do live Predicted:her cat does impress her rabbits that do live
+Expected:the cat does impress her elephants who dont impress her monkeys Predicted:the cat who does impress her elephants dont impress her monkeys
+Expected:my cat does confuse my elephant that her elephant doesnt smile Predicted:my cat does confuse my elephant that doesnt smile
+Expected:the rabbit doesnt confuse the bird who the rabbit does read Predicted:the rabbit doesnt confuse the bird who does rabbit does read
+Expected:your elephant doesnt call your elephant that some elephant does laugh Predicted:your elephant doesnt call your elephant that does laugh
+Expected:does some cat admire her cat that some seal does laugh Predicted:does some cat admire her cat that does laugh
+Expected:her bird doesnt confuse your unicorns that her monkey doesnt giggle Predicted:her bird doesnt confuse your unicorns that doesnt giggle
+Expected:our dog doesnt confuse my rabbits who our yaks dont smile Predicted:our dog doesnt confuse my rabbits who dont smile
+Expected:our seal doesnt call your unicorns who your dogs dont read Predicted:our seal doesnt call your unicorns who dont dogs
+Expected:her monkeys who do live do admire her rabbits Predicted:her cat who do live do admire her rabbits
+Expected:does our elephant behind our unicorns admire the monkey above our dog Predicted:does our elephant behind our unicorns admire the unicorns above our dog
+Expected:does some elephant call her elephant that some rabbit doesnt sleep Predicted:does some elephant call her elephant that doesnt sleep
+Expected:doesnt some cat with some rabbits irritate some yak Predicted:doesnt some cat with some yak irritate some yak
+Expected:my dog does impress our rabbit who our unicorn doesnt read Predicted:my dog does impress our rabbit who doesnt read
+Expected:her seal does confuse her cat who her yak doesnt giggle Predicted:her seal does confuse her cat who doesnt giggle
+Expected:doesnt our dog impress the bird that the unicorn doesnt giggle Predicted:doesnt our dog impress the bird that doesnt giggle
+Expected:some unicorn who doesnt giggle doesnt admire some unicorn around my yak Predicted:some unicorn who doesnt giggle doesnt admire some unicorn who doesnt call my yak
+Expected:your elephant doesnt call some rabbits who some unicorn doesnt giggle Predicted:your elephant doesnt call some rabbits who doesnt giggle
+Expected:doesnt some elephant entertain your elephants who your monkey does smile Predicted:doesnt some elephant entertain your elephants who does smile
+Expected:your monkey doesnt call your dogs who her monkey does smile Predicted:your monkey doesnt call your dogs who does smile
+Expected:your dog doesnt confuse your elephant who does confuse our dog Predicted:your dog confuse your elephant who does confuse our dog
+Expected:doesnt your yak confuse my unicorn who my unicorn doesnt read Predicted:doesnt your yak confuse my unicorn who doesnt read
+Expected:our bird does admire her elephants that do entertain our yaks Predicted:our bird does admire her elephants that our yaks do laugh
+Expected:my elephant below my seals does call our rabbit that my unicorns dont giggle Predicted:my elephant below my seals does call our seals that my unicorns dont giggle
+Expected:your dog doesnt call your elephants that your elephant doesnt laugh Predicted:your dog doesnt call your elephants that doesnt laugh
+Expected:her yak does entertain her unicorns who her yaks do laugh Predicted:her yak does entertain her unicorns who do laugh
+Expected:the dog does call some dog who the unicorn does giggle Predicted:the dog does call some dog who does giggle
+Expected:my elephant upon my yaks doesnt entertain your elephant upon my seals Predicted:my elephant upon my yaks doesnt entertain your seals upon my elephant
+Expected:my unicorn does irritate our elephant that our monkey doesnt giggle Predicted:my unicorn does irritate our elephant that doesnt giggle
+Expected:the elephant doesnt irritate her bird that her birds do giggle Predicted:the elephant doesnt irritate her bird that do giggle
+Expected:her elephant does impress the cat who the elephant doesnt laugh Predicted:her elephant does impress the cat who doesnt laugh
+Expected:our elephant does confuse your dogs who your seal does sleep Predicted:our elephant does confuse your dogs who does sleep
+Expected:some seal does entertain some seals that some monkey doesnt giggle Predicted:some seal does entertain some seals that doesnt giggle
+Expected:our bird does admire our monkeys who our rabbit does smile Predicted:our bird does admire our monkeys who does smile
+Expected:our cat doesnt impress our rabbits who the cat doesnt giggle Predicted:our cat who doesnt impress our rabbits doesnt giggle
+Expected:our bird above our dogs doesnt entertain our bird who does entertain our dogs Predicted:our bird above our dogs entertain our bird who does entertain our dogs
+Expected:your yak does call your yak that your yak does sleep Predicted:your yak does call your yak that does sleep
+Expected:her bird doesnt confuse your monkey that her rabbit does read Predicted:her bird doesnt confuse your monkey that does read
+Expected:our dog doesnt call our seal that our birds dont smile Predicted:our dog doesnt call our seal that dont birds
+Expected:does our bird entertain our bird who some unicorn does laugh Predicted:does our bird entertain our bird who does laugh
+Expected:does some dog admire some elephants who some cats do laugh Predicted:does some dog admire some elephants who do laugh
+Expected:does your seal entertain some yak that some yak does read Predicted:does your seal entertain some yak that does read
+Expected:some seal does entertain my yaks that my seal does giggle Predicted:some seal does entertain my yaks that does giggle
+Expected:does some rabbit behind some unicorns impress some unicorn that does read Predicted:does some rabbit behind some unicorns impress some unicorn that some unicorn does read
+Expected:does some cat admire her birds who her birds do laugh Predicted:does some cat admire her birds who do laugh
+Expected:your cat upon your dogs does irritate our rabbits by your dogs Predicted:your cat upon your dogs does irritate our seal by your dogs
+Expected:some cat does call some cat who your elephant doesnt smile Predicted:some cat does call some cat who doesnt smile
+Expected:the seal doesnt impress my cat that doesnt admire the birds Predicted:the seal that doesnt impress my cat doesnt admire the birds
+Expected:does our elephant confuse our elephant that our elephant doesnt live Predicted:does our elephant confuse our elephant that doesnt live
+Expected:does her elephant impress her rabbits who her yak does read Predicted:does her elephant impress her rabbits who does yak
+Expected:some yak doesnt confuse her monkey who doesnt giggle Predicted:some yak who doesnt confuse her monkey doesnt giggle
+Expected:my dog does impress her cats that my cats do giggle Predicted:my dog does impress her cats that do giggle
+Expected:our cat doesnt irritate the elephants that the cats dont giggle Predicted:our cat doesnt irritate the elephants that dont giggle
+Expected:my monkey doesnt confuse my monkey that my unicorn doesnt laugh Predicted:my monkey doesnt confuse my monkey that doesnt laugh
+Expected:my dog doesnt confuse some rabbit that does confuse some dog Predicted:my dog confuse some rabbit that does confuse some dog
+Expected:her cat does impress the rabbit who the rabbit doesnt live Predicted:her cat does impress the rabbit who doesnt live
+Expected:your elephant does admire her monkey who her dogs dont sleep Predicted:your elephant does admire her monkey who dont dogs dont sleep
+Expected:doesnt our cat irritate our rabbits that our birds dont read Predicted:doesnt our cat irritate our rabbits that dont read
+Expected:our unicorn does irritate some rabbits that our yak doesnt live Predicted:our unicorn does irritate some rabbits that doesnt live
+Expected:doesnt some cat irritate the unicorns that some unicorn doesnt laugh Predicted:doesnt some cat irritate the unicorn that doesnt laugh
+Expected:doesnt some unicorn confuse my elephant that my elephant does laugh Predicted:doesnt some unicorn confuse my elephant that does laugh
+Expected:some elephant doesnt entertain your elephants who your monkey doesnt smile Predicted:some elephant doesnt entertain your elephants who doesnt smile
+Expected:her yak doesnt call her seal who her elephants dont laugh Predicted:her yak doesnt call her seal who dont laugh
+Expected:some dog does admire some elephants who my rabbit doesnt live Predicted:some dog does admire my elephants who doesnt live
+Expected:some bird doesnt confuse some seal that her bird doesnt smile Predicted:some bird confuse some seal that her bird doesnt smile
+Expected:some bird does admire some monkeys that some monkeys do laugh Predicted:some bird does admire some monkeys that do laugh
+Expected:her dog does entertain her birds that her elephant doesnt giggle Predicted:her dog does entertain her birds that doesnt giggle
+Expected:your seal doesnt irritate your rabbits who your monkey does live Predicted:your seal doesnt irritate your rabbits who does live
+Expected:the monkey does entertain the monkeys that our monkey doesnt read Predicted:the monkey does entertain the monkeys that doesnt read
+Expected:her dog does call her seals who her elephant doesnt smile Predicted:her dog does call her seals who doesnt smile
+Expected:our elephant does confuse our seal who our cats dont sleep Predicted:our elephant does confuse our seal who dont sleep
+Expected:doesnt our cat irritate our cat who our cats dont live Predicted:doesnt our cat irritate our cat who dont cats
+Expected:doesnt her cat irritate some elephant that her yak does read Predicted:doesnt her cat irritate some elephant that does read
+Expected:my elephant doesnt confuse my elephants who my birds do giggle Predicted:my elephant doesnt confuse my elephants who do giggle
+Expected:our bird does admire our seal who her rabbit doesnt smile Predicted:our bird does admire our seal who doesnt smile
+Expected:does her seal entertain her seals that her yak does live Predicted:does her seal entertain her seals that does live
+Expected:some rabbit does confuse your elephant that your rabbit doesnt sleep Predicted:some rabbit does confuse your elephant that doesnt sleep
+Expected:doesnt some rabbit irritate some rabbit who her rabbit doesnt sleep Predicted:doesnt some rabbit irritate some rabbit who doesnt sleep
+Expected:my yak doesnt admire my elephants who my birds dont laugh Predicted:my yak doesnt admire my elephants who dont laugh
+Expected:your elephant does admire her rabbit who her birds dont giggle Predicted:your elephant does admire her rabbit who dont birds dont giggle
+Expected:doesnt some dog entertain my rabbits who my monkey does sleep Predicted:doesnt some dog entertain my rabbits who does sleep
+Expected:does our seal entertain our cat who some seal does sleep Predicted:does our seal entertain our cat who does sleep
+Expected:your rabbit that doesnt laugh doesnt confuse my unicorns near your monkeys Predicted:your rabbit near my unicorns doesnt confuse my unicorns near your monkeys

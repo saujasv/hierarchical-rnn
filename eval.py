@@ -73,7 +73,7 @@ def full_sentence_pos_match(prediction, expected, agreement=False):
             return False
     return True
 
-def auxiliary_match(predction, expected):
+def auxiliary_match(prediction, expected):
     '''
         Check if auxiliary matches for generalization set.
 

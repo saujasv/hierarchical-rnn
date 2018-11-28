@@ -1,0 +1,4 @@
+Total number Of sentences:9996
+Total number of correct full sentences word match:2
+Total number of correct full sentences pos match:356
+Total number of correct auxillary locations:176
