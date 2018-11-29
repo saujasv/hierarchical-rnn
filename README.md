@@ -24,6 +24,7 @@ In the context free grammar we use fixed indices to indicate the position of the
 To ensure that we have sufficient variety and that the generation algorithm runs to completion in time, we sample random parts of the vocabulary (while being sensitive to parts-of-speech). <br>
 We use three different data sets -- the training set, the test set, and the generalisation set. The generalisation set contains examples that are held out of the training set, and are used to determine whether the model learns the hierarchical rule. <br>
 The (approximate) statistics for the different datasets are noted in the code. The overall stats for the sets are:
+
 | Set | No-agreement | Agreement |
 | ------------- |:-------------:|:-------------:|
 | Train | 118k | 117k |
@@ -81,18 +82,19 @@ Experimented with 4 different random initialisations of the hidden layers. For e
 We find that the models by and large learn the incorrect rule for hierarchical generalisation. They seem to learn some variant of the linear rule instead. One interesting observation is that in general, difference between POS match and word match on test data is lower for the agreement language than the no-agreement language, which might indicate how agreement improves learning. This has to be subjected to more rigorous statistical testing to confirm. <br>
 
 Some examples of the kinds of errors the models make are:
-= Doesn’t her monkey who does live call the elephants? <br>
-> Does her monkey who doesn’t call the elephants?<br>
-= Does our elephant who doesn’t giggle impress our dogs?<br>
-> Doesn’t our elephant who does giggle does impress our dogs?<br>
-= Will the seal who can live impress her seals below her dogs?<br>
-> Can the seal who will live will impress her seals?<br>
-= Would your dogs that the yaks could read irritate the dogs?<br>
-> Could your dogs that the dogs could would irritate the dogs?<br>
+
+Expected: Doesn’t her monkey who does live call the elephants? <br>
+Predicted: Does her monkey who doesn’t call the elephants?<br>
+Expected: Does our elephant who doesn’t giggle impress our dogs?<br>
+Predicted: Doesn’t our elephant who does giggle does impress our dogs?<br>
+Expected: Will the seal who can live impress her seals below her dogs?<br>
+Predicted: Can the seal who will live will impress her seals?<br>
+Expected: Would your dogs that the yaks could read irritate the dogs?<br>
+Predicted: Could your dogs that the dogs could would irritate the dogs?<br>
 
 These results are not the same as the findings of McCoy et al, who find that the GRU with attention architecture performs better than other architectures and actually manages to generalise correctly. <br>
 
-This might be due to different reasons. One of them might be that we haven't trained enough models to find the initialisations that work. McCoy et al note that the initialisation of the model matters, and that results can vary significantly by intialisation. Note that model 3 for the agreement language has much igher accuracies than the others, which may indicate that that was a more suitable initialisation.
+This might be due to different reasons. One of them might be that we haven't trained enough models to find the initialisations that work. McCoy et al note that the initialisation of the model matters, and that results can vary significantly by intialisation. Note that model 3 for the agreement language has much higher accuracies than the others, which may indicate that that was a more suitable initialisation.
 It could also be due to overfitting, which we can try to remedy by increasing dropout in future attempts to train the model. The difference in results could also be due to the way the training data was generated, and some patterns in the data we generated that we could not spot.
 
 ## Conclusion
