@@ -97,4 +97,10 @@ It could also be due to overfitting, which we can try to remedy by increasing dr
 
 ## Conclusion
 
+Our model did not perform the same way as the model of McCoy et al. These could be because of various reasons :
+
++ We could've been very unlucky with our intitalisations and consistently hit up on bad initialisations. Our results varied wildly depending on the intialisations and hence with more models we might be able to get the same reports as McCoy et al 
++ Our data set was slighlty different, and our grammar might have been different and all this might have contributed to the different results.
++ There might have been architectural optimizations which we were not privy to
++ As our model consitently learnt the linear rule, and even to McCoy et all only the GRU with attention model performed better maybe there exists a heirarchial bias.
 
