@@ -104,5 +104,12 @@ Our model did not perform the same way as the model of McCoy et al. These could 
 + We could've been very unlucky with our intitalisations and consistently hit up on bad initialisations. Our results varied wildly depending on the intialisations and hence with more models we might be able to get the same reports as McCoy et al 
 + Our data set was slighlty different, and our grammar might have been different and all this might have contributed to the different results.
 + There might have been architectural optimizations which we were not privy to
-+ As our model consitently learnt the linear rule, and even to McCoy et all only the GRU with attention model performed better maybe there exists a heirarchial bias.
++ As our model consitently learnt the linear rule, and even to McCoy et al only the GRU with attention model performed better. Thus there could be a heirarchial bias.
 
+## Future Work
+
+* Use a linear classifier to test the final encoder states, to get a better understanding of what the network is actually learning
+* Compare the errors found with the findings of Crane and Nakayama
+* Try this on more complex hierarchial tasks
+* Try this on real world data, instead of generated data
+* Try this with other languages
